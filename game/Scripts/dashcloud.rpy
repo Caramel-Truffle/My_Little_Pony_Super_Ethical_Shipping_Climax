@@ -5,10 +5,10 @@
     
     if(dash1==False):
         if((playername=="Rainbow Dash")or(playername=="Fluttershy")):
-            "As a pegasus, you're easily able to fly to Rainbow's cloud."
+            "As a pegasus, you are easily able to fly to Rainbow's cloud."
             p "Wings are useful, [playername] was a good choice."
         else:
-            "As a unicorn, you're able to cast spells to go up to Rainbow's cloud and not fall through it."
+            "As a unicorn, you are able to cast spells to go up to Rainbow's cloud and not fall through it."
             p "Magic is useful, [playername] was a good choice."
             
         "Anyway, Rainbow Dash is there, searching something under her bed, she apparently hasn't see you for the moment.\n
@@ -33,7 +33,7 @@
             with dissolve
             rd "But it's always a pleasure to welcome true fans in my lair!"
             p "True fans? ...Lair?"
-            rd "Yeah, look at you! You're like my clone! You even got my cutie mark right! And yeah, my rainbow-cloud. I'm not the heroin this city needs,
+            rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And yeah, my rainbow-cloud. I'm not the heroin this city needs,
                 but the one this city deserve."
             p "You watched batmare too much."
             rd "But she's so awesome! ...Hey, I did not catch your name."
@@ -49,7 +49,7 @@
         if(playername == "Twilight Sparkle"):
             rd "Do you need help in the library? I heard it's this time of year where you sort all the books again."
         if(playername == "Rarity"):
-            rd "Please tell me you're not looking for a model to design a dress!"
+            rd "Please tell me you are not looking for a model to design a dress!"
         if(playername == "Fluttershy"):
             rd "Do you need some help at night? It would be a pleasure."
         if(playername == "Rainbow Dash"):
@@ -114,12 +114,12 @@
                 show rainbow happy
                 with dissolve
                 rd "There, the coolest glasses in all of Equestria!"
-                p "Thank you Dashie! You're a life saver!"
+                p "Thank you Dashie! You are a life saver!"
                 "You receive a cool pair of sunglasses!"
                 rd "Well... I hope you'll tell me what this is all about tomorrow."
                 p "Tomorrow?"
                 rd "Yeah, it was fun and all, but I promised Derpy I would exercise with her today, so I'm going to be busy for the rest of the day."
-                p "You're really awesome."
+                p "You are really awesome."
                 rd "Yeah, yeah... But, please, don't go near us with these, I'll explain you why tomorrow."
                 p "No problem, see you tomorrow!"
                 rd "See ya!"
@@ -147,7 +147,7 @@
                     Nooooo. Not at all, you can take this one. This... Isn't the one at all, I'm not stupid."
                 "While blushing a bit, Rainbow Dash give you a dumbbell!"
                 $ p_rd = "dumbbell"
-                rd "I will... Erm. Continue to search. Go back here as soon as you're ready to go."
+                rd "I will... Erm. Continue to search. Go back here as soon as you are ready to go."
                 p "Ooookay... See you later then."
                 rd "Yeah, real soon!"
                 stop music fadeout 1.0
@@ -163,10 +163,10 @@
         play music "Music/dashie.mp3"
         show derpy superhappy
         with dissolve
-        "You're back to Rainbow's cloud, but instead of her, you find Derpy Hooves, a gray mare with yellow... Eyes."
+        "You are back to Rainbow's cloud, but instead of her, you find Derpy Hooves, a gray mare with yellow... Eyes."
         
         if(playername == "Rainbow Dash"):
-            d "Rainbow Dash! You're back!"
+            d "Rainbow Dash! You are back!"
             
             menu derpyabuse:
                 "Tell her the truth":
@@ -217,7 +217,7 @@
                     with fade
                     rd "What are you doing?"
                     p "Where did you come from?!"
-                    rd "Doesn't matter, you come to my house, make my friends think you're me and try to abuse them? GET OUT!"
+                    rd "Doesn't matter, you come to my house, make my friends think you are me and try to abuse them? GET OUT!"
                     p "But-"
                     stop music fadeout 1.0
                     scene black
@@ -269,7 +269,7 @@
         "You go back to Rainbow's cloud, where Derpy Hooves is waiting for a muffin."
         show derpy bittersweet
         with dissolve
-        d "Hey [playername2], you're back! Did you find any muffin?"
+        d "Hey [playername2], you are back! Did you find any muffin?"
         if(p_cake != "muffin"):
             p "Hey Derpy! But no, I don't have found a muffin yet."
             d "Yet? Are you going to try again?"

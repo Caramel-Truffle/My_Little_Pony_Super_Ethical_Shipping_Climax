@@ -16,7 +16,7 @@
         if(playername=="Rarity"):
             show rarity shocked
             with dissolve
-            r "Oh Celestia! You're as tasteful as I am, if not more!"
+            r "Oh Celestia! You are as tasteful as I am, if not more!"
             p "Thank you, miss...?"
             show rarity happy
             with dissolve
@@ -33,11 +33,11 @@
         if(playername=="Fluttershy"):
             r "I was designing a new hat! Do you have some time? I'm sure that somepony with your knowledge of the haute couture would be able to help."
         if(playername=="Rainbow Dash"):
-            r "I was... Designing a new hat. I know you're not quite the one to wear them, but if you have some time, I surely could use your help."
+            r "I was... Designing a new hat. I know you are not quite the one to wear them, but if you have some time, I surely could use your help."
         if(playername=="Pinkie Pie"):
             r "I was... Designing a new hat. I know it's not really fun, but if you have some time, I surely could use your help."
         if(playername=="Applejack"):
-            r "I was... Designing a new hat. I know you're going to think about its practicality before everything, but I'm willing to let you a chance to prove me wrong."
+            r "I was... Designing a new hat. I know you are going to think about its practicality before everything, but I'm willing to let you a chance to prove me wrong."
             
         "What are you going to say?"
             
@@ -87,9 +87,9 @@
                     r "My... What?"
                     p "Your path. I'm don't know the purpose of the ruby yet, but it'll be useful. And you will refuse to talk to me after that."
                     if(playername=="Pinkie Pie"):
-                        r "Well. You're just being Pinkie Pie, I guess. Wait there."
+                        r "Well. You are just being Pinkie Pie, I guess. Wait there."
                     else:
-                        r "[playername], you're just sounding like pinkie Pie right now. Anyway, wait there."
+                        r "[playername], you are just sounding like pinkie Pie right now. Anyway, wait there."
                     
                 stop music fadeout 1.0
                 scene black
@@ -121,16 +121,16 @@
                 scene black
                 with fade
 
-                "And you went back to the crossroad. You're beginning to understand what breaking the 4th wall feels like."
-                p "With you always being on my back, that's not surprising."
-                "You're doing it again! But let's continue."
+                "And you went back to the crossroad. You are beginning to understand what breaking the 4th wall feels like."                 
+                p "With you being always on my back, that's not surprising."                 
+                "You are doing it again! But let's continue."
                 $ caro1 = True
                 $ nb_lock = nb_lock + 1
                 jump outdoors
                 
         
         if(playername=="Rarity"):
-            r "Help? I did not ask for so much! But if you're willing, who am I to refuse?"
+            r "Help? I did not ask for so much! But if you are willing, who am I to refuse?"
         else:
             r "Thank you [playername2], it would be harder without your help."
             p "I could do it some more, you know, simply ask."
@@ -140,7 +140,7 @@
         scene black
         with fade
         
-        "And both of you worked on the most fabulous hat Rarity ever created. So fabulous that even you, yes, YOU! Couldn't imaginate it. That's why the scene is black. It's totally not related to our lack of visual artist."
+        "And both of you worked on the most fabulous hat Rarity ever created. So fabulous that even you, yes, YOU! Couldn't imagine it. That's why the scene is black. It's totally not related to our lack of visual artist."
         
         scene bg carousel boutique
         with fade
@@ -224,18 +224,19 @@
                 p "Really? What is it?"
                 
             "Offer your \"help\" for \"something else\"":
+
                 p "What about a little hoof massage?"
                 if(playername=="Rarity"):
                     show rarity shocked
                     with dissolve
-                    r "That would be lovely my dear, but I prefer not to ask you something so intime, we're merely acquaintenances."
-                    p "Did I mention that I was going to work for the spa? I will start next monday."
+                    r "That would be lovely my dear, but I prefer not to ask you something so intimate, we're merely acquaintances."
+                    p "Did I mention that I was going to work for the spa? I will start next Monday."
                     show rarity flattered
                     with dissolve
                     r "Then... I may do an exception for you."
                     
                 if(playername=="Twilight Sparkle"):
-                    r "Oh! Did you read an interestin book on the matter recently?"
+                    r "Oh! Did you read an interesting book on the matter recently?"
                     p "Yes, I just need some practice, but everything is going to be fine."
                     r "Be my guest, Twilight."
                     
@@ -314,8 +315,8 @@
         play music "Music/carousel.mp3"
         show rarity happy
         with dissolve
-        "You're back to the boutique, where Rarity is waiting for her tea."
-        r "Oh, you're back! Do you have the herbs, darling?"
+        "You are back to the boutique, where Rarity is waiting for her tea."
+        r "Oh, you are back! Do you have the herbs, darling?"
         
         if(p_flut == "tea"):
             p "Yes, indeed!"
@@ -333,7 +334,7 @@
             p "Not really, but I'm searching!"
             r "Did you try \"Books and Quills\"?"
             p "Don't they only sell books and quills?"
-            r "Everypony has a side business, dear. You're right though, they are more the type to also sell videos than tea."
+            r "Everypony has a side business, dear. You are right though, they are more the type to also sell videos than tea."
             p "Honestly? What kind of videos a book and quills store could sell?"
             r "Adult videos."
             p "I'm afraid to understand."

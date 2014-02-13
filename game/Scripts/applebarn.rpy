@@ -55,7 +55,7 @@
                     with fade
                     "You touched her to the core, bravo! Unfortunately, you had nothing else than bittersweet hugs this day. Applejack wouldn't let you go after that."
                     p "This seems a bit odd for a parody."
-                    "If you wanted something fun, you should have chose Pinkie-oriented options, not the \"I'm your lost sibling\" one."
+                    "If you wanted something fun, you should have chosen Pinkie-oriented options, not the \"I'm your lost sibling\" one."
                     "--Applejack ending 1--"
                     jump credits
                     
@@ -107,7 +107,7 @@
                 "A lot of ponies are here, discussing, playing, dancing... But for the moment, you focus your attention on some apple pie."
                 
                 if(playername=="Applejack"):
-                    u "Howdy cousin! ya did a great job!"
+                    u "Howdy cousin! Ya did a great job!"
                     show braeburn happy
                     with dissolve
                     p "Sorry, I'm surely not the one you're thinking I am."
@@ -130,7 +130,7 @@
                 p "Cider, uh? Don't drink too much!"
                 "You added a wink to your last comment."
                 b "ya know, I might."
-                p "An handsome stallion like you? What could you possibly want to blurr with hard cider?"
+                p "A handsome stallion like you? What could you possibly want to blur with hard cider?"
                 b "Big Mac. First stallion Ah met that did not react to my charm."
                 p "Wait, you're like?"
                 b "Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And Ah like some variety ya know?"
@@ -174,6 +174,7 @@
                 else:
                     aj "Ya're not Rainbow, but ya know what saying that mean, don't ya?"
                     p "That I need to prove it?"
+                   
                     aj "Exactly."
                     p "I will."
                     "Are you clearly grinning at the thought? ...Whatever."
@@ -205,7 +206,7 @@
                         "Trying to do your best, eh? Let's see what happens then."
                         p "I can do better!"
                         
-                        "Well, that's not you to decide, soo... 4 apples in the water, but you're a level 1 pony with only 2 in dexterity... Let's roll 2 D20..."
+                        "Well, that's not you to decide, so... 4 apples in the water, but you're a level 1 pony with only 2 in dexterity... Let's roll 2 D20..."
                         
                         if((playername=="Twilight Sparkle") and (p_book == "astronomy")):
                             "3 and 8? Uh. That's pretty bad 'Twilie'."
@@ -288,7 +289,7 @@
         p "Cider, uh? Don't drink too much!"
         "You added a wink to your last comment."
         b "ya know, I might."
-        p "An handsome stallion like you? What could you possibly want to blurr with hard cider?"
+        p "An handsome stallion like you? What could you possibly want to blur with hard cider?"
         b "Big Mac. First stallion Ah met that did not react to my charm."
         p "Wait, you're like?"
         b "Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And Ah like some variety ya know?"
@@ -313,7 +314,7 @@
                 stop music fadeout 1.0
                 scene black
                 with fade
-                "And both of you went all kissu-kissu and stuff. Shamelessely."
+                "And both of you went all kissu-kissu and stuff. Shamelessly."
                 "--Braeburn ending 2--"
                 jump credits
                 
@@ -334,7 +335,7 @@
         b "Thanks sugarcube, I'll wait."
         
         if(p_rd == "sunglasses"):
-            p "No, litterally done, I have a pair here, but I can't let you have them forever."
+            p "No, literally done, I have a pair here, but I can't let you have them forever."
             $appl2 = False
             $appl3 = True
             jump give_brae_sunglasses
@@ -354,7 +355,7 @@
         play music "Music/applebarn.mp3"
         "Once more, you go back to the Apple barn."
         if(p_rd == "sunglasses"):
-            p "But ths time, I have the sunglasses!"
+            p "But this time, I have the sunglasses!"
             "Yes you do and Braeburn is just there."
             
             show braeburn happy
@@ -429,7 +430,7 @@
     stop music fadeout 1.0
     scene black
     with fade
-    "What an useless trip... You go back to the crossroad anyway."
+    "What a useless trip... You go back to the crossroad anyway."
     jump outdoors
     
 return

@@ -67,9 +67,9 @@
         pp "Sorry, I like it that much. But why are you there? Do you want a cupcake or a muffin? Wait. Let me guess..."
         
         if(dash3 == True and p_aj != "sugarcube"):
-            pp "You need a muffin and don't have a sugar cube... You're there for the muffin, aren't you?"
+            pp "You need a muffin and don't have a sugar cube... You are there for the muffin, aren't you?"
         elif(dash3 == True and p_aj == "sugarcube"):
-            pp "You need a muffin but you also have a sugar cube... You're good! I don't know what you're up to!"
+            pp "You need a muffin but you also have a sugar cube... You are good! I don't know what you are up to!"
         elif(dash3 == False and p_aj != "sugarcube"):
             pp "You don't have a sugar cube, but you don't need a muffin for the moment... I guess that you want a cupcake. Don't you?"
         elif(dash3 == False and p_aj == "sugarcube"):
@@ -83,7 +83,7 @@
                 p "I want a cupcake... Maybe?"
                 
             "I want a mustache":
-                p "You're wrong! I want a mustache!"
+                p "You are wrong! I want a mustache!"
                 pp "But you already have one!"
                 p "Wait. What? But I'm [playername2]! I can't have a mustache, I'm a mare! ...Am I?"
                 pp "Nopony told you? Really? Like, never ever ever ever?"
@@ -144,11 +144,11 @@
                 pp "I only have muffins, cupcakes and love! So... What do you want?"
                 jump pinkieguess
                 
-        pp "Be assertive! You're not Fluttershy!"
+        pp "Be assertive! You are not Fluttershy!"
         
         if(playername=="Fluttershy"):
             p "Erm?"
-            pp "No. You just look like her. You're not her, don't even try with me."
+            pp "No. You just look like her. You are not her, don't even try with me."
             
         p "Okay."
         
@@ -204,7 +204,7 @@
         
     if(suga2==True):
         play music "Music/pinkie.mp3"
-        "You're back to the bakery, where sugar scent invade your nose and makes your stomach growls."
+        "You are back to the bakery, where sugar scent invade your nose and makes your stomach growls."
         u "Sounds like somepony needs a cupcake!"
         
         show pinkie happy
@@ -256,7 +256,7 @@
         show pinkie serious
         with dissolve
         pp "..."
-        p "What's wrong? You're silent. It's... Unusual."
+        p "What's wrong? You are silent. It's... Unusual."
         pp "We don't have enough sugar cubes!"
         
         if(p_aj == "sugarcube"):
@@ -288,7 +288,7 @@
             
     if(suga3 == True):
         play music "Music/pinkie.mp3"
-        "You're back to the Sugarcube Corner, Pinkie seems to still be all alone and in the kitchen."
+        "You are back to the Sugarcube Corner, Pinkie seems to still be all alone and in the kitchen."
         pp "COMIIIING!"
         
         if(p_aj != "sugarcube"):
@@ -387,12 +387,12 @@
                     hide pinkie
                     with dissolve
                     
-                    "You're now alone and start putting the pies in the oven."
+                    "You are now alone and start putting the pies in the oven."
                     
                     scene bg sugarcube kitchen2
                     with fade
                     
-                    "Once you're done, you head back to the other room and hear the customer leaving."
+                    "Once you are done, you head back to the other room and hear the customer leaving."
                     
                     scene bg sugarcube corner lobby
                     with fade

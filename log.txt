@@ -470,3 +470,7 @@ Texture testing:
 
 Windowed mode.
 Screen sizes: virtual=(1024, 600) physical=(1049, 615)
+Deallocating textures.
+Done deallocating textures.
+About to quit GL.
+Finished quit GL.

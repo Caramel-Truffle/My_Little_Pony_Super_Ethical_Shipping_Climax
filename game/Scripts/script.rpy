@@ -381,7 +381,7 @@ label end_name_choice:
     c "Yes! Just look at yourself in the mirror!"
     p "What mirror? It's all black here!"
     c "Whoops, my bad. I will just send you in Ponyville then! See you soon!"
-    p "Whait, wha-"
+    p "Wait, wha-"
     scene black
     with fade
     stop music fadeout 1.0

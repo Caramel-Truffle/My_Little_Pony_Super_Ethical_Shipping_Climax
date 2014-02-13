@@ -51,7 +51,7 @@
     show CMC happy
     with dissolve
     
-    cmc "Big Mac! You're here!"
+    cmc "Big Mac! You are here!"
     p "Eeyup."
     sb "You don't have any plan for tonight, do you?"
     p "Nope."
@@ -121,7 +121,7 @@
             
             cmc "Awwwwwwww!"
             
-            "Girls, you're creepy."
+            "Girls, you are creepy."
             "--Gay Braeburn ending--"
             jump credits
             
@@ -135,9 +135,9 @@
             show redheart angry:
                 xalign 0.8 yalign 1.0
             with dissolve
-            nr "BRAEBURN! Stop drinking, you're not allowed to!"
+            nr "BRAEBURN! Stop drinking, you are not allowed to!"
             b "Come on nurse! That's just a glass... And now gimme a hug!"
-            nr "You're drunk Braeburn. And now you won't be able to take your medication for tonight and that's bad."
+            nr "You are drunk Braeburn. And now you won't be able to take your medication for tonight and that's bad."
             p "Eeyup."
             show redheart grumpy
             with dissolve
@@ -233,7 +233,7 @@ label credits:
  #   scene bg view of ponyville
  #   with fade
  #   
- #   "My Little Pony is property of Hasbro, please don't send us a C&D letter Hasbro! You're not affiliated with us and certainly don't approve the silliness of the game, we already know, it was just for fun! Same for you THQ and Violition! We now that the title is a bad joke with the Super Ethical Reality Climax, don't sue us for bad humour."
+ #   "My Little Pony is property of Hasbro, please don't send us a C&D letter Hasbro! You are not affiliated with us and certainly don't approve the silliness of the game, we already know, it was just for fun! Same for you THQ and Violition! We now that the title is a bad joke with the Super Ethical Reality Climax, don't sue us for bad humour."
  #
  #   scene black
  #   with fade

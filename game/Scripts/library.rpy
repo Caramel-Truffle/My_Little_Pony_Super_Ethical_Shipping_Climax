@@ -26,14 +26,14 @@
         if(playername=="Twilight Sparkle"):
             show twilight what
             with dissolve
-            ts "You! You're me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine 
-                that is also a past Twilight of yours? If that so you're not in the right past!"
+            ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine 
+                that is also a past Twilight of yours? If that so you are not in the right past!"
             p "What are you even..."
             ts "This is bad! This is really really bad!"
             
             menu twi_see_double:
-                "\"Sorry, but you're not the real Twilight.\"":
-                    p "Sorry, but you're not the real Twilight. You're a copy with the exact same memories. It's dangerous to 
+                "\"Sorry, but you are not the real Twilight.\"":
+                    p "Sorry, but you are not the real Twilight. You are a copy with the exact same memories. It's dangerous to 
                        have more than an alive copy at a time or having the original and a copy alive at the same time. I must 
                        kill you, it's the procedure."
                     stop music fadeout 1.0
@@ -55,7 +55,7 @@
                 "\"I'm trapped into a fake body, don't mind it.\"":
                     p "Don't worry, I'm not you, I'm just a random person trapped in a fake body similar to yours, please don't mind it."
                     ts "Are you crazy?"
-                    p "If I am, you're too. Don't forget that you would be talking to yourself then."
+                    p "If I am, you are too. Don't forget that you would be talking to yourself then."
                     jump twi_see_double_end
                 
                 "\"This is just a dream, shhhh...\"":
@@ -75,7 +75,7 @@
                     show twilight tapdancing
                     with dissolve
                     ts "Yes! I will write a letter to the princess right after that!"
-                    p "You're quite the enthusiastic pony, aren't you?"
+                    p "You are quite the enthusiastic pony, aren't you?"
                     show twilight seductive
                     with dissolve
                     ts "When I have a good teacher? Always. Now give me a lesson..."
@@ -83,7 +83,7 @@
                     scene black
                     with fade
                     "And then you kissed and stuff."
-                    p "Wait, you're not going to show that?"
+                    p "Wait, you are not going to show that?"
                     "Nope. This is not a 18+ game."
                     p "Come on! What about a kiss?"
                     "A chibi kiss when a visual artist will be interested."
@@ -157,7 +157,7 @@
                 if(playername=="Fluttershy"):
                     ts "Come on, it's me Fluttershy. I'm your friend!"
                 else:
-                    ts "Come on [playername3], you're not Fluttershy!"
+                    ts "Come on [playername3], you are not Fluttershy!"
                 stop music fadeout 1.0    
                 p "A BOOK ABOUT PONIES HAVING SEX!"
                 
@@ -180,7 +180,7 @@
                 show twilight chuckle
                 with dissolve
                 
-                ts "It's one of my personal books. I won't ask why you need it, just return it when you're done."
+                ts "It's one of my personal books. I won't ask why you need it, just return it when you are done."
                 "You know have a ponygraphic book! Don't make it sticky, Twilight wouldn't appreciate that."
                 p "Well... Thank you?"
                 ts "No worries. Now if you don't mind, I have other things to do. You can come back tomorrow!"
@@ -209,13 +209,13 @@
         if(playername=="Twilight Sparkle"):
             show spike anxious
             with dissolve
-            sp "Oh! H... Hello Twilight! You... You're already back?"
+            sp "Oh! H... Hello Twilight! You... You are already back?"
             p "No, I'm currently in the kitchen of the Sugarcube Corner, making a delicious strawberry pie."
             show spike happy
             with dissolve
             sp "Wow, I sure would like to take a bite!"
             p "...That was ironical. And I'm not the real Twilight."
-            sp "Oh! Yes, she told me, you're... Uh... I forgot."
+            sp "Oh! Yes, she told me, you are... Uh... I forgot."
             p "Just call me Twilight and consider I'm one of her friends, okay?"
             sp "Okay."
         else:
@@ -298,7 +298,7 @@
         show spike happy
         with dissolve
         "You go back to the library, Twilight isn't there yet."
-        sp "So [playername2], you're back! Do you have a ruby?"
+        sp "So [playername2], you are back! Do you have a ruby?"
         
         if(p_rar=="ruby"):
             p "Yes. Take this one."
