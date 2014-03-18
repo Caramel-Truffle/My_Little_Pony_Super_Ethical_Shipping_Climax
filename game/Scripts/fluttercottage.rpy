@@ -78,7 +78,8 @@
                         
                         show fluttershy fly what
                         with dissolve
-                        fs "How... you...?"                         p "H... Hello."
+                        fs "How... you...?"                         
+                        p "H... Hello."
                         show fluttershy side embarassed
                         with dissolve
                         fs "H... Hello... To.... To you too... What... What's your name?"
