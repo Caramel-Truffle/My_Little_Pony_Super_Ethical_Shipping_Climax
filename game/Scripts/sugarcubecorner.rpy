@@ -98,8 +98,25 @@
                 "I get it."
                 
                 stop music fadeout 1.0
-                scene black
-                with fade
+                
+                if(playername=="Applejack"):
+                    scene end34  
+                    with fade          
+                if(playername=="Fluttershy"):
+                    scene end35
+                    with fade
+                if(playername=="Pinkie Pie"):
+                    scene end36
+                    with fade
+                if(playername=="Rainbow Dash"):
+                    scene end37
+                    with fade
+                if(playername=="Rarity"):
+                    scene end38
+                    with fade
+                if(playername=="Twilight Sparkle"):
+                    scene end39
+                    with fade
                 
                 "And you got a mustache."
                 p "What? That's it."
@@ -122,8 +139,25 @@
                 p "You may have a point. Bring it on."
                 
                 stop music fadeout 1.0
-                scene black
-                with fade
+                
+                if(playername=="Applejack"):
+                    scene end41  
+                    with fade          
+                if(playername=="Fluttershy"):
+                    scene end42
+                    with fade
+                if(playername=="Pinkie Pie"):
+                    scene end43
+                    with fade
+                if(playername=="Rainbow Dash"):
+                    scene end44
+                    with fade
+                if(playername=="Rarity"):
+                    scene end45
+                    with fade
+                if(playername=="Twilight Sparkle"):
+                    scene end46
+                    with fade
                 
                 "And both of you went all kissu-kissu with the whipped cream and all."
                 p "That sounds so..."
@@ -418,6 +452,28 @@
         "You reached the end of the demo!"
         p "Wait, that's all?"
         "Hey! There's around 20 endings in the demo! If you wanted to see the good ones, filled with narration and stuff you should have waited for the full game. Anyway..."
+        
+        
+        if(playername=="Applejack"):
+            scene end47  
+            with fade          
+        if(playername=="Fluttershy"):
+            scene end48
+            with fade
+        if(playername=="Pinkie Pie"):
+            scene end49
+            with fade
+        if(playername=="Rainbow Dash"):
+            scene end50
+            with fade
+        if(playername=="Rarity"):
+            scene end51
+            with fade
+        if(playername=="Twilight Sparkle"):
+            scene end52
+            with fade
+        
+        
         "--Demo ending 6--"
         jump credits
             

@@ -66,7 +66,7 @@
                             fs "*Squee*"
                             p "That's it... Now, come here, for a little wing-hug. Just that, nothing more..."
                             stop music fadeout 1.0
-                            scene black
+                            scene end20
                             with fade
                             "And both of you hugged. And kissed. And you are really lazy to end the game so soon, this end was so predictable."
                             p "I still got future chibis, right?"
@@ -158,8 +158,24 @@
                 p "Hugging you tight as the afternoon end? I wouldn't mind at all."
                 "She blushes even more and squee in approval."
                 stop music fadeout 1.0
-                scene black
-                with dissolve
+                if(playername=="Applejack"):
+                    scene end21  
+                    with fade          
+                if(playername=="Fluttershy"):
+                    scene end22
+                    with fade
+                if(playername=="Pinkie Pie"):
+                    scene end23
+                    with fade
+                if(playername=="Rainbow Dash"):
+                    scene end24
+                    with fade
+                if(playername=="Rarity"):
+                    scene end25
+                    with fade
+                if(playername=="Twilight Sparkle"):
+                    scene end26
+                    with fade
                 "And you ended the day in each other arms, happy together."
                 "--Fluttershy ending 2--"
                 jump credits
@@ -278,7 +294,7 @@
             menu fsquickend:
                 "Just do it already":
                     stop music fadeout 1.0
-                    scene black
+                    scene end27
                     with fade
                     "And then you approached her and went all chibi-kiss-kiss-in-a-forest. Both of you liked that and even the birds decided to leave you two alone."
                     p "Well... That escalated quickly."
@@ -352,6 +368,26 @@
         "You reached the end of the demo!"
         p "Wait, that's all?"
         "Hey! There's around 20 endings in the demo! If you wanted to see the good ones, filled with narration and stuff you should have waited for the full game. Anyway..."
+        
+        if(playername=="Applejack"):
+            scene end28  
+            with fade          
+        if(playername=="Fluttershy"):
+            scene end29
+            with fade
+        if(playername=="Pinkie Pie"):
+            scene end30
+            with fade
+        if(playername=="Rainbow Dash"):
+            scene end31
+            with fade
+        if(playername=="Rarity"):
+            scene end32
+            with fade
+        if(playername=="Twilight Sparkle"):
+            scene end33
+            with fade        
+        
         "--Demo ending 2--"
         jump credits
     

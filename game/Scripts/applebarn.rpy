@@ -18,7 +18,7 @@
             aj "...Mahself? Cousin, you really look like me, who's inside this costume?"
             menu aj_see_herself:
                 "\"It's-a me! Pinkie!\"":
-                    p "It's-a me! Pinkie! Isn't my cosplay great? Uh? Uh? Uh?"
+                    p "It's-a me! Pinkie! Isn't my cosplay great? Uh? Uh?"
                     show applejack hat sigh
                     with dissolve
                     aj "Pinkie? This isn't one of Twilight's conventions, ya know?"
@@ -51,7 +51,7 @@
                     with dissolve
                     aj "..."
                     stop music fadeout 1.0
-                    scene black
+                    scene end01
                     with fade
                     "You touched her to the core, bravo! Unfortunately, you had nothing else than bittersweet hugs this day. Applejack wouldn't let you go after that."
                     p "This seems a bit odd for a parody."
@@ -142,7 +142,7 @@
                             "He blushes."
                             b "That's direct sugarcube. Do you ask for... Or... Buck it. Let's go behind the barn, we should be alone and all."
                             stop music fadeout 1.0
-                            scene black
+                            scene end07
                             with fade
                             "And both of you went all \"kissu-kissu my cousin\". Except you two weren't really cousins."
                             "--Braeburn ending 1--"
@@ -312,8 +312,28 @@
                 p "I was thinking about \"discussing\" with your cute face. You know, with passion."
                 b "Ah sure would love that... Let's go behind the barn, we should be alone and all."
                 stop music fadeout 1.0
-                scene black
-                with fade
+                
+                        
+                if(playername=="Applejack"):
+                    scene end08  
+                    with fade          
+                if(playername=="Fluttershy"):
+                    scene end09
+                    with fade
+                if(playername=="Pinkie Pie"):
+                    scene end10
+                    with fade
+                if(playername=="Rainbow Dash"):
+                    scene end11
+                    with fade
+                if(playername=="Rarity"):
+                    scene end13
+                    with fade
+                if(playername=="Twilight Sparkle"):
+                    scene end12
+                    with fade
+                
+                
                 "And both of you went all kissu-kissu and stuff. Shamelessly."
                 "--Braeburn ending 2--"
                 jump credits
@@ -379,8 +399,19 @@
                     p "Your cider bottle. My mouth. Now."
                     
                     stop music fadeout 1.0
-                    scene black
-                    with fade
+                          
+                    if(playername=="Fluttershy"):
+                        scene end14
+                        with fade
+                    if(playername=="Rainbow Dash"):
+                        scene end16
+                        with fade
+                    if(playername=="Rarity"):
+                        scene end17
+                        with fade
+                    if(playername=="Twilight Sparkle"):
+                        scene end18
+                        with fade
                     
                     "And you... Drank... A lot? Until accepting kisses from random ponies did not bother you anymore? What the..."
                     "--Drunk ending--"
@@ -422,6 +453,21 @@
         "You reached the end of the demo!"
         p "Wait, that's all?"
         "Hey! There's around 20 endings in the demo! If you wanted to see the good ones, filled with narration and stuff you should have waited for the full game. Anyway..."
+          
+        if(playername=="Fluttershy"):
+            scene end02
+            with fade
+        if(playername=="Rainbow Dash"):
+            scene end03
+            with fade
+        if(playername=="Rarity"):
+            scene end04
+            with fade
+        if(playername=="Twilight Sparkle"):
+            scene end05
+            with fade
+        
+        
         "--Demo ending 5--"
         jump credits
     

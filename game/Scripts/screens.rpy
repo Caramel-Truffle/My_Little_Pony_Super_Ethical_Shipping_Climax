@@ -12,7 +12,7 @@ screen say:
     default side_image = None
     default two_window = False
 
-    # Decide if we want to use the one-window or two-window varaint.
+    # Decide if we want to use the one-window or two-window variant.
     if not two_window:
 
         # The one window variant.        
@@ -192,6 +192,7 @@ screen main_menu:
         textbutton _("Start Game") action Start()
         textbutton _("Load Game") action ShowMenu("load")
         textbutton _("Preferences") action ShowMenu("preferences")
+        textbutton _("Gallery") action ShowMenu("gallery")
         textbutton _("Help") action Help()
         textbutton _("Quit") action Quit(confirm=False)
 
@@ -441,6 +442,13 @@ screen preferences:
                     textbutton "Test":
                         action Play("voice", config.sample_voice)
                         style "soundtest_button"
+            frame:
+                style_group "pref"
+                has vbox
+
+                label _("Language")
+                textbutton "English" action Language(None)
+                textbutton "Français" action Language("french")
 
 init -2 python:
     style.pref_frame.xfill = True

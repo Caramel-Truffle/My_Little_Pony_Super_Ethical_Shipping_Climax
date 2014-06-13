@@ -126,6 +126,132 @@ image credit8 = "Images/credit8.png"
 image credit9 = "Images/credit9.png"
 image credit10 = "Images/credit10.png"
 
+
+image end01 = "Images/ApplejackEnding1.png"
+
+image end02 = "Images/ApplejackTrueEndingFluttershy.png"
+image end03 = "Images/ApplejackTrueEndingRainbow.png"
+image end04 = "Images/ApplejackTrueEndingRarity.png"
+image end05 = "Images/ApplejackTrueEndingTwilight"
+
+
+image end06 = "Images/BraeburnEnding0.png"
+
+image end07 = "Images/BraeburnEnding1.png"
+
+image end08 = "Images/BraeburnEnding2Applejack.png"
+image end09 = "Images/BraeburnEnding2Fluttershy.png"
+image end10 = "Images/BraeburnEnding2Pinkie.png"
+image end11 = "Images/BraeburnEnding2Rainbow.png"
+image end12 = "Images/BraeburnEnding2Twilight.png"
+
+#image end13 = "Images/BraeburnEnding3Applejack.png"
+image end13 = "Images/BraeburnEnding2Rarity.png"
+
+image end14 = "Images/BraeburnEnding3Fluttershy.png"
+
+#image end15 = "Images/BraeburnEnding3Pinkie.png"
+image end15 = "Images/RainbowTrueEndingTwilight.png"
+
+image end16 = "Images/BraeburnEnding3Rainbow.png"
+image end17 = "Images/BraeburnEnding3Rarity.png"
+image end18 = "Images/BraeburnEnding3Twilight.png"
+
+
+image end19 = "Images/DerpyEnding.png"
+
+
+image end20 = "Images/FluttershyEnding1.png"
+
+image end21 = "Images/FluttershyEnding2Applejack.png"
+image end22 = "Images/FluttershyEnding2Fluttershy.png"
+image end23 = "Images/FluttershyEnding2Pinkie.png"
+image end24 = "Images/FluttershyEnding2RainbowDash.png"
+image end25 = "Images/FluttershyEnding2Rarity.png"
+image end26 = "Images/FluttershyEnding2Twilight.png"
+
+image end27 = "Images/FluttershyEnding3.png"
+
+image end28 = "Images/FluttershyTrueEndingApplejack.png"
+image end29 = "Images/FluttershyTrueEndingFluttershy.png"
+image end30 = "Images/FluttershyTrueEndingPinkie.png"
+image end31 = "Images/FluttershyTrueEndingRainbowDash.png"
+image end32 = "Images/FluttershyTrueEndingRarity.png"
+image end33 = "Images/FluttershyTrueEndingTwilight"
+
+
+image end34 = "Images/MustacheEndingApplejack.png"
+image end35 = "Images/MustacheEndingFluttershy.png"
+image end36 = "Images/MustacheEndingPinkie.png"
+image end37 = "Images/MustacheEndingRainbow.png"
+image end38 = "Images/MustacheEndingRarity.png"
+image end39 = "Images/MustacheEndingTwilight.png"
+
+
+image end40 = "Images/NurseRedheartEnding.png"
+
+
+image end41 = "Images/PinkieEnding1Applejack.png"
+image end42 = "Images/PinkieEnding1Fluttershy.png"
+image end43 = "Images/PinkieEnding1Pinkie.png"
+image end44 = "Images/PinkieEnding1Rainbow.png"
+image end45 = "Images/PinkieEnding1Rarity.png"
+image end46 = "Images/PinkieEnding1Twilight.png"
+
+image end47 = "Images/PinkieTrueEndingApplejack.png"
+image end48 = "Images/PinkieTrueEndingFluttershy.png"
+image end49 = "Images/PinkieTrueEndingPinkie.png"
+image end50 = "Images/PinkieTrueEndingRainbow.png"
+image end51 = "Images/PinkieTrueEndingRarity.png"
+image end52 = "Images/PinkieTrueEndingTwilight.png"
+
+
+image end53 = "Images/RainbowEnding1.png"
+
+image end54 = "Images/RainbowEnding2.png"
+
+image end55 = "Images/RainbowTrueEndingFluttershy.png"
+image end56 = "Images/RainbowTrueEndingRainbow.png"
+image end57 = "Images/RainbowTrueEndingRarity.png"
+
+
+image end58 = "Images/RarityEnding1Applejack.png"
+image end59 = "Images/RarityEnding1Fluttershy.png"
+image end60 = "Images/RarityEnding1Pinkie.png"
+image end61 = "Images/RarityEnding1Rainbow.png"
+image end62 = "Images/RarityEnding1Rarity.png"
+image end63 = "Images/RarityEnding1Twilight.png"
+
+image end64 = "Images/RarityEnding2Applejack.png"
+image end65 = "Images/RarityEnding2Fluttershy.png"
+image end66 = "Images/RarityEnding2Pinkie.png"
+image end67 = "Images/RarityEnding2Rainbow.png"
+image end68 = "Images/RarityEnding2Rarity.png"
+image end69 = "Images/RarityEnding2Twilight.png"
+
+image end70 = "Images/RarityTrueEndingApplejack.png"
+image end71 = "Images/RarityTrueEndingFluttershy.png"
+image end72 = "Images/RarityTrueEndingPinkie.png"
+image end73 = "Images/RarityTrueEndingRainbow.png"
+image end74 = "Images/RarityTrueEndingRarity.png"
+image end75 = "Images/RarityTrueEndingTwilight.png"
+
+
+image end76 = "Images/SpikeEnding.png"
+
+
+image end77 = "Images/TwilightEnding1.png"
+
+image end78 = "Images/TwilightEnding2.png"
+
+image end79 = "Images/TwilightTrueEndingApplejack.png"
+image end80 = "Images/TwilightTrueEndingFluttershy.png"
+image end81 = "Images/TwilightTrueEndingPinkie.png"
+image end82 = "Images/TwilightTrueEndingRainbowDash.png"
+image end83 = "Images/TwilightTrueEndingRarity.png"
+image end84 = "Images/TwilightTrueEndingTwilight.png"
+
+
 # Declare characters used by this game.
 define ts = Character("Twilight Sparkle", color="#B689C8", show_two_window ='true')
 define pp = Character("Pinkie Pie", color="#F3B6CF", show_two_window ='true')
@@ -289,6 +415,8 @@ init python:
 # Splashscreen
 
 label splashscreen:
+    
+    $dawn1 = True
     scene black 
     with Pause(1)
     

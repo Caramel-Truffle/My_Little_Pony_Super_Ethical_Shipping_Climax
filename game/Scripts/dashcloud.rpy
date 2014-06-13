@@ -84,7 +84,7 @@
                             rd "Really? That's gonna be awesome! Thanks Fluttershy!"
                             p "Just... Be gentle, please."
                             stop music fadeout 1.0
-                            scene black
+                            scene end53
                             with fade
                             "And then both of you did naughty things, the bed being too near to ignore it."
                             p "Your lack of pictures on that matter disappoint me."
@@ -198,7 +198,7 @@
                             d "Kisses and hugs time!"
                             
                             stop music fadeout 1.0
-                            scene black
+                            scene end19
                             with fade
                             
                             "And it was kisses and hugs time for the rest of the day, Dashie joigning you once she came back."
@@ -220,7 +220,7 @@
                     rd "Doesn't matter, you come to my house, make my friends think you are me and try to abuse them? GET OUT!"
                     p "But-"
                     stop music fadeout 1.0
-                    scene black
+                    scene end54
                     with fade
                     "And she kicked you so hard... You just lost the game."
                     p "This isn't funny anymore either."
@@ -315,6 +315,21 @@
         "You reached the end of the demo!"
         p "Wait, that's all?"
         "Hey! There's around 20 endings in the demo! If you wanted to see the good ones, filled with narration and stuff you should have waited for the full game. Anyway..."
+        
+        
+        if(playername=="Fluttershy"):
+            scene end55
+            with fade
+        if(playername=="Rainbow Dash"):
+            scene end56
+            with fade
+        if(playername=="Rarity"):
+            scene end57
+            with fade
+        if(playername=="Twilight Sparkle"):
+            scene end15
+            with fade
+        
         "--Demo ending 3--"
         jump credits
                 

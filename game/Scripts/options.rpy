@@ -7,6 +7,10 @@
 ## commented-out code, and you may want to uncomment them when
 ## appropriate.
 
+
+## Translation business
+
+
 init -1 python hide:
 
     ## Should we enable the use of developer tools? This should be
@@ -23,7 +27,7 @@ init -1 python hide:
     ## This controls the title of the window, when Ren'Py is
     ## running in a window.
 
-    config.window_title = "My Little Pony: Super Ethical Shipping Climax! - Demo version"
+    config.window_title = "My Little Pony: Super Ethical Shipping Climax!"
 
     ## This controls the icon of the window, when Ren'Py is
     ## running in a window.
@@ -35,7 +39,7 @@ init -1 python hide:
 
     # These control the name and version of the game, that are reported
     # with tracebacks and other debugging logs.
-    config.name = "My Little Pony: Super Ethical Shipping Climax! - Demo version"
+    config.name = "My Little Pony: Super Ethical Shipping Climax!"
     config.version = "1.0"
 
     #########################################
@@ -197,6 +201,7 @@ init -1 python hide:
     ## Music that is played while the user is at the main menu.
 
     config.main_menu_music = "Music/mainmenu.mp3"
+    
 
 
     #########################################
@@ -282,12 +287,12 @@ init python:
     ## The name that's used for directories and archive files. For example, if
     ## this is 'mygame-1.0', the windows distribution will be in the
     ## directory 'mygame-1.0-win', in the 'mygame-1.0-win.zip' file.
-    build.directory_name = "My Little Pony Super Ethical Shipping Climax - Demo version 1.0"
+    build.directory_name = "My_Little_Pony_Super_Ethical_Shipping_Climax_0.5"
     
     ## The name that's uses for executables - the program that users will run
     ## to start the game. For example, if this is 'mygame', then on Windows,
     ## users can click 'mygame.exe' to start the game.
-    build.executable_name = "My Little Pony Super Ethical Shipping Climax - Demo version"
+    build.executable_name = "My Little Pony Super Ethical Shipping Climax"
     
     ## If True, Ren'Py will include update information into packages. This
     ## allows the updater to run.
@@ -337,4 +342,8 @@ init python:
 
     build.documentation('*.html')
     build.documentation('*.txt')
+    
+    
+    
+    
     

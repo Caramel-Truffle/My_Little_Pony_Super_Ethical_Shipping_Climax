@@ -16,7 +16,7 @@
         if(playername=="Rarity"):
             show rarity shocked
             with dissolve
-            r "Oh Celestia! You are as tasteful as I am, if not more!"
+            r "Sweet Celestia! You are as tasteful as I am, if not more!"
             p "Thank you, miss...?"
             show rarity happy
             with dissolve
@@ -51,7 +51,7 @@
                 p "DIE, YOU PEASANT! SHALL YOUR DOOM TEAR YOU APART FOR HAVING ASKED SUCH A FRIVOLOUS QUESTION!"
                 show rarity shocked
                 with dissolve
-                r "Erm... Are you alright [playername2]?"
+                r "Erm... Are you allright [playername2]?"
                 p "... Why did I just say that?"
                 show rarity srsly
                 with dissolve
@@ -65,8 +65,25 @@
                 r "The... Shadows?"
                 
                 stop music fadeout 1.0
-                scene black
-                with fade
+
+                if(playername=="Applejack"):
+                    scene end58  
+                    with fade          
+                if(playername=="Fluttershy"):
+                    scene end59
+                    with fade
+                if(playername=="Pinkie Pie"):
+                    scene end60
+                    with fade
+                if(playername=="Rainbow Dash"):
+                    scene end61
+                    with fade
+                if(playername=="Rarity"):
+                    scene end62
+                    with fade
+                if(playername=="Twilight Sparkle"):
+                    scene end63
+                    with fade
                 
                 p "These shadows!"
                 r "Eek! Where are we? Why can't I see myself?"
@@ -203,7 +220,7 @@
         p "Hello again Rarity! Are you designing something?"
         r "Not really, I'm simply keeping my ledger up to date, darling."
         p "Your... Ledger?"
-        r "Yes. The book containing all my sales and purchases, it really helps when dealing with the equestrian taxes."
+        r "Yes. The notebook containing all my sales and purchases, it really helps when dealing with the equestrian taxes."
         p "Is there anything I could do to help?"
         r "Help? Do you mean... With my ledger? Or with something else?"
         
@@ -219,7 +236,7 @@
                     p "With that? Do you mean that you need help with something else?"
                     
             "Offer your help for something else":
-                p "Not really, to be honest. Is there anything else I can do to help?"
+                p "I'm not really interested in your ledger, to be honest. Is there anything else I can do to help?"
                 r "Yes, of course! I was thinking about something else myself."
                 p "Really? What is it?"
                 
@@ -277,8 +294,26 @@
                 p "Let's get started then. Just relax and let me work."
                 
                 stop music fadeout 1.0
-                scene black
-                with dissolve
+
+                if(playername=="Applejack"):
+                    scene end64  
+                    with fade          
+                if(playername=="Fluttershy"):
+                    scene end65
+                    with fade
+                if(playername=="Pinkie Pie"):
+                    scene end66
+                    with fade
+                if(playername=="Rainbow Dash"):
+                    scene end67
+                    with fade
+                if(playername=="Rarity"):
+                    scene end68
+                    with fade
+                if(playername=="Twilight Sparkle"):
+                    scene end69
+                    with fade                
+                
                 "And you massaged her hooves with all your might, before helping her with her legs and then every body part where she was really tense and needed to relax."
                 "Needless to say, it led you two to a long and intimate moment where Rarity searched her oil and massaged you back, being quite talented herself."
                 p "I really regret having no picture for this one."
@@ -286,18 +321,18 @@
                 "--Rarity ending 2--"
                 jump credits
                 
-        r "You see, I'm quite occupied here and I don't have any herbs to make some tea anymore."
+        r "You see, I'm quite busy here and I don't have any herbs to make some tea anymore."
         p "Oh, and you want me to bring some to you, that's all?"
         r "Yes, it would help me greatly."
         if(p_flut == "tea"):
             p "Lucky you, I have some here!"
-            $caro2==False
-            $caro3==True
+            $caro2=False
+            $caro4=True
             jump rarity_get_tea
 
         else:
             p "Consider it done, Rarity!"
-        r "I will be right here waiting for you if you need me or wan to give me the tea you found."
+        r "I will be right here waiting for you if you need me or want to give me the tea you found."
         p "Okay, see you soon!"
         r "See you soon, darling."
         
@@ -347,10 +382,54 @@
             jump outdoors
             
     if(caro4 == True):
-        "You reached the end of the demo!"
-        p "Wait, that's all?"
-        "Hey! There's around 20 endings in the demo! If you wanted to see the good ones, filled with narration and stuff you should have waited for the full game. Anyway..."
-        "--Demo ending 4--"
+
+
+
+        "You go back to the Carousel Boutique, where everything is chic and magnifique, including the fabulous mare who is pouring some tea in a cup."
+
+        r"Welcome back [playername]! I just finished brewing the tea. This scent is divine!"
+
+        if(playername=="Twilight Sparkle"):
+            ts"Yes, it clearly is better than any book I sniffed. ... Not that I commonly do that, only to those with a great smell."
+        if(playername=="Rainbow Dash"):
+            rd"It's radical. Better than Soarin musk! ... Not that we did anything funny after the grand galloping gala."
+        if(playername=="Rarity"):
+            r"It really is divine, ma chère. Better than Hoity Toity intimate fragrance. ... Not that I could know it."
+        if(playername=="Fluttershy"):
+            fs"Oh. Yes, it's lovely. Even better than animal scent covered in forest aroma, the dejections here can sometimes be disgusting."
+        if(playername=="Pinkie Pie"):
+            pp"Ooooh! Yes yes! Even better than cake! You did not make cake with it, did you? It would totally not be sweet enough!"
+        if(playername=="Applejack"):
+            aj"Er, yeah. Ah guess. Braeburn is still higher in my list of smellin' good. ... Erm. I mean braeburn, the apple, not Apple. Not my cousin."
+
+        r"Let's change the subject, my dear."
+
+        "And both of you sat down to enjoy tea time, until..."
+
+        r"The taste is REALLY great, my dear."
+
+
+    
+        if(playername=="Applejack"):
+            scene end70  
+            with fade          
+        if(playername=="Fluttershy"):
+            scene end71
+            with fade
+        if(playername=="Pinkie Pie"):
+            scene end72
+            with fade
+        if(playername=="Rainbow Dash"):
+            scene end73
+            with fade
+        if(playername=="Rarity"):
+            scene end74
+            with fade
+        if(playername=="Twilight Sparkle"):
+            scene end75
+            with fade
+        
+        "--Rarity true ending--"
         jump credits
         
     "You come to the Carousel Boutique. The door isn't locked and you could easily steal some rubies or sapphires, but that wouldn't be wise."

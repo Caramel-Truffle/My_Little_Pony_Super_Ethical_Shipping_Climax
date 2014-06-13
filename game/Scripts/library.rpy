@@ -41,7 +41,7 @@
                     with dissolve
                     ts "I thought you would improve your lying skills, Chrysalis. It's time for you to be really banned this time!"
                     p "Wait, what are you even talking abou-"
-                    scene black
+                    scene end77
                     with fade
                     "And she kicked your buttock. What did you expect?"
                     p "...\n
@@ -80,7 +80,7 @@
                     with dissolve
                     ts "When I have a good teacher? Always. Now give me a lesson..."
                     stop music fadeout 1.0
-                    scene black
+                    scene end78
                     with fade
                     "And then you kissed and stuff."
                     p "Wait, you are not going to show that?"
@@ -277,7 +277,7 @@
                     sp "Are you serious?"
                     p "Of course I am darling. Come here..."
                     stop music fadeout 1.0
-                    scene black
+                    scene end76
                     with fade
                     
                     "And both of you kissed during hours."
@@ -321,10 +321,196 @@
             jump outdoors
             
     if(libr4 == True):
-        "You reached the end of the demo!"
-        p "Wait, that's all?"
-        "Hey! There's around 20 endings in the demo! If you wanted to see the good ones, filled with narration and stuff you should have waited for the full game. Anyway..."
-        "--Demo ending 1--"
+
+        "You're back to the library, fragrance of books fills the air, the quiet \"who?\" of a sleeping owl may come to your ear if you listen well enough and the absence of any other living creature here seems obvious."
+
+        p"Well. I just have to go back later, right?"
+
+        "No. Twilight is supposed to come here soon."
+
+        p"..."
+
+        "..."
+
+        p"Can I sit down and read something? the silence is awkward enough."
+
+        "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you sooner. The cover is blue as the moon. Well, once in a blue moon.\nBecause the  supermoon intrigued you, you decide to start with that part, instead of beginning with the first few chapters. Shame on you, the history of astronomers seemed fun."
+
+        p"Oi! Let me decide what's fun for me!"
+
+        "Anyway, a supermoon is the coincidence of a full moon or a new moon with the closest approach the Moon makes to the Earth on its elliptical orbit, resulting in the largest apparent size of the lunar disk as seen from Earth. The technical name is the perigee-syzygy of the Earth-Moon-Sun system. The term \"supermoon\" is not astronomical, but originated in modern astrology. The association of the Moon with both oceanic and crustal tides has led to claims that the supermoon phenomenon may be associated with increased risk of events such as earthquakes and volcanic eruptions, but the evidence of such a link is widely held to be unconvincing."
+
+        p"Thank you, wikipedia."
+
+        "Oi! You wanted to know what a supermoon is!"
+
+        p"Well, I thought it was something mystical, related to Princess Luna and stuff."
+
+        ts"And you're right, this book has been written before we defeated Nightmare Moon. Most ponies forgot about her and even the scientists thought that the earthquakes and volcanic eruptions were natural. In fact, it was Nightmare Moon trying to make the nature rebels against us."
+
+        "Wait. Was that Twilight? When did she...?"
+
+        if(playername=="Twilight Sparkle"):
+            ts"Wait. You advised me to start with an outdated book?"
+        if(playername=="Rainbow Dash"):
+            rd"Wait. Does that mean that there is nothing radical like that during a supermoon anymore?"
+        if(playername=="Rarity"):
+            r"Oh dear. If she continued, it would have been THE. MOST. TERRIBLE. THING."
+        if(playername=="Fluttershy"):
+            fs"Oh my... So... Are we safe now?"
+        if(playername=="Pinkie Pie"):
+            pp"I never knew that! What happens now?"
+        if(playername=="Applejack"):
+            aj"Howdy y'all mate! ... Blimey. I can't do the accent properly. Anyway, what does Princess Luna do now?"
+
+        "She chuckles."
+
+        ts"Well, because the events happened \"recently\", there is no book explaining that, but don't worry, Princess Luna intends to make each supermoon a moment of joy and peace now."
+
+        if(playername=="Twilight Sparkle"):
+            ts"Like a redemption or something?"
+        if(playername=="Rainbow Dash"):
+            rd"By making super tornadoes fighting evil?"
+        if(playername=="Rarity"):
+            r"By making peace reign through peaceful means?"
+        if(playername=="Fluttershy"):
+            fs"By taking care of the wildlife she might have hurt during these years?"
+        if(playername=="Pinkie Pie"):
+            pp"Like a peace party?"
+        if(playername=="Applejack"):
+            aj"Don't be all mouth and trousers, what does she do?"
+
+        ts"Well, speaking of a redemption would be a bit strong, but she tries to grant wishes, as long as it can bring happiness without any bad repercussion."
+
+        if(playername=="Twilight Sparkle"):
+            ts"So, no \"I want to know everything\" wish."
+        if(playername=="Rainbow Dash"):
+            rd"So, no \"I want to be able to break the record\" wish."
+        if(playername=="Rarity"):
+            r"So, no \"I want to have the best client possible\" wish."
+        if(playername=="Fluttershy"):
+            fs"So, no \"I want everypony to be able to talk to animals\" wish."
+        if(playername=="Pinkie Pie"):
+            pp"So, no \"I want to know everypony\" wish."
+        if(playername=="Applejack"):
+            aj"So, no \"I want to win the lottery\" wish for the champagne socialists."
+
+        ts"No. No such wish, but..."
+
+        p"But?"
+
+        ts"Love wishes, when they are reciprocal, are usually granted."
+
+        if(playername=="Twilight Sparkle"):
+            ts"Is your input supposed to be sufficient?"
+        if(playername=="Rainbow Dash"):
+            rd"What was that for?"
+        if(playername=="Rarity"):
+            r"What are you implying?"
+        if(playername=="Fluttershy"):
+            fs"Oh my. D-do you mean...?"
+        if(playername=="Pinkie Pie"):
+            pp"I like where this is going."
+        if(playername=="Applejack"):
+            aj"I would like to say that a nod is as good as a wink to a blind horse, but I can't."
+
+        "Oh. Are you this transparent to her?"
+
+        ts"Spike isn't there. I didn't know that Rarity loved him back, but if they are together this evening, it might be it."
+
+        if(playername=="Twilight Sparkle"):
+            ts"Ah, of course. What would you mean otherwise? Ahah!"
+        if(playername=="Rainbow Dash"):
+            rd"Oh. I thought you meant something else."
+        if(playername=="Rarity"):
+            r"You had me for one second. ....Wait, you know that I am not....?"
+        if(playername=="Fluttershy"):
+            fs"Oh, Spike and Rarity, of course."
+        if(playername=="Pinkie Pie"):
+            pp"Ooh, I hope they're having fun."
+        if(playername=="Applejack"):
+            aj"Oh, yes, the nancy boy and the maiden. What else? Ah ah."
+
+        ts"My Twilie sense helped me and says that you were thinking of something else."
+
+        "You sigh."
+
+        p"Let's put the mask aside for a moment. I was just thinking of us."
+
+        ts"Of us? What do you mean?"
+
+        "Her last sentence ended with a nearly imperceptible self-lip-biting."
+
+        p"I mean exactly what you are thinking of. You and me, howling at the moon in the middle of this summer afternoon."
+
+        ts"..."
+
+        p"Okay, looking at the moon during the night. Close to one another, sharing our hopes, sharing our dreams, until we both realize..."
+
+        ts"Enough singing. Follow me."
+
+        "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, were moonlight engulfed you for a second."
+
+        p"Nyaah!"
+
+        "You gasped as your body started to sparkle and after a few seconds, you levitated two hooves from the ground, without the help of wings or unicorn magic. Your colour scheme changed quickly a few times and all the while, Twilight stepped back slowly until being tail-to-wall."
+
+        ts"No no no no... This shouldn't be happening! Not now!"
+
+        "Was what she said, in a mix of anguish and disgust.\nMeanwhile, your eyes turned white and illuminated the room, until..."
+
+        "Everything went black again."
+
+        "Retrospectively, you did not regain consciousness before a few hours, having forgotten what just happened."
+
+        p"Nyuh?"
+
+        "Was the most intelligible thing you were able to say. You sensed that Twilight was nearby, her body was warm, but didn't move. Did you just...? No. She was still breathing. And started to cough. After a while, she mumbled."
+
+        ts"A.... Are... You...."
+
+        p"Am I?"
+
+        ts"A... Are you... Are you.... ARE YOU CRAZYYYYY??!"
+
+        "She shouted! Owww... My ears... Why do I have ears anyway? Shouldn't I be a bodiless being or something?"
+
+        p"What? I don't even understand why you are mad at me, I did not choose to..."
+
+        ts"Not you, him! The narrator! The script said to fill the scene with mystery, romantic tension and a small touch of supernatural, not to put the player in GLOWING NEAR KILLING FRENZY!"
+
+        "Oh. Right. I might need to lower that down a notch. Hum. Do you mind if we continue at the telescope part then? It's clearly my favourite."
+
+        p"Wait, what's going on?"
+
+        ts"You. Me. Telescope. Now."
+
+        "And both of you enjoyed a peaceful night, watching the stars, the moon and probably doing whatever Lady and the Tramp did that night they were together. You know which one, two months before they had children."
+
+        p"Do you mean?"
+
+        "It depends on what is on  your mind, but probably, yes."
+        
+        if(playername=="Applejack"):
+            scene end79  
+            with fade          
+        if(playername=="Fluttershy"):
+            scene end80
+            with fade
+        if(playername=="Pinkie Pie"):
+            scene end81
+            with fade
+        if(playername=="Rainbow Dash"):
+            scene end82
+            with fade
+        if(playername=="Rarity"):
+            scene end83
+            with fade
+        if(playername=="Twilight Sparkle"):
+            scene end84
+            with fade        
+        
+        "--Twilight true ending--"
         jump credits
 
     "You go to the library, the place is empty and quiet."

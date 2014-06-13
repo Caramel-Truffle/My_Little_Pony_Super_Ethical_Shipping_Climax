@@ -1,4 +1,16 @@
-﻿label eegg:
+﻿label language_chooser:
+    scene black
+    
+    menu:
+        "English":
+            $ persistent.lang = "english"
+        "French":
+            $ persistent.lang = "french"
+
+    $ renpy.utter_restart()
+
+
+label eegg:
     
     scene black
     with fade
@@ -111,7 +123,7 @@
             p "Eeyup."
             b "And Ah thought yah would never say it, ol' big chunk of love. Come here!"
             
-            scene black
+            scene end06
             with fade
             stop music fadeout 1.0
             show CMC awe
@@ -122,7 +134,7 @@
             cmc "Awwwwwwww!"
             
             "Girls, you are creepy."
-            "--Gay Braeburn ending--"
+            "--Braeburn ending 0--"
             jump credits
             
         "\"Nope.\"":
@@ -148,7 +160,7 @@
             p "Eeyup."
             nr "Let's go then!"
             
-            scene black
+            scene end40
             with fade
             
             "And after putting Braeburn in his bed again, the nurse gave you a kiss on the cheek. You will be able to see that in a future version... But everything went better than expected."
