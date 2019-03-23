@@ -149,7 +149,7 @@
                             jump credits
                             
                         "I understand":
-                            $ #Useless line is useless. Except for the interpreter.
+                            $0#Useless line is useless. Except for the interpreter.
                 
                 p "Yeah, whatever float your boat."
                 b "Ya're cute sugarcube. And Big Mac is there, Ah'm gonna try one last time. We should meet again someday."
@@ -385,7 +385,7 @@
             p "I've got your sunglasses Brae', but I can't let you have them forever."
             
             label give_brae_sunglasses:
-                $ #Useless line is useless. Except for the interpreter.
+                $0#Useless line is useless. Except for the interpreter.
             
             b "That was fast! ...What d'ya mean by not forever?"
             p "You want to test them with Big Mac, right? Just return them once you're done."
@@ -450,10 +450,34 @@
         jump outdoors
         
     if(appl4 == True):
-        "You reached the end of the demo!"
-        p "Wait, that's all?"
-        "Hey! There's around 20 endings in the demo! If you wanted to see the good ones, filled with narration and stuff you should have waited for the full game. Anyway..."
-          
+
+        "You get back to the Apple farm, where everypony is slowly starting to leave, either to their vehicle so they can get home, to their trailer, so they can prepare themselves to the night to come, or to any other mean of sleeping there. The Apple house being clearly too small to host the whole crowd and most ponies have come from too far away not to stay over and dedicate the next day(s) to driving home. Although most would simply ride the train."
+
+        aj "Howdy, [playername]! I didn't think you'd come back! Did'ya want to stay over for the night?"
+
+        p "Yeah, I was thinking about having a little extended family fun time. You know, us two, in a secluded space, sharing a close bond…"
+
+        aj "Don’t worry [playername], I have all your needs covered!"
+
+        "And thus, in her bedroom, you and Applejack got close to one another, with a sinful look in your eyes, there was some lip biting, moaning and…"
+
+        aj "I win! Haha! I’m the best Gin Rummy Matching player in all the family!"
+
+        "Your moans of frustration turned to a grunt of displeasure. Followed by a chuckle as you cleaned up the playing area and shuffled the cards again."
+
+        p "I didn’t think you’d be so much into card games! … Wait. It feels like I am totally missing some kind of point there."
+
+        aj "As if you expected us two to be doing something else, hidden in my bedroom? They don’t call me the Ungar of the family for nothin’!"
+
+        p "Literally no one call you that."
+
+        "And thus you two spent the remaining of your evening and night playing games and having some tame sisterly fun. Well, almost-sisterly."
+
+        p "Are you sure there shouldn’t be a scene there with a lot of inces-"
+
+        "Shhhh"
+
+
         if(playername=="Fluttershy"):
             scene end02
             with fade

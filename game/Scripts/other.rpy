@@ -36,17 +36,17 @@ label eegg:
     
     menu bm_place_choice:
         "Library":
-            $ #Useless line is useless. Except for the interpreter.
+            $0#Useless line is useless. Except for the interpreter.
         "Sugar Cube Corner":
-            $ #Useless line is useless. Except for the interpreter.
+            $0#Useless line is useless. Except for the interpreter.
         "Apple barn":
-            $ #Useless line is useless. Except for the interpreter.
+            $0#Useless line is useless. Except for the interpreter.
         "Rainbow's cloud":
-            $ #Useless line is useless. Except for the interpreter.
+            $0#Useless line is useless. Except for the interpreter.
         "Carousel Boutique":
-            $ #Useless line is useless. Except for the interpreter.
+            $0#Useless line is useless. Except for the interpreter.
         "Fluttershy's cottage":
-            $ #Useless line is useless. Except for the interpreter.
+            $0#Useless line is useless. Except for the interpreter.
     scene black
     with fade
     stop music fadeout 1.0

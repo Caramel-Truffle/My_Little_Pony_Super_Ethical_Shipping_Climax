@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/Scripts/applebarn.rpy", line 454: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+            "You get back to the Apple farm, where everypony is slowly starting to leave, either to their vehicle so they can get home, to their trailer, so they can prepare themselves to the night to come, or to any other mean of sleeping there. The Apple house being clearly too small to host the whole crowd and most ponies have come from too far away not to stay over and dedicate the next day(s) to driving home.
+
+Ren'Py Version: Ren'Py 7.0.0.196
+Sat Mar 23 17:22:16 2019

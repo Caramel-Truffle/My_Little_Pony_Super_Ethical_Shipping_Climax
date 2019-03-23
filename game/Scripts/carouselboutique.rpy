@@ -390,23 +390,54 @@
         r"Welcome back [playername]! I just finished brewing the tea. This scent is divine!"
 
         if(playername=="Twilight Sparkle"):
-            ts"Yes, it clearly is better than any book I sniffed. ... Not that I commonly do that, only to those with a great smell."
+            p "Yes, it clearly is better than any book I sniffed. ... Not that I commonly do that, only to those with a great smell."
         if(playername=="Rainbow Dash"):
-            rd"It's radical. Better than Soarin musk! ... Not that we did anything funny after the grand galloping gala."
+            p "It's radical. Better than Soarin musk! ... Not that we did anything funny after the grand galloping gala."
         if(playername=="Rarity"):
-            r"It really is divine, ma chère. Better than Hoity Toity intimate fragrance. ... Not that I could know it."
+            p "It really is divine, ma chère. Better than Hoity Toity intimate fragrance. ... Not that I could know it."
         if(playername=="Fluttershy"):
-            fs"Oh. Yes, it's lovely. Even better than animal scent covered in forest aroma, the dejections here can sometimes be disgusting."
+            p "Oh. Yes, it's lovely. Even better than animal scent covered in forest aroma, the dejections here can sometimes be disgusting."
         if(playername=="Pinkie Pie"):
-            pp"Ooooh! Yes yes! Even better than cake! You did not make cake with it, did you? It would totally not be sweet enough!"
+            p "Ooooh! Yes yes! Even better than cake! You did not make cake with it, did you? It would totally not be sweet enough!"
         if(playername=="Applejack"):
-            aj"Er, yeah. Ah guess. Braeburn is still higher in my list of smellin' good. ... Erm. I mean braeburn, the apple, not Apple. Not my cousin."
+            p "Er, yeah. Ah guess. Braeburn is still higher in my list of smellin' good. ... Erm. I mean braeburn, the apple, not Apple. Not my cousin."
 
         r"Let's change the subject, my dear."
 
-        "And both of you sat down to enjoy tea time, until..."
+        "And both of you sat down to enjoy tea time, until... everything went black."
 
-        r"The taste is REALLY great, my dear."
+        "…"
+
+        r "Finally awake?"
+
+        "That was clearly Rarity's voice."
+
+        p "Thank you, I can read."
+
+        r "You can read, but can you eat THIS?"
+
+        "Suddenly something big gets stuck in your mouth. You try to move, but are clearly bound. Your eyes are covered by a blindfold."
+
+        r "Go on, pet, lick it!"
+
+        "Wait, is this really PG?"
+
+        r "Aw, it's just hoof licking! Haven't you seen the KFH ads, saying their fried hay is hoof lickin' good?"
+
+        "I'm pretty sure they don't mean ‘so good that you need to lick other ponies hooves clean'"
+
+        r "You're no fun!"
+
+        p "H-hello? Can someone please untie me?"
+
+        r "Not yet, we have a KFH ad to film first~"
+
+        "Wait… Is that truly it?"
+
+
+        "(sound of pages being turned)"
+
+        "Yes, this is it. That really is the true Rarity ending, according to the script. I hope you're not disappointed to have waited that long just for that."
 
 
     

@@ -286,6 +286,8 @@ define b = Character("Braeburn",kind=aj)
 define nr = Character("Nurse Redheart",kind=r)
 define t = Character("Thunderlane",kind=ts,color="555555")
 
+define uc = Character("Useless cameo",kind=r)
+
 # Declare variables
 
 init python:

@@ -213,3 +213,28 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+game/saves/1-1-LT1.save
+game/saves/1-2-LT1.save
+game/saves/1-3-LT1.save
+game/saves/1-4-LT1.save
+game/saves/1-5-LT1.save
+game/saves/1-6-LT1.save
+game/saves/auto-1-LT1.save
+game/saves/auto-10-LT1.save
+game/saves/auto-2-LT1.save
+game/saves/auto-3-LT1.save
+game/saves/auto-4-LT1.save
+game/saves/auto-5-LT1.save
+game/saves/auto-6-LT1.save
+game/saves/auto-7-LT1.save
+game/saves/auto-8-LT1.save
+game/saves/auto-9-LT1.save
+game/saves/navigation.json
+game/saves/persistent
+game/cache/bytecode.rpyb
+game/cache/pyanalysis.rpyb
+game/cache/screens.rpyb
+log.txt
+traceback.txt
+log.txt
+*.rpyc

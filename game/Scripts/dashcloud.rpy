@@ -312,10 +312,36 @@
                 jump outdoors
                 
     if(dash4 == True):
-        "You reached the end of the demo!"
-        p "Wait, that's all?"
-        "Hey! There's around 20 endings in the demo! If you wanted to see the good ones, filled with narration and stuff you should have waited for the full game. Anyway..."
         
+        "You come back to the Rainbow lair. The young athlete is here, drinking some water while sweat is beading off her fur." 
+
+        rd "Hi there! I was about to hit the shower, wanna join me?"
+
+        p "Sure thing!"
+
+        "And you two entered the shower, big enough for two adult ponies to get into and fully wash themselves without touching one another, because it's good to save water, but it's better to do it while respecting personal spaces."
+
+        p "I was wondering about something. Why does no one here has genitals?"
+
+        rd "No genius aliens? That sounds kind of racist."
+        p "No, I mean, everypony resembles a barbie doll down there."
+
+        rd "Barbie dolls? You're making less and less sense by the minute."
+
+        p "Rainbow Dash. How are fillies and colt made?"
+
+        rd "You really don't know? We write a letter to the guys in charge of the script and ask them to add us a kid. Simple as that. Wanna know where to send your letter? I got the address noted down, in case I change my mind about children at some point."
+
+        p "Oof."
+
+        "Nice try being relevant. You two ended up having some nice clean fun during the afternoon, since you discovered the big secret explaining why this game is necessarily PG."
+
+        "Or whatever your classification system is. Seems like merely mentioning sexual intercourse is worthy of a 18+ rating in some countries, while for others it's barely a 7+ thing. "
+
+        "Good job, Australia."
+
+        p "Please just roll the credits."
+
         
         if(playername=="Fluttershy"):
             scene end55

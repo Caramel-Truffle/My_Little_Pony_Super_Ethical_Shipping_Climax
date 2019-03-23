@@ -357,7 +357,7 @@
             p "... Forget it. And take this sugar cube."
             
             label bake_pie:
-                $ #Useless line is useless. Except for the interpreter.
+                $0#Useless line is useless. Except for the interpreter.
                 
             "You give her the sugar cube."
             pp "Great! Now it's time to put it in the oven!"
@@ -449,10 +449,27 @@
             jump outdoors
             
     if(suga4 == True):
-        "You reached the end of the demo!"
-        p "Wait, that's all?"
-        "Hey! There's around 20 endings in the demo! If you wanted to see the good ones, filled with narration and stuff you should have waited for the full game. Anyway..."
-        
+       
+       "I’m out of there."
+
+        p "Come on, where’s the fun in that?"
+
+        " "
+
+        pp "YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY, YOU CAME!"
+
+        p "That’s what she…."
+
+        pp "Yes, that’s exactly what I just said! Now let’s enjoy the-"
+
+        "(post-modern visuals)"
+
+        pp "That was fun!"
+
+        p "Was that all a metaphor?"
+
+        pp "Who cares? Take my ending and go have some more fun!"
+
         
         if(playername=="Applejack"):
             scene end47  
