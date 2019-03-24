@@ -256,9 +256,9 @@
                 with dissolve
                 
                 "And you went back to the crossroad. Getting this [p_aj] was worth the trip. I guess."
+                $appl2 = True
                 
         $appl1 = True
-        $appl2 = True
         jump outdoors
         
     if(appl2==True):
