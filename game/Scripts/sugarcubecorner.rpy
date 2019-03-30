@@ -46,7 +46,7 @@
         pp "Normally? According to you or according to the norm an unknown part of the players are expecting me to act?"
         p "And either way, a narrator shouldn't talk to his characters, that's unrespectful of the laws of tales telling."
         "Fine... Fine... But I warned you."
-        pp"Of what? Do you even proofread yourself before releasing demos?"
+        pp"You warned us? About what? Do you even proofread yourself before releasing demos?"
         p "Anyway, Pinkie, is there a reason for the mustache?"
         pp "No, it's not because I mustache you a question, this joke has already been done."
         p "I said nothing."

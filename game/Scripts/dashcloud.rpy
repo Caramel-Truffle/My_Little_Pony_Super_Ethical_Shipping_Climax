@@ -161,7 +161,7 @@
         
     if(dash2 == True):
         play music "Music/dashie.mp3"
-        show derpy superhappy
+        show derpy happy
         with dissolve
         "You are back to Rainbow's cloud, but instead of her, you find Derpy Hooves, a gray mare with yellow... Eyes."
         
@@ -245,7 +245,7 @@
         
         if(p_cake == "muffin"):
             p "Then take this one, Pinkie gave it to me earlier."
-            show derpy happy
+            show derpy superhappy
             with dissolve
             jump yummymuffin
         
@@ -282,20 +282,24 @@
             jump outdoors
         else:
             p "Hey Derpy! And of course I do, take this one!"
-            show derpy happy
+            show derpy fly hug
             with dissolve
             label yummymuffin:
                 "You give your muffin to Derpy."
                 d "Thank you so much [playername2]!"
-                show derpy happy:
+                show derpy superhappy with dissolve:
                     linear 1.0 xalign 0.2
                 show rainbow happy:
                     xalign 0.8 yalign 1.0
                 with dissolve
                 
                 rd "Sorry girls, I took my time! ...[playername3], what did you do to Derpy? She's so happy!"
+                show derpy fly hug
+                with dissolve
                 d "She gave me a muffin! Muffin!"
-                p "She really do love them."
+                show derpy superhappy
+                with dissolve
+                p "She really does love them."
                 rd "Well, anyway, let's go, what do you think?"
                 d "Allons-y!"
                 rd "You've been around that stallion too much Derpy."

@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/sugarcubecorner.rpy", line 1: expected statement.
-    ﻿label sugarcubecorner:
-                          ^
+File "game/Scripts/dashcloud.rpy", line 292: Line is indented, but the preceding with statement statement does not expect a block. Please check this line's indentation.
+    linear 1.0 xalign 0.2
+    ^
 
 Ren'Py Version: Ren'Py 7.2.1.457
-Sat Mar 30 08:10:27 2019
+Sat Mar 30 08:59:42 2019

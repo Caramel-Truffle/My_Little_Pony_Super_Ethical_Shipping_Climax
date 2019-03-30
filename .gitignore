@@ -238,3 +238,4 @@ log.txt
 traceback.txt
 log.txt
 *.rpyc
+*.save
