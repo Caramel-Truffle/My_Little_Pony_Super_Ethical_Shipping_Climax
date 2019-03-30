@@ -1,3 +1,4 @@
+﻿
 ﻿label sugarcubecorner:
     stop music fadeout 1.0
     
@@ -29,11 +30,11 @@
         if(playername=="Rarity"):
             pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername]? You may love fashion and beauty, but do you realize that you could have been an alicorn? With great powers and all?"
         if(playername=="Fluttershy"):    
-            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername]? You may love animals and stuuf, but do you realize that you could have been an alicorn? With great powers and all?"
+            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername]? You may love animals and stuff, but do you realize that you could have been an alicorn? With great powers and all?"
         if(playername=="Applejack"):
             pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername]? Do you really prefer her simple lifestyle to the power of an alicorn?"
         if(playername=="Twilight Sparkle"):
-            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all...  But do you realize that you could have been an alicorn? With great powers and all? "
+            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been an alicorn? With great powers and all? "
         
         if(alichoice == 0):
             p "I did not even try to be one. Why would I?"
@@ -42,10 +43,11 @@
         else:
             p "I tried, [alichoice] times! But Colgate did not let me be my super alicorn OC."
             
-        "Wait, you two, couldn't you just act normally?"
-        pp "Normally? According to you or according to the norm a major part of the players are expecting me to act?"
+        "Wait, you two, couldn't you act normally?"
+        pp "Normally? According to you or according to the norm an unknown part of the players are expecting me to act?"
         p "And either way, a narrator shouldn't talk to his characters, that's unrespectful of the laws of tales telling."
         "Fine... Fine... But I warned you."
+        pp"Of what? Do you even proofread yourself before releasing demos?"
         p "Anyway, Pinkie, is there a reason for the mustache?"
         pp "No, it's not because I mustache you a question, this joke has already been done."
         p "I said nothing."
@@ -90,7 +92,7 @@
                 p "Told me what?"
                 pp "I can't believe it, they really didn't."
                 p "Pinkie! What am I supposed to know?"
-                pp "The moon. Everypony is going to have something special this night and if you want a mustache, you'll have one. And as time is non-linear, it's as you already have one!"
+                pp "The moon. Everypony is going to have something special this night and if you want a mustache, you'll have one. And as time is non-linear, it's as if you already had one!"
                 p "The moon? Non-linear? I'm not sure to fully understand."
                 pp "Time is some kind of pony-cutsy-timey-pinkie... Stuff. And as for the moon, you need to complete the Twilight's path to fully understand it."
                 p "Ooookay. What about my mustache?"
@@ -119,7 +121,7 @@
                     with fade
                 
                 "And you got a mustache."
-                p "What? That's it."
+                p "What? That's it?"
                 "Yep."
                 "--Mustache ending--"
                 jump credits
@@ -134,7 +136,7 @@
                 pp "So, should I get the whipped cream?"
                 p "Where's your mustache?"
                 pp "I never wear a mustache when I play with whipped cream."
-                p "I never said that I wanted to use whiped cream!"
+                p "I never said that I wanted to use whipped cream!"
                 pp "You want the best candy in town, right? How can a candy be the best without it?"
                 p "You may have a point. Bring it on."
                 
@@ -215,8 +217,8 @@
         "..."
         pp "I'm sorry! We ignored you until now, but it won't happen again!"
         if(p_cake == "muffin"):
-            "Whatever. Next time I'll see you you won't remember this anyway."
-            pp "You really are grumpy."
+            "Whatever. Next time I'll see you, you won't remember this anyway."
+            pp "You really are grumpy. But you will also forget about my entrance, so it's okay."
         else:
             "Do you mean that the next encounter will be normal?"
             pp "As normal as I can be! Cross my heart and hope to fly, stick a cupcake in my eye!"
@@ -238,7 +240,7 @@
         
     if(suga2==True):
         play music "Music/pinkie.mp3"
-        "You are back to the bakery, where sugar scent invade your nose and makes your stomach growls."
+        "You are back to the bakery, where sugar scent invade your nose and makes your stomach growl."
         u "Sounds like somepony needs a cupcake!"
         
         show pinkie happy
@@ -248,7 +250,7 @@
         pp "Then just eat it, silly! And take these two anyway, they're on the house."
         p "Do Mr and Ms Cake allow you to do that?"
         pp "Giving free cupcakes? As long as I make a profit at the end of the day, no problem."
-        p "Well, in this case..."
+        p "Well, in that case..."
         "You got two cupcakes!"
         "You eat three cupcakes!"
         p "I should be okay for a while now."
@@ -275,7 +277,7 @@
         pp "Nah. The bell would go all dingeling-ding-ding if that was the case, so I could always yell to them."
         show pinkie yell
         with dissolve
-        pp "\"I'M COMING, JUST BAKING SOME MORE PIE, TAKE A LOOK! IF YOU CAN EAT IT, YOU CAN BUY IT!\"" 
+        pp "\"WA-PA-PA-PA-POW! I'M COMING, JUST BAKING SOME MORE PIE, TAKE A LOOK! IF YOU CAN EAT IT, YOU CAN BUY IT!\"" 
         show pinkie happy
         with dissolve
         pp "And then hope that they don't eat wood, because the building is certainly not for sale!"
@@ -307,13 +309,13 @@
             show pinkie happy
             with dissolve
             pp "Great idea! I'll wait there then. Or I might be selling something when you return, but be quick! I don't want to disappoint somepony by telling them we're out of stock!"
-            p "I'lll be back soon, don't worry."
+            p "I'll be back soon, don't worry."
             
             stop music fadeout 1.0
             scene black
             with fade
             
-            "And you went back to the crossroad, on the sugar cube quest!"
+            "And you went back to the crossroad, starting the sugar cube quest!"
             
             $suga2 = False
             $suga3 = True
@@ -377,7 +379,7 @@
                     show thunderlane happy
                     with dissolve
                     
-                    "The customer is a stallion! He looks friendly at least."
+                    "The customer is a stallion! He looks friendly."
                     
                     u "Hello [playername3]! Taking care of the business while the Cakes are out?"
                     
@@ -393,10 +395,10 @@
                     t "Thank you [playername2]. I'll buy a dozen rainbow cupcakes."
                     "You put them carefully in a box and show it to him."
                     p "I'm sure I can add something in it. What about a Luna's Special?"
-                    t "One that glow in the dark?"
+                    t "One that glows in the dark?"
                     p "With the moon we're expecting this night, that would be perfect! I can add you three but only charge you one if you would like!"
                     t "Sounds good to me!"
-                    "And so you add the cupcakes in the box and exchange it with the bits the stallion gives you."
+                    "And so you add the cupcakes in the box and exchange it for the bits the stallion gives you."
                     t "See you next time [playername2]!"
                     p "Have a good day Thunderlane!"
                     t "Thanks! You too!"
@@ -469,7 +471,6 @@
         p "Was that all a metaphor?"
 
         pp "Who cares? Take my ending and go have some more fun!"
-
         
         if(playername=="Applejack"):
             scene end47  
@@ -491,7 +492,7 @@
             with fade
         
         
-        "--Demo ending 6--"
+        "--Pinkie Pie true ending--"
         jump credits
             
     "The bakery is empty and the cash register locked."

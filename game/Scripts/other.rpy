@@ -10,8 +10,6 @@
     $ renpy.utter_restart()
 
 
-label eegg:
-    
     scene black
     with fade
     "Congratulations! You just unlocked the Big Macintosh mode!"
@@ -73,13 +71,13 @@ label eegg:
     sb "...But this time, no love poison! Just go there and look if you too are happy together!"
     
     cmc "What do you think, Big Mac? Do you accept?"
-    
+    $cmcloop = 0
     menu cmcdecision:
         "\"Eeyup.\"":
             p "Eeyup."
             show CMC highfive
             with dissolve
-            cmc "CUTIE MARK CRUSADERS, SHIPPING MAKERS! YAAAY!"
+            cmc "CUTIE MARK CRUSADERS, SECRET SHIPPERS! YAAAY!"
             show CMC zoom cutie
             with dissolve
             sb "You won't regret it!"
@@ -92,7 +90,14 @@ label eegg:
             cmc "PLEAAAAAAAAAAAAAAAAAAAAAAASE!"
             show CMC happy
             with dissolve
+            $cmcloop = cmcloop + 1
             jump cmcdecision
+        "I don't know" (if cmcloop==42):
+            "An easter egg inside an easter egg! Wow!"
+            if(doomloop>999):
+                "Okay, you deserved it. this is your cupboard ending."
+            else:
+                "Now it's time to get out of the cupboard and pretend that you answered yes."
             
     scene black
     with dissolve
@@ -107,21 +112,21 @@ label eegg:
     
     b "Heeeeey! Welcome to Appleloosa cousin!"
     p "Nope."
-    b "Yah, that's true. We're still near the good ol' Ponyville. Anyway, are yah there 'cause of the lil' fillies too?"
+    b "Yeah, that's true. We're still near the good ol' Ponyville. Anyway, are you there 'cause of the lil' fillies too?"
     p "Eeyup."    
     
     if(p_aj == "sugarcube"):                    # braeburn met first visit, received sugarcube
-        b "Ah would be willin' to give it a chance. D'yah want to try?"
+        b "I would be willin' to give it a chance. Do you want to try?"
     elif(appl4 == True):                        # braeburn met 2nd visit, gave sunglasses
-        b "Ah tried hard to have yar attention, even tried sunglasses. D'yah want to try now?"
+        b "I tried hard to have your attention, even tried sunglasses. Do you want to try now?"
     else:                                       # braeburn met second visit, asked sunglasses
-        b "Ah tried hard to have yar attention, even thought of sunglasses. D'yah want to try now?"
+        b "I tried hard to have your attention, even thought of sunglasses. Do you want to try now?"
 
     
     menu braeburnchoice:
         "\"Eeyup.\"":
             p "Eeyup."
-            b "And Ah thought yah would never say it, ol' big chunk of love. Come here!"
+            b "And I thought you would never say it, ol' big chunk of love. Come here!"
             
             scene end06
             with fade
@@ -153,17 +158,17 @@ label eegg:
             p "Eeyup."
             show redheart grumpy
             with dissolve
-            nr "Sorry, I didn't notice you... Big Mac, isn't it? Braeburn catched some kind of local flu and shouldn't have leaved the hospital as he did. But looking at you now, I kind of understand his motives."
+            nr "Sorry, I didn't notice you... Big Mac, isn't it? Braeburn catched some kind of local flu and shouldn't have left the hospital like he did. But looking at you now, I kind of understand his motives."
             show redheart happy
             with dissolve
-            nr "I'm going to return to the hospital with him, would you like to come with us?"
+            nr "I'm going to get back to the hospital with him, would you like to come with us?"
             p "Eeyup."
             nr "Let's go then!"
             
             scene end40
             with fade
             
-            "And after putting Braeburn in his bed again, the nurse gave you a kiss on the cheek. You will be able to see that in a future version... But everything went better than expected."
+            "And after putting Braeburn in his bed again, the nurse gave you a kiss on the cheek. You won't be able to see that in a future version... But everything went better than expected."
             
             "--Nurse Redheart ending--"
             
@@ -174,7 +179,7 @@ label credits:
     scene black
     with fade
     pp "You reached the end!"
-    aj "Good for ya!"
+    aj "Good for you!"
     r "But there is more to see."
     ts "Except if you already have seen everything."
     rd "But you wouldn't read the credits anymore."

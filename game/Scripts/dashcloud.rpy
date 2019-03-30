@@ -356,7 +356,7 @@
             scene end15
             with fade
         
-        "--Demo ending 3--"
+        "--Rainbow Dash true ending--"
         jump credits
                 
     "Rainbow Dash isn't there. It would be creepy to wait her in her bed."

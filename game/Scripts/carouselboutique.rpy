@@ -49,40 +49,41 @@
                 
                 
             "\"Shall your doom tear you apart!\"":
+                $doomloop+=1
                 if(doomloop>3):
                     jump raritychoice1
-                $doomloop+=1
-                p "DIE, YOU PEASANT! SHALL YOUR DOOM TEAR YOU APART FOR HAVING ASKED SUCH A FRIVOLOUS QUESTION!"
-                show rarity shocked
-                with dissolve
-                if(doomloop==1):
-                    r "Erm... Are you alright [playername2]?"
-                    p "... Why did I just say that?"
-                    show rarity srsly
+                else:    
+                    p "DIE, YOU PEASANT! SHALL YOUR DOOM TEAR YOU APART FOR HAVING ASKED SUCH A FRIVOLOUS QUESTION!"
+                    show rarity shocked
                     with dissolve
-                    r "Let's pretend that never happened."
+                    if(doomloop==1):
+                        r "Erm... Are you alright [playername2]?"
+                        p "... Why did I just say that?"
+                        show rarity srsly
+                        with dissolve
+                        r "Let's pretend that never happened."
+                        show rarity happy
+                        with dissolve
+                        jump raritychoice1
+                    elif(doomloop<3):
+                        r "Is this some kind of Tourette's?"
+                        p "It's some kind of repeating a pattern to see if it changes something."
+                        r "I do not know if this is a good thing and I do not want to know."
+                        show rarity happy
+                        with dissolve
+                        jump raritychoice1
+                    elif(doomloop==3):
+                        "Okay, you clearly want something special, don't you?"
+                        p "Who are you talking to?"
+                        "The player, obviously."
+                        p "...What?"
+                        "No, not you, the player the character, but the player... The player. Who keeps selecting that silly choice. What did you expect?"
+                        "A cupboard ending?"
+                        "Nonetheless, you really did it. I'm disabling the button."
+                        r "I'll pretend nothing happened."
                     show rarity happy
                     with dissolve
                     jump raritychoice1
-                elif(doomloop<3):
-                    r "Is this some kind of Tourette's?"
-                    p "It's some kind of repeating a pattern to see if it changes something."
-                    r "I do not know if this is a good thing and I do not want to know."
-                    show rarity happy
-                    with dissolve
-                    jump raritychoice1
-                elif(doomloop==3):
-                    "Okay, you clearly want something special, don't you?"
-                    p "Who are you talking to?"
-                    "The player, obviously."
-                    p "...What?"
-                    "No, not you, the player the character, but the player... The player. Who keeps selecting that silly choice. What did you expect?"
-                    "A cupboard ending?"
-                    "Nonetheless, you really did it. I'm disabling the button."
-                    r "I'll pretend nothing happened."
-                show rarity happy
-                with dissolve
-                jump raritychoice1
                     
             "\"My destiny is elsewhere...\"":
                 p "My destiny is elsewhere... May you forgive me. The shadows are calling!"

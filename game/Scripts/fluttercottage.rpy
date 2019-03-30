@@ -446,7 +446,7 @@
             scene end33
             with fade        
         
-        "--Demo ending 2--"
+        "--Fluttershy true ending--"
         jump credits
     
         

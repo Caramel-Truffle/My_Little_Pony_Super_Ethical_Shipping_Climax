@@ -495,7 +495,7 @@
             with fade
         
         
-        "--Demo ending 5--"
+        "--Applejack true ending--"
         jump credits
     
     "After walking for a bit, you arrive at the Apple barn in Sweet Apple Acres."

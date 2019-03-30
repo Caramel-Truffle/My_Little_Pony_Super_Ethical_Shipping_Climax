@@ -8,7 +8,7 @@
         
         play music "Music/outdoors.mp3"
         p "What do- ... Never mind."
-        p "Where am I? A cartoon background? It looks like Ponyville... This dream is really messed up."
+        p "Where am I? A stock photo with some filter on it? How original. Is it even supposed to look like Ponyville...? This dream is really messed up."
         $ seenintro = True
         jump place_choice
         
