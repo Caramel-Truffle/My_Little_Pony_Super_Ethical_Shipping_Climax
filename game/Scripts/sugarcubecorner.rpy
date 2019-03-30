@@ -1,4 +1,3 @@
-﻿
 ﻿label sugarcubecorner:
     stop music fadeout 1.0
     
@@ -444,32 +443,23 @@
             scene black
             with fade
             
-            "After that, you went back to the crossroad, once again."        
-                
+            "After that, you went back to the crossroad, once again."
+            
             $ suga3 = False
             $ suga4 = True
             jump outdoors
             
     if(suga4 == True):
-       
+        
         "I’m out of there."
-
         p "Come on, where’s the fun in that?"
-
         " "
-
         pp "YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY, YOU CAME!"
-
         p "That’s what she…."
-
         pp "Yes, that’s exactly what I just said! Now let’s enjoy the-"
-
         "(post-modern visuals)"
-
         pp "That was fun!"
-
         p "Was that all a metaphor?"
-
         pp "Who cares? Take my ending and go have some more fun!"
         
         if(playername=="Applejack"):

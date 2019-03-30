@@ -2,10 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/options.rpy", line 338: unexpected indent
-        build.classify('game/**.png', 'archive')
-        ^
-    
+File "game/Scripts/sugarcubecorner.rpy", line 1: expected statement.
+    ﻿label sugarcubecorner:
+                          ^
 
 Ren'Py Version: Ren'Py 7.2.1.457
-Tue Mar 26 19:23:34 2019
+Sat Mar 30 08:10:27 2019
