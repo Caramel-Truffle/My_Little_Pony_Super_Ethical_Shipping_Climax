@@ -9,7 +9,8 @@
 
     $ renpy.utter_restart()
 
-
+label eegg:
+    
     scene black
     with fade
     "Congratulations! You just unlocked the Big Macintosh mode!"
@@ -92,7 +93,7 @@
             with dissolve
             $cmcloop = cmcloop + 1
             jump cmcdecision
-        "I don't know" (if cmcloop==42):
+        "I don't know" if(cmcloop==42):
             "An easter egg inside an easter egg! Wow!"
             if(doomloop>999):
                 "Okay, you deserved it. this is your cupboard ending."
