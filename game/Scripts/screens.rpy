@@ -448,7 +448,9 @@ screen preferences:
 
                 label _("Language")
                 textbutton "English" action Language(None)
+                textbutton "Engrish" action Language("french")
                 textbutton "Français" action Language("french")
+                textbutton "TABARNAK" action Language("french")
 
 init -2 python:
     style.pref_frame.xfill = True

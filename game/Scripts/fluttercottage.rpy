@@ -7,13 +7,13 @@
     if(flut1==False):
         play music "Music/fluttercottage.mp3"
         "Fluttershy's cottage... There are birds, squirrels, bunnies and other critters walking, running and doing critter stuff there."
-        "Oh, and a yellow pony with a pink mane is not so far away, certainly Fluttershy."
+        "Oh, and a yellow pony with a pink mane is also closeby, certainly Fluttershy."
         "What are you going to do?"
         
         menu crittercare:
             
             "Pet the bunny":
-                "You go near the little animal and bend, approaching your hoof, but he quickly turn its head and run away."
+                "You go near the little animal and bend your (po)knees, approaching your hoof, but he quickly turn his head and run away."
                 
                 fs "Oh... Excuse his attitude, the poor little cutey bunny doesn't let strangers touch-"
                 
@@ -30,8 +30,8 @@
                     p "Do you... Do you like animals?"
                     show fluttershy fly destiny
                     with dissolve
-                    fs "Do I like them? I LOVE them! All the critters, no matter how they're small, all the squirrels, the little birds, the cute little bunnies..."
-                    "She starts to sing how she adore them. That surely is a good sign."
+                    fs "Do I like them? I LOVE them! All the critters, no matter how big or small, all the squirrels, the little birds, the cute little bunnies..."
+                    "She starts to sing how she adores them. That surely is a good sign."
                     p "I... I love them too. If, if you would like to know..."
                     show fluttershy fly happy
                     with dissolve
@@ -42,7 +42,8 @@
                     with dissolve
                     fs "Oh, [playername2]! I didn't recognize you at first. Don't mind the bunny, he is just a bit tired."
                     
-                fs "Would you like to come in? I'm boiling water, we could have some tea together."
+                fs "Would you like to come in? I've got my teapot on the stove, we could have some tea together."
+                "This sounds like a fire hazard. ...Doesn't it?"
             "Pet the pony":
                 "You approach the critter without her noticing you and when you start to brush her mane with your hoof..."
                 show fluttershy fly shock
@@ -59,7 +60,7 @@
                             p "Sorry Fluttershy, I didn't mean to scare you! Honest! Sorry if you didn't like it."
                             show fluttershy fly happy
                             with dissolve
-                            fs "N... No, that's okay... Anyway, would you like to come in? I'm boiling water, we could have some tea together."
+                            fs "N... No, that's okay... Anyway, would you like to come in? I've got my teapot on the stove, we could have some tea together."
                             
                         "You bet I would!":
                             p "Shh... Just relax..."
@@ -70,7 +71,7 @@
                             with fade
                             "And both of you hugged. And kissed. And you are really lazy to end the game so soon, this end was so predictable."
                             p "I still got future chibis, right?"
-                            "As soon as this game has a visual artist, yes, you will have chibis."
+                            "What are you dreaming about? This is the best you'll get."
                             "--Fluttershy ending 1--"
                             jump credits
                 else:
@@ -99,7 +100,7 @@
                         p "Of course!"
                     fs "[playername2]... Why did you try to...?"
                     p "Sorry if you didn't like it."
-                    fs "N... No, that's okay... Anyway, would you like to come in? I'm boiling water, we could have some tea together."
+                    fs "N... No, that's okay... Anyway, would you like to come in? I've got my teapot on the stove, we could have some tea together."
         p "Yes, sure!"
         fs "Then, please follow me [playername2]."
         stop music fadeout 1.0
@@ -112,9 +113,9 @@
         show fluttershy fly happy
         with dissolve
         p "Wait, this isn't your house."
-        fs "Yes, it's a stock image. Caramel Truffle forgot to download a background for my home, but I don't mind, I'm sure that the deviantArt pony vector club has done something nice and he will find it. Or better, a visual artist will draw it just for us..."
-        p "I would not trust this pony's memory..."
-        fs "Anyway... Please have a sit, I'm going to the kitchen and will be back very soon."
+        fs "Yes, it's a stock image. Haven't you noticed all the other ones?"
+        p "That explain things..."
+        fs "Anyway... Please sit down, I'm going to the kitchen and will be back soon."
         if(playername=="Pinkie Pie"):
             p "Okey-dokey-lokey!"
         else:
@@ -122,17 +123,17 @@
         stop music fadeout 1.0
         scene black 
         with fade
-        "And she headed for the kitchen. Some muffled noises could be heard, like those of cups being placed on a plate and soon after the silence of the cottage was there again, Fluttershy went back in the room."
+        "And she headed for the kitchen. Some muffled noises could be heard, like those of cups being placed on a plate and soon after, silence again. Well, except for all the forest noises. Fluttershy went back in the room."
         scene bg apple family den
         with fade
         play music "Music/fluttercottage.mp3"
         show fluttershy fly happy
         with dissolve
-        fs "And there it is... Some nice hot tea. New recipe, I hope it will be good, I don't even have tried it yet..."
-        p "Don't worry Fluttershy, I'm sure it will be one of the best I ever drank."
+        fs "And there it is... Some nice hot tea. New recipe, I hope it will be good, first time trying it..."
+        p "Don't worry Fluttershy, I'm sure it will be one of the best teas I'll have ever drank."
         fs "Th... Thanks..."
-        "She blushes slightly at your comment and both of you drink quietly a sip of tea."
-        p "Beside, the taste is quite good. What's in it?"
+        "She blushes slightly at your comment and both of you sip quietly some tea."
+        p "Oh my, the taste is quite good. What's in it?"
         fs "Oh... Some herbs from the Everfree Forest, Zecora helped me choose some and... Oh! Right, she said that \"For a good taste, this plant you shouldn't miss, but drink too much and you will search another bliss.\" I don't know what it was supposed to mean though..."
         "It clearly is an aphrodisiac. Should you tell her?"
         menu aphrodishy:
@@ -141,7 +142,7 @@
             "No":
                 "You are right. Why shouldn't you drug a cute and helpless mare?"
                 p "I have no idea, sorry Fluttershy."
-                fs "Don't worry. I should have asked, the blame is mine."
+                fs "Don't worry. I should have asked her, my bad."
                 stop music fadeout 1.0
                 scene black
                 with fade
@@ -155,8 +156,8 @@
                 p "I'm afraid that it's a bit of both. It's hot here and you are too."
                 "She blushes."
                 fs "[playername2], would you mind..."
-                p "Hugging you tight as the afternoon end? I wouldn't mind at all."
-                "She blushes even more and squee in approval."
+                p "Hugging you tight until the afternoon ends? I wouldn't mind at all."
+                "She blushes even more and squees in approval."
                 stop music fadeout 1.0
                 if(playername=="Applejack"):
                     scene end21  
@@ -176,19 +177,19 @@
                 if(playername=="Twilight Sparkle"):
                     scene end26
                     with fade
-                "And you ended the day in each other arms, happy together."
+                "And you ended the day into each other arms, happy together."
                 "--Fluttershy ending 2--"
                 jump credits
         p "Maybe that it's an aphrodisiac?"
         show fluttershy fly worried
         with dissolve
         fs "An aphrodi- Oh my... We shouldn't drink that..."
-        p "Don't worry, I'm sure a cup will be fine!"
+        p "Don't worry, I'm sure a single cup will be fine!"
         show fluttershy fly happy
         with dissolve
         fs "You are probably right, but... Just one cup. I have the birds that I must feed, they're going to be hungry otherwise..."
         p "Of course Fluttershy."
-        "Special tea? Bird seed? You know what you should get, don't you?"
+        "Special tea? Bird seeds? You know what you should get, don't you?"
         
         menu teabird:
             "Tea!":
@@ -207,7 +208,7 @@
                 $ nb_lock = nb_lock + 1
 
             "Seeds!":
-                p "Can I go with you? If you give me some seeds, I certainly won't refuse to use them to feed the birds."
+                p "Can I go with you? If you give me some seeds, I certainly would love to use them to feed the birds."
                 fs "Oh, of course! They are not easily scared of strangers, as long as you are quiet."
                 if(playername=="Pinkie Pie"):
                     "Saying that to the real Pinkie would probably have been a necessity."
@@ -216,7 +217,7 @@
                 stop music fadeout 1.0
                 scene black
                 with fade
-                "And both of you drank your cup, Fluttershy gave you enough seeds to feed a dozen of birds and remembered that she had something else to do before birds-feeding, something special caused because of the moon... You told her that it was okay and you would come back later when she would have finished and you went back to the crossroad."
+                "And both of you drank your cup, Fluttershy gave you enough seeds to feed a flock of birds and remembered that she had something else to do before bird-feeding, something special because of the moon... You told her that it was okay and you would come back later when she would have finished and you went back to the crossroad."
                 $ flut2 = True
                 $ p_flut = "seeds"
                 
@@ -226,14 +227,14 @@
 
     if(flut2 == True):
         play music "Music/fluttercottage.mp3"
-        "You are back to the cottage. The last time you saw Fluttershy, she gave you seeds and asked you to wait. She may be ready now?"
+        "You are back to the cottage. The last time you saw Fluttershy, she gave you seeds and asked you to wait. Maybe she's ready now?"
         show fluttershy fly happy
         with dissolve
         
         fs "Welcome back [playername2]!"
         p "Are you ready now? The birds must be hungry now."
         fs "Oh... Yes.... Sorry..."
-        p "I was joking! But let's go!"
+        p "I was joking! Let's go!"
         
         stop music fadeout 1.0
         scene black
@@ -248,7 +249,7 @@
         with dissolve
         
         fs "Here we are... Come on little ones..."
-        "A dozen of birds are coming, blue, red, yellow... All are colorful and visibly hungry, by the way they ate the seeds Fluttershy is throwing."
+        "A dozen of birds are coming; blue, red, yellow... All are colorful and visibly hungry, considering the way they ate the seeds Fluttershy is throwing."
         p "How do I feed them? Like that?"
         "You start imitating her at your best."
         fs "That's it, you are skilled [playername2]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
@@ -269,11 +270,11 @@
         "She whispered the end of her sentence."
         p "Sorry? I didn't catch the end."
         "Fluttershy blushed again."
-        fs "One you... you wouldn't.... You know, talk about usually...."
+        fs "One you... You wouldn't.... You know, talk about usually...."
         p "No... Sorry. I didn't read anything at all recently."
         if(playername=="Twilight Sparkle"):
             "Being [playername], you try to be convincing."
-            p "Well, except from a bunch of old books concerning Starswirl the Bearded and his less known spells, but none that could interest you deeply."
+            p "Well, except from a bunch of old books concerning Starswirl the Bearded and his lesser known spells, but none that would interest you deeply, I assume."
         fs "Well... If you... You know.... Find a book... You wouldn't....  You know... Share with somepony.... You know.... We could like.... Read it together.... If that's okay with you...."
         p "I... Guess that I can do that."
         "She squee-d."
@@ -282,7 +283,7 @@
             fs "Wha.... What?"
             p "We... You know.... We're both quiet and all... And you know what they tell about the quiet ones..."
             fs "Y... Yes, but..."
-            p "Are you proving that the saying is false? Be honest."
+            p "Are you trying to prove that the saying is false? Be honest."
             fs "Well... Erm.... No....."
             p "I'm sure that we share a lot in common..."
             fs "Even for..."
@@ -306,7 +307,7 @@
                 "Be gentle with her and get the book":
                     jump smallboink
             label smallboink:
-            "Okay Fluttershy, don't worry, I'm going to get a book like that and then we'll see what happen."
+            "Okay Fluttershy, don't worry, I'm going to get a book like that and then we'll see what happens."
             fs "Th... Thank you."
             stop music fadeout 1.0
             scene black
@@ -348,11 +349,11 @@
         
         fs "This is the... Ooooooh.... And there with.... Ooooooooh......"
         p "Don't forget that one in the forest..."
-        "She try to say something, but is only able to move her lips silently."
+        "She tries to say something, but is only able to move her lips silently."
         p "Would you like... To... You know, try it?"
         "She is barely able to nod in approval."
-        p "Well, I'm going to leave you alone, as the mare in the book... See you very soon!"
-        "Fluttershy turn back and try to feed the birds again, there are no birds anymore, but she shakes way too much to do the work properly anyway."
+        p "Well, I'm going to leave you alone, like the mare in the book... See you very soon!"
+        "Fluttershy turns back and tries to feed the birds again, there are no birds anymore, but she shakes way too much to do the work properly anyway."
         
         stop music fadeout 1.0
         scene black

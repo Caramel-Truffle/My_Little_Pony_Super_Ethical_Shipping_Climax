@@ -1,1 +1,1 @@
-{"build_update": false, "packages": ["all", "linux", "mac", "win"]}
+{"android_build": "Release", "renamed_all": true, "renamed_steam": true, "force_recompile": true, "build_update": false, "packages": ["linux", "mac", "win", "market"], "add_from": true}

@@ -286,8 +286,6 @@ define b = Character("Braeburn",kind=aj)
 define nr = Character("Nurse Redheart",kind=r)
 define t = Character("Thunderlane",kind=ts,color="555555")
 
-define uc = Character("Useless cameo",kind=r)
-
 # Declare variables
 
 init python:
@@ -387,6 +385,8 @@ init python:
     easter_egg = 0
     alichoice = 0
     playerwant = "love"
+    doomloop = 0
+    cmcloop = 0
     
     # These are useful to know if the player has locked himself in a situation where he is hopeless
     nb_scenes = 0
@@ -455,11 +455,11 @@ label start:
     show colgate zoom happy
     with dissolve
     
-    y "AAAAAAAAAAAH!! Giant-cartoon-pony-head!!"
+    y "AAAAAAAAAAAH!! Giant-pointy-pony-head!!"
     c "I'm Colgate! Welcome to the realm between our worlds!"
     y "Wait, like the Colgate in My Little Pony? Am I dreaming or something?"
     c "Not at all! Trixie just left, I'm going to take care of you!
-       You know, about the \"let's change you into a pony and have some special fun with ponyville inhabitants and stuff\"!"
+       You know, about the \"let's change you into a red pony and have some special fun with ponyville inhabitants and stuff\"!"
     y "..."
     y "Wrong game."
     c "Hum. So, I will change you into one of the mane 6 instead! And then I will send you in Ponyville and and-"
@@ -509,13 +509,13 @@ label end_name_choice:
     c "So, you are [playername] now."
     p "Really?"
     c "Yes! Just look at yourself in the mirror!"
-    p "What mirror? It's all black here!"
+    p "What mirror? It's too dark here!"
     c "Whoops, my bad. I will just send you in Ponyville then! See you soon!"
     p "Wait, wha-"
     scene black
     with fade
     stop music fadeout 1.0
     "Poof!"
-    p "Hey, who are you? And why is it all black there?"
+    p "Hey, who are you? And why is it so dark there?"
     "I'm the narrator and you're in a transition between two scenes. Now, let's stop meta-talking."
     jump outdoors

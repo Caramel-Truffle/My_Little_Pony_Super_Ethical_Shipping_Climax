@@ -27,19 +27,20 @@
             r "[playername]! What a surprise!"
             
         if(playername=="Twilight Sparkle"):
-            r "I was designing a new hat! Do you have some time? I sure would appreciate the help of a pony as skilled with mathematics as you."
+            r "I was designing a new hat! Do you have some time? I sure would appreciate the help of a pony as skilled with mathematics as you are."
         if(playername=="Rarity"):
-            r "I was designing a new hat! Do you have some time? I'm sure it would interest you."
+            r "I was designing a new hat! Do you have some time? I'm sure it would be of interest to you."
         if(playername=="Fluttershy"):
             r "I was designing a new hat! Do you have some time? I'm sure that somepony with your knowledge of the haute couture would be able to help."
         if(playername=="Rainbow Dash"):
-            r "I was... Designing a new hat. I know you are not quite the one to wear them, but if you have some time, I surely could use your help."
+            r "I was... Designing a new hat. I know you are not interested in them, but if you have some time, I surely could use your extra hooves and wings."
         if(playername=="Pinkie Pie"):
-            r "I was... Designing a new hat. I know it's not really fun, but if you have some time, I surely could use your help."
+            r "I was... Designing a new hat. I know it's not really fun, but if you have some time, I surely could use your extra hooves."
         if(playername=="Applejack"):
             r "I was... Designing a new hat. I know you are going to think about its practicality before everything, but I'm willing to let you a chance to prove me wrong."
             
         "What are you going to say?"
+        $doomloop = 0
             
         menu raritychoice1:
             
@@ -48,18 +49,41 @@
                 
                 
             "\"Shall your doom tear you apart!\"":
+                if(doomloop>3):
+                    jump raritychoice1
+                $doomloop+=1
                 p "DIE, YOU PEASANT! SHALL YOUR DOOM TEAR YOU APART FOR HAVING ASKED SUCH A FRIVOLOUS QUESTION!"
                 show rarity shocked
                 with dissolve
-                r "Erm... Are you allright [playername2]?"
-                p "... Why did I just say that?"
-                show rarity srsly
-                with dissolve
-                r "Let's pretend that never happened."
+                if(doomloop==1):
+                    r "Erm... Are you alright [playername2]?"
+                    p "... Why did I just say that?"
+                    show rarity srsly
+                    with dissolve
+                    r "Let's pretend that never happened."
+                    show rarity happy
+                    with dissolve
+                    jump raritychoice1
+                elif(doomloop<3):
+                    r "Is this some kind of Tourette's?"
+                    p "It's some kind of repeating a pattern to see if it changes something."
+                    r "I do not know if this is a good thing and I do not want to know."
+                    show rarity happy
+                    with dissolve
+                    jump raritychoice1
+                elif(doomloop==3):
+                    "Okay, you clearly want something special, don't you?"
+                    p "Who are you talking to?"
+                    "The player, obviously."
+                    p "...What?"
+                    "No, not you, the player the character, but the player... The player. Who keeps selecting that silly choice. What did you expect?"
+                    "A cupboard ending?"
+                    "Nonetheless, you really did it. I'm disabling the button."
+                    r "I'll pretend nothing happened."
                 show rarity happy
                 with dissolve
                 jump raritychoice1
-                
+                    
             "\"My destiny is elsewhere...\"":
                 p "My destiny is elsewhere... May you forgive me. The shadows are calling!"
                 r "The... Shadows?"
@@ -95,7 +119,7 @@
                 
             "\"Don't you have a spare ruby?\"":
                 p "Don't you have a spare ruby?"
-                r "Yes... But why do you ask it for?"
+                r "Yes... But why do you ask that for?"
                 if(libr3 == True):
                     p "I do know a hungry dragon. And you will refuse to talk to me after that."
                     r "Why would I...? Wait. You came here just to ask for a jewel because a dragon is hungry? That's very considerate of you. I can give you one, just wait there."
@@ -112,7 +136,7 @@
                 scene black
                 with fade
                 
-                "And she went searching for a ruby, quickly coming back"
+                "And she went searching for a ruby, quickly coming back with it."
                 
                 scene bg carousel boutique
                 with fade
@@ -138,26 +162,38 @@
                 scene black
                 with fade
 
-                "And you went back to the crossroad. You are beginning to understand what breaking the 4th wall feels like."                 
+                "And you went back to the crossroad, beginning to understand what breaking the 4th wall feels like."                 
                 p "With you being always on my back, that's not surprising."                 
                 "You are doing it again! But let's continue."
                 $ caro1 = True
                 $ nb_lock = nb_lock + 1
                 jump outdoors
-                
+            
+            "Cupboard ending" if(doomloop == 42):
+                "Seriously? you fell for it?"
+                jump raritychoice1 
+            "Cupboard ending" if(doomloop == 100):
+                "Stop trying."
+                jump raritychoice1 
+            "Cupboard ending" if(doomloop == 500):
+                "There really is nothing there."
+                jump raritychoice1 
+            "Cupboard ending" if(doomloop == 1000):
+                "No way anyone would really read this. I hope. Stop trying, I won't say anything more than that, really."
+                jump raritychoice1    
         
         if(playername=="Rarity"):
             r "Help? I did not ask for so much! But if you are willing, who am I to refuse?"
         else:
             r "Thank you [playername2], it would be harder without your help."
-            p "I could do it some more, you know, simply ask."
+            p "I could do it more often, you know, simply ask."
             r "Don't worry, it's not like I never did it alone before."
                     
         stop music fadeout 1.0
         scene black
         with fade
         
-        "And both of you worked on the most fabulous hat Rarity ever created. So fabulous that even you, yes, YOU! Couldn't imagine it. That's why the scene is black. It's totally not related to our lack of visual artist."
+        "And both of you worked on the most fabulous hat Rarity ever created. So fabulous that even you, yes, YOU! Couldn't imagine it. That's why the scene is black. It's totally not related to our lack of a proper visual artist which would also have resulted in all the graphics either being altered free images, no credit required, or handmade low quality vectors."
         
         scene bg carousel boutique
         with fade
@@ -191,9 +227,9 @@
         
         show rarity happy
         with dissolve
-        r "Anyway, thank you for your help, you can come for some tea anytime you want!"
-        p "That's so nice of you, be assured that I will come to you soon!"
-        r "I'm sure you will."
+        r "Anyways, thank you for your help, you can come for some tea anytime you want!"
+        p "That's so nice of you, I'll come back soon to take that offer, then!"
+        r "I'll be glad."
         
         stop music fadeout 1.0
         scene black
@@ -220,7 +256,7 @@
         p "Hello again Rarity! Are you designing something?"
         r "Not really, I'm simply keeping my ledger up to date, darling."
         p "Your... Ledger?"
-        r "Yes. The notebook containing all my sales and purchases, it really helps when dealing with the equestrian taxes."
+        r "Yes. The notebook where I keep track of all my sales and purchases, it really helps when dealing with the equestrian taxes."
         p "Is there anything I could do to help?"
         r "Help? Do you mean... With my ledger? Or with something else?"
         
@@ -255,7 +291,7 @@
                 if(playername=="Twilight Sparkle"):
                     r "Oh! Did you read an interesting book on the matter recently?"
                     p "Yes, I just need some practice, but everything is going to be fine."
-                    r "Be my guest, Twilight."
+                    r "Then be my guest, Twilight."
                     
                 if(playername=="Pinkie Pie"):
                     show rarity srsly
@@ -267,19 +303,20 @@
                     show rarity flattered
                     with dissolve
                     r "Well... Let's try it then."
+                    p "I might use some whipped cream as massage oil, though."
                     
                 if(playername=="Applejack"):
                     show rarity srsly
                     with dissolve
                     r "YOU want to give ME a hoof massage?"
                     p "That's right sugarcube! And my own hooves are clean, no dirt on them, don't worry."
-                    r "That's... New. I will give you a chance then."
+                    r "That's... New. I will give you a chance, I guess."
                     
                 if(playername=="Rainbow Dash"):
                     show rarity srsly
                     with dissolve
                     r "Since when do you give hoof massages?"
-                    p "I always hated hooficures, but hoof massages? That's the deal."
+                    p "I always hated hooficures, but hoof massages? That's another deal."
                     r "So, you like to get them so much that you are also willing to give them?"
                     p "Yeah, be happy for what you give, not what you get. 'Sort of."
                     show rarity flattered
@@ -289,9 +326,9 @@
                 if(playername=="Fluttershy"):
                     r "Are your hoof massages sweeter than your other massages?"
                     p "Of course! You can force a bit on the spine, but not on the hooves, that would be dangerous."
-                    r "We may have different a different view on the definition of \"dangerous\", but I will accept your offer."
+                    r "We may have different views on the definition of \"dangerous\", but I will accept your offer."
                     
-                p "Let's get started then. Just relax and let me work."
+                p "Let's get started then. Just relax and let me do the work."
                 
                 stop music fadeout 1.0
 
@@ -317,12 +354,12 @@
                 "And you massaged her hooves with all your might, before helping her with her legs and then every body part where she was really tense and needed to relax."
                 "Needless to say, it led you two to a long and intimate moment where Rarity searched her oil and massaged you back, being quite talented herself."
                 p "I really regret having no picture for this one."
-                "Later, perverted player, later..."
+                "Never, perverted player, never..."
                 "--Rarity ending 2--"
                 jump credits
                 
         r "You see, I'm quite busy here and I don't have any herbs to make some tea anymore."
-        p "Oh, and you want me to bring some to you, that's all?"
+        p "Oh, so you want me to fetch some for you?"
         r "Yes, it would help me greatly."
         if(p_flut == "tea"):
             p "Lucky you, I have some here!"
@@ -332,7 +369,7 @@
 
         else:
             p "Consider it done, Rarity!"
-        r "I will be right here waiting for you if you need me or want to give me the tea you found."
+        r "I will be right here, waiting for you if you need me or want to give me the tea you got."
         p "Okay, see you soon!"
         r "See you soon, darling."
         
@@ -374,7 +411,7 @@
             r "Adult videos."
             p "I'm afraid to understand."
             r "Yes, I know, adult things like politics or economy are always between scary and boring."
-            p "Anyway, I'm on my way to find you some tea! See you soon!"
+            p "Anyways, I'm on my way to find you some tea! See you soon!"
             r "Good luck [playername2]!"
             stop music fadeout 1.0
             scene black
@@ -383,28 +420,26 @@
             
     if(caro4 == True):
 
-
-
         "You go back to the Carousel Boutique, where everything is chic and magnifique, including the fabulous mare who is pouring some tea in a cup."
 
         r"Welcome back [playername]! I just finished brewing the tea. This scent is divine!"
 
         if(playername=="Twilight Sparkle"):
-            p "Yes, it clearly is better than any book I sniffed. ... Not that I commonly do that, only to those with a great smell."
+            ts"Yes, it clearly is better than any book I sniffed. ... Not that I commonly do that, only to those with a great smell."
         if(playername=="Rainbow Dash"):
-            p "It's radical. Better than Soarin musk! ... Not that we did anything funny after the grand galloping gala."
+            rd"It's radical. Better than Soarin musk! ... Not that we did anything funny after the grand galloping gala."
         if(playername=="Rarity"):
-            p "It really is divine, ma chère. Better than Hoity Toity intimate fragrance. ... Not that I could know it."
+            r"It really is divine, ma chère. Better than Hoity Toity intimate fragrance. ... Not that I could know it."
         if(playername=="Fluttershy"):
-            p "Oh. Yes, it's lovely. Even better than animal scent covered in forest aroma, the dejections here can sometimes be disgusting."
+            fs"Oh. Yes, it's lovely. Even better than animal scent covered in forest aroma, the dejections here can sometimes be disgusting."
         if(playername=="Pinkie Pie"):
-            p "Ooooh! Yes yes! Even better than cake! You did not make cake with it, did you? It would totally not be sweet enough!"
+            pp"Ooooh! Yes yes! Even better than cake! You did not make cake with it, did you? It would totally not be sweet enough!"
         if(playername=="Applejack"):
-            p "Er, yeah. Ah guess. Braeburn is still higher in my list of smellin' good. ... Erm. I mean braeburn, the apple, not Apple. Not my cousin."
+            aj"Er, yeah. I guess. Braeburn is still higher in my list of smellin' good. ... Erm. I mean braeburn, the apple, not Apple. Not my cousin."
 
         r"Let's change the subject, my dear."
 
-        "And both of you sat down to enjoy tea time, until... everything went black."
+        "And both of you sat down to enjoy tea time, until... everything went dark."
 
         "…"
 
@@ -434,13 +469,11 @@
 
         "Wait… Is that truly it?"
 
-
         "(sound of pages being turned)"
 
         "Yes, this is it. That really is the true Rarity ending, according to the script. I hope you're not disappointed to have waited that long just for that."
 
 
-    
         if(playername=="Applejack"):
             scene end70  
             with fade          
@@ -464,7 +497,7 @@
         jump credits
         
     "You come to the Carousel Boutique. The door isn't locked and you could easily steal some rubies or sapphires, but that wouldn't be wise."
-    p "The boutique is empty. I better should go find somepony elsewhere."
+    p "The boutique is empty. I better should go and find somepony elsewhere."
     stop music fadeout 1.0
     scene black
     with fade

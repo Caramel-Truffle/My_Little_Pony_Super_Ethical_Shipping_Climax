@@ -8,36 +8,36 @@
         play music "Music/applebarn.mp3"
         "After walking for a bit, you arrive at the Apple barn in Sweet Apple Acres."
         "The smell of apples is strong in this place. Apple trees are all around you, ponies with apple-related cutie marks run around and apple products are on a giant table... Wait, is there some kind of party here?"
-        aj "Here ya go, everypony! Y'all welcome to taste the products of our good ol' family!"
-        "An \"apple family\" reunion or a real Apple family reunion? Either way, you probably should leave them for the mom-"
+        aj "Here you go, everypony! Y'all welcome to taste the products of our good ol' family!"
+        "An \"apple family\" reunion, as in an orchard owners association, or a real Apple family reunion, as in family related by blood? Either way, you probably should leave them for the mom-"
         aj "Howdy! Long time no see..."
         
         if(playername == "Applejack"):
             show applejack hat side gasp
             with dissolve
-            aj "...Mahself? Cousin, you really look like me, who's inside this costume?"
+            aj "...Myself? Cousin, you really look like me, who's inside this costume?"
             menu aj_see_herself:
                 "\"It's-a me! Pinkie!\"":
                     p "It's-a me! Pinkie! Isn't my cosplay great? Uh? Uh?"
                     show applejack hat sigh
                     with dissolve
-                    aj "Pinkie? This isn't one of Twilight's conventions, ya know?"
+                    aj "Pinkie? This isn't one of Twilight's conventions, you know?"
                     p "But there's all these apple-ponies!"
                     show applejack hat facehoof
                     with dissolve
                     aj "...That's mah family."
-                    p "Can I be part of your family as yourself for today? Please?"
+                    p "Can I be part of your family as yourself for today? Pretty please?"
                     show applejack hat happy
                     with dissolve
-                    aj "Well, ya're part of the extended family ah said and... If you really want it, ah can call you [playername2] for today."
+                    aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername2] for today."
                     p "Woohoo! You're the best, Applejack!"
                     
                 "\"I'm... Your lost sister.\"":
                     p "I'm... Your lost twin sister."
                     show applejack hat wtf
                     with dissolve
-                    aj "Mah what know?"
-                    p "Your lost twin sister. There's been an error at our birth and I've been sent to Fillydelphia. I later learned that our parents never forgave themselves and so chose to not tell you."
+                    aj "My what know?"
+                    p "Your lost twin sister. There's been an error at our birth and I've been sent to Fillydelphia. Years later, I learned that our parents never forgave themselves and chose to not tell you."
                     show applejack hat sad
                     with dissolve
                     aj "Is this some kind of sick joke?"
@@ -55,7 +55,8 @@
                     with fade
                     "You touched her to the core, bravo! Unfortunately, you had nothing else than bittersweet hugs this day. Applejack wouldn't let you go after that."
                     p "This seems a bit odd for a parody."
-                    "If you wanted something fun, you should have chosen Pinkie-oriented options, not the \"I'm your lost sibling\" one."
+                    "If you wanted something fun, you should have chosen Pinkie-oriented options, not the \"I'm your lost sibling\" one. And come on. the parents' reasoning doesn't make any sense if you think two seconds about it. Now, shoe."
+                    p "You mean shoo, ri-"
                     "--Applejack ending 1--"
                     jump credits
                     
@@ -63,9 +64,9 @@
                     p "I'm Applejack! Who are YOU?"
                     show applejack hat angry
                     with dissolve
-                    aj "What do ya say? AH am Applejack, not ya!"
+                    aj "What did you say? I am Applejack, not you!"
                     p "She's a changeling! Burn the changeling!"
-                    aj "Ah'm not! Ah'm way more heavy than a duck!"
+                    aj "I'm not! I'm way more heavy than a duck!"
                     "You hear a voice in the distance."
                     u "Y'all, stop quoting Pony Mython and the Holy Elements!"
                     p "..."
@@ -76,7 +77,7 @@
                     p "Seems so. Let's be friends?"
                     show applejack hat happy
                     with dissolve
-                    aj "Ah think it's the strangest thing Ah have ever seen... But you're family and Ah don't wanna reject that."
+                    aj "I think it's the strangest thing I have ever seen... But you're family and I don't wanna reject that."
                     
         else:
             show applejack hat happy
@@ -84,17 +85,17 @@
             aj "...[playername3]? I did not expect you today!"
             if(playername=="Pinkie Pie"):
                 p "A party! Can I stay? Please?"
-                aj "Well, ya're part of the extended family Ah said when the Flim Flam brothers where there."
+                aj "Well, you're part of the extended family, as I said when the Flim Flam brothers where there."
                 p "Woohoo! You're the best, Applejack!"
             else:
                 p "Sorry, you seem busy with your family, so I better leave."
-                aj "[playername]. After all we've been together, Ah consider you'self as part of the extended family ya know? You better stay here for a while if you don't have more important stuff to do today!"
-        p "So, what have you planned this year? That I can participate in, I mean."
-        aj "Well, right now ya can either go to the nearest table and enjoy some food or try to catch some apples in the water. There will be more later."
+                aj "[playername]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
+        p "So, what have you planned for this year? Things that I can participate in, I mean."
+        aj "Well, right now you can either go to the nearest table and enjoy some food or try to catch some apples in the big bucket of water over there."
         
         menu sugapple:
             "Go eat something":
-                p "I'm a bit hungry. I'll probably just eat some pie before Soarin decide to marry someone in the family."
+                p "I'm a bit hungry. I'll probably just eat some pie before Soarin decides to marry someone in the family."
                 aj "...Eeyup. Take care!"
                 
                 stop music fadeout 1.0
@@ -107,40 +108,40 @@
                 "A lot of ponies are here, discussing, playing, dancing... But for the moment, you focus your attention on some apple pie."
                 
                 if(playername=="Applejack"):
-                    u "Howdy cousin! Ya did a great job!"
+                    u "Howdy cousin! You did a great job!"
                     show braeburn happy
                     with dissolve
                     p "Sorry, I'm surely not the one you're thinking I am."
-                    u "Ah, sorry mam', Ah thought ya were the ol' AJ."
-                    p "Ah am! ... I mean, I am! But I'm not. My name is Applejack, I look like the Applejack you know, but I'm not her., look, she's just there!"
-                    "You point out the real AJ to the pony."
-                    b "Oh. Ah'm Braeburn. Ah come from Apple-loooooooosa! Great town, ya should come someday!"
+                    u "Ah, sorry mam', I thought you were the ol' AJ."
+                    p "I am! But I'm not. My name is Applejack, I look like the Applejack you know, but I'm not her. Look, she's just over there, talking to Honeycrisp!"
+                    "You point out the real Applejack to the pony."
+                    b "Oh. I understand better now, I think. I'm Braeburn and I came from Apple-loooooooosa! Great town, you should come someday!"
                     
                 else:
-                    u "Howdy! Erm. AJ friend?"
+                    u "Howdy! Erm... AJ friend?"
                     show braeburn happy
                     with dissolve
                     p "Yes, close friend. My name is [playername]."
-                    b "We've met before, in Apple-looooooosa! Ah'm Braeburn!"
+                    b "Oh yes! We've met before, in Apple-looooooosa! I'm Braeburn!"
                     p "Yes, with Bloomberg, the \"You gotta share\" song and all of that..."
-                    b "Funny times, ya should come back someday."
+                    b "Good times, you should come back someday."
                 
                 p "Maybe I will. Especially if they're all as friendly as you are."
-                b "ya bet. But nopony there make cider like Granny Smith do."
-                p "Cider, uh? Don't drink too much!"
+                b "You bet. But nopony there makes cider like Granny Smith does."
+                p "Cider, uh? Well, don't drink too much!"
                 "You added a wink to your last comment."
-                b "ya know, I might."
+                b "You know, I might."
                 p "A handsome stallion like you? What could you possibly want to blur with hard cider?"
-                b "Big Mac. First stallion Ah met that did not react to my charm."
-                p "Wait, you're like?"
-                b "Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And Ah like some variety ya know?"
+                b "Big Macintosh. First stallion I met that did not react to my charm."
+                p "Wait, you're like...?"
+                b "Colt cuddler? Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And I like some variety, you know?"
                 
                 if(playername == "Applejack"):
                     menu braeburncest:
                         "What about incest?":
                             p "What do you think about incest?"
                             "He blushes."
-                            b "That's direct sugarcube. Do you ask for... Or... Buck it. Let's go behind the barn, we should be alone and all."
+                            b "That's direct, sugarcube. Do you ask for... Or... Buck it. Let's go behind the barn, we should be alone and all."
                             stop music fadeout 1.0
                             scene end07
                             with fade
@@ -151,20 +152,20 @@
                         "I understand":
                             $0#Useless line is useless. Except for the interpreter.
                 
-                p "Yeah, whatever float your boat."
-                b "Ya're cute sugarcube. And Big Mac is there, Ah'm gonna try one last time. We should meet again someday."
+                p "Yeah, whatever float your boat. If everyone was like that, the world would be a simpler place."
+                b "You're cute sugarcube. And Big Mac is there, I'm gonna try one last time. We should meet again someday."
                 "He gives you a sugar cube and leave."
                 $p_aj = "sugarcube"
                 $ nb_lock = nb_lock + 1
                 
                 hide braeburn
                 with dissolve
-                p "Well. Let's eat something at least."
+                p "Well. Let's at least eat something."
                 "You look at the table..."
                 stop music fadeout 1.0
                 scene black
                 with fade
-                "...And ate, without further noticeable conversations. After that, you went back to the crossroad."
+                "...And thus you ate, without further noticeable conversations. After that, you went back to the crossroad."
                 
             "Play a bit":
                 p "I'm feeling playful. I bet that I could catch an apple in 10 seconds flat."
@@ -172,12 +173,12 @@
                     aj "Prove it, \"Dashie\"."
                     "She's clearly grinning at the thought."
                 else:
-                    aj "Ya're not Rainbow, but ya know what saying that mean, don't ya?"
+                    aj "You're not Rainbow, but you know what saying this means, don't you?"
                     p "That I need to prove it?"
                    
                     aj "Exactly."
                     p "I will."
-                    "Are you clearly grinning at the thought? ...Whatever."
+                    "Are you grinning at the thought? ...Whatever."
                 
                 stop music fadeout 1.0
                 scene black
@@ -197,24 +198,24 @@
                 
                 aj "Thisch!"
                 
-                "Wait, how did she do that? Three in a second? And you've never even tried to catch an apple with your pony-mouth before."
+                "Wait, how did she do that? Three in a second? And you've never tried to catch an apple with your pony-mouth before."
                 
                 "What should you do?"
                 
                 menu waterapple:
                     "Do your best":
-                        "Trying to do your best, eh? Let's see what happens then."
+                        "Trying to do your best, eh? Let's see what happens, then."
                         p "I can do better!"
                         
-                        "Well, that's not you to decide, so... 4 apples in the water, but you're a level 1 pony with only 2 in dexterity... Let's roll 2 D20..."
+                        "Well, that's not for you to decide, so... 4 apples in the water, but you're a level 1 pony with only 2 in dexterity... Let's roll 2 D20..."
                         
                         if((playername=="Twilight Sparkle") and (p_book == "astronomy")):
-                            "3 and 8? Uh. That's pretty bad 'Twilie'."
+                            "3 and 8? Uh. That's pretty bad, 'Twilie'."
                             
                         elif (playername == "Rainbow Dash" and p_rd == "sunglasses"):
-                            "14 and 13? That's quite good! Uh. But you have the cool sunglasses, it boosts your charm, but lowers your dexterity by 20 points. Your result isn't 27, It's only 7. That's bad 'Dashie'."
+                            "14 and 13? That's quite good! Uh. But you have the cool sunglasses, it boosts your charm, but lowers your dexterity by 20 points. Your result isn't 27, It's only 7. That's bad, 'Dashie'."
                         else:
-                            "2 and 1? Epic failure. You didn't even try, not literally."
+                            "2 and 1? Epic failure. You didn't even try, well, not literally."
                         p "Hey! You're making these up, don't blame me!"
                         show applejack hat wtf
                         with dissolve
@@ -223,22 +224,22 @@
                         aj "Oooookay sugarcube..."
                         "Ah! Don't forget that you shouldn't be able to talk back. And now let's put you in the water and let you have an apple in 12 seconds."
                         p "Wai-"
-                        "And your just did that."
+                        "And you just did that."
                         p "Arrr... Pfff.... Gnnnn..."
                         show applejack hat supersmile
                         with dissolve
-                        aj "That's a bit slow for ten seconds and ya only got an apple [playername2]. Ah guess Ah won!"
-                        p "I guess you do."
+                        aj "That's a bit slow for ten seconds and you only got an apple [playername2]. I guess I won!"
+                        p "I guess you did."
                         
                     "Do your worst":
-                        "Oh, come on! Where's the fun? I would have roll dices and say random stuff depending on your character!"
+                        "Oh, come on! Where's the fun? I would have rolled dice and said random things depending on your character!"
                         p "I'll see what I can do."
-                        "Yeah, yeah, and the more you try, the less you're able to catch an apple. Your miserable attempt is clearly a deception and it take you 25 seconds to catch a single fruit."
+                        "Yeah, yeah, and the more you try, the less you're able to catch an apple. Your miserable attempt is clearly a reflection of your general failure at life and it takes you 25 seconds to catch a single fruit."
                         show applejack hat meh
                         with dissolve
-                        aj "Were ya even tryin'?"
-                        p "Yes, of course I was! I'm no wimp! It... It was the number of apples already in the water. I swear!"
-                        "She sigh."
+                        aj "Were you even tryin'?"
+                        p "Yes, of course I was! I'm no wimp! It... It was because of the number of apples already in the water. I swear!"
+                        "She sighs."
                         
                 aj "Well... Keep the apple and come back to me when you feel like you can do better!"
                 p "I will!"
@@ -255,9 +256,10 @@
                 scene black
                 with dissolve
                 
-                "And you went back to the crossroad. Getting this [p_aj] was worth the trip. I guess."
+                "And you went back to the crossroad."
                 $appl2 = True
                 
+        "Getting this [p_aj] was worth the trip. I guess."
         $appl1 = True
         jump outdoors
         
@@ -266,51 +268,52 @@
         "You come back to the Apple Family Reunion. A lot of ponies are here, discussing, playing, dancing... But for the moment, as you're not seeing Applejack anywhere and are a bit hungry due to the trip, you focus your attention on some apple pie."
                 
         if(playername=="Applejack"):
-            u "Howdy cousin! ya did a great job!"
+        
+            u "Howdy cousin! You did a great job!"
             show braeburn happy
             with dissolve
             p "Sorry, I'm surely not the one you're thinking I am."
-            u "Ah, sorry mam', Ah thought ya were the ol' AJ."
-            p "Ah am! ... I mean, I am! But I'm not. My name is Applejack, I look like the Applejack you know, but I'm not her., look, she's just... Where is she anyway?"
-            "You failed to point out the real AJ to the pony."
-            b "Oh. Don't worry, Ah trust you. And Ah'm Braeburn, coming from Apple-loooooooosa! Great town, ya should come someday!"
+            u "Ah, sorry mam', I thought you were the ol' AJ."
+            p "I am! But I'm not. My name is Applejack, I look like the Applejack you know, but I'm not her. Look, she's just over there, talking to... Where is she?"
+            "You fail to point out the real AJ to the pony."
+            b "Oh. Don't worry, I trust you. And I'm Braeburn, coming from Apple-loooooooosa! Great town, you should come someday!"
             
         else:
-            u "Howdy! Erm. AJ friend?"
+            u "Howdy! Erm... AJ friend?"
             show braeburn happy
             with dissolve
             p "Yes, close friend. My name is [playername]."
-            b "We've met before, in Apple-looooooosa! Ah'm Braeburn!"
+            b "Oh yes! We've met before, in Apple-looooooosa! I'm Braeburn!"
             p "Yes, with Bloomberg, the \"You gotta share\" song and all of that..."
-            b "Funny times, ya should come back someday."
+            b "Good times, you should come back someday."
                 
         p "Maybe I will. Especially if they're all as friendly as you are."
-        b "ya bet. But nopony there make cider like Granny Smith do."
-        p "Cider, uh? Don't drink too much!"
+        b "You bet. But nopony there makes cider like Granny Smith does."
+        p "Cider, uh? Well, don't drink too much!"
         "You added a wink to your last comment."
-        b "ya know, I might."
-        p "An handsome stallion like you? What could you possibly want to blur with hard cider?"
-        b "Big Mac. First stallion Ah met that did not react to my charm."
-        p "Wait, you're like?"
-        b "Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And Ah like some variety ya know?"
-        p "Yeah, whatever float your boat."
-        b "ya're cute sugarcube, d'ya know that?"
+        b "You know, I might."
+        p "A handsome stallion like you? What could you possibly want to blur with hard cider?"
+        b "Big Macintosh. First stallion I met that did not react to my charm."
+        p "Wait, you're like...?"
+        b "Colt cuddler? Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And I like some variety, you know?"    
+        p "Yeah, whatever float your boat. If everyone was like that, the world would be a simpler place."
+        b "You're cute sugarcube, do you know that?"
         
         menu cute_bb:
             "I'm not cute!":
                 
                 p "I... I'm not cute! And you're a stallion!"
-                b "Oh. Ah didn't guess you were only into mares, sorry sugarcube!"
+                b "Oh. I didn't guess you were only into mares, sorry sugarcube!"
                 p "Yeah, I'm not g... Wait, I'm a mare myself."
-                b "Ah guess ya're, not that it matters to me. Are you gender confused or somethin'?"
+                b "Ah guess you are, not that it matters to me. Are you gender confused or somethin'?"
                 p "N... No. Just forget it. Is there anything I could do? That doesn't involve kisses, of course."
                 
             "I sure am. *wink wink*":
                 
                 p "You bet I'm cute. Not as much as you are though."
-                b "And what does ya cute face intends to do today?"
+                b "And what does your cute face intends to do today?"
                 p "I was thinking about \"discussing\" with your cute face. You know, with passion."
-                b "Ah sure would love that... Let's go behind the barn, we should be alone and all."
+                b "I sure would love that... Let's go behind the barn, we should be alone and all."
                 stop music fadeout 1.0
                 
                         
@@ -341,7 +344,7 @@
             "I don't have enough alcohol in my blood for that.":
                 
                 p "I have too much blood in my alcohol for that."
-                b "Ah sure can offer ya some hard cider."
+                b "I sure can offer you some hard cider."
                 p "That would be great! And in return I would kiss you all day."
                 
         b "Just kisses?"
@@ -350,7 +353,7 @@
         p "Sorry Braeburn. So... Don't you have anything I can do?"
         b "What about bringing me some sunglasses?"
         p "Sunglasses?"
-        b "Yeah, Ah want to try a different approach with Big Mac."
+        b "Yeah, I want to try a different approach with Big Mac."
         p "Consider it done!"
         b "Thanks sugarcube, I'll wait."
         
@@ -366,7 +369,7 @@
         scene black
         with fade
         
-        "New quest! The sunglasses search! Let's engage an epic music! Wait... No. It might not be adequate with the rest of the game. And you would have been going back to the crossroad all the same anyway."
+        "New quest! The sunglasses investigation! Let's play an epic music! Wait... No. It might not be adequate with the other parts of the game. And you would have been going back to the crossroad all the same anyway."
         $appl2 = False
         $appl3 = True
         jump outdoors
@@ -382,20 +385,20 @@
             with dissolve
             
             b "Welcome back [playername2]!"
-            p "I've got your sunglasses Brae', but I can't let you have them forever."
+            p "Hey Brae, I've got your sunglasses, but I can't let you have them forever."
             
             label give_brae_sunglasses:
                 $0#Useless line is useless. Except for the interpreter.
             
-            b "That was fast! ...What d'ya mean by not forever?"
+            b "That was fast! ...What do you mean by not forever?"
             p "You want to test them with Big Mac, right? Just return them once you're done."
-            b "Can't Ah just have them 'til tomorrow?"
+            b "Can't I just have them until tomorrow?"
             p "I guess I could let you borrow them longer... But I want something else in return."
             
             menu brae_reward:
                 "I want some alcohol":
                     p "I want to drink. A lot."
-                    b "Wow. Calm down sugarcube, ya're not Berry Punch. What about some cider?"
+                    b "Wow. Calm down sugarcube, you're not Berry Punch. What about some cider?"
                     p "Your cider bottle. My mouth. Now."
                     
                     stop music fadeout 1.0
@@ -419,12 +422,12 @@
                     
                 "I want some time with AJ":
                     p "I want some time with AJ, if you know what I mean."
-                    b "Ah sure do [playername2], but that's not really up to me."
-                    p "Come on, I helped you with Big Mac, now it's your turn to at least try!"
-                    b "Ah promise nothin', but Ah'll do my best... Come back in a moment."
+                    b "I sure do [playername2], but that's not really up to me."
+                    p "Come on, I helped you with Big Mac, now it's your turn to help me! To try, at least."
+                    b "I promise nothin', but I'll do my best... Come back in a moment."
                     hide braeburn
                     with dissolve
-                    "And so he left to try."
+                    "And so he left, to try something undisclosed."
                     
                     stop music fadeout 1.0
                     scene black
@@ -500,7 +503,7 @@
     stop music fadeout 1.0
     scene black
     with fade
-    "What a useless trip... You go back to the crossroad anyway."
+    "What a useless trip... You went back to the crossroad anyways."
     jump outdoors
     
 return

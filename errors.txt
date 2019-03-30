@@ -2,9 +2,10 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/sugarcubecorner.rpy", line 455: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
-    p "Come on, where’s the fun in that?"
-    ^
+File "game/Scripts/options.rpy", line 338: unexpected indent
+        build.classify('game/**.png', 'archive')
+        ^
+    
 
-Ren'Py Version: Ren'Py 7.0.0.196
-Sun Mar 24 09:19:16 2019
+Ren'Py Version: Ren'Py 7.2.1.457
+Tue Mar 26 19:23:34 2019

@@ -12,7 +12,7 @@
         $ seenintro = True
         jump place_choice
         
-    elif(nb_lock==6):
+    elif(nb_lock==6) or ( ((playername=="Applejack") or (playername=="Rarity")) and nb_lock==5):
         "Hey, you really messed up!"
         p "Stop breaking the fourth wall, it isn't funny anymore."
         "It doesn't matter, you've just lost! Nopony here is willing to talk to you anymore!"
