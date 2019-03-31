@@ -277,7 +277,7 @@
     g.transition = dissolve
     
 # Step 3. The gallery screen we use.
-screen gallery:
+screen gallery():
 
     # Ensure this replaces the main menu.
     tag menu

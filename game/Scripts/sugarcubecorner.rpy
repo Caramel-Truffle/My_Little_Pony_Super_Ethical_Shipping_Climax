@@ -424,7 +424,7 @@
                     
                     "You are now alone and start putting the pies in the oven."
                     
-                    scene bg sugarcube kitchen2
+                    scene bg sugarcube corner kitchen2
                     with fade
                     
                     "Once you are done, you head back to the other room and hear the customer leaving."

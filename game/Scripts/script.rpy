@@ -111,6 +111,8 @@ image pinkie mini faceplant = im.FactorScale("Images/pinkie_faceplant.png", 0.68
 image caramel truffle = "Images/caramel_truffle.png"
 image ginster steed = "Images/ginster_steed.png"
 
+image cameo = "Images/cameo.png"
+
 image splash = "Images/splash.png"
 image splash1 = "Images/splash1.png"
 image splash2 = "Images/splash2.png"
@@ -285,6 +287,8 @@ define ab = Character("Apple Bloom",kind=aj)
 define b = Character("Braeburn",kind=aj)
 define nr = Character("Nurse Redheart",kind=r)
 define t = Character("Thunderlane",kind=ts,color="555555")
+
+define uc = Character("Useless Cameo",kind=r)
 
 # Declare variables
 

@@ -307,7 +307,7 @@
                 "Be gentle with her and get the book":
                     jump smallboink
             label smallboink:
-            "Okay Fluttershy, don't worry, I'm going to get a book like that and then we'll see what happens."
+            p "Okay Fluttershy, don't worry, I'm going to get a book like that and then we'll see what happens."
             fs "Th... Thank you."
             stop music fadeout 1.0
             scene black
@@ -402,16 +402,20 @@
         fs "OOOOOOOOOOOOOO"
 
         "And a useless cameo suddenly appears!"
+        
+        show cameo with dissolve
 
-        uc "Hi! I'm USELESS CAMEO'S NAME and welcome to My Little Pony: Super Ethical Shipping Climax, the small visual novel no one cared about, but got released anyway!"
+        uc "Hi! I'm \[USELESS CAMEO\] and welcome to My Little Pony: Super Ethical Shipping Climax, the small visual novel no one cared about, but got released anyway!"
 
         "That's harsh."
 
         uc "I mean, come on. This was initially made as a small test, then it blew out of proportions. No one cared enough to stay until the launch day, years  after years of hiatus. Why did it finally got released?"
+        
+        uc "Did you even proofreaded this time?"
 
-        uc "You know how I call that? Trying shamelessly to become relevant once more, thanks to the Bronycon ending."
+        uc "You know how I call that? Trying shamelessly to become relevant once more, thanks to the Bronycon ending. You're leeching off something else, otherwise your visual novel would have been ignored as it should have been."
 
-        "You're close actually, but that still burns. The idea was to put ponies behind and enter more officially a \"new age\", with finishing that old project as a way of ending pony dreams with a bang, like the Bronycon. Not exploiting it."
+        "You're sorta close actually, but that still burns. The idea was to put ponies behind and enter more officially a \"new age\", with finishing that old project as a way of ending pony dreams with a bang, like the Bronycon. Not exploiting it."
 
         uc "It burns? Good, my job here is done!"
 

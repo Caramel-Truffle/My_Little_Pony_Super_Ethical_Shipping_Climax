@@ -6,7 +6,7 @@
 #
 # Screen that's used to display adv-mode dialogue.
 # http://www.renpy.org/doc/html/screen_special.html#say
-screen say:
+screen say():
 
     # Defaults for side_image and two_window
     default side_image = None
@@ -64,7 +64,7 @@ screen say:
 # Screen that's used to display in-game menus.
 # http://www.renpy.org/doc/html/screen_special.html#choice
 
-screen choice:
+screen choice():
 
     window: 
         style "menu_window"        
@@ -105,7 +105,7 @@ init -2 python:
 # Screen that's used to display renpy.input()
 # http://www.renpy.org/doc/html/screen_special.html#input
 
-screen input:
+screen input():
 
     window style "input_window":
         has vbox
@@ -121,7 +121,7 @@ screen input:
 # Screen used for nvl-mode dialogue and menus.
 # http://www.renpy.org/doc/html/screen_special.html#nvl
 
-screen nvl:
+screen nvl():
 
     window:
         style "nvl_window"
@@ -172,7 +172,7 @@ screen nvl:
 # Screen that's used to display the main menu, when Ren'Py first starts
 # http://www.renpy.org/doc/html/screen_special.html#main-menu
 
-screen main_menu:
+screen main_menu():
 
     # This ensures that any other menu screen is replaced.
     tag menu
@@ -208,7 +208,7 @@ init -2 python:
 # Screen that's included in other screens to display the game menu
 # navigation and background.
 # http://www.renpy.org/doc/html/screen_special.html#navigation
-screen navigation:
+screen navigation():
 
     # The background of the game menu.
     window:
@@ -245,7 +245,7 @@ init -2 python:
 # a single screen, file_picker. We then use the file_picker screen
 # from simple load and save screens.
     
-screen file_picker:
+screen file_picker():
 
     frame:
         style "file_picker_frame"
@@ -304,7 +304,7 @@ screen file_picker:
                     key "save_delete" action FileDelete(i)
                     
                     
-screen save:
+screen save():
 
     # This ensures that any other menu screen is replaced.
     tag menu
@@ -312,7 +312,7 @@ screen save:
     use navigation
     use file_picker
 
-screen load:
+screen load():
 
     # This ensures that any other menu screen is replaced.
     tag menu
@@ -337,7 +337,7 @@ init -2 python:
 # Screen that allows the user to change the preferences.
 # http://www.renpy.org/doc/html/screen_special.html#prefereces
     
-screen preferences:
+screen preferences():
 
     tag menu
 
@@ -474,7 +474,7 @@ init -2 python:
 # Screen that asks the user a yes or no question.
 # http://www.renpy.org/doc/html/screen_special.html#yesno-prompt
     
-screen yesno_prompt:
+screen yesno_prompt():
 
     modal True
 
@@ -516,7 +516,7 @@ init -2 python:
 #
 # A screen that's included by the default say screen, and adds quick access to
 # several useful functions.
-screen quick_menu:
+screen quick_menu():
 
     # Add an in-game quick menu.
     hbox:
