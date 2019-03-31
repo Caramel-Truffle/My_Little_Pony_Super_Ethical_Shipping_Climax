@@ -390,6 +390,7 @@
         fs "No! Nooo!"
         "And with one kick of her hoof, she turns an hidden switch on, making a large amount of snow just suddenly fall on you."
         scene white with fade
+        stop music fadeout 1.0
         fs "Sneak attack! You did not expect that, did you?"
         p "…"
         "You are under a big pile of snow. Breathing is hard."

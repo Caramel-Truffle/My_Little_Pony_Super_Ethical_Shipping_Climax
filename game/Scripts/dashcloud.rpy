@@ -316,12 +316,19 @@
                 jump outdoors
                 
     if(dash4 == True):
+        play music "Music/dashie.mp3"
+        show rainbow flattered with dissolve
         
         "You come back to the Rainbow lair. The young athlete is here, drinking some water while sweat is beading off her fur." 
+        
+        show rainbow happy with dissolve
 
         rd "Hi there! I was about to hit the shower, wanna join me?"
 
         p "Sure thing!"
+        
+        scene black with fade
+        stop music fadeout 1.0
 
         "And you two entered the shower, big enough for two adult ponies to get into and fully wash themselves without touching one another, because it's good to save water, but it's better to do it while respecting personal spaces."
 
@@ -338,9 +345,9 @@
 
         p "Oof."
 
-        "Nice try being relevant. You two ended up having some nice clean fun during the afternoon, since you discovered the big secret explaining why this game is necessarily PG."
+        "Nice try updating your lingo. You two ended up having some nice clean fun during the afternoon, since you discovered the big secret explaining why this game is necessarily PG."
 
-        "Or whatever your classification system is. Seems like merely mentioning sexual intercourse is worthy of a 18+ rating in some countries, while for others it's barely a 7+ thing. "
+        "Or whatever your classification system is. Seems like merely mentioning sexual intercourse is worthy of a Mature rating in some countries, while for others it's barely a 7+ thing. "
 
         "Good job, Australia."
 

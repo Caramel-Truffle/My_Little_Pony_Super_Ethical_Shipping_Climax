@@ -420,33 +420,48 @@
             jump outdoors
             
     if(caro4 == True):
+    
+        play music "Music/carousel.mp3"
 
         "You go back to the Carousel Boutique, where everything is chic and magnifique, including the fabulous mare who is pouring some tea in a cup."
+        
+        show rarity happy with dissolve
 
         r"Welcome back [playername]! I just finished brewing the tea. This scent is divine!"
 
         if(playername=="Twilight Sparkle"):
             ts"Yes, it clearly is better than any book I sniffed. ... Not that I commonly do that, only to those with a great smell."
+            show rarity srsly with dissolve
         if(playername=="Rainbow Dash"):
             rd"It's radical. Better than Soarin musk! ... Not that we did anything funny after the grand galloping gala."
+            show rarity srsly with dissolve
         if(playername=="Rarity"):
             r"It really is divine, ma chère. Better than Hoity Toity intimate fragrance. ... Not that I could know it."
+            show rarity flattered with dissolve
         if(playername=="Fluttershy"):
             fs"Oh. Yes, it's lovely. Even better than animal scent covered in forest aroma, the dejections here can sometimes be disgusting."
+            show rarity srsly with dissolve
         if(playername=="Pinkie Pie"):
             pp"Ooooh! Yes yes! Even better than cake! You did not make cake with it, did you? It would totally not be sweet enough!"
+            show rarity srsly with dissolve
         if(playername=="Applejack"):
             aj"Er, yeah. I guess. Braeburn is still higher in my list of smellin' good. ... Erm. I mean braeburn, the apple, not Apple. Not my cousin."
+            show rarity shocked with dissolve
 
         r"Let's change the subject, my dear."
+        
+        show rarity happy with dissolve
 
         "And both of you sat down to enjoy tea time, until... everything went dark."
+        
+        scene black with fade
+        stop music fadeout 1.0
 
         "…"
 
         r "Finally awake?"
 
-        "That was clearly Rarity's voice."
+        "That was clearly Rarity's voice. You're blindfolded and thus cannot see."
 
         p "Thank you, I can read."
 
@@ -472,7 +487,7 @@
 
         "(sound of pages being turned)"
 
-        "Yes, this is it. That really is the true Rarity ending, according to the script. I hope you're not disappointed to have waited that long just for that."
+        "Yes, this is it. That really is the true Rarity ending, according to the script. I hope you're not disappointed to have waited that long only for that."
 
 
         if(playername=="Applejack"):

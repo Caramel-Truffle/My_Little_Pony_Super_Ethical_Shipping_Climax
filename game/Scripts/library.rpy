@@ -326,7 +326,8 @@
             jump outdoors
             
     if(libr4 == True):
-
+        
+        play music "Music/library.mp3"
         "You're back to the library, fragrance of books fills the air, the quiet \"who?\" of a sleeping owl may come to your ear if you listen well enough and the absence of any other living creature here seems obvious."
 
         p"Well. I just have to go back later, right?"
@@ -356,6 +357,8 @@
         ts"And you're right, this book has been written before we defeated Nightmare Moon. Most ponies forgot about her and even the scientists thought that the earthquakes and volcanic eruptions were natural. In fact, it was Nightmare Moon trying to make the nature rebels against us."
 
         "Wait. Was that Twilight? When did she...?"
+        
+        show twilight ohyou
 
         if(playername=="Twilight Sparkle"):
             p "Wait. You advised me to start with an outdated book?"
@@ -370,7 +373,11 @@
         if(playername=="Applejack"):
             p "Howdy y'all mate! ... Blimey. I can't do the accent properly. Anyway, what does Princess Luna do now?"
 
+        show wilight chuckle
+
         "She chuckles."
+        
+        show twilight happy
 
         ts"Well, because the events happened \"recently\", there is no book explaining that, but don't worry, Princess Luna intends to make each supermoon a moment of joy and peace now."
 
@@ -402,9 +409,13 @@
         if(playername=="Applejack"):
             p "So, no \"I want to win the lottery\" wish for the champagne socialists."
 
+        show twilight chuckle
+
         ts"No. No such wish, but..."
 
         p"But?"
+        
+        show twilight seductive
 
         ts"Love wishes, when they are reciprocal, are usually granted."
 
@@ -423,6 +434,8 @@
 
         "Oh. Are you this transparent to her?"
 
+        show twilight ohyou
+
         ts"Spike isn't there. I didn't know that Rarity loved him back, but if they are together this evening, it might be it."
 
         if(playername=="Twilight Sparkle"):
@@ -438,11 +451,15 @@
         if(playername=="Applejack"):
             p "Oh, yes, the nancy boy and the maiden. What else? Ha ha."
 
+        show twilight chuckle
+
         ts"My Twilie sense tells me that you were thinking of something else."
 
         "You sigh."
 
         p"Let's put the mask aside for a moment. I was just thinking of us."
+        
+        show twilight seductive
 
         ts"Of us? What do you mean?"
 
@@ -455,6 +472,9 @@
         p"Okay, looking at the moon during the night. Close to one another, sharing our hopes, sharing our dreams, until we both realize..."
 
         ts"Enough singing. Follow me."
+        
+        scene blackwith fade
+        stop music fadeout 1.0        
 
         "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, were moonlight engulfed you for a second."
 
@@ -463,20 +483,31 @@
         "You gasped as your body started to sparkle and after a few seconds, you levitated two hooves from the ground, without the help of wings or unicorn magic. Your colour scheme changed quickly a few times and all the while, Twilight stepped back slowly until being tail-to-wall."
 
         ts"No no no no... This shouldn't be happening! Not now!"
+        
+        scene white with fade
 
         "Was what she said, in a mix of anguish and disgust.\nMeanwhile, your eyes turned white and illuminated the room, until..."
+        
+        scene black with fade
 
         "Everything went black again."
 
         "Retrospectively, you did not regain consciousness before a few hours, having forgotten what just happened."
 
+        scene bg library with fade
+        play music "Music/library.mp3"
+
         p"Nyuh?"
 
         "Was the most intelligible thing you were able to say. You sensed that Twilight was nearby, her body was warm, but didn't move. Did you just...? No. She was still breathing. And started to cough. After a while, she mumbled."
 
+        show twilight what with dissolve
+
         ts"A.... Are... You...."
 
         p"Am I?"
+        
+        show twilight battle
 
         ts"A... Are you... Are you.... ARE YOU CRAZYYYYY??!"
 
@@ -491,7 +522,10 @@
         p"Wait, what's going on?"
 
         ts"You. Me. Telescope. Now."
-
+        
+        scene black with fade
+        stop music fadeout 1.0
+        
         "And both of you enjoyed a peaceful night, watching the stars, the moon and probably doing whatever Lady and the Tramp did that night they were together. You know which one, two months before they had children."
         "(Yes, for the two sleeping in the back, the gestation time for dogs is around two months.)"
 
