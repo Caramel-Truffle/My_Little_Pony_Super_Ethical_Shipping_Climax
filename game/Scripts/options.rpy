@@ -17,7 +17,7 @@ init -1 python hide:
     ## set to False before the game is released, so the user can't
     ## cheat using developer tools.
 
-    config.developer = False
+    config.developer = True
 
     ## These control the width and height of the screen.
 
@@ -337,6 +337,7 @@ init python:
     
     build.classify('game/**.png', 'archive')
     build.classify('game/**.jpg', 'archive')
+    build.classify('game/**.mp3', 'archive')
 
     ## Files matching documentation patterns are duplicated in a mac app
     ## build, so they appear in both the app and the zip file.
