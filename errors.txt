@@ -2,9 +2,7 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/dashcloud.rpy", line 292: Line is indented, but the preceding with statement statement does not expect a block. Please check this line's indentation.
-    linear 1.0 xalign 0.2
-    ^
+File "game/Scripts/fluttercottage.rpy", line 482: indentation mismatch.
 
 Ren'Py Version: Ren'Py 7.2.1.457
-Sat Mar 30 08:59:42 2019
+Sun Mar 31 05:31:47 2019

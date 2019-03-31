@@ -366,71 +366,57 @@
         jump outdoors
         
     if(flut4 == True):
-
+        "You are back to the cottage and have no problem going to the part of the Everfree Forest where Fluttershy is waiting for you."
+        scene bg forest
+        with fade
+        show fluttershy side embarassed
+        with dissolve
         "As you come back to Fluttershy, something dirty comes into your mind, yes… You hide behind a tree, look at the poor and unsuspecting pony, who is whispering loud enough for you to hear."
-
+        show fluttershy shutter
+        with dissolve
         fs "Y-yes. I am feeding the critters. Totally defenseless. If anypony came to take advantage of me right now, I would not be able to fend them off!"
-
-        "And just at that, you sent them a ball of snow directly in the fur!"
-
-        "…"
-
-        "What's the matter? The background got no snow? You're playing this during summer? You pleb, use your imagination!"
-
+        show fluttershy side embarassed
+        with dissolve
+        "And just at the end of that sentence, you threw at her a ball of snow and it hit her fur directly!"
+        show fluttershy fly what
+        with dissolve
         fs " Eeeeeeeek!"
-
+        p "…"
+        "What's the matter? The background got no snow? You're playing this during summer? You pleb, use your imagination!"
         "Fluttershy screams and weakly flutters away. You go after her, laughing like a maniac."
-
+        scene black with fade
         fs "No! Nooo!"
-
         "And with one kick of her hoof, she turns an hidden switch on, making a large amount of snow just suddenly fall on you."
-
+        scene white with fade
         fs "Sneak attack! You did not expect that, did you?"
-
-        p " …. "
-
+        p "…"
         "You are under a big pile of snow. Breathing is hard."
-
         fs "Oh no. Too much?"
-
         "Fluttershy starts to concentrate her energy."
-
-        fs "KA-ME"
-
-        fs "KA-ME"
-
-        fs "OOOOOOOOOOOOOO"
-
+        fs "KA-ME..."
+        fs "KA-ME!"
+        fs "OOOOOOOOOOOOOO!!"
         "And a useless cameo suddenly appears!"
-        
         show cameo with dissolve
-
         uc "Hi! I'm \[USELESS CAMEO\] and welcome to My Little Pony: Super Ethical Shipping Climax, the small visual novel no one cared about, but got released anyway!"
-
         "That's harsh."
-
         uc "I mean, come on. This was initially made as a small test, then it blew out of proportions. No one cared enough to stay until the launch day, years  after years of hiatus. Why did it finally got released?"
-        
         uc "Did you even proofreaded this time?"
-
         uc "You know how I call that? Trying shamelessly to become relevant once more, thanks to the Bronycon ending. You're leeching off something else, otherwise your visual novel would have been ignored as it should have been."
-
         "You're sorta close actually, but that still burns. The idea was to put ponies behind and enter more officially a \"new age\", with finishing that old project as a way of ending pony dreams with a bang, like the Bronycon. Not exploiting it."
-
         uc "It burns? Good, my job here is done!"
-
+        hide cameo
         "Wait, why is this the only thing you-"
-
+        scene bg forest with fade
+        show fluttershy fly what with dissolve
         p "ATCHOO"
-
+        show fluttershy fly worried
         "Oh. Yeh, right. Burning, snow melting, makes sense."
-
         "…"
-
         "Wait no it doesn-"
-
-
-
+        
+        
+        
         if(playername=="Applejack"):
             scene end28  
             with fade          
@@ -453,7 +439,6 @@
         "--Fluttershy true ending--"
         jump credits
     
-        
     "The cottage seems to be void of ponies and despicable-smart-white-bunnies."
     p "The door is locked. I better go elsewhere."
     stop music fadeout 1.0
