@@ -16,6 +16,7 @@ image bg rainbow bedroom = "Images/rainbow_bedroom.png"
 image bg sugarcube corner kitchen2 = "Images/sugarcube_corner_kitchen2.png"
 image bg sugarcube corner lobby = "Images/sugarcube_corner_lobby.png"
 image bg sweet apple acres = "Images/sweet_apple_acres1.png"
+image bg white = "Images/white.png"
 
 image applejack hat angry = "Images/applejack_hat_angry.png"
 image applejack hat applemouth = "Images/applejack_hat_applemouth.png"
