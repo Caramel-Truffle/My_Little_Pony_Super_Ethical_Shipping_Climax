@@ -153,7 +153,7 @@ define gui.button_borders = Borders(4, 4, 4, 4)
 
 ## If True, the background image will be tiled. If False, the background image
 ## will be linearly scaled.
-define gui.button_tile = False
+define gui.button_tile = True
 
 ## The font used by the button.
 define gui.button_text_font = gui.interface_text_font

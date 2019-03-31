@@ -2,9 +2,45 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/library.rpy", line 497: expected 'image_name_component' not found.
-    show scene library with fade
+File "game/Scripts/sugarcubecorner.rpy", line 469: Line is indented, but the preceding play sound statement statement does not expect a block. Please check this line's indentation.
+    scene black with dissolve
+    ^
+
+File "game/Scripts/sugarcubecorner.rpy", line 471: Line is indented, but the preceding play sound statement statement does not expect a block. Please check this line's indentation.
+    scene white with dissolve
+    ^
+
+File "game/Scripts/sugarcubecorner.rpy", line 473: Line is indented, but the preceding play sound statement statement does not expect a block. Please check this line's indentation.
+    scene black with dissolve
+    ^
+
+File "game/Scripts/sugarcubecorner.rpy", line 475: Line is indented, but the preceding play sound statement statement does not expect a block. Please check this line's indentation.
+    scene white with dissolve
+    ^
+
+File "game/Scripts/sugarcubecorner.rpy", line 477: expected 'image_name_component' not found.
+    show scene black with dissolve
+        ^
+
+File "game/Scripts/sugarcubecorner.rpy", line 479: expected 'image_name_component' not found.
+    show scene white with dissolve
+        ^
+
+File "game/Scripts/sugarcubecorner.rpy", line 481: expected 'image_name_component' not found.
+    show scene black with dissolve
+        ^
+
+File "game/Scripts/sugarcubecorner.rpy", line 483: expected 'image_name_component' not found.
+    show scene white with dissolve
+        ^
+
+File "game/Scripts/sugarcubecorner.rpy", line 485: expected 'image_name_component' not found.
+    show scene black with dissolve
+        ^
+
+File "game/Scripts/sugarcubecorner.rpy", line 487: expected 'image_name_component' not found.
+    show scene white with dissolve
         ^
 
 Ren'Py Version: Ren'Py 7.2.1.457
-Sun Mar 31 13:36:18 2019
+Sun Mar 31 15:38:16 2019

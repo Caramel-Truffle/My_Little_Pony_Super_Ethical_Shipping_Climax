@@ -250,6 +250,7 @@
         p "Do Mr and Ms Cake allow you to do that?"
         pp "Giving free cupcakes? As long as I make a profit at the end of the day, no problem."
         p "Well, in that case..."
+        play sound "SFX/gotObject.mp3"
         "You got two cupcakes!"
         "You eat three cupcakes!"
         p "I should be okay for a while now."
@@ -451,15 +452,147 @@
             
     if(suga4 == True):
         
+        play music "Music/pinkie.mp3"
         "I’m out of there."
         p "Come on, where’s the fun in that?"
-        " "
+        "."
+        show pinkie alicorn with dissolve
         pp "YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY, YOU CAME!"
         p "That’s what she…."
         pp "Yes, that’s exactly what I just said! Now let’s enjoy the-"
-        "(post-modern visuals)"
+
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend00 with dissolve
+        show pinkie monster:
+            linear 0.5 yalign 1.0
+            repeat
+        
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend01 with dissolve
+        show pinkie monster:
+            linear 1 xalign 1.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend02 with dissolve
+        show pinkie monster:
+            linear 0.5 xalign 0.0
+            repeat
+        
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend03 with dissolve
+        show pinkie monster:
+            linear 0.5 xalign 1.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend04 with dissolve
+        show pinkie monster:
+            linear 1 yalign 0.0
+            repeat
+        
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend05 with dissolve
+        show pinkie monster:
+            linear 0.5 yalign 1.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend06 with dissolve
+        show pinkie monster:
+            linear 1 yalign 0.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend07 with dissolve
+        show pinkie monster:
+            linear 0.5 yalign 1.0
+            repeat
+        
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend08 with dissolve
+        show pinkie monster:
+            linear 1 xalign 1.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend09 with dissolve
+        show pinkie monster:
+            linear 0.5 xalign 0.0
+            repeat
+        
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend10 with dissolve
+        show pinkie monster:
+            linear 0.5 xalign 1.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend11 with dissolve
+        show pinkie monster:
+            linear 1 yalign 0.0
+            repeat
+        
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend12 with dissolve
+        show pinkie monster:
+            linear 0.5 yalign 1.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend13 with dissolve
+        show pinkie monster:
+            linear 1 yalign 0.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend14 with dissolve
+        show pinkie monster:
+            linear 0.5 yalign 1.0
+            repeat
+        
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend15 with dissolve
+        show pinkie monster:
+            linear 1 xalign 1.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend16 with dissolve
+        show pinkie monster:
+            linear 0.5 xalign 0.0
+            repeat
+        
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend17 with dissolve
+        show pinkie monster:
+            linear 0.5 xalign 1.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend18 with dissolve
+        show pinkie monster:
+            linear 1 yalign 0.0
+            repeat
+        
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend19 with dissolve
+        show pinkie monster:
+            linear 0.5 yalign 1.0
+            repeat
+
+        play sound "SFX/trueEnding.mp3"
+        scene pinkieend20 with dissolve
+        show pinkie monster:
+            linear 1 yalign 0.0
+            repeat
+
+        show pinkie faceplant
         pp "That was fun!"
+        show pinkie happy
         p "Was that all a metaphor?"
+        show pinkie laugh
         pp "Who cares? Take my ending and go have some more fun!"
         
         if(playername=="Applejack"):
@@ -483,6 +616,7 @@
         
         play sound "SFX/trueEnding.mp3"
         "--Pinkie Pie true ending--"
+        stop music fadeout 1.0
         jump credits
             
     "The bakery is empty and the cash register locked."
