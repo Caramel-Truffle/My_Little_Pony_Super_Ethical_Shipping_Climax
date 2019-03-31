@@ -129,6 +129,10 @@
                 show twilight showing
                 with dissolve
                 ts "Good, it's the book right there, let me give it to you."
+                play sound "SFX/magic.mp3"
+                show twilight showing glowing with dissolve
+                show twilight showing with dissolve
+                show twilight happy with dissolve
                 play sound "SFX/gotObject.mp3"
                 "Twilight takes the book with her magic and gives it to you. You now have \"The astronomy for silly fillies\"!"
                 show twilight happy
