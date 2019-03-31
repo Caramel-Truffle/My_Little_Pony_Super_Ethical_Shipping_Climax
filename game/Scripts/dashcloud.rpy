@@ -329,6 +329,7 @@
         
         scene black with fade
         stop music fadeout 1.0
+        play music "Music/showerlong.ogg"
 
         "And you two entered the shower, big enough for two adult ponies to get into and fully wash themselves without touching one another, because it's good to save water, but it's better to do it while respecting personal spaces."
 
@@ -337,7 +338,7 @@
         rd "No genius aliens? That sounds kind of racist."
         p "No, I mean, everypony resembles a barbie doll down there."
 
-        rd "Barbie dolls? You're making less and less sense by the minute."
+        rd "Barbier dolls? You're making less and less sense by the minute."
 
         p "Rainbow Dash. How are fillies and colt made?"
 
@@ -352,6 +353,8 @@
         "Good job, Australia."
 
         p "Please just roll the credits."
+        
+        stop music fadeout 1.0
 
         
         if(playername=="Fluttershy"):
