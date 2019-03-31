@@ -2111,3 +2111,5 @@ Total time until interface ready: 143.113000154s
 - Frame drawn at 0.017949 seconds.
 - Frame drawn at 0.033949 seconds.
 - Frame drawn at 0.050949 seconds.
+- Frame drawn at 0.065949 seconds.
+- 0.065949 seconds to render 5 frames.
