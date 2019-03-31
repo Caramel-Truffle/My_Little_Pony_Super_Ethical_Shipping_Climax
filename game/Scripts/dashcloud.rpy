@@ -115,6 +115,7 @@
                 with dissolve
                 rd "There, the coolest glasses in all of Equestria!"
                 p "Thank you Dashie! You are a life saver!"
+                play sound "SFX/gotObject.mp3"
                 "You receive a cool pair of sunglasses!"
                 rd "Well... I hope you'll tell me what this is all about tomorrow."
                 p "Tomorrow?"
@@ -145,6 +146,7 @@
                 rd ".....\n
                     .....\n
                     Nooooo. Not at all, you can take this one. This... Isn't the one at all, I'm not stupid."
+                play sound "SFX/gotObject.mp3"    
                 "While blushing a bit, Rainbow Dash give you a dumbbell!"
                 $ p_rd = "dumbbell"
                 rd "I will... Erm. Continue to search. Go back here as soon as you are ready to go."
@@ -369,7 +371,7 @@
         if(playername=="Twilight Sparkle"):
             scene end15
             with fade
-        
+        play sound "SFX/trueEnding.mp3"
         "--Rainbow Dash true ending--"
         jump credits
                 

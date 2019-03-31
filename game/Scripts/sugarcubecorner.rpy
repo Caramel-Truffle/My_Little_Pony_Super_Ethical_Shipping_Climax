@@ -198,7 +198,7 @@
                 $ suga2 = True
         
         pp "That's it! Here, take this [p_cake]!"
-        
+        play sound "SFX/gotObject.mp3"
         "She gives you a [p_cake]!"
         
         p "So.... That's it? You give me the item an nothing else? No explanation or whatever?"
@@ -481,7 +481,7 @@
             scene end52
             with fade
         
-        
+        play sound "SFX/trueEnding.mp3"
         "--Pinkie Pie true ending--"
         jump credits
             

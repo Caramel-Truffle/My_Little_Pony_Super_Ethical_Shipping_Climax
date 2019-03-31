@@ -129,6 +129,7 @@
                 show twilight showing
                 with dissolve
                 ts "Good, it's the book right there, let me give it to you."
+                play sound "SFX/gotObject.mp3"
                 "Twilight takes the book with her magic and gives it to you. You now have \"The astronomy for silly fillies\"!"
                 show twilight happy
                 with dissolve
@@ -182,6 +183,7 @@
                 with dissolve
                 
                 ts "It's one of my personal books. I won't ask why you need it, just return it when you are done."
+                play sound "SFX/gotObject.mp3"
                 "You know have a ponygraphic book! Don't make it sticky, Twilight wouldn't appreciate that."
                 p "Well... Thank you?"
                 ts "No worries. Now if you don't mind, I have other things to do. You can come back tomorrow!"
@@ -551,7 +553,7 @@
         if(playername=="Twilight Sparkle"):
             scene end84
             with fade        
-        
+        play sound "SFX/trueEnding.mp3"
         "--Twilight true ending--"
         jump credits
 

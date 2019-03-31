@@ -202,6 +202,7 @@
                 stop music fadeout 1.0
                 scene black
                 with fade
+                play sound "SFX/gotObject.mp3"
                 "And both of you drank your cup, Fluttershy gave you enough tea to drug somepo- erm. To enjoy a cup per day for a month."
                 "Then she went feeding the birds, saying that you probably wouldn't be able to find her until the next day."
                 "After that, you went back to the crossroad."    
@@ -218,6 +219,7 @@
                 stop music fadeout 1.0
                 scene black
                 with fade
+                play sound "SFX/gotObject.mp3"
                 "And both of you drank your cup, Fluttershy gave you enough seeds to feed a flock of birds and remembered that she had something else to do before bird-feeding, something special because of the moon..."
                 "You told her that it was okay, you would come back later when she would have finished. You went back to the crossroad."
                 $ flut2 = True
@@ -438,7 +440,7 @@
         if(playername=="Twilight Sparkle"):
             scene end33
             with fade        
-        
+        play sound "SFX/trueEnding.mp3"
         "--Fluttershy true ending--"
         jump credits
     

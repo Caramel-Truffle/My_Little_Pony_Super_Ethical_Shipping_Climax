@@ -154,7 +154,8 @@
                 
                 p "Yeah, whatever float your boat. If everyone was like that, the world would be a simpler place."
                 b "You're cute sugarcube. And Big Mac is there, I'm gonna try one last time. We should meet again someday."
-                "He gives you a sugar cube and leave."
+                play sound "SFX/gotObject.mp3"
+                "He gives you a sugar cube and leaves."
                 $p_aj = "sugarcube"
                 $ nb_lock = nb_lock + 1
                 
@@ -453,16 +454,28 @@
         jump outdoors
         
     if(appl4 == True):
+    
+        play music "Music/applebarn.mp3"
 
-        "You get back to the Apple farm, where everypony is slowly starting to leave, either to their vehicle so they can get home, to their trailer, so they can prepare themselves to the night to come, or to any other mean of sleeping there. The Apple house being clearly too small to host the whole crowd and most ponies have come from too far away not to stay over and dedicate the next day(s) to driving home. Although most would simply ride the train."
+        "You get back to the Apple farm, where everypony is slowly starting to leave, either going to their vehicle so they can get home, to their trailer, so they can prepare themselves for the night to come, or to any other sleeping place there."
+        "The Apple house is clearly too small to host the whole crowd. Most ponies have come from too far away not to stay over and wait for the next day before starting to drive home. Although most would simply ride the train."
+        
+        show applejack hat happy
 
-        aj "Howdy, [playername]! I didn't think you'd come back! Did'ya want to stay over for the night?"
+        aj "Howdy, [playername]! I didn't think you'd come back! Did you want to stay over for the night?"
 
         p "Yeah, I was thinking about having a little extended family fun time. You know, us two, in a secluded space, sharing a close bond…"
 
+        show applejack hat supersmile
+
         aj "Don’t worry [playername], I have all your needs covered!"
+        
+        scene black with fade
+        stop music fadeout 1.0
 
         "And thus, in her bedroom, you and Applejack got close to one another, with a sinful look in your eyes, there was some lip biting, moaning and…"
+        
+        play sound "SFX/haha.mp3"
 
         aj "I win! Haha! I’m the best Gin Rummy Matching player in all the family!"
 
@@ -471,6 +484,8 @@
         p "I didn’t think you’d be so much into card games! … Wait. It feels like I am totally missing some kind of point there."
 
         aj "As if you expected us two to be doing something else, hidden in my bedroom? They don’t call me the Ungar of the family for nothin’!"
+        
+        play sound "SFX/fail.mp3"
 
         p "Literally no one call you that."
 
@@ -480,7 +495,7 @@
 
         "Shhhh"
 
-
+        
         if(playername=="Fluttershy"):
             scene end02
             with fade
@@ -494,7 +509,7 @@
             scene end05
             with fade
         
-        
+        play sound "SFX/trueEnding.mp3"
         "--Applejack true ending--"
         jump credits
     

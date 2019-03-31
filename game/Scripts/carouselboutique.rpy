@@ -146,6 +146,7 @@
                 with dissolve
                 
                 r "There, a nice and pure ruby."
+                play sound "SFX/gotObject.mp3"
                 "She gives you a ruby."
                 
                 $p_rar = "ruby"
@@ -508,7 +509,7 @@
         if(playername=="Twilight Sparkle"):
             scene end75
             with fade
-        
+        play sound "SFX/trueEnding.mp3"
         "--Rarity true ending--"
         jump credits
         
