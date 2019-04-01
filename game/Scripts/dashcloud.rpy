@@ -11,17 +11,17 @@
             "As a unicorn, you are able to cast spells to go up to Rainbow's cloud and not fall through it."
             p "Magic is useful, [playername] was a good choice."
             
-        "Anyway, Rainbow Dash is there, searching something under her bed, she apparently hasn't see you for the moment.\n
+        "Anyway, Rainbow Dash is there, searching something under her bed, she apparently hasn't seen you yet.\n
          What are you going to do?"
         
         menu datdashplot:
             "Stare at her plot":
                 "You look at her plot for a while, licking your lips. She grunts, as she apparently didn't find what she was looking for."
-                rd "What the hay? If I did not left it there, where could it be?"
+                rd "What the hay? If I did not leave it there, where could it be?"
             "Offer your help":
                 p "Hey Rainbow, need any help?"
                 rd "Sure, do you- Wait. What?"
-        "She stands up, turn around and see you."
+        "She stands up, turn around and sees you."
         play music "Music/dashie.mp3"
         show rainbow hey
         with dissolve
@@ -31,14 +31,14 @@
         if(playername=="Rainbow Dash"):
             show rainbow proud
             with dissolve
-            rd "But it's always a pleasure to welcome true fans in my lair!"
+            rd "But it's always a pleasure to welcome true fans to my lair!"
             p "True fans? ...Lair?"
-            rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And yeah, my rainbow-cloud. I'm not the heroin this city needs,
-                but the one this city deserve."
+            rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroin this city needs,
+                but the one this city deserves!"
             p "You watched batmare too much."
             rd "But she's so awesome! ...Hey, I did not catch your name."
             p "Can you make one of my dream come true and call me Rainbow Dash?"
-            rd "You really are a true fan! I like that! Okay, but just for today. Tomorrow I'll call you by your real name, deal?"
+            rd "You really are a true fan! I like that! Okay, but only for today. Tomorrow I'll call you by your real name, deal?"
             p "Deal."
             show rainbow happy
             with dissolve
@@ -47,7 +47,7 @@
         p "I was wondering if you could help me with something."
         
         if(playername == "Twilight Sparkle"):
-            rd "Do you need help in the library? I heard it's this time of year where you sort all the books again."
+            rd "Do you need help in the library? I heard it's this time of the year where you sort all the books again."
         if(playername == "Rarity"):
             rd "Please tell me you are not looking for a model to design a dress!"
         if(playername == "Fluttershy"):
@@ -64,8 +64,8 @@
                 show rainbow unsure
                 with dissolve
                 p "I need to be about 20\% cooler."
-                rd "That sentence is overused, you know?"
-                p "Sorry. Anyway, do you think that you can help?"
+                rd "That sentence has been overused, you know?"
+                p "Sorry. Anyway, do you think you could help?"
                 
                 if(playername == "Fluttershy"):
                     show rainbow interested
@@ -88,7 +88,7 @@
                             with fade
                             "And then both of you did naughty things, the bed being too near to ignore it."
                             p "Your lack of pictures on that matter disappoint me."
-                            "Tell that to the potential visual artists, because the best I can do is stick ponies."
+                            "Tell that to the ghost visual artist, because the best I can do is this."
                             p "If you could do anything, what would you choose?"
                             "Chibi ponies kissing each other in a kawaii way. This isn't a 18+ game after all."
                             p "One day..."
@@ -99,7 +99,7 @@
                 with dissolve
                 rd "Well, there's one easy way to handle that. I can't guarantee its results though."
                 p "And what would it be?"
-                rd "You know the principle of the lovely item, right? Something cute that makes you look like a nice pony?"
+                rd "Let me put you in context, first. Imagine you wanted to seem nicer. You know the principle of the lovely item, right? Something cute that makes you look like a nice pony?"
                 p "Like a plushie or a young kid?"
                 rd "Yeah. There's the same thing to look cooler instead of nicer, a \"cool item\" if you want."
                 p "And you have a cool item I could borrow?"
@@ -119,7 +119,7 @@
                 "You receive a cool pair of sunglasses!"
                 rd "Well... I hope you'll tell me what this is all about tomorrow."
                 p "Tomorrow?"
-                rd "Yeah, it was fun and all, but I promised Derpy I would exercise with her today, so I'm going to be busy for the rest of the day."
+                rd "Yeah, it was fun and all, but I promised Derpy I would go train myself with her today, so I'm going to be busy for the rest of the day."
                 p "You are really awesome."
                 rd "Yeah, yeah... But, please, don't go near us with these, I'll explain to you tomorrow."
                 p "No problem, see you tomorrow!"
@@ -127,7 +127,7 @@
                 stop music fadeout 1.0
                 scene black
                 with fade
-                "And she invited you to leave before doing so herself, then you went back to the Ponyville crossroad with her pair of cool sunglasses in...
+                "And she invited you to leave before doing so herself, then you went back to the Ponyville crossroad, with her pair of cool sunglasses in...
                  Wait... How do you even carry the items that ponies give you?"
                 p "You don't want to know."
                 "I heard nothing."
@@ -137,7 +137,7 @@
                 p "...to gain some strength."
                 rd "Strength? Really?"
                 p "Yes, I may not be an earth pony, but healthy exercises can't be ignored."
-                rd "Yeah, no, that was the timing that surprised me, I was searching a dumbbell to go exercise with Derpy, because she asked me to too!"
+                rd "Yeah, no, that was the timing that surprised me, I was searching a dumbbell to go train myself with Derpy, because she asked me to too!"
                 p "Really? Can I join you?"
                 rd "I don't think she would mind, so, yeah, sure! But first, we need to find that dumbbell."
                 p "Isn't it the one just right there, on the table right in front of you?"
@@ -146,11 +146,11 @@
                 rd ".....\n
                     .....\n
                     Nooooo. Not at all, you can take this one. This... Isn't the one at all, I'm not stupid."
-                play sound "SFX/gotObject.mp3"    
-                "While blushing a bit, Rainbow Dash give you a dumbbell!"
+                play sound "SFX/gotObject.mp3"
+                "While blushing a bit, Rainbow Dash gives you a dumbbell!"
                 $ p_rd = "dumbbell"
                 rd "I will... Erm. Continue to search. Go back here as soon as you are ready to go."
-                p "Ooookay... See you later then."
+                p "Ooookay... See you later, then."
                 rd "Yeah, real soon!"
                 stop music fadeout 1.0
                 scene black
@@ -163,16 +163,16 @@
         
     if(dash2 == True):
         play music "Music/dashie.mp3"
-        show derpy happy
+        show derpy superhappy
         with dissolve
-        "You are back to Rainbow's cloud, but instead of her, you find Derpy Hooves, a gray mare with yellow... Eyes."
+        "You are back to Rainbow's cloud, but instead of her, you stumble upon Derpy Hooves, a gray mare with yellow... Eyes."
         
         if(playername == "Rainbow Dash"):
             d "Rainbow Dash! You are back!"
             
             menu derpyabuse:
                 "Tell her the truth":
-                    p "I'm not Rainbow Dash, I'm just... A fan. Yeah, a harcore fan, cosplaying as her and all."
+                    p "I'm not Rainbow Dash, I'm just... A fan. Yeah, a hardcore fan, cosplaying as her and all."
                     d "Cool! I like her too! And muffins! I'm Derpy Hooves, what's your name?"
                     p "Well, why don't you call me Rainbow Dash as long as I'm cosplaying?"
                     d "I muffin this idea!"
@@ -203,9 +203,9 @@
                             scene end19
                             with fade
                             
-                            "And it was kisses and hugs time for the rest of the day, Dashie joigning you once she came back."
+                            "And it was kisses and hugs time for the remaining of the day, Dashie joigning you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
                             p "Three mares \"kissing and hugging\"? That's all I get? On a black screen?"
-                            "There's other games if you want graphic action."
+                            "There are other games if you want graphic action."
                             "--Derpy ending--"
                             jump credits
                         
@@ -219,7 +219,7 @@
                     with fade
                     rd "What are you doing?"
                     p "Where did you come from?!"
-                    rd "Doesn't matter, you come to my house, make my friends think you are me and try to abuse them? GET OUT!"
+                    rd "Doesn't matter. You come to my house. Pretend to be me. And try to abuse my friends? GET OUT!"
                     p "But-"
                     stop music fadeout 1.0
                     scene end54
@@ -230,24 +230,24 @@
                     "--Rainbow Dash ending 2--"
                     jump credits
         else:
-            d "Hey [playername2]! Rainbow Dash and me were going to exercise a bit, do you want to join us?"
+            d "Hey [playername2]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
             p "Actually, that's what I'm here for, Derpy. But, where's Rainbow?"
         d "I just don't know where she went."
-        p "I expected you to say something similar. Anyway, she surely will be back soon."
+        p "I expected you to say something similar. Anyway, she will surely be back soon."
         d "That's true [playername2]! And-"
         show derpy sad
         with dissolve
         d "I... Lost my Muffin..."
         p "What? Where?"
-        d "I don't know, I just wanted to eat one, but remembered it was my last one, but decided to eat it anyway, but... I can't find it anymore!"
-        p "Well, we will buy you some, Sugarcube Corner isn't far."
-        d "That was their last for today, they have a production problem and won't be able to make some before tomorrow..."
+        d "I don't know, I simply wanted to eat one, but remembered it was my last one, but decided to eat it anyway, but... I can't find it anymore!"
+        p "Well, we will buy you some, the Sugarcube Corner isn't far."
+        d "That was their last one for today, they have a production problem and won't be able to make some before tomorrow..."
         p "You really want that muffin, don't you?"
         d "Yes..."
         
         if(p_pp == "muffin"):
             p "Then take this one, Pinkie gave it to me earlier."
-            show derpy superhappy
+            show derpy happy
             with dissolve
             jump yummymuffin
         
@@ -273,7 +273,7 @@
         with dissolve
         d "Hey [playername2], you are back! Did you find any muffin?"
         if(p_pp != "muffin"):
-            p "Hey Derpy! But no, I don't have found a muffin yet."
+            p "Hey Derpy! Sadly no, I haven't found a muffin yet."
             d "Yet? Are you going to try again?"
             p "Of course I will! And I will be back as soon as I can!"
             d "Take care..."
@@ -283,16 +283,17 @@
             "And you went back to the crossroad. Where could you find a muffin?"
             jump outdoors
         else:
-            p "Hey Derpy! And of course I do, take this one!"
-            show derpy fly hug
+            p "Hey Derpy! Of course I do, take this one!"
+            show derpy happy
             with dissolve
             label yummymuffin:
                 "You give your muffin to Derpy."
                 d "Thank you so much [playername2]!"
                 show derpy superhappy with dissolve:
                     linear 1.0 xalign 0.2
-                show rainbow happy:
-                    xalign 0.8 yalign 1.0
+                show rainbow happy with dissolve:
+                    xzoom -1
+                    xalign 0.9 yalign 1.0
                 with dissolve
                 
                 rd "Sorry girls, I took my time! ...[playername3], what did you do to Derpy? She's so happy!"
@@ -303,14 +304,15 @@
                 with dissolve
                 p "She really does love them."
                 rd "Well, anyway, let's go, what do you think?"
+                
                 d "Allons-y!"
-                rd "You've been around that stallion too much Derpy."
+                rd "You've been around that stallion too much, Derpy."
                 d "But he's so nice to me, like you two!"
                 "And all three of you continued to chit-chat while going out."
                 stop music fadeout 1.0
                 scene black
                 with  fade
-                "And you three went outside ponyville to exercise a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the
+                "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the
                  two others -who were going back to their home- and returned to the crossroad."
                 $ dash2 = False
                 $ dash3 = False

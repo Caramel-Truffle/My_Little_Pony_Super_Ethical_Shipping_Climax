@@ -425,11 +425,11 @@ init python:
     lockPP = "none"
     lockRR = "none"
     lockAJ = "none"
-    lockety    = false
-    lockety_a = false
-    lockety_b = false
-    lockety_c = false
-    lockety_d = false
+    lockety    = False
+    lockety_a = False
+    lockety_b = False
+    lockety_c = False
+    lockety_d = False
     
     def p(what, **kwargs):
         if playername == "Twilight Sparkle":
