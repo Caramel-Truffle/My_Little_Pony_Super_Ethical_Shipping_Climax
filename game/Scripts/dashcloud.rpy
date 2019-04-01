@@ -121,7 +121,7 @@
                 p "Tomorrow?"
                 rd "Yeah, it was fun and all, but I promised Derpy I would exercise with her today, so I'm going to be busy for the rest of the day."
                 p "You are really awesome."
-                rd "Yeah, yeah... But, please, don't go near us with these, I'll explain you why tomorrow."
+                rd "Yeah, yeah... But, please, don't go near us with these, I'll explain to you tomorrow."
                 p "No problem, see you tomorrow!"
                 rd "See ya!"
                 stop music fadeout 1.0

@@ -44,7 +44,7 @@
             
         "Wait, you two, couldn't you act normally?"
         pp "Normally? According to you or according to the norm an unknown part of the players are expecting me to act?"
-        p "And either way, a narrator shouldn't talk to his characters, that's unrespectful of the laws of tales telling."
+        p "And either way, a narrator shouldn't talk to his characters, that's disrespectful of the laws of tales telling."
         "Fine... Fine... But I warned you."
         pp"You warned us? About what? Do you even proofread yourself before releasing demos?"
         p "Anyway, Pinkie, is there a reason for the mustache?"
@@ -92,8 +92,8 @@
                 pp "I can't believe it, they really didn't."
                 p "Pinkie! What am I supposed to know?"
                 pp "The moon. Everypony is going to have something special this night and if you want a mustache, you'll have one. And as time is non-linear, it's as if you already had one!"
-                p "The moon? Non-linear? I'm not sure to fully understand."
-                pp "Time is some kind of pony-cutsy-timey-pinkie... Stuff. And as for the moon, you need to complete the Twilight's path to fully understand it."
+                p "The moon? Non-linear? I'm not sure I fully understand."
+                pp "Time is some kind of pony-cutsy-timey-pinkie... Stuff. And as for the moon, you need to complete Twilight's path to fully understand it."
                 p "Ooookay. What about my mustache?"
                 pp "Narrator?"
                 "I get it."
@@ -167,7 +167,7 @@
                 "--Pinkie ending 1--"
                 jump credits
                 
-            "I want neither of these choices!":
+            "I want none of these choices!":
                 p "I don't want my choices to be preselected! Narrator! Let me enter what I want!"
                 "O....Kay... That's not like my opinion has some value in this place anyway..."
                 $ playerwant = renpy.input("What is your desiderata?")
@@ -201,7 +201,7 @@
         play sound "SFX/gotObject.mp3"
         "She gives you a [p_cake]!"
         
-        p "So.... That's it? You give me the item an nothing else? No explanation or whatever?"
+        p "So.... That's it? You give me the item and nothing else? No explanation or whatever?"
         
         pp "Yes, that's how it works, if you ask for one thing, I give it to you and it will be useful with another path, but you won't see me again. In my case, the muffin is useful with Rainbow Dash. But if you ask for the other, you will be able to see me again and I'll ask you to bring me something before we could continue."
         p "That doesn't make any sense!"

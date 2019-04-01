@@ -114,7 +114,7 @@
         with dissolve
         p "Wait, this isn't your house."
         fs "Yes, it's a stock image. Haven't you noticed all the other ones?"
-        p "That explain things..."
+        p "That explains things..."
         fs "Anyway... Please sit down, I'm going to the kitchen and will be back soon."
         if(playername=="Pinkie Pie"):
             p "Okey-dokey-lokey!"

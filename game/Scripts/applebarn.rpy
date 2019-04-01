@@ -118,7 +118,7 @@
                     b "Oh. I understand better now, I think. I'm Braeburn and I came from Apple-loooooooosa! Great town, you should come someday!"
                     
                 else:
-                    u "Howdy! Erm... AJ friend?"
+                    u "Howdy! Erm... AJ's friend?"
                     show braeburn happy
                     with dissolve
                     p "Yes, close friend. My name is [playername]."
@@ -152,7 +152,7 @@
                         "I understand":
                             $0#Useless line is useless. Except for the interpreter.
                 
-                p "Yeah, whatever float your boat. If everyone was like that, the world would be a simpler place."
+                p "Yeah, whatever floats your boat. If everyone was like that, the world would be a simpler place."
                 b "You're cute sugarcube. And Big Mac is there, I'm gonna try one last time. We should meet again someday."
                 play sound "SFX/gotObject.mp3"
                 "He gives you a sugar cube and leaves."
@@ -229,7 +229,7 @@
                         p "Arrr... Pfff.... Gnnnn..."
                         show applejack hat supersmile
                         with dissolve
-                        aj "That's a bit slow for ten seconds and you only got an apple [playername2]. I guess I won!"
+                        aj "That's a bit slow for ten seconds and you only got one apple, [playername2]. I guess I won!"
                         p "I guess you did."
                         
                     "Do your worst":
@@ -280,7 +280,7 @@
             b "Oh. Don't worry, I trust you. And I'm Braeburn, coming from Apple-loooooooosa! Great town, you should come someday!"
             
         else:
-            u "Howdy! Erm... AJ friend?"
+            u "Howdy! Erm... AJ's friend?"
             show braeburn happy
             with dissolve
             p "Yes, close friend. My name is [playername]."
@@ -297,7 +297,7 @@
         b "Big Macintosh. First stallion I met that did not react to my charm."
         p "Wait, you're like...?"
         b "Colt cuddler? Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And I like some variety, you know?"    
-        p "Yeah, whatever float your boat. If everyone was like that, the world would be a simpler place."
+        p "Yeah, whatever floats your boat. If everyone was like that, the world would be a simpler place."
         b "You're cute sugarcube, do you know that?"
         
         menu cute_bb:

@@ -354,7 +354,7 @@
                     with fade                
                 
                 "And you massaged her hooves with all your might, before helping her with her legs and then every body part where she was really tense and needed to relax."
-                "Needless to say, it led you two to a long and intimate moment where Rarity searched her oil and massaged you back, being quite talented herself."
+                "Needless to say, it led you two to a long and intimate moment where Rarity searched her oil and massaged you in return, being quite talented herself."
                 p "I really regret having no picture for this one."
                 "Never, perverted player, never..."
                 "--Rarity ending 2--"
