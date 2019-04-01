@@ -245,7 +245,7 @@
         p "You really want that muffin, don't you?"
         d "Yes..."
         
-        if(p_cake == "muffin"):
+        if(p_pp == "muffin"):
             p "Then take this one, Pinkie gave it to me earlier."
             show derpy superhappy
             with dissolve
@@ -272,7 +272,7 @@
         show derpy bittersweet
         with dissolve
         d "Hey [playername2], you are back! Did you find any muffin?"
-        if(p_cake != "muffin"):
+        if(p_pp != "muffin"):
             p "Hey Derpy! But no, I don't have found a muffin yet."
             d "Yet? Are you going to try again?"
             p "Of course I will! And I will be back as soon as I can!"

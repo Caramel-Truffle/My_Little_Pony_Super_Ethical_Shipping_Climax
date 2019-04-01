@@ -210,7 +210,7 @@
                         
                         "Well, that's not for you to decide, so... 4 apples in the water, but you're a level 1 pony with only 2 in dexterity... Let's roll 2 D20..."
                         
-                        if((playername=="Twilight Sparkle") and (p_book == "astronomy")):
+                        if((playername=="Twilight Sparkle") and (p_ts == "astronomy")):
                             "3 and 8? Uh. That's pretty bad, 'Twilie'."
                             
                         elif (playername == "Rainbow Dash" and p_rd == "sunglasses"):

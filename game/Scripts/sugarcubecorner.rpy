@@ -190,16 +190,16 @@
         menu assertivepie:
             "I WANT a muffin":
                 p "I want a muffin. I'm absolutely sure about it."
-                $ p_cake = "muffin"
+                $ p_pp = "muffin"
                 $ nb_lock = nb_lock + 1
             "I WANT a cupcake":
                 p "I want a cupcake. I'm absolutely sure about it."
-                $ p_cake = "cupcake"
+                $ p_pp = "cupcake"
                 $ suga2 = True
         
-        pp "That's it! Here, take this [p_cake]!"
+        pp "That's it! Here, take this [p_pp]!"
         play sound "SFX/gotObject.mp3"
-        "She gives you a [p_cake]!"
+        "She gives you a [p_pp]!"
         
         p "So.... That's it? You give me the item and nothing else? No explanation or whatever?"
         
@@ -215,7 +215,7 @@
         pp "But we need him! You can't go out without his help!"
         "..."
         pp "I'm sorry! We ignored you until now, but it won't happen again!"
-        if(p_cake == "muffin"):
+        if(p_pp == "muffin"):
             "Whatever. Next time I'll see you, you won't remember this anyway."
             pp "You really are grumpy. But you will also forget about my entrance, so it's okay."
         else:
