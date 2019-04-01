@@ -143,7 +143,7 @@
                 p "I understand, see you later!"
                 ts "See you later [playername2]!"
                 $ libr2 = True
-                $ p_book = "astronomy"
+                $ p_ts = "astronomy"
                 stop music fadeout 1.0
                 scene black
                 with fade
@@ -194,7 +194,7 @@
                 p "I will! Bye Twilight!"
                 ts "Bye [playername2]!"
                 
-                $ p_book = "xxx"
+                $ p_ts = "xxx"
                 $ nb_lock = nb_lock + 1
                 stop music fadeout 1.0
                 scene black
@@ -250,13 +250,12 @@
                 sp "I could do it, but I want a ruby in return."
                 p "I can get you one with no problem."
                 sp "Sure, but if I don't have something to eat when Twilight come back, I can't promise that my mouth will be able to stay shut."
-                if(p_rar=="ruby"):
+                if(p_rr=="ruby"):
                     "As you already have a ruby, you give it to him."
                     p "No problem, take this one."
                     sp "Thanks! And... Well... See you tomorrow and have a sweet night!"
                     p "Count on me for that. Bye Spike!"
                     "And you leave the dragon alone, going back to the crossroad."
-                    $ p_rar = "none"
                     $ libr2 = False
                     $ libr4 = True
                     jump outdoors
@@ -311,13 +310,13 @@
         "You go back to the library, Twilight isn't there yet."
         sp "So [playername2], you are back! Do you have a ruby?"
         
-        if(p_rar=="ruby"):
+        if(p_rr=="ruby"):
             p "Yes. Take this one."
             "You give him the ruby."
             sp "Thanks! And... Well... See you tomorrow and have a sweet night!"
             p "Count on me for that. Bye Spike!"
             "And you leave the dragon alone, going back to the crossroad."
-            $ p_rar = "none"
+            $ p_rr = "none"
             $ libr3 = False
             $ libr4 = True
             jump outdoors

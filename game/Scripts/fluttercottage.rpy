@@ -206,7 +206,7 @@
                 "And both of you drank your cup, Fluttershy gave you enough tea to drug somepo- erm. To enjoy a cup per day for a month."
                 "Then she went feeding the birds, saying that you probably wouldn't be able to find her until the next day."
                 "After that, you went back to the crossroad."    
-                $ p_flut = "tea"
+                $ p_fs = "tea"
                 $ nb_lock = nb_lock + 1
 
             "Seeds!":
@@ -223,7 +223,7 @@
                 "And both of you drank your cup, Fluttershy gave you enough seeds to feed a flock of birds and remembered that she had something else to do before bird-feeding, something special because of the moon..."
                 "You told her that it was okay, you would come back later when she would have finished. You went back to the crossroad."
                 $ flut2 = True
-                $ p_flut = "seeds"
+                $ p_fs = "seeds"
                 
         $ flut1 = True
         
@@ -261,7 +261,7 @@
         "She blushes again."
         fs "[playername2]? Did you read some good books recently?"
         
-        if(p_book=="xxx"):
+        if(p_ts=="xxx"):
             p "Yes, I've read this book!"
             "You show her the book Twilight gave you."
             $ flut2 = False
@@ -326,7 +326,7 @@
         play music "Music/fluttercottage.mp3"
         "You are back to the cottage and remember that Fluttershy is still in the Everfree Forest, waiting for you to come back with a special book."
         
-        if(p_book!="xxx"):
+        if(p_ts!="xxx"):
             "You don't have such a thing and prefer to go back to the crossroad instead of seeing a disappointed pegasus."
             jump outdoors
             

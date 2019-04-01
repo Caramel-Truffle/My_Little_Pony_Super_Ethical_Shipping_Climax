@@ -402,10 +402,10 @@ init python:
     fluscene = 0
     
     # These contains the various objects that ponies give to the player
-    p_book = "none"
-    p_cake = "none"
-    p_flut = "none"
-    p_rar = "none"
+    p_ts = "none"
+    p_pp = "none"
+    p_fs = "none"
+    p_rr = "none"
     p_aj = "none"
     p_rd = "none"
     
@@ -419,6 +419,17 @@ init python:
     # These are useful to know if the player has locked himself in a situation where he is hopeless
     nb_scenes = 0
     nb_lock = 0
+    lockRD = "none"
+    lockFS = "none"
+    lockTS = "none"
+    lockPP = "none"
+    lockRR = "none"
+    lockAJ = "none"
+    lockety    = false
+    lockety_a = false
+    lockety_b = false
+    lockety_c = false
+    lockety_d = false
     
     def p(what, **kwargs):
         if playername == "Twilight Sparkle":

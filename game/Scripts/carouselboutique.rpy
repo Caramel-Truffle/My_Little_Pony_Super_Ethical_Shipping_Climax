@@ -149,7 +149,7 @@
                 play sound "SFX/gotObject.mp3"
                 "She gives you a ruby."
                 
-                $p_rar = "ruby"
+                $p_rr = "ruby"
                 
                 p "Thank you!"
                 r "Now, why would I stop talking to you?"
@@ -203,7 +203,7 @@
         show rarity superexcited
         with dissolve
         
-        $ p_rar = "hat"
+        $ p_rr = "hat"
         
         r "Look at that! This is so... So..."
         
@@ -363,7 +363,7 @@
         r "You see, I'm quite busy here and I don't have any herbs to make some tea anymore."
         p "Oh, so you want me to fetch some for you?"
         r "Yes, it would help me greatly."
-        if(p_flut == "tea"):
+        if(p_fs == "tea"):
             p "Lucky you, I have some here!"
             $caro2=False
             $caro4=True
@@ -392,7 +392,7 @@
         "You are back to the boutique, where Rarity is waiting for her tea."
         r "Oh, you are back! Do you have the herbs, darling?"
         
-        if(p_flut == "tea"):
+        if(p_fs == "tea"):
             p "Yes, indeed!"
             label rarity_get_tea:
                 r "Marvelous! I'm going to prepare some then, just wait five minutes. If you have some quick business to do around, don't worry, I can handle it on my own, just be back soon, okay?"
