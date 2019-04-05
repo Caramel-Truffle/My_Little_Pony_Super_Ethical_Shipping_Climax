@@ -485,8 +485,12 @@
         r "Not yet, we have a KFH ad to film first~"
 
         "Wait… Is that truly it?"
+        
+        play sound "SFX/pageturn.mp3"
 
         "(sound of pages being turned)"
+        
+        play sound "SFX/pageturn.mp3"
 
         "Yes, this is it. That really is the true Rarity ending, according to the script. I hope you're not disappointed to have waited that long only for that."
 

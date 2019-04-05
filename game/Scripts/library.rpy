@@ -12,7 +12,7 @@
         
         menu uselessoption1:
             "Wait":
-                if(p_aj == "sugarcube" or appl4 == True or appl3 == True):
+                if(appl4 == True):
                     $easter_egg = easter_egg + 1
                 "You wait some minutes, but nothing happens. Why don't you say something?"
                 jump uselessoption1
@@ -345,12 +345,16 @@
 
         p"Can I sit down and read something? the silence is awkward enough."
 
-        "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you sooner. The cover is blue as the moon. Well, once in a blue moon.\nBecause the  supermoon intrigued you, you decide to start with that part, instead of beginning with the first few chapters. Shame on you, the history of astronomers seemed fun."
+        "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you sooner. The cover is blue as the moon. Well, once in a blue moon."
+        play sound "SFX/pageturn.mp3"
+        "Because the  supermoon intrigued you, you decide to start with that part, instead of beginning with the first few chapters. Shame on you, the history of astronomers seemed fun."
 
         p"Oi! Let me decide what's fun for me!"
 
         "Anyway, a supermoon is the coincidence of a full moon or a new moon with the closest approach the Moon makes to the Earth on its elliptical orbit, resulting in the largest apparent size of the lunar disk as seen from Earth. "
+        play sound "SFX/pageturn.mp3"
         "The technical name is the perigee-syzygy of the Earth-Moon-Sun system. The term \"supermoon\" is not astronomical, but originated in modern astrology."
+        play sound "SFX/pageturn.mp3"
         "The association of the Moon with both oceanic and crustal tides has led to claims that the supermoon phenomenon may be associated with increased risk of events such as earthquakes and volcanic eruptions, but the evidence of such a link is widely held to be unconvincing."
 
         p"Thank you, Wikipedia."
@@ -378,7 +382,7 @@
         if(playername=="Applejack"):
             p "Howdy y'all mate! ... Blimey. I can't do the accent properly. Anyway, what does Princess Luna do now?"
 
-        show wilight chuckle
+        show twilight chuckle
 
         "She chuckles."
         
@@ -478,7 +482,7 @@
 
         ts"Enough singing. Follow me."
         
-        scene blackwith fade
+        scene black with fade
         stop music fadeout 1.0        
 
         "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, were moonlight engulfed you for a second."
