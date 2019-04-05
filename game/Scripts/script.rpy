@@ -101,6 +101,7 @@ image rainbow unsure = "Images/rainbow_unsure.png"
 
 image rarity flattered = "Images/rarity_flattered.png"
 image rarity happy = "Images/rarity_happy.png"
+image rarity happy2 = "Images/rarity_happy2.png"
 image rarity shocked = "Images/rarity_shocked.png"
 image rarity srsly = "Images/rarity_srsly.png"
 image rarity superexcited = "Images/rarity_superexcited.png"

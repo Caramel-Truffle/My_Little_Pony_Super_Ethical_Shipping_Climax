@@ -53,6 +53,8 @@
                 if(doomloop>3):
                     jump raritychoice1
                 else:    
+                    stop music
+                    play sound "SFX/thunder.mp3"
                     p "DIE, YOU PEASANT! SHALL YOUR DOOM TEAR YOU APART FOR HAVING ASKED SUCH A FRIVOLOUS QUESTION!"
                     show rarity shocked
                     with dissolve
@@ -62,16 +64,10 @@
                         show rarity srsly
                         with dissolve
                         r "Let's pretend that never happened."
-                        show rarity happy
-                        with dissolve
-                        jump raritychoice1
                     elif(doomloop<3):
                         r "Is this some kind of Tourette's?"
                         p "It's some kind of repeating a pattern to see if it changes something."
                         r "I do not know if this is a good thing and I do not want to know."
-                        show rarity happy
-                        with dissolve
-                        jump raritychoice1
                     elif(doomloop==3):
                         "Okay, you clearly want something special, don't you?"
                         p "Who are you talking to?"
@@ -83,13 +79,15 @@
                         r "I'll pretend nothing happened."
                     show rarity happy
                     with dissolve
+                    play music "Music/carousel.mp3"
                     jump raritychoice1
                     
             "\"My destiny is elsewhere...\"":
                 p "My destiny is elsewhere... May you forgive me. The shadows are calling!"
                 r "The... Shadows?"
                 
-                stop music fadeout 1.0
+                stop music
+                play sound "SFX/magic.mp3"
 
                 if(playername=="Applejack"):
                     scene end58  
@@ -110,24 +108,29 @@
                     scene end63
                     with fade
                 
+                play sound "SFX/thunder.mp3"
                 p "These shadows!"
                 r "Eek! Where are we? Why can't I see myself?"
                 "You weren't supposed to come here too."
                 r "Who are you? Where are we?!"
                 "Ugh... Not this again! Let's just end it already!"
+                play sound "SFX/fail.mp3"
                 "--Rarity ending 1--"
                 jump credits
                 
             "\"Don't you have a spare ruby?\"":
                 p "Don't you have a spare ruby?"
                 r "Yes... But why do you ask that for?"
+                show rarity shocked with dissolve
                 if(libr3 == True):
                     p "I do know a hungry dragon. And you will refuse to talk to me after that."
+                    show rarity happy with dissolve
                     r "Why would I...? Wait. You came here just to ask for a jewel because a dragon is hungry? That's very considerate of you. I can give you one, just wait there."
                 else:
                     p "I'm not interested in your path right now."
                     r "My... What?"
                     p "Your path. I'm don't know the purpose of the ruby yet, but it'll be useful. And you will refuse to talk to me after that."
+                    show rarity happy with dissolve
                     if(playername=="Pinkie Pie"):
                         r "Well. You are just being Pinkie Pie, I guess. Wait there."
                     else:
@@ -154,7 +157,9 @@
                 p "Thank you!"
                 r "Now, why would I stop talking to you?"
                 p "I don't know, it's up to you. I'm just aware of the fact that the next time I'll be there, I won't be able to find you."
+                show rarity shocked with dissolve
                 r "That's a shame!"
+                show rarity happy with dissolve
                 p "Not really. I either already completed your path or will do it in the future."
                 r "That's quite a Pinkie talk."
                 p "Anyway, thank you again! We might see each other again, or not!"
@@ -258,10 +263,13 @@
         p "Hello again Rarity! Are you designing something?"
         r "Not really, I'm simply keeping my ledger up to date, darling."
         p "Your... Ledger?"
+        show rarity happy2 with dissolve
         r "Yes. The notebook where I keep track of all my sales and purchases, it really helps when dealing with the equestrian taxes."
+        show rarity happy with dissolve
         p "Is there anything I could do to help?"
+        show rarity happy2 with dissolve
         r "Help? Do you mean... With my ledger? Or with something else?"
-        
+        show rarity happy with dissolve
         menu:
             "Help with the ledger":
                 p "Yeah, I'm offering my help for this, the ledger-stuff."
@@ -357,11 +365,13 @@
                 "Needless to say, it led you two to a long and intimate moment where Rarity searched her oil and massaged you in return, being quite talented herself."
                 p "I really regret having no picture for this one."
                 "Never, perverted player, never..."
+                play sound "SFX/fail.mp3"
                 "--Rarity ending 2--"
                 jump credits
                 
         r "You see, I'm quite busy here and I don't have any herbs to make some tea anymore."
         p "Oh, so you want me to fetch some for you?"
+        show rarity happy2 with dissolve
         r "Yes, it would help me greatly."
         if(p_fs == "tea"):
             p "Lucky you, I have some here!"
@@ -406,12 +416,15 @@
                 jump outdoors
         else:
             p "Not really, but I'm searching!"
+            show rarity happy2 with dissolve
             r "Did you try \"Books and Quills\"?"
+            show rarity happy with dissolve
             p "Don't they only sell books and quills?"
             r "Everypony has a side business, dear. You are right though, they are more the type to also sell videos than tea."
             p "Honestly? What kind of videos a book and quills store could sell?"
             r "Adult videos."
             p "I'm afraid to understand."
+            show rarity happy2 with dissolve
             r "Yes, I know, adult things like politics or economy are always between scary and boring."
             p "Anyways, I'm on my way to find you some tea! See you soon!"
             r "Good luck [playername2]!"
@@ -474,9 +487,9 @@
 
         "Wait, is this really PG?"
 
-        r "Aw, it's just hoof licking! Haven't you seen the KFH ads, saying their fried hay is hoof lickin' good?"
+        r "Aw, it's just hoof licking! Haven't you seen the KFH ads, saying their fried hay is hoof lickin' good? Plus the rating is more of a T."
 
-        "I'm pretty sure they don't mean ‘so good that you need to lick other ponies hooves clean'"
+        "I'm pretty sure they don't mean 'so good that you need to lick other ponies hooves clean'. And T doesn't stand for excuses! There is'nt even a single T in that word!"
 
         r "You're no fun!"
 
