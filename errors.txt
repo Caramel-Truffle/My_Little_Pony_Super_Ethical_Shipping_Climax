@@ -2,7 +2,19 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/library.rpy", line 49: indentation mismatch.
+File "game/Scripts/library.rpy", line 37: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    p "Sorry, but you are not the real Twilight. You are a copy with the exact same memories. It's dangerous to have more than one copy alive at a time or having the original and a copy alive at the same time. 
+                        "I must get rid of you, it's the procedure."
+                          ^
+                        show twilight battle
+                        with dissolve
+                        ts "I thought you would improve your lying skills, Chrysalis. It's time for you to really be banned this time!"
+                        p "Wait, what are you even talking abou-"
+                        scene end77
+                        with fade
+                        "And she kicked your buttock. What did you expect?"
+                        p "...\n
 
 Ren'Py Version: Ren'Py 7.2.1.457
-Fri Apr 05 10:28:40 2019
+Fri Apr 05 10:29:34 2019

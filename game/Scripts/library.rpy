@@ -34,7 +34,7 @@
             
             menu twi_see_double:
                 "\"Sorry, but you are not the real Twilight.\"":
-                    p "Sorry, but you are not the real Twilight. You are a copy with the exact same memories. It's dangerous to have more than one copy alive at a time or having the original and a copy alive at the same time. 
+                    p "Sorry, but you are not the real Twilight. You are a copy with the exact same memories. It's dangerous to have more than one copy alive at a time or having the original and a copy alive at the same time."
                     "I must get rid of you, it's the procedure."
                     show twilight battle
                     with dissolve
@@ -45,8 +45,7 @@
                     "And she kicked your buttock. What did you expect?"
                     p "...\n
                        Am I free to go now?"
-                    "...\n
-                     Yes, you are."
+                    "...Yes, you are."
                     p "Good."
                     play sound "SFX/fail.mp3"
                     "--Twilight ending 1--"
