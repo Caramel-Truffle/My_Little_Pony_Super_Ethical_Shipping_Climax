@@ -2,9 +2,7 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/dashcloud.rpy", line 1: expected statement.
-    ﻿label dashcloud:
-                    ^
+File "game/Scripts/library.rpy", line 49: indentation mismatch.
 
 Ren'Py Version: Ren'Py 7.2.1.457
-Mon Apr 01 18:00:14 2019
+Fri Apr 05 10:28:40 2019

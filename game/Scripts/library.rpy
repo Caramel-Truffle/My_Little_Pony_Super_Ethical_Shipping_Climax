@@ -23,6 +23,8 @@
                 jump eegg
         
         if(playername=="Twilight Sparkle"):
+            stop music
+            play sound "SFX/vinylscratch.mp3"
             show twilight what
             with dissolve
             ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine 
@@ -32,10 +34,8 @@
             
             menu twi_see_double:
                 "\"Sorry, but you are not the real Twilight.\"":
-                    p "Sorry, but you are not the real Twilight. You are a copy with the exact same memories. It's dangerous to 
-                       have more than one alive copy at a time or having the original and a copy alive at the same time. I must 
-                       kill you, it's the procedure."
-                    stop music fadeout 1.0
+                    p "Sorry, but you are not the real Twilight. You are a copy with the exact same memories. It's dangerous to have more than one copy alive at a time or having the original and a copy alive at the same time. 
+                    "I must get rid of you, it's the procedure."
                     show twilight battle
                     with dissolve
                     ts "I thought you would improve your lying skills, Chrysalis. It's time for you to really be banned this time!"
@@ -48,6 +48,7 @@
                     "...\n
                      Yes, you are."
                     p "Good."
+                    play sound "SFX/fail.mp3"
                     "--Twilight ending 1--"
                     jump credits
                        
@@ -91,6 +92,7 @@
                     p "There's more in the others?"
                     "Search and see!"
                     p "Wait-"
+                    play sound "SFX/fail.mp3"
                     "--Twilight ending 2--"
                     jump credits
             label twi_see_double_end:
@@ -301,6 +303,7 @@
                     "What did you expect?"
                     p "I-"
                     "Time's up!"
+                    play sound "SFX/fail.mp3"
                     "--Spike ending--"
                     jump credits
     if(libr3==True):
@@ -488,10 +491,17 @@
         "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, were moonlight engulfed you for a second."
 
         p"Nyaah!"
+        
+        play sound "SFX/magic.mp3"
+        play sound "SFX/thunder.mp3"
 
         "You gasped as your body started to sparkle and after a few seconds, you levitated two hooves from the ground, without the help of wings or unicorn magic. Your colour scheme changed quickly a few times and all the while, Twilight stepped back slowly until being tail-to-wall."
+        
+        play sound "SFX/magic.mp3"
 
         ts"No no no no... This shouldn't be happening! Not now!"
+        
+        play sound "SFX/magic.mp3"
         
         scene white with fade
 
@@ -517,10 +527,15 @@
         p"Am I?"
         
         show twilight battle
-
+        
+        play sound "SFX/vinylscratch.mp3"
+        stop music
+        
         ts"A... Are you... Are you.... ARE YOU CRAZYYYYY??!"
-
+        
         "She shouted! Owww... My ears... Why do I have ears anyway? Shouldn't I be a bodiless being or something?"
+        
+        play music "Music/library.mp3"
 
         p"What? I don't even understand why you are mad at me, I did not choose to..."
 
