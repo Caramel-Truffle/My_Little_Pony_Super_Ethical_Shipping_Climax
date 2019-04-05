@@ -498,7 +498,7 @@ label start:
     c "I'm Colgate! Welcome to the realm between our worlds!"
     y "Wait, like the Colgate in My Little Pony? Am I dreaming or something?"
     c "Not at all! Trixie just left, I'm going to take care of you!
-       You know, about the \"let's change you into a red pony and have some special fun with ponyville inhabitants and stuff\"!"
+       You know, about the \"let's change you into a red pony and have some special fun with Ponyville inhabitants and stuff\"!"
     y "..."
     y "Wrong game."
     c "Hum. So, I will change you into one of the mane 6 instead! And then I will send you in Ponyville and and-"
@@ -549,7 +549,7 @@ label end_name_choice:
     p "Really?"
     c "Yes! Just look at yourself in the mirror!"
     p "What mirror? It's too dark here!"
-    c "Whoops, my bad. I will just send you in Ponyville then! See you soon!"
+    c "Whoops, my bad. I will just send you to Ponyville then! See you soon!"
     p "Wait, wha-"
     scene black
     with fade

@@ -154,12 +154,12 @@ label eegg:
                 xalign 0.8 yalign 1.0
             with dissolve
             nr "BRAEBURN! Stop drinking, you are not allowed to!"
-            b "Come on nurse! That's just a glass... And now gimme a hug!"
+            b "Come on nurse! That's just one glass... And now gimme a hug!"
             nr "You are drunk Braeburn. And now you won't be able to take your medication for tonight and that's bad."
             p "Eeyup."
             show redheart grumpy
             with dissolve
-            nr "Sorry, I didn't notice you... Big Mac, isn't it? Braeburn catched some kind of local flu and shouldn't have left the hospital like he did. But looking at you now, I kind of understand his motives."
+            nr "Sorry, I didn't notice you... Big Mac, isn't it? Braeburn caught some kind of local flu and shouldn't have left the hospital like he did. But looking at you now, I kind of understand his motives."
             show redheart happy
             with dissolve
             nr "I'm going to get back to the hospital with him, would you like to come with us?"
@@ -182,7 +182,7 @@ label credits:
     pp "You reached the end!"
     aj "Good for you!"
     r "But there is more to see."
-    ts "Except if you already have seen everything."
+    ts "Except if you have already seen everything."
     rd "But you wouldn't read the credits anymore."
     fs "Unless you really like us! And that's a great proof of love! Thank you!"
     "Love? I would have said stupidi-"
