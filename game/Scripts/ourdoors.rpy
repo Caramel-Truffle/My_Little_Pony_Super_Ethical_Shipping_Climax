@@ -38,6 +38,7 @@
         "Yes."
         stop music fadeout 1.0
         scene end86
+        $persistent.unlock_86
         play sound "SFX/fail.mp3"
         "--Bad Ending--"
         jump credits

@@ -99,6 +99,7 @@ label eegg:
                 "Okay, you deserved it. this is your cupboard ending."
                 stop music fadeout 1.0
                 scene end85
+                $persistent.unlock_85
                 "Seen from up close. Congrats!"
                 play sound "SFX/fail.mp3"
                 "--Cupboard Ending--"
@@ -130,6 +131,7 @@ label eegg:
             b "And I thought you would never say it, ol' big chunk of love. Come here!"
             
             scene end06
+            $persistent.unlock_06
             with fade
             stop music fadeout 1.0
             show CMC awe
@@ -168,6 +170,7 @@ label eegg:
             nr "Let's go then!"
             
             scene end40
+            $persistent.unlock_40
             with fade
             
             "And after putting Braeburn in his bed again, the nurse gave you a kiss on the cheek. You won't be able to see that in a future version... But everything went better than expected."

@@ -106,22 +106,28 @@
                 stop music fadeout 1.0
                 
                 if(playername=="Applejack"):
-                    scene end34  
+                    scene end34
+                    $persistent.unlock_34  
                     with fade          
                 if(playername=="Fluttershy"):
                     scene end35
+                    $persistent.unlock_35
                     with fade
                 if(playername=="Pinkie Pie"):
                     scene end36
+                    $persistent.unlock_36
                     with fade
                 if(playername=="Rainbow Dash"):
                     scene end37
+                    $persistent.unlock_37
                     with fade
                 if(playername=="Rarity"):
                     scene end38
+                    $persistent.unlock_38
                     with fade
                 if(playername=="Twilight Sparkle"):
                     scene end39
+                    $persistent.unlock_39
                     with fade
                 
                 "And you got a mustache."
@@ -148,22 +154,28 @@
                 stop music fadeout 1.0
                 
                 if(playername=="Applejack"):
-                    scene end41  
+                    scene end41
+                    $persistent.unlock_41  
                     with fade          
                 if(playername=="Fluttershy"):
                     scene end42
+                    $persistent.unlock_42
                     with fade
                 if(playername=="Pinkie Pie"):
                     scene end43
+                    $persistent.unlock_43
                     with fade
                 if(playername=="Rainbow Dash"):
                     scene end44
+                    $persistent.unlock_44
                     with fade
                 if(playername=="Rarity"):
                     scene end45
+                    $persistent.unlock_45
                     with fade
                 if(playername=="Twilight Sparkle"):
                     scene end46
+                    $persistent.unlock_46
                     with fade
                 
                 "And both of you went all kissu-kissu with the whipped cream and all."
@@ -623,22 +635,28 @@
         pp "Who cares? Take my ending and go have some more fun!"
         
         if(playername=="Applejack"):
-            scene end47  
+            scene end47
+            $persistent.unlock_47  
             with fade          
         if(playername=="Fluttershy"):
             scene end48
+            $persistent.unlock_48
             with fade
         if(playername=="Pinkie Pie"):
             scene end49
+            $persistent.unlock_49
             with fade
         if(playername=="Rainbow Dash"):
             scene end50
+            $persistent.unlock_50
             with fade
         if(playername=="Rarity"):
             scene end51
+            $persistent.unlock_51
             with fade
         if(playername=="Twilight Sparkle"):
             scene end52
+            $persistent.unlock_52
             with fade
         
         play sound "SFX/trueEnding.mp3"
