@@ -1,6 +1,6 @@
 ﻿label sugarcubecorner:
     stop music fadeout 1.0
-    
+    play sound "SFX/bell.mp3"
     scene bg sugarcube corner lobby
     with fade
     
@@ -20,6 +20,7 @@
             linear 0.5 xalign 0.0
             repeat
         "You come to the- OH MY GOD WHAT'S THIS?!"
+        play sound "SFX/slip.mp3"
         show pinkie moustache at default with dissolve
         
         if(playername=="Rainbow Dash"):
@@ -33,7 +34,7 @@
         if(playername=="Applejack"):
             pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername]? Do you really prefer her simple lifestyle to the power of an alicorn?"
         if(playername=="Twilight Sparkle"):
-            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been an alicorn? With great powers and all? "
+            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been your own alicorn? With great powers and all? "
         
         if(alichoice == 0):
             p "I did not even try to be one. Why would I?"
@@ -50,10 +51,11 @@
         p "Anyway, Pinkie, is there a reason for the mustache?"
         pp "No, it's not because I mustache you a question, this joke has already been done."
         p "I said nothing."
-        pp "I wasn't talking to you... Anyway, it's because I always wear a mustache when baking sugar cube pie, but I can take it off!"
+        pp "I wasn't talking to you... Anyway, it's because I always wear a mustache when baking sugar cube pies, but I can take it off!"
         
         show pinkie mini faceplant:
             xalign 0.68
+        play sound "SFX/slip.mp3"
         "*POMF*"
         show pinkie derp:
             xalign 0.5
@@ -62,6 +64,7 @@
         pp "AHAHAHAHAHAHAHHAHAHAHHAHAHAHAHAHAHHAHAHAHAHAHAHHAHAHAHAHAHAHAH!!"
         show pinkie mini faceplant:
             xalign 0.68
+        play sound "SFX/slip.mp3"
         "*POMF*"
         show pinkie moustache:
             xalign 0.5
@@ -75,7 +78,9 @@
             pp "You don't have a sugar cube, but you don't need a muffin for the moment... I guess that you want a cupcake. Don't you?"
         elif(dash3 == False and p_aj == "sugarcube"):
             pp "You don't need a muffin and you already have a sugar cube! You want to be all kissu-kissu with me, don't you?"
-            
+        else:
+            pp "Wait, what kind of combination did you manage to achieve there? I have no idea what you have or could want!"
+        
         menu pinkieguess:
             "I want a muffin":
                 p "I guess that I want a muffin..."
@@ -84,7 +89,7 @@
                 p "I want a cupcake... Maybe?"
                 
             "I want a mustache":
-                p "You are wrong! I want a mustache!"
+                p "Whatever that means, you are wrong! I want a mustache!"
                 pp "But you already have one!"
                 p "Wait. What? But I'm [playername2]! I can't have a mustache, I'm a mare! ...Am I?"
                 pp "Nopony told you? Really? Like, never ever ever ever?"
@@ -122,6 +127,7 @@
                 "And you got a mustache."
                 p "What? That's it?"
                 "Yep."
+                play sound "SFX/fail.mp3"
                 "--Mustache ending--"
                 jump credits
                 
@@ -163,7 +169,7 @@
                 "And both of you went all kissu-kissu with the whipped cream and all."
                 p "That sounds so..."
                 "Don't say it."
-                
+                play sound "SFX/fail.mp3"
                 "--Pinkie ending 1--"
                 jump credits
                 
@@ -174,9 +180,24 @@
                 p "Yes! That's it! I want [playerwant]!"
                 pp "You want [playerwant]? Really?"
                 p "I want [playerwant]!"
-                pp "I can't give you that, sorry."
-                p "Why not? It's not that hard to find."
-                pp "I only have muffins, cupcakes and love! So... What do you want?"
+                if(playerwant=="love"):
+                    pp"You want some love? Download Ponyndr, then. Or say that you want me, I don't know."
+                elif(playerwant=="sex"):
+                    pp"Whooaaaa, that isn't the kind of game you're playing."
+                elif((playerwant=="a cupcake")or(playerwant=="a muffin")):
+                    pp"Then use the relevant option, dummy."
+                elif(playerwant=="a cupboard ending"):
+                    pp"Cross my heart and hope to fly, stick a cupcake in my eye, there is nothing here that can help you with that. Rarity, Applejack and Twilight are the only ones involved."
+                elif(playerwant=="money"):
+                    pp"Here's 10 bits. Go play forknife."
+                    play sound "SFX/gotObject.mp3"
+                elif(playerwant=="huIKGYFUItufyg875763"):
+                    pp"That is very specific. I don't know where you've read it, but they trolled you."
+                else:
+                    play sound "SFX/fail.mp3"
+                    pp "I can't give you that, sorry."
+                    p "Why not? It's not that hard to find."
+                    pp "I only have muffins, cupcakes and love! So... What do you want?"
                 jump pinkieguess
                 
         pp "Be assertive! You are not Fluttershy!"
@@ -196,10 +217,11 @@
                 p "I want a cupcake. I'm absolutely sure about it."
                 $ p_pp = "cupcake"
                 $ suga2 = True
-        
+        show pinkie laugh with dissolve
         pp "That's it! Here, take this [p_pp]!"
         play sound "SFX/gotObject.mp3"
         "She gives you a [p_pp]!"
+        show pinkie happy with dissolve
         
         p "So.... That's it? You give me the item and nothing else? No explanation or whatever?"
         
@@ -252,12 +274,13 @@
         p "Well, in that case..."
         play sound "SFX/gotObject.mp3"
         "You got two cupcakes!"
+        play sound "SFX/bite.mp3"
         "You eat three cupcakes!"
         p "I should be okay for a while now."
         pp "So, [playername2], what are you up to? Need anything special? Have you something planned for this night?"
         p "Well, I was going to ask you the exact same thing, to be honest."
-        pp "Uh. In this case, what about making a sugar cube pie? Doesn't this sounds exciting?"
-        p "Don't you have enough sugar in your blood already?"
+        pp "Uh. In this case, what about making a sugar cube pie? Doesn't this sound exciting?"
+        p "Don't you have enough sugar in your bloodstream already?"
         pp "That's not for me silly!" 
         show pinkie serious
         with dissolve
@@ -281,8 +304,8 @@
         show pinkie happy
         with dissolve
         pp "And then hope that they don't eat wood, because the building is certainly not for sale!"
-        p "Or if I'm there, you could always either let the baking or the selling to me."
-        pp "That's a good idea! But let's get baking first."
+        p "Or if I'm there, you could always either let the baking or the selling to me. Also your mustache fell off."
+        pp "That's a good idea! But let's get baking first. And thanks."
         hide pinkie
         with dissolve
         "Both of you get the various ingredients, Pinkie singing you where to find them when they were closer to you than to her."
@@ -293,7 +316,7 @@
         with dissolve
         pp "..."
         p "What's wrong? You are silent. It's... Unusual."
-        pp "We don't have enough sugar cubes!"
+        pp "We don't have enough sugar cubes! This is my \"we have no sugarcubes left\" face. It's important to know, since my yelling, singing and laughing faces are all the same."
         
         if(p_aj == "sugarcube"):
             p "I have this one on me if that can help."
@@ -338,7 +361,7 @@
             scene black
             with fade
             
-            "And you returned to the crossroad."
+            "And you went back to the crossroad."
             
             jump outdoors
         else:
@@ -354,21 +377,22 @@
             
             p "You know, no need to yell. I was speaking normally and you heard me."
             pp "Really? I should stop using the megaphone then!"
-            p "You were using a megaphone indoors? But... You didn't sound that loud!"
+            p "You were using a megaphone indoors? But... You didn't sound //that// loud!"
             pp "Of course silly, I don't turn it on indoors, what would be the point?"
-            p "... Forget it. And take this sugar cube."
+            p "You screamed into a megaphone that was turned off... Forget it. And take this sugar cube."
             
             label bake_pie:
                 $0#Useless line is useless. Except for the interpreter.
                 
             "You give her the sugar cube."
             pp "Great! Now it's time to put it in the oven!"
+            play sound "SFX/bell.mp3"
             "*Dingeling!*"
             pp "A customer! Do you want to go sell something or finish there?"
             
             menu sell_bake:
                 "I want to go sell something!":
-                    p "Let me take care of that and finish baking."
+                    p "Let me take care of that customer and so you can finish baking."
                     pp "See you soon!"
                     
                     "And you head to the other room."
@@ -381,7 +405,7 @@
                     
                     "The customer is a stallion! He looks friendly."
                     
-                    u "Hello [playername3]! Taking care of the business while the Cakes are out?"
+                    u "Hello [playername]! Taking care of the business while the Cakes are out?"
                     
                     if(playername != "Pinkie Pie"):
                         p "Not really, Pinkie is baking sugar cube pies and I volunteered to help with customer service!"
@@ -389,7 +413,7 @@
                         p "Yes, some sugar cube pies are in the oven! That's what I was doing before you came."
                     
                     u "Sugar cube pies? Did the Cakes told you \"Thunderlane is coming! Bake some sugar cube pies while we're out!\"? because they are my favorite!"
-                    p "Sorry, but you clearly are not alone. It's like half the town decided to eat that today. What could possibly make so many ponies do the same thing at the same date? ... Anyway. Would you like to wait for some pie or would you like something else?"
+                    p "Sorry, but you clearly are not alone. It's like half the town decided to eat that today. What could possibly make so many ponies do the same thing at the same date? ... Anyway. Would you like to wait for some pie or would you prefer something else?"
                     t "I would love to wait all day with you, but I have an appointment in half an hour and some other things to buy before that, sorry."
                     p "Don't be sorry, that's not your fault!"
                     t "Thank you [playername2]. I'll buy a dozen rainbow cupcakes."
@@ -405,7 +429,7 @@
                     
                     hide thunderlane
                     with dissolve
-                    
+                    play sound "SFX/bell.mp3"
                     "He's gone now."
                     
                     p "Did you hear that? Three Luna's Special are gone!"
@@ -427,6 +451,8 @@
                     
                     scene bg sugarcube corner kitchen2
                     with fade
+                    
+                    play sound "SFX/bell.mp3"
                     
                     "Once you are done, you head back to the other room and hear the customer leaving."
                     
@@ -452,10 +478,11 @@
             
     if(suga4 == True):
         
-        play music "Music/pinkie.mp3"
+        "So, this is the part where Pinkie Pie is unleashed?"
         "I’m out of there."
         p "Come on, where’s the fun in that?"
         "."
+        play music "Music/pinkie.mp3"
         show pinkie alicorn with dissolve
         pp "YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY, YOU CAME!"
         p "That’s what she…."
