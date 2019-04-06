@@ -229,7 +229,7 @@
         p "That doesn't make any sense!"
         pp "It's a game, silly! Real life logic can't be applied there! Now, shoo!"
         p "Shoe?"
-        pp "Shoo, get out! It's the end of the scene, et the narrator do its job!"
+        pp "Shoo, get out! It's the end of the scene, let the narrator do their job!"
         "..."
         pp "Narrator?"
         "..."

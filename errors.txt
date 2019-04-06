@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/Scripts/other.rpy", line 101: expected statement.
-    Seen from up close. Congrats!
-                      ^
+File "game/Scripts/ourdoors.rpy", line 18: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+            "So, lockety is [lockety], lockety_a is [lockety_a], lockety_b is [lockety_b], lockety_c is [lockety_c], lockety_d is [lockety_d],
 
 Ren'Py Version: Ren'Py 7.2.1.457
-Sat Apr 06 09:10:14 2019
+Sat Apr 06 14:24:07 2019

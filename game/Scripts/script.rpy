@@ -280,8 +280,14 @@ image end82 = "Images/TwilightTrueEndingRainbowDash.png"
 image end83 = "Images/TwilightTrueEndingRarity.png"
 image end84 = "Images/TwilightTrueEndingTwilight.png"
 
-#bad ending if player cannot talk to anyone
+#Cupboard ending
 image end85 = "Images/CupboardEnding.png"
+
+#bad ending if player cannot talk to anyone
+image end86 = "Images/BadEnding.png"
+
+#bonus ending once all others have been achieved
+image end87 = "Images/BonusEnding.png"
 
 #cupboard ending
 

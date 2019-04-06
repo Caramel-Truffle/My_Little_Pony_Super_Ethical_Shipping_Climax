@@ -97,6 +97,7 @@ label eegg:
             "An easter egg inside an easter egg! Wow!"
             if(doomloop>999):
                 "Okay, you deserved it. this is your cupboard ending."
+                stop music fadeout 1.0
                 scene end85
                 "Seen from up close. Congrats!"
                 play sound "SFX/fail.mp3"
