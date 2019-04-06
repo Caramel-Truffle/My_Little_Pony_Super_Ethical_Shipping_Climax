@@ -5,6 +5,7 @@
 
     # Step 2. Add buttons and images to the gallery.
 
+    g.locked_button = "Numbers/locked.png"
 
     # These buttons have multiple images associated with them. We use unlock_image
     # so we don't have to call both .image and .unlock.
