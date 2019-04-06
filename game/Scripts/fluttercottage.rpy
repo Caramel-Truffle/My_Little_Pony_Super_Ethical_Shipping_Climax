@@ -50,6 +50,7 @@
             "Pet the pony":
                 "You approach the critter without her noticing you and when you start to brush her mane with your hoof..."
                 show fluttershy fly what with dissolve
+                play sound "SFX/scream.mp3"
                 fs"Eeeeeeeek!"
                 "She didn't like that!"
                 if(playername=="Rainbow Dash"):
@@ -308,6 +309,7 @@
             fs "Even for..."
             "And she whispered in your ear."
             p "Especially that one. It certainly is one of my favorite fetishes..."
+            play sound "SFX/scream.mp3"
             fs "Eeeek! I thought we were avoiding a mature rating by censoring that!"
             p "Please. It's just kissing."
             fs "Y... Yes, but... In a forest..."
