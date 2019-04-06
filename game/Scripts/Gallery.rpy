@@ -269,10 +269,6 @@
     g.button("ending87")
     g.unlock_image("end87")
 
-    
-    
-    
-    
     # The transition used when switching images.
     g.transition = dissolve
     

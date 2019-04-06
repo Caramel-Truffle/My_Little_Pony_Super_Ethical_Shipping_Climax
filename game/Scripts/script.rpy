@@ -54,6 +54,8 @@ image applejack hat wtf = "Images/applejack_hat_wtf.png"
 
 image braeburn chillin = "Images/braeburn_chillin.png"
 image braeburn happy = "Images/braeburn_happy.png"
+image braeburn chillin sunglasses = "Images/braeburn_chillin_sunglasses.png"
+image braeburn happy sunglasses = "Images/braeburn_happy_sunglasses.png"
 
 image CMC awe = "Images/CMC_awe.png"
 image CMC cry = "Images/CMC_cry.png"
@@ -278,6 +280,12 @@ image end82 = "Images/TwilightTrueEndingRainbowDash.png"
 image end83 = "Images/TwilightTrueEndingRarity.png"
 image end84 = "Images/TwilightTrueEndingTwilight.png"
 
+#bad ending if player cannot talk to anyone
+image end85 = "Images/CupboardEnding.png"
+
+#cupboard ending
+
+#final ending
 
 # Declare characters used by this game.
 define ts = Character("Twilight Sparkle", color="#B689C8")

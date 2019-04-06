@@ -97,6 +97,11 @@ label eegg:
             "An easter egg inside an easter egg! Wow!"
             if(doomloop>999):
                 "Okay, you deserved it. this is your cupboard ending."
+                scene end85
+                "Seen from up close. Congrats!"
+                play sound "SFX/fail.mp3"
+                "--Cupboard Ending--"
+                jump credits
             else:
                 "Now it's time to get out of the cupboard and pretend that you answered yes."
             
@@ -108,20 +113,14 @@ label eegg:
     scene bg bushes hill
     with fade
     play music "Music/outdoors.mp3"
-    show braeburn chillin
+    show braeburn chillin sunglasses
     with dissolve
     
     b "Heeeeey! Welcome to Appleloosa cousin!"
     p "Nope."
     b "Yeah, that's true. We're still near the good ol' Ponyville. Anyway, are you there 'cause of the lil' fillies too?"
     p "Eeyup."    
-    
-    if(p_aj == "sugarcube"):                    # braeburn met first visit, received sugarcube
-        b "I would be willin' to give it a chance. Do you want to try?"
-    elif(appl4 == True):                        # braeburn met 2nd visit, gave sunglasses
-        b "I tried hard to have your attention, even tried sunglasses. Do you want to try now?"
-    else:                                       # braeburn met second visit, asked sunglasses
-        b "I tried hard to have your attention, even thought of sunglasses. Do you want to try now?"
+    b "I tried hard to have your attention, even got these sunglasses. Do you want to try now?"
 
     
     menu braeburnchoice:
@@ -140,6 +139,7 @@ label eegg:
             cmc "Awwwwwwww!"
             
             "Girls, you are creepy."
+            play sound "SFX/fail.mp3"
             "--Braeburn ending 0--"
             jump credits
             
@@ -171,6 +171,7 @@ label eegg:
             
             "And after putting Braeburn in his bed again, the nurse gave you a kiss on the cheek. You won't be able to see that in a future version... But everything went better than expected."
             
+            play sound "SFX/fail.mp3"
             "--Nurse Redheart ending--"
             
             jump credits
@@ -247,25 +248,4 @@ label credits:
        
     show credit10 with dissolve
 
-
- #   scene bg view of ponyville
- #   with fade
- #   
- #   "My Little Pony is property of Hasbro, please don't send us a C&D letter Hasbro! You are not affiliated with us and certainly don't approve the silliness of the game, we already know, it was just for fun! Same for you THQ and Violition! We now that the title is a bad joke with the Super Ethical Reality Climax, don't sue us for bad humour."
- #
- #   scene black
- #   with fade
- #   
- #   "Erm. The game engine has been provided by the Ren'Py team, they are the secret heroes that deserve a bit of praise. Go read the README if you want to  have a link to their website."
- #   show caramel truffle with dissolve
- #   "The scripting itself is a work of Caramel Truffle though. He also wrote the scenarios. And this text. Let's stop being pretentious for a minute, I am Caramel Truffle, author of every textual thing you may have liked or hated through the game. Every typo too, since I don't really have a proofreader."
- #   
- #   hide caramel truffle with dissolve
- #   show ginster steed with dissolve
- #   "Ginster steed has composed the music! Praise him, without his help you would have put your computer on mute because of the horrible automatically-generated tunes!"
- #   
- #   "The deviantArt Pony Vector Club did the drawings. Go read the README for a link, they do great stuff! Of course, having an artist drawing specifically for the game would have been better, but this is still an alpha. Or beta, if I forgot to change the credits. Anyway, the final version will have drawings done specifically for it, so check it out if you liked the game."
- #   scene black with dissolve
- #   "Did I forgot anyone? Ah, yes, you. You just decided to spend a fraction of your life on this. That might not be clever, but I appreciate it. We appreciate it. Thank you!"
-    
     ""

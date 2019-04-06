@@ -19,7 +19,7 @@
             "\"Hello Twilight!\"":
                 p "Hello Twilight!"
                 "Hearing your voice, the mare stops what she was doing to face you instead."
-            "Turn into Big Macintosh" if(easter_egg == 3):
+            "Turn into Big Macintosh" if((easter_egg == 3)and(appl4 == True)):
                 jump eegg
         
         if(playername=="Twilight Sparkle"):
