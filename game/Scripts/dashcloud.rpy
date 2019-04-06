@@ -11,12 +11,13 @@
             "As a unicorn, you are able to cast spells to go up to Rainbow's cloud and not fall through it."
             p "Magic is useful, [playername] was a good choice."
             
-        "Anyway, Rainbow Dash is there, searching something under her bed, she apparently hasn't seen you yet.\n
-         What are you going to do?"
+        "Anyway, Rainbow Dash is there, searching something under her bed, she apparently hasn't seen you yet."
+        "What are you going to do?"
         
         menu datdashplot:
             "Stare at her plot":
-                "You look at her plot for a while, licking your lips. She grunts, as she apparently didn't find what she was looking for."
+                "You look at her plot for a while, licking your lips while admiring her beautiful scenario. Ah, all the words and choices and-" 
+                "She grunts, as she apparently didn't find what she was looking for."
                 rd "What the hay? If I did not leave it there, where could it be?"
             "Offer your help":
                 p "Hey Rainbow, need any help?"
@@ -29,19 +30,19 @@
         rd "Hey, I didn't hear you coming!"
         
         if(playername=="Rainbow Dash"):
-            show rainbow proud
-            with dissolve
+            show rainbow proud with dissolve
             rd "But it's always a pleasure to welcome true fans to my lair!"
             p "True fans? ...Lair?"
             rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroin this city needs,
                 but the one this city deserves!"
             p "You watched batmare too much."
+            show rainbow happy with dissolve
             rd "But she's so awesome! ...Hey, I did not catch your name."
             p "Can you make one of my dream come true and call me Rainbow Dash?"
             rd "You really are a true fan! I like that! Okay, but only for today. Tomorrow I'll call you by your real name, deal?"
             p "Deal."
-            show rainbow happy
-            with dissolve
+        else:
+            show rainbow happy with dissolve
             
         rd "Are you just passing by [playername3], or do you need something?"
         p "I was wondering if you could help me with something."
@@ -86,19 +87,21 @@
                             stop music fadeout 1.0
                             scene end53
                             with fade
-                            "And then both of you did naughty things, the bed being too near to ignore it."
+                            "And then both of you did naughty things, the bed being too close to ignore it."
                             p "Your lack of pictures on that matter disappoint me."
                             "Tell that to the ghost visual artist, because the best I can do is this."
                             p "If you could do anything, what would you choose?"
                             "Chibi ponies kissing each other in a kawaii way. This isn't a 18+ game after all."
                             p "One day..."
-                            "The chibis. Not the change of rating."
+                            "The chibis. Not the change of rating. When I said they did naughty things, I was talking about eating.... IN THE BED! Think about it! All the crumbs everywere! Naughty! Filthy!"
+                            play sound "SFX/fail.mp3"
                             "--Rainbow ending 1--"
                             jump credits
                 show rainbow flattered
                 with dissolve
                 rd "Well, there's one easy way to handle that. I can't guarantee its results though."
                 p "And what would it be?"
+                show rainbow hey with dissolve
                 rd "Let me put you in context, first. Imagine you wanted to seem nicer. You know the principle of the lovely item, right? Something cute that makes you look like a nice pony?"
                 p "Like a plushie or a young kid?"
                 rd "Yeah. There's the same thing to look cooler instead of nicer, a \"cool item\" if you want."
@@ -107,13 +110,14 @@
                 stop music fadeout 1.0
                 scene black
                 with fade
-                "She went somewhere else in her cloud, looking for something, before returning with a pair of sunglasses."
+                "She went somewhere else in her cloud, looking for something, before coming back with a pair of sunglasses."
                 scene bg rainbow bedroom
                 with fade
                 play music "Music/dashie.mp3"
-                show rainbow happy
+                show rainbow hey
                 with dissolve
                 rd "There, the coolest glasses in all of Equestria!"
+                show rainbow happy with dissolve
                 p "Thank you Dashie! You are a life saver!"
                 play sound "SFX/gotObject.mp3"
                 "You receive a cool pair of sunglasses!"
@@ -121,6 +125,7 @@
                 p "Tomorrow?"
                 rd "Yeah, it was fun and all, but I promised Derpy I would go train myself with her today, so I'm going to be busy for the rest of the day."
                 p "You are really awesome."
+                show rainbow hey with dissolve
                 rd "Yeah, yeah... But, please, don't go near us with these, I'll explain to you tomorrow."
                 p "No problem, see you tomorrow!"
                 rd "See ya!"
@@ -135,10 +140,13 @@
                 $ p_rd = "sunglasses"
             "To gain some strength":  
                 p "...to gain some strength."
+                show rainbow unsure with dissolve
                 rd "Strength? Really?"
                 p "Yes, I may not be an earth pony, but healthy exercises can't be ignored."
+                show rainbow happy with dissolve
                 rd "Yeah, no, that was the timing that surprised me, I was searching a dumbbell to go train myself with Derpy, because she asked me to too!"
                 p "Really? Can I join you?"
+                show rainbow hey with dissolve
                 rd "I don't think she would mind, so, yeah, sure! But first, we need to find that dumbbell."
                 p "Isn't it the one just right there, on the table right in front of you?"
                 show rainbow fly embarassed
@@ -204,8 +212,9 @@
                             with fade
                             
                             "And it was kisses and hugs time for the remaining of the day, Dashie joigning you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
-                            p "Three mares \"kissing and hugging\"? That's all I get? On a black screen?"
+                            p "Three mares \"kissing and hugging\"? That's all I get? On a still image like this one?"
                             "There are other games if you want graphic action."
+                            play sound "SFX/fail.mp3"
                             "--Derpy ending--"
                             jump credits
                         
@@ -221,12 +230,14 @@
                     p "Where did you come from?!"
                     rd "Doesn't matter. You come to my house. Pretend to be me. And try to abuse my friends? GET OUT!"
                     p "But-"
-                    stop music fadeout 1.0
+                    stop music
+                    play sound "SFX/vinylscratch.mp3"
                     scene end54
                     with fade
                     "And she kicked you so hard... You just lost the game."
                     p "This isn't funny anymore either."
                     "You lost anyway."
+                    play sound "SFX/fail.mp3"
                     "--Rainbow Dash ending 2--"
                     jump credits
         else:
@@ -254,8 +265,8 @@
         p "Wait there, I'll get you one. I don't know how, but I'll get you one."
         show derpy bittersweet
         with dissolve
-        d "Thank you [playername2], I will wait until your return."
-        p "I will get back as soon as possible!"
+        d "Thank you [playername2], I will wait for your return."
+        p "I will come back as soon as possible!"
         
         stop music fadeout 1.0
         scene black
@@ -377,7 +388,7 @@
         "--Rainbow Dash true ending--"
         jump credits
                 
-    "Rainbow Dash isn't there. It would be creepy to wait her in her bed."
+    "Rainbow Dash isn't there. It would be creepy to wait for her in her bed."
     p "Rainbow Dash is not here and I have nothing to do there. Let's go somewhere else."
     stop music fadeout 1.0
     scene black

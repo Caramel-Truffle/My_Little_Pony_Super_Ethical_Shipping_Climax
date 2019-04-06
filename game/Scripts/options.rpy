@@ -18,12 +18,12 @@ define config.name = _("My Little Pony Super Ethical Shipping Climax")
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.
 
-define gui.show_name = True
+define gui.show_name = False
 
 
 ## The version of the game.
 
-define config.version = "b02"
+define config.version = "b03"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
