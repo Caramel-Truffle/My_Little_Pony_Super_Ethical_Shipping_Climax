@@ -753,9 +753,9 @@ screen preferences():
                 vbox:
                     label _("Language")
                     textbutton "English" action Language(None)
-                    textbutton "Engrish" action Language("engrish")
-                    textbutton "Français" action Language("french")
-                    textbutton "TABARNAK" action Language("tabarnak")
+                    textbutton "Engrish" action Language("Engrish")
+                    textbutton "Français" action Language("French")
+                    textbutton "TABARNAK" action Language("TABARNAK")
 
             null height (4 * gui.pref_spacing)
 

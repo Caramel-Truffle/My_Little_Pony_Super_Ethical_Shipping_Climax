@@ -64,7 +64,7 @@ translate Engrish datdashplot_fea1e80a:
 translate Engrish datdashplot_d9e91ea5:
 
     # rd "Sure, do you- Wait. What?"
-    rd "Obviously, you are waiting.
+    rd "Obviously, you are waiting."
 
 # game/Scripts/dashcloud.rpy:25
 translate Engrish datdashplot_7dd30603:
@@ -82,7 +82,7 @@ translate Engrish datdashplot_b069318f:
 translate Engrish datdashplot_0082e58e:
 
     # rd "But it's always a pleasure to welcome true fans to my lair!"
-    "Or it's always fun to get my best friends!
+    "Or it's always fun to get my best friends!"
 
 # game/Scripts/dashcloud.rpy:35
 translate Engrish datdashplot_a5e14cce:
@@ -94,7 +94,7 @@ translate Engrish datdashplot_a5e14cce:
 translate Engrish datdashplot_291020bc:
 
     # rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroin this city needs, but the one this city deserves!"
-    "Yes, look at you! You're like my clothes." To be a burden, my cloud is not a heroin, but this city is worth it! "
+    "Yes, look at you! You're like my clothes. To be a burden, my cloud is not a heroin, but this city is worth it! "
 
 # game/Scripts/dashcloud.rpy:38
 translate Engrish datdashplot_bc4cd5d5:
@@ -280,7 +280,7 @@ translate Engrish easyflutterdash_e85ddcd3:
 translate Engrish easyflutterdash_0a83f1c8:
 
     # "The chibis. Not the change of rating. When I said they did naughty things, I was talking about eating.... IN THE BED! Think about it! All the crumbs everywere! Naughty! Filthy!"
-    "The chibis, not a change in the grade, when I said they did something wrong, I talked about eating .... OK! Think about it!
+    "The chibis, not a change in the grade, when I said they did something wrong, I talked about eating .... OK! Think about it!"
 
 # game/Scripts/dashcloud.rpy:99
 translate Engrish easyflutterdash_74ef33bb:
@@ -292,7 +292,7 @@ translate Engrish easyflutterdash_74ef33bb:
 translate Engrish easyflutterdash_05654b16:
 
     # rd "Well, there's one easy way to handle that. I can't guarantee its results though."
-    rd "Well, there's an easy way to do that.
+    rd "Well, there's an easy way to do that."
 
 # game/Scripts/dashcloud.rpy:104
 translate Engrish easyflutterdash_d1047b0e:
@@ -304,7 +304,7 @@ translate Engrish easyflutterdash_d1047b0e:
 translate Engrish easyflutterdash_a364db8b:
 
     # rd "Let me put you in context, first. Imagine you wanted to seem nicer. You know the principle of the lovely item, right? Something cute that makes you look like a nice pony?"
-    "Let me put you first, first think that you want to nicer." Do you know the principle of beauty, is it a good thing that makes you beautiful? "
+    "Let me put you first, first think that you want to nicer. Do you know the principle of beauty, is it a good thing that makes you beautiful? "
 
 # game/Scripts/dashcloud.rpy:107
 translate Engrish easyflutterdash_2d1433f4:
@@ -316,7 +316,7 @@ translate Engrish easyflutterdash_2d1433f4:
 translate Engrish easyflutterdash_a0838bfc:
 
     # rd "Yeah. There's the same thing to look cooler instead of nicer, a \"cool item\" if you want."
-    rd "Yes, one thing is as warm as nicer, a \" cool \ "if you want."
+    rd "Yes, one thing is as warm as nicer, a \" cool \"if you want."
 
 # game/Scripts/dashcloud.rpy:109
 translate Engrish easyflutterdash_2f733bb2:
@@ -424,7 +424,7 @@ translate Engrish easyflutterdash_19902319:
 translate Engrish easyflutterdash_bec1adeb:
 
     # rd "Strength? Really?"
-    "Power?"?
+    "Power?"
 
 # game/Scripts/dashcloud.rpy:146
 translate Engrish easyflutterdash_c610938f:
@@ -502,7 +502,7 @@ translate Engrish easyflutterdash_ccb93bbd:
 translate Engrish easyflutterdash_ca9cd8f3:
 
     # d "Rainbow Dash! You are back!"
-    on the Mount Dash! Go back! "
+    d "on the Mount Dash! Go back! "
 
 # game/Scripts/dashcloud.rpy:184
 translate Engrish derpyabuse_e2663b37:
@@ -550,7 +550,7 @@ translate Engrish truederpyabuse_815c8d68:
 translate Engrish truederpyabuse_cbcfbf54:
 
     # d "Really? Even more than muffins? That's not possible!"
-    Yes, even more than muffins? That's impossible! "
+    d "Yes, even more than muffins? That's impossible! "
 
 # game/Scripts/dashcloud.rpy:195
 translate Engrish truederpyabuse_0d3c0b9a:
@@ -568,7 +568,7 @@ translate Engrish truederpyabuse_3c815e70:
 translate Engrish truederpyabuse_e166e62e:
 
     # d "Kisses and hugs time!"
-    rd kisses and hugs time! "
+    d "kisses and hugs time! "
 
 # game/Scripts/dashcloud.rpy:216
 translate Engrish truederpyabuse_d5aa4191:
@@ -580,7 +580,7 @@ translate Engrish truederpyabuse_d5aa4191:
 translate Engrish truederpyabuse_f10a4ec1:
 
     # p "Three mares \"kissing and hugging\"? That's all I get? On a still image like this one?"
-    p "Three Mares - 'kiss and summarize'?" Did I get all this?
+    p "Three Mares - 'kiss and summarize'? Did I get all this?"
 
 # game/Scripts/dashcloud.rpy:218
 translate Engrish truederpyabuse_40202db6:
@@ -688,19 +688,19 @@ translate Engrish truederpyabuse_b91fd848:
 translate Engrish truederpyabuse_14282fcf:
 
     # d "That's true [playername2]! And-"
-    rd "That is true [username2]!" - "
+    rd "That is true [username2]!"
 
 # game/Scripts/dashcloud.rpy:254
 translate Engrish truederpyabuse_94418b3c:
 
     # d "I... Lost my Muffin..."
-    rd ... M ... I've Lost Muffin ... "
+    rd "... M ... I've Lost Muffin ... "
 
 # game/Scripts/dashcloud.rpy:255
 translate Engrish truederpyabuse_78a79987:
 
     # p "What? Where?"
-    "What?" Where? "
+    "What? Where? "
 
 # game/Scripts/dashcloud.rpy:256
 translate Engrish truederpyabuse_5aaaf352:
@@ -790,7 +790,7 @@ translate Engrish truederpyabuse_863a77e1:
 translate Engrish truederpyabuse_56d02e78:
 
     # p "Of course I will! And I will be back as soon as I can!"
-    p "Of course, I'll do it!" I'll come back as soon as I can! "
+    p "Of course, I'll do it! I'll come back as soon as I can! "
 
 # game/Scripts/dashcloud.rpy:293
 translate Engrish truederpyabuse_501137be:
@@ -922,7 +922,7 @@ translate Engrish yummymuffin_ae7b114b:
 translate Engrish yummymuffin_5dd7cf6c:
 
     # rd "Barbier dolls? You're making less and less sense by the minute."
-    rd "Bebs dob?" You are temporarily and unnecessary from that minute. "
+    rd "Bebs dob? You are temporarily and unnecessary from that minute. "
 
 # game/Scripts/dashcloud.rpy:361
 translate Engrish yummymuffin_e0d0f471:

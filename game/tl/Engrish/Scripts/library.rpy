@@ -1186,7 +1186,7 @@ translate Engrish spikechoice_8ce23de1:
 translate Engrish spikechoice_32fab660:
 
     # ts "Spike isn't there. I didn't know that Rarity loved him back, but if they are together this evening, it might be it."
-    ts Do not believe that the Rarity loves it, if they come tonight, it will be. "
+    ts "Do not believe that the Rarity loves it, if they come tonight, it will be. "
 
 # game/Scripts/library.rpy:456
 translate Engrish spikechoice_fda84158:
@@ -1300,7 +1300,7 @@ translate Engrish spikechoice_4e72f7d0:
 translate Engrish spikechoice_cdfa2fe4:
 
     # ts "No no no no... This shouldn't be happening! Not now!"
-    ts the only one that goes around"
+    ts "the only one that goes around"
 
 # game/Scripts/library.rpy:510
 translate Engrish spikechoice_cd0d6214:

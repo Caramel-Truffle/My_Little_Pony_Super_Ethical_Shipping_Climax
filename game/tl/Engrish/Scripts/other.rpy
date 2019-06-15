@@ -100,7 +100,7 @@ translate Engrish bm_place_choice_50810729:
 translate Engrish bm_place_choice_e747cf69:
 
     # s "Great! We found you the perfect date! Promise!"
-    s "Big! We've seen you perfect day!" Promise! "
+    s "Big! We've seen you perfect day! Promise! "
 
 # game/Scripts/other.rpy:70
 translate Engrish bm_place_choice_1a89e756:
@@ -244,7 +244,7 @@ translate Engrish braeburnchoice_e295efc7:
 translate Engrish braeburnchoice_17fdf8c9:
 
     # "And then some stallions hugging. Kissing. And doing stuff. With kids watching."
-    "Then some now add, scare, and act." Children watch. "
+    "Then some now add, scare, and act. Children watch. "
 
 # game/Scripts/other.rpy:142
 translate Engrish braeburnchoice_0a77af13:
@@ -382,7 +382,7 @@ translate Engrish credits_a26dee8d:
 translate Engrish credits_468445cd:
 
     # "Love? I would have said stupidi-"
-    "Do you love?" I would have said that it was "
+    "Do you love? I would have said that it was "
 
 # game/Scripts/other.rpy:194
 translate Engrish credits_375b72e2:

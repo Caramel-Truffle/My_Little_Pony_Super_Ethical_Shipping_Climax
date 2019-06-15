@@ -437,7 +437,7 @@ translate French raritychoice1_c60c9467:
 translate French raritychoice1_8e4c6854:
 
     # p "Conceptual."
-    p "Conceptuel".
+    p "Conceptuel."
 
 # game/Scripts/carouselboutique.rpy:224
 translate French raritychoice1_cebcf5bb:

@@ -1076,5 +1076,5 @@ translate French strings:
 
     # _errorhandling.rpym:685
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new "Copie le fichier errors.txt dans le Presse-papiers en tant que Markdown for Discord.""
+    new "Copie le fichier errors.txt dans le Presse-papiers en tant que Markdown for Discord."
 

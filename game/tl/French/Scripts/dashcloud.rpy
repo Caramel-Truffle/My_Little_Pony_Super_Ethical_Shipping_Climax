@@ -10,295 +10,295 @@ translate French dashcloud_89abc92a:
 translate French dashcloud_bfbae56c:
 
     # p "Wings are useful, [playername] was a good choice."
-    p "Les ailes sont utiles, [playername] était un bon choix."
+    p "Les ailes sont utiles, [playername] était un bon choix."
 
 # game/Scripts/dashcloud.rpy:11
 translate French dashcloud_817a4c8f:
 
     # "As a unicorn, you are able to cast spells to go up to Rainbow's cloud and not fall through it."
-    "En tant que licorne, vous pouvez lancer des sorts pour aller dans le nuage de Rainbow et ne pas tomber."
+    "En tant que licorne, vous pouvez lancer des sorts pour aller dans le nuage de Rainbow et ne pas tomber."
 
 # game/Scripts/dashcloud.rpy:12
 translate French dashcloud_5fbc2be3:
 
     # p "Magic is useful, [playername] was a good choice."
-    p "La magie est utile, [playername] était un bon choix."
+    p "La magie est utile, [playername] était un bon choix."
 
 # game/Scripts/dashcloud.rpy:14
 translate French dashcloud_36385248:
 
     # "Anyway, Rainbow Dash is there, searching something under her bed, she apparently hasn't seen you yet."
-    "Quoi qu'il en soit, Rainbow Dash est là, cherchant quelque chose sous son lit, elle ne vous a apparemment pas encore vu."
+    "Quoi qu'il en soit, Rainbow Dash est là, cherchant quelque chose sous son lit, elle ne vous a apparemment pas encore vu."
 
 # game/Scripts/dashcloud.rpy:15
 translate French dashcloud_5afbc557:
 
     # "What are you going to do?"
-    "Qu'allez-vous faire?"
+    "Qu'allez-vous faire?"
 
 # game/Scripts/dashcloud.rpy:19
 translate French datdashplot_dc115e3a:
 
     # "You look at her plot for a while, licking your lips while admiring her beautiful scenario. Ah, all the words and choices and-"
-    "Vous regardez son synopsis pendant un moment, vous léchant les lèvres tout en admirant son magnifique scénario. Ah, tous les mots et tous les choix et-"
+    "Vous regardez son synopsis pendant un moment, vous léchant les lèvres tout en admirant son magnifique scénario. Ah, tous les mots et tous les choix et-"
 
 # game/Scripts/dashcloud.rpy:20
 translate French datdashplot_f5ce8270:
 
     # "She grunts, as she apparently didn't find what she was looking for."
-    "Elle grogne, car elle n'a apparemment pas trouvé ce qu'elle cherchait."
+    "Elle grogne, car elle n'a apparemment pas trouvé ce qu'elle cherchait."
 
 # game/Scripts/dashcloud.rpy:21
 translate French datdashplot_e24b4d7b:
 
     # rd "What the hay? If I did not leave it there, where could it be?"
-    rd "Purin! Si je ne l'ai pas laissée là, où se cache-t-elle?"
+    rd "Purin! Si je ne l'ai pas laissée là, où se cache-t-elle?"
 
 # game/Scripts/dashcloud.rpy:23
 translate French datdashplot_fea1e80a:
 
     # p "Hey Rainbow, need any help?"
-    p "Hey Rainbow, tu as besoin d'aide?"
+    p "Hey Rainbow, tu as besoin d'aide?"
 
 # game/Scripts/dashcloud.rpy:24
 translate French datdashplot_d9e91ea5:
 
     # rd "Sure, do you- Wait. What?"
-    rd "Bien sûr, tu… Attends. Quoi?
+    rd "Bien sûr, tu… Attends. Quoi?"
 
 # game/Scripts/dashcloud.rpy:25
 translate French datdashplot_7dd30603:
 
     # "She stands up, turn around and sees you."
-    "Elle se lève, se retourne et vous voit."
+    "Elle se lève, se retourne et vous voit."
 
 # game/Scripts/dashcloud.rpy:30
 translate French datdashplot_b069318f:
 
     # rd "Hey, I didn't hear you coming!"
-    rd "Hé, je ne t'ai pas entendu venir!"
+    rd "Hé, je ne t'ai pas entendu venir!"
 
 # game/Scripts/dashcloud.rpy:34
 translate French datdashplot_0082e58e:
 
     # rd "But it's always a pleasure to welcome true fans to my lair!"
-    rd "Mais c'est toujours un plaisir d'accueillir de vrais fans dans mon repaire!"
+    rd "Mais c'est toujours un plaisir d'accueillir de vrais fans dans mon repaire!"
 
 # game/Scripts/dashcloud.rpy:35
 translate French datdashplot_a5e14cce:
 
     # p "True fans? ...Lair?"
-    p "Les vrais fans? ... Repaire?"
+    p "Les vrais fans? ... Repaire?"
 
 # game/Scripts/dashcloud.rpy:36
 translate French datdashplot_291020bc:
 
     # rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroin this city needs, but the one this city deserves!"
-    rd "Ouais, regarde-toi! Tu es mon clone! Tu as même ma marque! Et mon arc-en-ciel. Je ne suis pas l'héroïne dont cette ville a besoin, mais celle que cette ville mérite!"
+    rd "Ouais, regarde-toi! Tu es mon clone! Tu as même ma marque! Et mon arc-en-ciel. Je ne suis pas l'héroïne dont cette ville a besoin, mais celle que cette ville mérite!"
 
 # game/Scripts/dashcloud.rpy:38
 translate French datdashplot_bc4cd5d5:
 
     # p "You watched batmare too much."
-    p "Vous avez trop regardé batmare."
+    p "Vous avez trop regardé batmare."
 
 # game/Scripts/dashcloud.rpy:40
 translate French datdashplot_99551c5e:
 
     # rd "But she's so awesome! ...Hey, I did not catch your name."
-    "Mais elle est tellement géniale! ... Hé, je n'ai pas compris ton nom."
+    "Mais elle est tellement géniale! ... Hé, je n'ai pas compris ton nom."
 
 # game/Scripts/dashcloud.rpy:41
 translate French datdashplot_b4af8ed3:
 
     # p "Can you make one of my dream come true and call me Rainbow Dash?"
-    p "Pouvez-vous réaliser un de mes rêves et m'appeler Rainbow Dash?"
+    p "Pouvez-vous réaliser un de mes rêves et m'appeler Rainbow Dash?"
 
 # game/Scripts/dashcloud.rpy:42
 translate French datdashplot_724d5b96:
 
     # rd "You really are a true fan! I like that! Okay, but only for today. Tomorrow I'll call you by your real name, deal?"
-    "Tu es vraiment un vrai fan! J'aime ça! D'accord, mais seulement pour aujourd'hui. Demain, je t'appellerai par ton vrai nom, deal?"
+    "Tu es vraiment un vrai fan! J'aime ça! D'accord, mais seulement pour aujourd'hui. Demain, je t'appellerai par ton vrai nom, deal?"
 
 # game/Scripts/dashcloud.rpy:43
 translate French datdashplot_31a90cd2:
 
     # p "Deal."
-    p "Deal."
+    p "Deal."
 
 # game/Scripts/dashcloud.rpy:47
 translate French datdashplot_9e578579:
 
     # rd "Are you just passing by [playername3], or do you need something?"
-    rd "Est-ce que tu es juste venue passer dire bonjour, [playername3] ou as-tu besoin de quelque chose?"
+    rd "Est-ce que tu es juste venue passer dire bonjour, [playername3] ou as-tu besoin de quelque chose?"
 
 # game/Scripts/dashcloud.rpy:48
 translate French datdashplot_b146c7b8:
 
     # p "I was wondering if you could help me with something."
-    p "Je me demandais si tu pouvais m'aider avec quelque chose."
+    p "Je me demandais si tu pouvais m'aider avec quelque chose."
 
 # game/Scripts/dashcloud.rpy:51
 translate French datdashplot_20f4f91e:
 
     # rd "Do you need help in the library? I heard it's this time of the year where you sort all the books again."
-    rd "As-tu besoin d’aide à la bibliothèque? J’ai entendu dire que c’est à cette époque de l’année que tu tries à nouveau tous les livres.
+    rd "As-tu besoin d’aide à la bibliothèque? J’ai entendu dire que c’est à cette époque de l’année que tu tries à nouveau tous les livres."
 
 # game/Scripts/dashcloud.rpy:53
 translate French datdashplot_e07f6bc8:
 
     # rd "Please tell me you are not looking for a model to design a dress!"
-    rd "S'il te plaît, dis-moi que tu ne cherches pas un modèle pour créer une robe!"
+    rd "S'il te plaît, dis-moi que tu ne cherches pas un modèle pour créer une robe!"
 
 # game/Scripts/dashcloud.rpy:55
 translate French datdashplot_cd3fbfe1:
 
     # rd "Do you need some help at night? It would be a pleasure."
-    rd "Tu as besoin d’aide la nuit? Ce serait un plaisir."
+    rd "Tu as besoin d’aide la nuit? Ce serait un plaisir."
 
 # game/Scripts/dashcloud.rpy:57
 translate French datdashplot_1af79adf:
 
     # rd "And what can the awesome Rainbow Dash do for you?"
-    rd "Et qu'est-ce que l'impressionnante Rainbow Dash peut faire pour toi?"
+    rd "Et qu'est-ce que l'impressionnante Rainbow Dash peut faire pour toi?"
 
 # game/Scripts/dashcloud.rpy:59
 translate French datdashplot_2d4a9ba7:
 
     # p "In fact, I was thinking of asking help..."
-    p "En fait, je pensais te demander de l'aide ..."
+    p "En fait, je pensais te demander de l'aide ..."
 
 # game/Scripts/dashcloud.rpy:63
 translate French askdashiehelp_8ca08919:
 
     # p "...to be cooler."
-    p "... pour être plus cool."
+    p "... pour être plus cool."
 
 # game/Scripts/dashcloud.rpy:64
 translate French askdashiehelp_f92adb54:
 
     # rd "Cooler?"
-    rd "Plus cool?"
+    rd "Plus cool?"
 
 # game/Scripts/dashcloud.rpy:67
 translate French askdashiehelp_653097b6:
 
     # p "I need to be about 20%% cooler."
-    p "J'ai besoin d'être environ 20% plus cool."
+    p "J'ai besoin d'être environ 20% plus cool."
 
 # game/Scripts/dashcloud.rpy:68
 translate French askdashiehelp_035770f1:
 
     # rd "That sentence has been overused, you know?"
-    rd "Cette phrase a été trop utilisée, tu sais?"
+    rd "Cette phrase a été trop utilisée, tu sais?"
 
 # game/Scripts/dashcloud.rpy:69
 translate French askdashiehelp_c26d4b78:
 
     # p "Sorry. Anyway, do you think you could help?"
-    p "Désolé. Quoi qu'il en soit, tu penses pouvoir m'aider?"
+    p "Désolé. Quoi qu'il en soit, tu penses pouvoir m'aider?"
 
 # game/Scripts/dashcloud.rpy:74
 translate French askdashiehelp_1ed89f17:
 
     # rd "We could make out. I already told you that I was open with that."
-    rd "On pourrait s'embrasser. Je t'ai déjà dit que j'étais okay avec ça."
+    rd "On pourrait s'embrasser. Je t'ai déjà dit que j'étais okay avec ça."
 
 # game/Scripts/dashcloud.rpy:75
 translate French askdashiehelp_d5a39c7d:
 
     # p "That isn't what I asked!"
-    p "Ce n'est pas ce que j'ai demandé!"
+    p "Ce n'est pas ce que j'ai demandé!"
 
 # game/Scripts/dashcloud.rpy:76
 translate French askdashiehelp_76a0385d:
 
     # rd "Does that mean that you are declining my offer again?"
-    rd "Est-ce que cela signifie que tu refuses mon offre à nouveau?"
+    rd "Est-ce que cela signifie que tu refuses mon offre à nouveau?"
 
 # game/Scripts/dashcloud.rpy:80
 translate French easyflutterdash_c5ddb242:
 
     # p "Yes. What could you do to make me cooler instead?"
-    p "Oui. Que pourrais-tu faire pour me rendre plus cool à la place?"
+    p "Oui. Que pourrais-tu faire pour me rendre plus cool à la place?"
 
 # game/Scripts/dashcloud.rpy:82
 translate French easyflutterdash_6b1e1e97:
 
     # p "Well... Erm... No."
-    p "Et bien... Euh... Non."
+    p "Et bien... Euh... Non."
 
 # game/Scripts/dashcloud.rpy:85
 translate French easyflutterdash_a71491a4:
 
     # rd "Really? That's gonna be awesome! Thanks Fluttershy!"
-    "Vraiment? Ca va être génial! Merci Fluttershy!"
+    "Vraiment? Ca va être génial! Merci Fluttershy!"
 
 # game/Scripts/dashcloud.rpy:86
 translate French easyflutterdash_f628511e:
 
     # p "Just... Be gentle, please."
-    p "Juste... Sois douce, s'il te plaît."
+    p "Juste... Sois douce, s'il te plaît."
 
 # game/Scripts/dashcloud.rpy:91
 translate French easyflutterdash_f02d2de8:
 
     # "And then both of you did naughty things, the bed being too close to ignore it."
-    "Et puis vous avez tous les deux fait des choses, le lit étant trop proche pour l'ignorer."
+    "Et puis vous avez tous les deux fait des choses, le lit étant trop proche pour l'ignorer."
 
 # game/Scripts/dashcloud.rpy:92
 translate French easyflutterdash_491425f7:
 
     # p "Your lack of pictures on that matter disappoint me."
-    p "Le manque de photos sur ce sujet me déçoit."
+    p "Le manque de photos sur ce sujet me déçoit."
 
 # game/Scripts/dashcloud.rpy:93
 translate French easyflutterdash_c0e9c353:
 
     # "Tell that to the ghost visual artist, because the best I can do is this."
-    "Dis ça à l'artiste visuel fantôme, parce que le mieux que je puisse faire, c'est ça."
+    "Dis ça à l'artiste visuel fantôme, parce que le mieux que je puisse faire, c'est ça."
 
 # game/Scripts/dashcloud.rpy:94
 translate French easyflutterdash_a2a6d5b0:
 
     # p "If you could do anything, what would you choose?"
-    p "Si vous pouviez faire quelque chose, que choisiriez-vous?"
+    p "Si vous pouviez faire quelque chose, que choisiriez-vous?"
 
 # game/Scripts/dashcloud.rpy:95
 translate French easyflutterdash_f3d221c5:
 
     # "Chibi ponies kissing each other in a kawaii way. This isn't a 18+ game after all."
-    "Des poneys Chibi s'embrassent de manière kawaii. Ce n'est pas un jeu pour les 18 ans et plus."
+    "Des poneys Chibi s'embrassent de manière kawaii. Ce n'est pas un jeu pour les 18 ans et plus."
 
 # game/Scripts/dashcloud.rpy:96
 translate French easyflutterdash_e85ddcd3:
 
     # p "One day..."
-    p "Un jour..."
+    p "Un jour..."
 
 # game/Scripts/dashcloud.rpy:97
 translate French easyflutterdash_0a83f1c8:
 
     # "The chibis. Not the change of rating. When I said they did naughty things, I was talking about eating.... IN THE BED! Think about it! All the crumbs everywere! Naughty! Filthy!"
-    "Les chibis. Pas le changement de classement. Quand j'ai dit qu'ils avaient fait des choses, je parlais de manger... DANS LE LIT! Pensez-y! Toutes les miettes partout! Méchant! Sale!"
+    "Les chibis. Pas le changement de classement. Quand j'ai dit qu'ils avaient fait des choses, je parlais de manger... DANS LE LIT! Pensez-y! Toutes les miettes partout! Méchant! Sale!"
 
 # game/Scripts/dashcloud.rpy:99
 translate French easyflutterdash_74ef33bb:
 
     # "--Rainbow ending 1--"
-    "--Rainbow Dash fin 1--"
+    "--Rainbow Dash fin 1--"
 
 # game/Scripts/dashcloud.rpy:103
 translate French easyflutterdash_05654b16:
 
     # rd "Well, there's one easy way to handle that. I can't guarantee its results though."
-    rd "Eh bien, il existe un truc. Je ne peux cependant pas garantir le résultat."
+    rd "Eh bien, il existe un truc. Je ne peux cependant pas garantir le résultat."
 
 # game/Scripts/dashcloud.rpy:104
 translate French easyflutterdash_d1047b0e:
 
     # p "And what would it be?"
-    p "Et ce serait quoi?"
+    p "Et ce serait quoi?"
 
 # game/Scripts/dashcloud.rpy:106
 translate French easyflutterdash_a364db8b:
@@ -310,289 +310,289 @@ translate French easyflutterdash_a364db8b:
 translate French easyflutterdash_2d1433f4:
 
     # p "Like a plushie or a young kid?"
-    p "Comme une peluche ou un jeune enfant?"
+    p "Comme une peluche ou un jeune enfant?"
 
 # game/Scripts/dashcloud.rpy:108
 translate French easyflutterdash_a0838bfc:
 
     # rd "Yeah. There's the same thing to look cooler instead of nicer, a \"cool item\" if you want."
-    rd "Ouais. Il y a la même chose pour sembler plus cool au lieu de plus gentil, un" "cool item" si tu veux."
+    rd "Ouais. Il y a la même chose pour sembler plus cool au lieu de plus gentil, un \"cool item\" si tu veux."
 
 # game/Scripts/dashcloud.rpy:109
 translate French easyflutterdash_2f733bb2:
 
     # p "And you have a cool item I could borrow?"
-    p "Et tu as un cool item que je pourrais emprunter?"
+    p "Et tu as un cool item que je pourrais emprunter?"
 
 # game/Scripts/dashcloud.rpy:110
 translate French easyflutterdash_f81b4f06:
 
     # rd "Of course. Wait there."
-    rd "Bien sûr. Attends là."
+    rd "Bien sûr. Attends là."
 
 # game/Scripts/dashcloud.rpy:114
 translate French easyflutterdash_5b477f39:
 
     # "She went somewhere else in her cloud, looking for something, before coming back with a pair of sunglasses."
-    "Elle alla à quelque bar dans son nuage, à la recherche de quelque chose, avant de revenir avec une paire de lunettes de soleil."
+    "Elle alla à quelque bar dans son nuage, à la recherche de quelque chose, avant de revenir avec une paire de lunettes de soleil."
 
 # game/Scripts/dashcloud.rpy:120
 translate French easyflutterdash_71bc14f0:
 
     # rd "There, the coolest glasses in all of Equestria!"
-    rd "Voilà, les lunettes les plus cool d’Equestria!"
+    rd "Voilà, les lunettes les plus cool d’Equestria!"
 
 # game/Scripts/dashcloud.rpy:122
 translate French easyflutterdash_9d4f8f5e:
 
     # p "Thank you Dashie! You are a life saver!"
-    p "Merci Dashie! Tu me sauves la vie!"
+    p "Merci Dashie! Tu me sauves la vie!"
 
 # game/Scripts/dashcloud.rpy:124
 translate French easyflutterdash_8c980dbd:
 
     # "You receive a cool pair of sunglasses!"
-    "Vous recevez une paire de lunettes de soleil très cool!"
+    "Vous recevez une paire de lunettes de soleil très cool!"
 
 # game/Scripts/dashcloud.rpy:125
 translate French easyflutterdash_3c47e800:
 
     # rd "Well... I hope you'll tell me what this is all about tomorrow."
-    rd "Eh bien... j'espère que tu vas me dire de quoi il en retourne demain."
+    rd "Eh bien... j'espère que tu vas me dire de quoi il en retourne demain."
 
 # game/Scripts/dashcloud.rpy:126
 translate French easyflutterdash_1372ef6b:
 
     # p "Tomorrow?"
-    p "Demain?"
+    p "Demain?"
 
 # game/Scripts/dashcloud.rpy:127
 translate French easyflutterdash_741ca70e:
 
     # rd "Yeah, it was fun and all, but I promised Derpy I would go train myself with her today, so I'm going to be busy for the rest of the day."
-    rd "Ouais, c'était amusant et tout, mais j'ai promis à Derpy d'aller m'entraîner avec elle aujourd'hui, alors je vais être occupée pour le reste de la journée."
+    rd "Ouais, c'était amusant et tout, mais j'ai promis à Derpy d'aller m'entraîner avec elle aujourd'hui, alors je vais être occupée pour le reste de la journée."
 
 # game/Scripts/dashcloud.rpy:128
 translate French easyflutterdash_01c722f7:
 
     # p "You are really awesome."
-    p "Tu es vraiment géniale."
+    p "Tu es vraiment géniale."
 
 # game/Scripts/dashcloud.rpy:130
 translate French easyflutterdash_1d0ca91b:
 
     # rd "Yeah, yeah... But, please, don't go near us with these, I'll explain to you tomorrow."
-    rd "Ouais, ouais... Mais s'il te plaît, ne t'approche pas de nous avec ça, je t'expliquerai demain."
+    rd "Ouais, ouais... Mais s'il te plaît, ne t'approche pas de nous avec ça, je t'expliquerai demain."
 
 # game/Scripts/dashcloud.rpy:131
 translate French easyflutterdash_c11adbeb:
 
     # p "No problem, see you tomorrow!"
-    p "Pas de problème, à demain!"
+    p "Pas de problème, à demain!"
 
 # game/Scripts/dashcloud.rpy:132
 translate French easyflutterdash_1fe2d40c:
 
     # rd "See ya!"
-    rd "À bientôt!"
+    rd "À bientôt!"
 
 # game/Scripts/dashcloud.rpy:136
 translate French easyflutterdash_59d81184:
 
     # "And she invited you to leave before doing so herself, then you went back to the Ponyville crossroad, with her pair of cool sunglasses in... Wait... How do you even carry the items that ponies give you?"
-    "Et elle vous invita à partir avant de le faire elle-même, allant èa la croisée des chemins de Ponyville, une paire de lunettes de soleil cool dans... Attendez... Comment transportez-vous les objets que les poneys vous donnent?"
+    "Et elle vous invita à partir avant de le faire elle-même, allant èa la croisée des chemins de Ponyville, une paire de lunettes de soleil cool dans... Attendez... Comment transportez-vous les objets que les poneys vous donnent?"
 
 # game/Scripts/dashcloud.rpy:138
 translate French easyflutterdash_b53e7692:
 
     # p "You don't want to know."
-    p "Vous ne voulez pas savoir."
+    p "Vous ne voulez pas savoir."
 
 # game/Scripts/dashcloud.rpy:139
 translate French easyflutterdash_fc5301a2:
 
     # "I heard nothing."
-    "Je n'ai rien entendu."
+    "Je n'ai rien entendu."
 
 # game/Scripts/dashcloud.rpy:143
 translate French easyflutterdash_19902319:
 
     # p "...to gain some strength."
-    p "...pour gagner de la force."
+    p "...pour gagner de la force."
 
 # game/Scripts/dashcloud.rpy:145
 translate French easyflutterdash_bec1adeb:
 
     # rd "Strength? Really?"
-    rd "De la force? Vraiment?"
+    rd "De la force? Vraiment?"
 
 # game/Scripts/dashcloud.rpy:146
 translate French easyflutterdash_c610938f:
 
     # p "Yes, I may not be an earth pony, but healthy exercises can't be ignored."
-    p "Oui, je ne suis peut-être pas un poney terrestre, mais les effets positifs de se garder en forme ne peuvent pas être ignorés."
+    p "Oui, je ne suis peut-être pas un poney terrestre, mais les effets positifs de se garder en forme ne peuvent pas être ignorés."
 
 # game/Scripts/dashcloud.rpy:148
 translate French easyflutterdash_2faa68c9:
 
     # rd "Yeah, no, that was the timing that surprised me, I was searching a dumbbell to go train myself with Derpy, because she asked me to too!"
-    rd "Ouais, non, c'est le timing qui m'a surpris; je cherchais un haltère pour m'entraîner avec Derpy, car elle me l'avait demandé aussi!"
+    rd "Ouais, non, c'est le timing qui m'a surpris; je cherchais un haltère pour m'entraîner avec Derpy, car elle me l'avait demandé aussi!"
 
 # game/Scripts/dashcloud.rpy:149
 translate French easyflutterdash_ae2d537e:
 
     # p "Really? Can I join you?"
-    p "Vraiment? Est-ce que je peux vous rejoindre?"
+    p "Vraiment? Est-ce que je peux vous rejoindre?"
 
 # game/Scripts/dashcloud.rpy:151
 translate French easyflutterdash_9ddaf9d0:
 
     # rd "I don't think she would mind, so, yeah, sure! But first, we need to find that dumbbell."
-    rd "Je ne pense pas que çca la dérangerait, donc oui, bien sûr! Mais d’abord, nous devons trouver cet haltère."
+    rd "Je ne pense pas que çca la dérangerait, donc oui, bien sûr! Mais d’abord, nous devons trouver cet haltère."
 
 # game/Scripts/dashcloud.rpy:152
 translate French easyflutterdash_68b25803:
 
     # p "Isn't it the one just right there, on the table right in front of you?"
-    p "N'est-ce pas celui qui est juste là, sur la table juste devant nous?"
+    p "N'est-ce pas celui qui est juste là, sur la table juste devant nous?"
 
 # game/Scripts/dashcloud.rpy:155
 translate French easyflutterdash_efb20066:
 
     # rd ".....\n .....\n Nooooo. Not at all, you can take this one. This... Isn't the one at all, I'm not stupid."
-    ".....\n.....\nNooooon. Pas du tout, tu peux prendre celui-ci. Celui-ci... Ce n'est pas celui-là, je ne suis pas stupide."
+    ".....\n.....\nNooooon. Pas du tout, tu peux prendre celui-ci. Celui-ci... Ce n'est pas celui-là, je ne suis pas stupide."
 
 # game/Scripts/dashcloud.rpy:159
 translate French easyflutterdash_3ea3283e:
 
     # "While blushing a bit, Rainbow Dash gives you a dumbbell!"
-    "Tout en rougissant un peu, Rainbow Dash vous donne un haltère!"
+    "Tout en rougissant un peu, Rainbow Dash vous donne un haltère!"
 
 # game/Scripts/dashcloud.rpy:161
 translate French easyflutterdash_33c5e109:
 
     # rd "I will... Erm. Continue to search. Go back here as soon as you are ready to go."
-    "Je vais... Euh. Continuer à chercher. Reviens ici dès que tu seras prête à partir."
+    "Je vais... Euh. Continuer à chercher. Reviens ici dès que tu seras prête à partir."
 
 # game/Scripts/dashcloud.rpy:162
 translate French easyflutterdash_3ccab5bb:
 
     # p "Ooookay... See you later, then."
-    p "Ooookay... À plus tard, alors."
+    p "Ooookay... À plus tard, alors."
 
 # game/Scripts/dashcloud.rpy:163
 translate French easyflutterdash_e42f06f5:
 
     # rd "Yeah, real soon!"
-    rd "Ouais, très bientôt!"
+    rd "Ouais, très bientôt!"
 
 # game/Scripts/dashcloud.rpy:167
 translate French easyflutterdash_100342ca:
 
     # "And so you were back on your way to the crossroad, with a bit of extra weight."
-    "Et vous revenez alors sur la terre ferme, avec un peu de poids supplémentaire."
+    "Et vous revenez alors sur la terre ferme, avec un peu de poids supplémentaire."
 
 # game/Scripts/dashcloud.rpy:177
 translate French easyflutterdash_ccb93bbd:
 
     # "You are back to Rainbow's cloud, but instead of her, you stumble upon Derpy Hooves, a gray mare with yellow... Eyes."
-    "Vous êtes de retour dans le nuage, mais plutôt que Rainbow, vous tombez sur Derpy Hooves, une jument grise avec des yeux... Jaunes."
+    "Vous êtes de retour dans le nuage, mais plutôt que Rainbow, vous tombez sur Derpy Hooves, une jument grise avec des yeux... Jaunes."
 
 # game/Scripts/dashcloud.rpy:180
 translate French easyflutterdash_ca9cd8f3:
 
     # d "Rainbow Dash! You are back!"
-    d "Rainbow Dash! Tu es de retour!"
+    d "Rainbow Dash! Tu es de retour!"
 
 # game/Scripts/dashcloud.rpy:184
 translate French derpyabuse_e2663b37:
 
     # p "I'm not Rainbow Dash, I'm just... A fan. Yeah, a hardcore fan, cosplaying as her and all."
-    p "Je ne suis pas Rainbow Dash, je suis juste... Une fan. Ouais, une fan hardcore, en cosplay d'elle et tout."
+    p "Je ne suis pas Rainbow Dash, je suis juste... Une fan. Ouais, une fan hardcore, en cosplay d'elle et tout."
 
 # game/Scripts/dashcloud.rpy:185
 translate French derpyabuse_fb11b1df:
 
     # d "Cool! I like her too! And muffins! I'm Derpy Hooves, what's your name?"
-    d "Cool! Je l'aime bien aussi! Et les muffins! J'aime les muffins! Je suis Derpy Hooves, comment t'appelles-tu?"
+    d "Cool! Je l'aime bien aussi! Et les muffins! J'aime les muffins! Je suis Derpy Hooves, comment t'appelles-tu?"
 
 # game/Scripts/dashcloud.rpy:186
 translate French derpyabuse_6e7ca0fc:
 
     # p "Well, why don't you call me Rainbow Dash as long as I'm cosplaying?"
-    p "Ben, pourquoi ne m'appelles-tu pas Rainbow Dash tant que je suis en costume?"
+    p "Ben, pourquoi ne m'appelles-tu pas Rainbow Dash tant que je suis en costume?"
 
 # game/Scripts/dashcloud.rpy:187
 translate French derpyabuse_c25764a8:
 
     # d "I muffin this idea!"
-    d "Je muffine cette idée!"
+    d "Je muffine cette idée!"
 
 # game/Scripts/dashcloud.rpy:188
 translate French derpyabuse_9043e234:
 
     # p "Muffin?"
-    p "Muffine?"
+    p "Muffine?"
 
 # game/Scripts/dashcloud.rpy:189
 translate French derpyabuse_ba22310f:
 
     # d "I love muffins!"
-    d "J'aime les muffins!"
+    d "J'aime les muffins!"
 
 # game/Scripts/dashcloud.rpy:193
 translate French truederpyabuse_815c8d68:
 
     # p "I have something even more delicious for you..."
-    p "J'ai quelque chose d'encore plus délicieux pour toi ..."
+    p "J'ai quelque chose d'encore plus délicieux pour toi ..."
 
 # game/Scripts/dashcloud.rpy:194
 translate French truederpyabuse_cbcfbf54:
 
     # d "Really? Even more than muffins? That's not possible!"
-    d "Vraiment? Encore plus que des muffins? Ce n'est pas possible!"
+    d "Vraiment? Encore plus que des muffins? Ce n'est pas possible!"
 
 # game/Scripts/dashcloud.rpy:195
 translate French truederpyabuse_0d3c0b9a:
 
     # p "Oh yes it is, close your eyes..."
-    p "Oh oui, ferme les yeux..."
+    p "Oh oui, ferme les yeux..."
 
 # game/Scripts/dashcloud.rpy:201
 translate French truederpyabuse_3c815e70:
 
     # "You kissed her."
-    "Vous l'embrassez."
+    "Vous l'embrassez."
 
 # game/Scripts/dashcloud.rpy:209
 translate French truederpyabuse_e166e62e:
 
     # d "Kisses and hugs time!"
-    d "C'est l'heure des bisous et câlins!"
+    d "C'est l'heure des bisous et câlins!"
 
 # game/Scripts/dashcloud.rpy:216
 translate French truederpyabuse_d5aa4191:
 
     # "And it was kisses and hugs time for the remaining of the day, Dashie joigning you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
-    "Et c'était l'heure des bisous et des câlins pour le reste de la journée, Dashie vous a rejoint à son retour, pensant que c'était un remplacement approprié pour la session d'entrainement physique qu'elle avait initialement planifiée."
+    "Et c'était l'heure des bisous et des câlins pour le reste de la journée, Dashie vous a rejoint à son retour, pensant que c'était un remplacement approprié pour la session d'entrainement physique qu'elle avait initialement planifiée."
 
 # game/Scripts/dashcloud.rpy:217
 translate French truederpyabuse_f10a4ec1:
 
     # p "Three mares \"kissing and hugging\"? That's all I get? On a still image like this one?"
-    p "Trois juments qui se font des \"bisous et câlins\"? C'est tout ce que je reçois? Sur une image fixe comme celle-ci?"
+    p "Trois juments qui se font des \"bisous et câlins\"? C'est tout ce que je reçois? Sur une image fixe comme celle-ci?"
 
 # game/Scripts/dashcloud.rpy:218
 translate French truederpyabuse_40202db6:
 
     # "There are other games if you want graphic action."
-    "Il y a d'autres jeux si vous voulez des trucs graphiques."
+    "Il y a d'autres jeux si vous voulez des trucs graphiques."
 
 # game/Scripts/dashcloud.rpy:220
 translate French truederpyabuse_33b443f6:
 
     # "--Derpy ending--"
-    "--Fin Derp--"
+    "--Fin Derp--"
 
 # game/Scripts/dashcloud.rpy:224
 translate French truederpyabuse_248944c5:
@@ -922,7 +922,7 @@ translate French yummymuffin_ae7b114b:
 translate French yummymuffin_5dd7cf6c:
 
     # rd "Barbier dolls? You're making less and less sense by the minute."
-    rd "Poupées Barbier? Tu es de moins en moins compréhensible à la minute.
+    rd "Poupées Barbier? Tu es de moins en moins compréhensible à la minute."
 
 # game/Scripts/dashcloud.rpy:361
 translate French yummymuffin_e0d0f471:

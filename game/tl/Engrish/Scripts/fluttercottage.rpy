@@ -88,7 +88,7 @@ translate Engrish crittercare_bc4f82a1:
 translate Engrish crittercare_64f11e70:
 
     # "She starts to sing how she adores them. That surely is a good sign."
-    "He started to sing how he was talking to them." This is a good sign. "
+    "He started to sing how he was talking to them. This is a good sign. "
 
 # game/Scripts/fluttercottage.rpy:35
 translate Engrish crittercare_91ff1a6e:
@@ -196,7 +196,7 @@ translate Engrish flutterabuse_315c244e:
 translate Engrish flutterabuse_818b66aa:
 
     # p "That's it... Now, come here, for a little wing-hug. Just that, nothing more..."
-    p "It's ... Now, come here, for a few wings-hug.
+    p "It's ... Now, come here, for a few wings-hug."
 
 # game/Scripts/fluttercottage.rpy:77
 translate Engrish flutterabuse_cb3207cb:
@@ -280,7 +280,7 @@ translate Engrish flutterabuse_ede84808:
 translate Engrish flutterabuse_64f11e70:
 
     # "She starts to sing how she adores them. That surely is a good sign."
-    "He started to sing how he was talking to them." This is a good sign. "
+    "He started to sing how he was talking to them. This is a good sign. "
 
 # game/Scripts/fluttercottage.rpy:101
 translate Engrish flutterabuse_37779edb:

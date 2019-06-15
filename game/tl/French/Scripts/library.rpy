@@ -1114,7 +1114,7 @@ translate French spikechoice_86c1df0a:
 translate French spikechoice_7cf4695e:
 
     # p "So, no \"I want to know everypony\" wish."
-    p "Alors, pas de souhait comme "Je veux connaître tout le monde\"."
+    p "Alors, pas de souhait comme \"Je veux connaître tout le monde\"."
 
 # game/Scripts/library.rpy:424
 translate French spikechoice_f0e715c1:

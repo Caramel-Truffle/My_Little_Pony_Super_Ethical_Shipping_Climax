@@ -76,7 +76,7 @@ translate Engrish sugarcubecorner_035bd597:
 translate Engrish sugarcubecorner_241f55da:
 
     # p "I did not even try to be one. Why would I?"
-    p "I do not try to become one." What happened to me? "
+    p "I do not try to become one. What happened to me? "
 
 # game/Scripts/sugarcubecorner.rpy:42
 translate Engrish sugarcubecorner_818c6f96:
@@ -118,7 +118,7 @@ translate Engrish sugarcubecorner_5fc1d59b:
 translate Engrish sugarcubecorner_05eda021:
 
     # pp "You warned us? About what? Do you even proofread yourself before releasing demos?"
-    pp "Do you warn us?" What will you do? Even if you read for yourself before releasing it? "
+    pp "Do you warn us? What will you do? Even if you read for yourself before releasing it? "
 
 # game/Scripts/sugarcubecorner.rpy:51
 translate Engrish sugarcubecorner_0b22d2fc:
@@ -238,7 +238,7 @@ translate Engrish pinkieguess_3991dfb3:
 translate Engrish pinkieguess_534f6c4b:
 
     # pp "Nopony told you? Really? Like, never ever ever ever?"
-    pp "Nopony told you?" Yes, for instance, has never been? "
+    pp "Nopony told you? Yes, for instance, has never been? "
 
 # game/Scripts/sugarcubecorner.rpy:96
 translate Engrish pinkieguess_f844208f:
@@ -304,7 +304,7 @@ translate Engrish pinkieguess_cd80d109:
 translate Engrish pinkieguess_2b48bbdd:
 
     # p "What? That's it?"
-    p "What?"?
+    p "What?"
 
 # game/Scripts/sugarcubecorner.rpy:135
 translate Engrish pinkieguess_42fc09b4:
@@ -442,7 +442,7 @@ translate Engrish pinkieguess_b68a6bc7:
 translate Engrish pinkieguess_0778aec3:
 
     # pp "Cross my heart and hope to fly, stick a cupcake in my eye, there is nothing here that can help you with that. Rarity, Applejack and Twilight are the only ones involved."
-    pp. "Take my heart and have air hope, put it in the cupcake in my eyes, there is nothing here that can help you in this case." Rarity, Applejack and Twilight are the only ones. "
+    pp "Take my heart and have air hope, put it in the cupcake in my eyes, there is nothing here that can help you in this case. Rarity, Applejack and Twilight are the only ones. "
 
 # game/Scripts/sugarcubecorner.rpy:204
 translate Engrish pinkieguess_3cc97915:
@@ -454,7 +454,7 @@ translate Engrish pinkieguess_3cc97915:
 translate Engrish pinkieguess_8e3960aa:
 
     # pp "That is very specific. I don't know where you've read it, but they trolled you."
-    pp. "This is brief. I do not know where you read, but they are running around you."
+    pp "This is brief. I do not know where you read, but they are running around you."
 
 # game/Scripts/sugarcubecorner.rpy:210
 translate Engrish pinkieguess_f63fff30:
@@ -550,7 +550,7 @@ translate Engrish assertivepie_50feb6ba:
 translate Engrish assertivepie_7eb0807d:
 
     # p "Shoe?"
-    p "shoes"?
+    p "shoes?"
 
 # game/Scripts/sugarcubecorner.rpy:244
 translate Engrish assertivepie_0d70ad25:
@@ -760,7 +760,7 @@ translate Engrish assertivepie_3c3d7a95:
 translate Engrish assertivepie_ec1c468f:
 
     # p "Well... I guess that couldn't hurt. To bake some, I mean."
-    p "I think it can not be harmful.
+    p "I think it can not be harmful."
 
 # game/Scripts/sugarcubecorner.rpy:303
 translate Engrish assertivepie_cd7ce1ed:
@@ -796,13 +796,13 @@ translate Engrish assertivepie_73739c39:
 translate Engrish assertivepie_7e20a4a8:
 
     # p "Or if I'm there, you could always either let the baking or the selling to me. Also your mustache fell off."
-    p "But if I'm there, you can leave or sell me anything at all." Your mouth drops off. "
+    p "But if I'm there, you can leave or sell me anything at all. Your mouth drops off. "
 
 # game/Scripts/sugarcubecorner.rpy:320
 translate Engrish assertivepie_b0484d4a:
 
     # pp "That's a good idea! But let's get baking first. And thanks."
-    pp "This is a good idea! But let's first take a drink." And thanks. "
+    pp "This is a good idea! But let's first take a drink. And thanks. "
 
 # game/Scripts/sugarcubecorner.rpy:323
 translate Engrish assertivepie_7cd06fc1:
@@ -1150,7 +1150,7 @@ translate Engrish sell_bake_556a1c6c:
 translate Engrish sell_bake_24ee27f9:
 
     # pp "Did you hear that? Six Luna's Specials are gone!"
-    pp "Did you hear this?
+    pp "Did you hear this?"
 
 # game/Scripts/sugarcubecorner.rpy:475
 translate Engrish sell_bake_11d8666c:

@@ -16,7 +16,7 @@ translate Engrish start_70111e48:
 translate Engrish start_d68ab443:
 
     # y "Wait, like the Colgate in My Little Pony? Am I dreaming or something?"
-    and "Wait, like Colgate and a little pony I dream or something?"
+    y "Wait, like Colgate and a little pony I dream or something?"
 
 # game/Scripts/script.rpy:515
 translate Engrish start_0ea8f8d7:

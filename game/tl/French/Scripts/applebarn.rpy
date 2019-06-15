@@ -118,7 +118,7 @@ translate French aj_see_herself_80f0e18d:
 translate French aj_see_herself_c4c18f4e:
 
     # p "We share the same name and cutie mark. A stranger couldn't tell the difference just by looking at us."
-    p "On a le mpeme nom et marque de beauté. Un inconnu ne pourrait pas nous différencier en nous regardant."
+    p "On a le même nom et marque de beauté. Un inconnu ne pourrait pas nous différencier en nous regardant."
 
 # game/Scripts/applebarn.rpy:47
 translate French aj_see_herself_16b19280:
@@ -160,7 +160,8 @@ translate French aj_see_herself_f96406fe:
 translate French aj_see_herself_6c26bda7:
 
     # "If you wanted something fun, you should have chosen Pinkie-oriented options, not the \"I'm your lost sibling\" one. And come on. the parents' reasoning doesn't make any sense if you think two seconds about it. Humour can also be found in how absurd and over-the-top something emotional is."
-    "Si vous vouliez du fun, vous auriez dû choisir les options qui faisaient très Pinkie, pas le \"je suis ta jumelle perdue\". Et puis, come on. La ogique des parents n'a aucun sens quand on s'y attarde deux minutes. L'humour se trouve aussi dans l'absurde et l'hyperbole inutile."
+    "Si vous vouliez du fun, vous auriez dû choisir les options qui faisaient très Pinkie, pas le \"je suis ta jumelle perdue\". Et puis, come on. La logique des parents n'a aucun sens quand on s'y attarde deux minutes."
+    "L'humour se trouve aussi dans l'absurde et l'hyperbole inutile."
 
 # game/Scripts/applebarn.rpy:60
 translate French aj_see_herself_fdb4c521:
@@ -688,295 +689,295 @@ translate French waterapple_4ae5b567:
 translate French waterapple_996e55c2:
 
     # p "Wai-"
-    p "Att-"
+    p "Att-"
 
 # game/Scripts/applebarn.rpy:248
 translate French waterapple_6bee6218:
 
     # "And you just did that."
-    "Et vous faites ça."
+    "Et vous faites ça."
 
 # game/Scripts/applebarn.rpy:249
 translate French waterapple_48747bb2:
 
     # p "Arrr... Pfff.... Gnnnn..."
-    p "Arrr ... Pfff .... Gnnnn ..."
+    p "Arrr ... Pfff .... Gnnnn ..."
 
 # game/Scripts/applebarn.rpy:252
 translate French waterapple_3baa1727:
 
     # aj "That's a bit slow for ten seconds and you only got one apple, [playername2]. I guess I won!"
-    aj "C'est un peu lent pour 'dix secondes' et tu n'as qu'une pomme, [playername2]. J'ai gagné!"
+    aj "C'est un peu lent pour 'dix secondes' et tu n'as qu'une pomme, [playername2]. J'ai gagné!"
 
 # game/Scripts/applebarn.rpy:253
 translate French waterapple_2a22d84f:
 
     # p "I guess you did."
-    p "Je suppose que oui."
+    p "Je suppose que oui."
 
 # game/Scripts/applebarn.rpy:256
 translate French waterapple_97bc438d:
 
     # "Oh, come on! Where's the fun? I would have pretended to roll dice and said random things depending on your character!"
-    "Oh, allez! Où est le plaisir? J'aurais prétendu lancer des dés et puis dire des choses au hasard en fonction de votre personnage!"
+    "Oh, allez! Où est le plaisir? J'aurais prétendu lancer des dés et puis dire des choses au hasard en fonction de votre personnage!"
 
 # game/Scripts/applebarn.rpy:257
 translate French waterapple_5a3cfc48:
 
     # p "I'll see what I can do."
-    p "Je vais voir ce que je peux faire."
+    p "Je vais voir ce que je peux faire."
 
 # game/Scripts/applebarn.rpy:258
 translate French waterapple_11d84612:
 
     # "Yeah, yeah, and the more you try, the less you're able to catch an apple. Your miserable attempt is clearly a reflection of your general failure at life and it takes you 25 seconds to catch a single fruit."
-    "Oui, oui, et plus vous essayez, moins vous êtes capable d'attraper une pomme. Votre tentative misérable est clairement le reflet de votre échec général dans la vie et il vous faut 25 secondes pour attraper un seul fruit."
+    "Oui, oui, et plus vous essayez, moins vous êtes capable d'attraper une pomme. Votre tentative misérable est clairement le reflet de votre échec général dans la vie et il vous faut 25 secondes pour attraper un seul fruit."
 
 # game/Scripts/applebarn.rpy:261
 translate French waterapple_d155c8c0:
 
     # aj "Were you even tryin'?"
-    aj "Est-ce que t'essayais, au moins?"
+    aj "Est-ce que t'essayais, au moins?"
 
 # game/Scripts/applebarn.rpy:262
 translate French waterapple_a946d782:
 
     # p "Yes, of course I was! I'm no wimp! It... It was because of the number of apples already in the water. I swear!"
-    p "Oui, bien sûr! Je ne suis pas un abruti! C'est ... c'est à cause du nombre de pommes déjà dans l'eau. J'le jure!"
+    p "Oui, bien sûr! Je ne suis pas un abruti! C'est ... c'est à cause du nombre de pommes déjà dans l'eau. J'le jure!"
 
 # game/Scripts/applebarn.rpy:264
 translate French waterapple_06398373:
 
     # "She sighs."
-    "Elle soupire."
+    "Elle soupire."
 
 # game/Scripts/applebarn.rpy:266
 translate French waterapple_f5811c68:
 
     # aj "Well... Keep the apple and come back to me when you feel like you can do better!"
-    aj "Bon, ben ... Garde la pomme et reviens vers moi quand tu sentiras que tu peux faire mieux!"
+    aj "Bon, ben ... Garde la pomme et reviens vers moi quand tu sentiras que tu peux faire mieux!"
 
 # game/Scripts/applebarn.rpy:267
 translate French waterapple_e6bb1a14:
 
     # p "I will!"
-    p "Okay!"
+    p "Okay!"
 
 # game/Scripts/applebarn.rpy:269
 translate French waterapple_28bfb962:
 
     # "And she goes away for the moment."
-    "Et elle s'en va pour le moment."
+    "Et elle s'en va pour le moment."
 
 # game/Scripts/applebarn.rpy:272
 translate French waterapple_ed598481:
 
     # "Well. You better go back to the crossroad for the moment."
-    "Ben... Tu ferais mieux de retourner au carrefour pour le moment."
+    "Ben... Tu ferais mieux de retourner au carrefour pour le moment."
 
 # game/Scripts/applebarn.rpy:273
 translate French waterapple_c17da045:
 
     # p "Can't I just go talk to someone?"
-    p "Je ne peux pas simplement aller parler à quelqu'un?"
+    p "Je ne peux pas simplement aller parler à quelqu'un?"
 
 # game/Scripts/applebarn.rpy:274
 translate French waterapple_e2240c74:
 
     # "Somepony. And no, it's not in the script, so you may not."
-    "Non, ce n'est pas dans le script."
+    "Non, ce n'est pas dans le script."
 
 # game/Scripts/applebarn.rpy:275
 translate French waterapple_fa5fdb4d:
 
     # p "Let's go then."
-    p "Allons-y alors."
+    p "Allons-y alors."
 
 # game/Scripts/applebarn.rpy:281
 translate French waterapple_fcf0b1dd:
 
     # "And you went back to the crossroad."
-    "Et vous êtes retourné au carrefour."
+    "Et vous êtes retourné au carrefour."
 
 # game/Scripts/applebarn.rpy:284
 translate French waterapple_d5e678d2:
 
     # "Getting this [p_aj] was worth the trip. I guess."
-    "Obtenir ce [p_aj] valait le déplacement. Je suppose."
+    "Obtenir ce [p_aj] valait le déplacement. Je suppose."
 
 # game/Scripts/applebarn.rpy:290
 translate French waterapple_7f26ef88:
 
     # "You come back to the Apple Family Reunion. A lot of ponies are here, discussing, playing, dancing... But for the moment, as you're not seeing Applejack anywhere and are a bit hungry due to the trip, you focus your attention on some apple pie."
-    "Vous revenez à la réunion de famille Apple. Beaucoup de poneys sont ici, discutent, jouent, dansent... Mais pour le moment, comme vous ne voyez Applejack nulle part et avez un peu faim à cause du voyage, vous concentrez votre attention sur une tarte aux pommes.".
+    "Vous revenez à la réunion de famille Apple. Beaucoup de poneys sont ici, discutent, jouent, dansent... Mais pour le moment, comme vous ne voyez Applejack nulle part et avez un peu faim à cause du voyage, vous concentrez votre attention sur une tarte aux pommes."
 
 # game/Scripts/applebarn.rpy:294
 translate French waterapple_37146882:
 
     # u "Howdy cousin! You did a great job!"
-    u "Hey cousin! T'as fait un excellent travail!"
+    u "Hey cousin! T'as fait un excellent travail!"
 
 # game/Scripts/applebarn.rpy:297
 translate French waterapple_b23cb738:
 
     # p "Sorry, I'm surely not the one you're thinking I am."
-    p "Désolé, je ne suis sûrement pas celle à qui tu penses."
+    p "Désolé, je ne suis sûrement pas celle à qui tu penses."
 
 # game/Scripts/applebarn.rpy:298
 translate French waterapple_bdbab47c:
 
     # u "Ah, sorry mam', I thought you were the ol' AJ."
-    "Ah, désolé mademoiselle, je pensais que tu étais la vieille AJ."
+    "Ah, désolé mademoiselle, je pensais que tu étais la vieille AJ."
 
 # game/Scripts/applebarn.rpy:299
 translate French waterapple_116456a6:
 
     # p "I am! But I'm not. My name is Applejack, I look like the Applejack you know, but I'm not her. Look, she's just over there, talking to... Where is she?"
-    p "Je le suis! Mais je ne le suis pas. Mon nom est Applejack, je ressemble à Applejack, mais je ne suis pas elle. Regarde, elle est juste là-bas, en train de parler à... Où est-elle?"
+    p "Je le suis! Mais je ne le suis pas. Mon nom est Applejack, je ressemble à Applejack, mais je ne suis pas elle. Regarde, elle est juste là-bas, en train de parler à... Où est-elle?"
 
 # game/Scripts/applebarn.rpy:300
 translate French waterapple_0bc6992c:
 
     # "You fail to point out the real AJ to the pony."
-    "Vous ne voyez pas où se cache la véritable Applejack."
+    "Vous ne voyez pas où se cache la véritable Applejack."
 
 # game/Scripts/applebarn.rpy:301
 translate French waterapple_e6bc8c91:
 
     # b "Oh. Don't worry, I trust you. And I'm Braeburn, coming from Aaaapple-loooooooosa! Great town, you should come someday!"
-    b "Oh. Ne t'inquiète pas, je te fais confiance. Et je suis Braeburn, venant d'Aaaapple-loooooooosa! Belle ville, tu devrais venir un jour!"
+    b "Oh. Ne t'inquiète pas, je te fais confiance. Et je suis Braeburn, venant d'Aaaapple-loooooooosa! Belle ville, tu devrais venir un jour!"
 
 # game/Scripts/applebarn.rpy:304
 translate French waterapple_eadc751a:
 
     # u "Howdy! Erm... AJ's friend?"
-    "Salut! Euh ... Ami d'AJ?"
+    "Salut! Euh ... Ami d'AJ?"
 
 # game/Scripts/applebarn.rpy:307
 translate French waterapple_ae3641d7:
 
     # p "Yes, close friend. My name is [playername]."
-    p "Oui, ami proche. Mon nom est [playername]."
+    p "Oui, ami proche. Mon nom est [playername]."
 
 # game/Scripts/applebarn.rpy:308
 translate French waterapple_41d1e36c:
 
     # b "Oh yes! We've met before, in Aaaapple-looooooosa! I'm Braeburn!"
-    b "Oh oui! Nous nous sommes déjà rencontrés à Aaaapple-looooooosa! Je suis Braeburn!"
+    b "Oh oui! Nous nous sommes déjà rencontrés à Aaaapple-looooooosa! Je suis Braeburn!"
 
 # game/Scripts/applebarn.rpy:309
 translate French waterapple_535670f0:
 
     # p "Yes, with Bloomberg, the \"You gotta share\" song and all of that..."
-    p "Oui, avec Bloomberg, la chanson \"Tu dois partager \" et tout ça ..."
+    p "Oui, avec Bloomberg, la chanson \"Tu dois partager \" et tout ça ..."
 
 # game/Scripts/applebarn.rpy:310
 translate French waterapple_91e73450:
 
     # b "Good times, you should come back someday."
-    b "Que des bons moments, tu devrais revenir un jour."
+    b "Que des bons moments, tu devrais revenir un jour."
 
 # game/Scripts/applebarn.rpy:312
 translate French waterapple_93f6f2c1:
 
     # p "Maybe I will. Especially if they're all as friendly as you are."
-    p "Peut-être que je le ferai. Surtout si tout les poneys sont aussi amicaux que toi."
+    p "Peut-être que je le ferai. Surtout si tout les poneys sont aussi amicaux que toi."
 
 # game/Scripts/applebarn.rpy:313
 translate French waterapple_c1500ee6:
 
     # b "You bet. But nopony there makes cider like Granny Smith does."
-    b "Pour sûr. Mais personne fait du cidre comme le fait Granny Smith."
+    b "Pour sûr. Mais personne fait du cidre comme le fait Granny Smith."
 
 # game/Scripts/applebarn.rpy:314
 translate French waterapple_a2c242a0:
 
     # p "Cider, uh? Well, don't drink too much!"
-    p "Du cidre, eh? Et bien, ne bois pas trop!"
+    p "Du cidre, eh? Et bien, ne bois pas trop!"
 
 # game/Scripts/applebarn.rpy:315
 translate French waterapple_f2e9394f:
 
     # "You added a wink to your last comment."
-    "Vous avez ajouté un clin d'oeil à votre dernier commentaire."
+    "Vous avez ajouté un clin d'oeil à votre dernier commentaire."
 
 # game/Scripts/applebarn.rpy:316
 translate French waterapple_3ce0ba02:
 
     # b "You know, I might."
-    b "Tu sais, je pourrais."
+    b "Tu sais, je pourrais."
 
 # game/Scripts/applebarn.rpy:317
 translate French waterapple_77a1f5a5:
 
     # p "A handsome stallion like you? What could you possibly want to blur with hard cider?"
-    p "Un bel étalon comme toi? Que pourrais-tu vouloir oublier avec la boisson?"
+    p "Un bel étalon comme toi? Que pourrais-tu vouloir oublier avec la boisson?"
 
 # game/Scripts/applebarn.rpy:318
 translate French waterapple_ec91ebbc:
 
     # b "Big Macintosh. First stallion I met who did not react to my charms."
-    b "Big Macintosh. Le premier étalon que j'ai rencontré qui n'a pas réagi à mon charme."
+    b "Big Macintosh. Le premier étalon que j'ai rencontré qui n'a pas réagi à mon charme."
 
 # game/Scripts/applebarn.rpy:319
 translate French waterapple_c8dc0cc1:
 
     # p "Wait, you're like...?"
-    p "Attends, tu es...?"
+    p "Attends, tu es...?"
 
 # game/Scripts/applebarn.rpy:320
 translate French waterapple_1e74489e:
 
     # b "Colt cuddler? Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And I like some variety, you know?"
-    b "Un poulain-lover? Nah. Licorne ou pégase, poney ou buffle, male ou femelle, tous ont leur petits trucs. Et j'aime ben la variété, t'sais?"
+    b "Un poulain-lover? Nah. Licorne ou pégase, poney ou buffle, male ou femelle, tous ont leur petits trucs. Et j'aime ben la variété, t'sais?"
 
 # game/Scripts/applebarn.rpy:321
 translate French waterapple_92b47b4b:
 
     # p "Yeah, whatever floats your boat. If everyone was like that, the world would be a simpler place."
-    p "Yeah, peu importe ce que tu préfères. Si tout le monde était comme toi, le monde serait plus simple."
+    p "Yeah, peu importe ce que tu préfères. Si tout le monde était comme toi, le monde serait plus simple."
 
 # game/Scripts/applebarn.rpy:322
 translate French waterapple_0c786af3:
 
     # b "You're cute sugarcube, do you know that?"
-    b "Tu es mignonne petit chou, tu le sais?"
+    b "Tu es mignonne petit chou, tu le sais?"
 
 # game/Scripts/applebarn.rpy:327
 translate French cute_bb_76135849:
 
     # p "I... I'm not cute! And you're a stallion!"
-    p "Je... je ne suis pas mignonne! Et t'es un étalon!"
+    p "Je... je ne suis pas mignonne! Et t'es un étalon!"
 
 # game/Scripts/applebarn.rpy:328
 translate French cute_bb_7456e19d:
 
     # b "Oh. I didn't guess you were only into mares, sorry sugarcube!"
-    b "Oh. Je ne pensais pas que tu aimais seulement les juments, désolé petit chou!"
+    b "Oh. Je ne pensais pas que tu aimais seulement les juments, désolé petit chou!"
 
 # game/Scripts/applebarn.rpy:329
 translate French cute_bb_6604dd13:
 
     # p "Yeah, I'm not g... Wait, I'm a mare myself."
-    p "Ouais, je ne suis pas g... Attends, je suis moi-même une jument."
+    p "Ouais, je ne suis pas g... Attends, je suis moi-même une jument."
 
 # game/Scripts/applebarn.rpy:330
 translate French cute_bb_e1a481c3:
 
     # b "Ah guess you are, not that it matters to me. Are you gender confused or somethin'?"
-    b "Euh, je suppose que tu l'es, non pas que ça me dérange. Es-tu confuse avec ton genre...?"
+    b "Euh, je suppose que tu l'es, non pas que ça me dérange. Es-tu confuse avec ton genre...?"
 
 # game/Scripts/applebarn.rpy:331
 translate French cute_bb_afc474c5:
 
     # p "N... No. Just forget it. Is there anything I could do? That doesn't involve kisses, of course."
-    p "N... Non. Oublie ça. Y a-t-il quelque chose que je puisse faire? Qui ne comporte pas de baisers, bien sûr."
+    p "N... Non. Oublie ça. Y a-t-il quelque chose que je puisse faire? Qui ne comporte pas de baisers, bien sûr."
 
 # game/Scripts/applebarn.rpy:335
 translate French cute_bb_5c3aeb68:
 
     # p "You bet I'm cute. Not as much as you are though."
-    p "Bien sûr que je suis mignonne. Pas autant que toi, ceci dit."
+    p "Bien sûr que je suis mignonne. Pas autant que toi, ceci dit."
 
 # game/Scripts/applebarn.rpy:336
 translate French cute_bb_52cfc343:
@@ -988,391 +989,393 @@ translate French cute_bb_52cfc343:
 translate French cute_bb_307c5416:
 
     # p "I was thinking about \"discussing\" with your cute face. You know, with passion."
-    p "Je pensais à aller \"discuter\" avec ta belle face. Tu sais, avec passion."
+    p "Je pensais à aller \"discuter\" avec ta belle face. Tu sais, avec passion."
 
 # game/Scripts/applebarn.rpy:338
 translate French cute_bb_460bce37:
 
     # b "I sure would love that... Let's go behind the barn, we should be alone and all."
-    b "J'adorerais ça... Allons derrière la grange, nous devrions être seuls et tout."
+    b "J'adorerais ça... Allons derrière la grange, nous devrions être seuls et tout."
 
 # game/Scripts/applebarn.rpy:368
 translate French cute_bb_1afa0410:
 
     # "And both of you went all kissu-kissu and stuff. Shamelessly. You scoundrel."
-    "Et vous êtes tous les deux allés faire du bisou-bisou et tout. Sans vergogne. Bande de canailles.
+    "Et vous êtes tous les deux allés faire du bisou-bisou et tout. Sans vergogne. Bande de canailles."
 
 # game/Scripts/applebarn.rpy:370
 translate French cute_bb_2269ceff:
 
     # "--Braeburn ending 2--"
-    "-- Braeburn fin 2--"
+    "-- Braeburn fin 2--"
 
 # game/Scripts/applebarn.rpy:375
 translate French cute_bb_8eede51b:
 
     # p "I have too much blood in my alcohol for that."
-    p "J'ai trop de sang dans mon alcool pour ça."
+    p "J'ai trop de sang dans mon alcool pour ça."
 
 # game/Scripts/applebarn.rpy:376
 translate French cute_bb_cc9ea598:
 
     # b "I sure can offer you some hard cider."
-    b "Je peux t'offrir du cidre pour sur."
+    b "Je peux t'offrir du cidre pour sur."
 
 # game/Scripts/applebarn.rpy:377
 translate French cute_bb_848965f0:
 
     # p "That would be great! And in return I would kiss you all day."
-    p "Ce serait génial! Et en retour, je t'embrasserais toute la journée."
+    p "Ce serait génial! Et en retour, je t'embrasserais toute la journée."
 
 # game/Scripts/applebarn.rpy:379
 translate French cute_bb_20921f87:
 
     # b "What about more than kisses?"
-    b "Pourquoi pas plus que des baisers?"
+    b "Pourquoi pas plus que des baisers?"
 
 # game/Scripts/applebarn.rpy:380
 translate French cute_bb_3ecf4ff4:
 
     # p "This isn't a clop story, so nothing more should happen."
-    p "Ce n'est pas une histoire de clop, donc rien de plus ne devrait arriver."
+    p "Ce n'est pas une histoire de clop, donc rien de plus ne devrait arriver."
 
 # game/Scripts/applebarn.rpy:381
 translate French cute_bb_4c337ed5:
 
     # b "Darn it."
-    b "Sacrebleu."
+    b "Sacrebleu."
 
 # game/Scripts/applebarn.rpy:382
 translate French cute_bb_38989416:
 
     # p "Sorry Braeburn. So... Don't you have anything I can do?"
-    p "Désolé Braeburn. Alors... Tu n'as rien que je puisse faire?"
+    p "Désolé Braeburn. Alors... Tu n'as rien que je puisse faire?"
 
 # game/Scripts/applebarn.rpy:383
 translate French cute_bb_18435418:
 
     # b "What about bringing me some sunglasses?"
-    b "Et si tu m'apportais des lunettes de soleil?"
+    b "Et si tu m'apportais des lunettes de soleil?"
 
 # game/Scripts/applebarn.rpy:384
 translate French cute_bb_844f0caf:
 
     # p "Sunglasses?"
-    p "Des lunettes de soleil?"
+    p "Des lunettes de soleil?"
 
 # game/Scripts/applebarn.rpy:385
 translate French cute_bb_d1f90079:
 
     # b "Yeah, I want to try a different approach with Big Mac."
-    b "Ouais, je veux essayer une approche différente avec Big Mac."
+    b "Ouais, je veux essayer une approche différente avec Big Mac."
 
 # game/Scripts/applebarn.rpy:386
 translate French cute_bb_149059f4:
 
     # p "Consider it done!"
-    p "C'est comme si c'était fait!"
+    p "C'est comme si c'était fait!"
 
 # game/Scripts/applebarn.rpy:387
 translate French cute_bb_96bfa241:
 
     # b "Thanks sugarcube, I'll wait."
-    b "Merci petit chou, je vais t'attendre."
+    b "Merci petit chou, je vais t'attendre."
 
 # game/Scripts/applebarn.rpy:390
 translate French cute_bb_f55595cf:
 
     # p "No, literally done, I have a pair here, but I can't let you have them forever."
-    p "Non, littéralement fait, j'ai une paire ici, mais je ne peux pas te la laisser pour toujours."
+    p "Non, littéralement fait, j'ai une paire ici, mais je ne peux pas te la laisser pour toujours."
 
 # game/Scripts/applebarn.rpy:394
 translate French cute_bb_72e04732:
 
     # p "I won't be long, see you later!"
-    p "Ce ne sera pas long, à plus tard!"
+    p "Ce ne sera pas long, à plus tard!"
 
 # game/Scripts/applebarn.rpy:395
 translate French cute_bb_a0884c79:
 
     # "And you leave the party."
-    "Et vous quittez la fête."
+    "Et vous quittez la fête."
 
 # game/Scripts/applebarn.rpy:401
 translate French cute_bb_6e96f31d:
 
     # "New quest! The sunglasses investigation! Let's play an epic music! Wait... No. It might not be adequate with the other parts of the game. And you would have been going back to the crossroad all the same anyway."
-    "Nouvelle quête! L'enquête pour trouver les lunettes de soleil! Mettons donc une musique épique! Attendez... Non. Cela pourrait ne pas être adéquat avec les autres parties du jeu. Et vous auriez quand même été de retour au carrefour."
+    "Nouvelle quête! L'enquête pour trouver les lunettes de soleil! Mettons donc une musique épique! Attendez... "
+    "Non." 
+    "Cela pourrait ne pas être adéquat avec les autres parties du jeu. Et vous auriez quand même été de retour au carrefour."
 
 # game/Scripts/applebarn.rpy:408
 translate French cute_bb_aa444fa8:
 
     # "Once more, you go back to the Apple barn."
-    "Une fois de plus, vous retournez à la grange Apple."
+    "Une fois de plus, vous retournez à la grange Apple."
 
 # game/Scripts/applebarn.rpy:410
 translate French cute_bb_646ac986:
 
     # p "But this time, I have the sunglasses!"
-    p "Mais cette fois, j'ai les lunettes de soleil!"
+    p "Mais cette fois, j'ai les lunettes de soleil!"
 
 # game/Scripts/applebarn.rpy:411
 translate French cute_bb_a4d61408:
 
     # "Yes you do and Braeburn is just there."
-    "Oui, et Braeburn est là."
+    "Oui, et Braeburn est là."
 
 # game/Scripts/applebarn.rpy:416
 translate French cute_bb_cd277b80:
 
     # b "Welcome back [playername2]!"
-    b "Bienvenue à nouveau [playername2]!"
+    b "Bienvenue à nouveau [playername2]!"
 
 # game/Scripts/applebarn.rpy:417
 translate French cute_bb_3770db0e:
 
     # p "Hey Brae, I've got your sunglasses, but I can't let you have them forever."
-    p "Hey Brae, j'ai tes lunettes de soleil, mais je ne peux pas te laisser les avoir pour toujours."
+    p "Hey Brae, j'ai tes lunettes de soleil, mais je ne peux pas te laisser les avoir pour toujours."
 
 # game/Scripts/applebarn.rpy:422
 translate French give_brae_sunglasses_6183c7e5:
 
     # b "That was fast! ...What do you mean by not forever?"
-    b "C'était rapide! ...Qu'entends-tu par 'pas pour toujours?'"
+    b "C'était rapide! ...Qu'entends-tu par 'pas pour toujours?'"
 
 # game/Scripts/applebarn.rpy:423
 translate French give_brae_sunglasses_68765700:
 
     # p "You want to test them with Big Mac, right? Just return them once you're done."
-    p "Tu veux les tester avec Big Mac, n'est-ce pas? Rends-les une fois que tu auras terminé."
+    p "Tu veux les tester avec Big Mac, n'est-ce pas? Rends-les une fois que tu auras terminé."
 
 # game/Scripts/applebarn.rpy:424
 translate French give_brae_sunglasses_c0383ef8:
 
     # b "Can't I just have them until tomorrow?"
-    b "Je ne peux pas les garder jusqu'à demain?"
+    b "Je ne peux pas les garder jusqu'à demain?"
 
 # game/Scripts/applebarn.rpy:425
 translate French give_brae_sunglasses_b21a6a47:
 
     # p "I guess I could let you borrow them longer... But I want something else in return."
-    p "Je suppose que je pourrais te les laisser plus longtemps... Mais je veux autre chose en retour."
+    p "Je suppose que je pourrais te les laisser plus longtemps... Mais je veux autre chose en retour."
 
 # game/Scripts/applebarn.rpy:429
 translate French brae_reward_f936a317:
 
     # p "I want to drink. A lot."
-    p "Je veux boire. Beaucoup."
+    p "Je veux boire. Beaucoup."
 
 # game/Scripts/applebarn.rpy:430
 translate French brae_reward_51f5f143:
 
     # b "Wow. Calm down sugarcube, you're not Berry Punch. What about some cider?"
-    b "Wow. Calme-toi, tu n'es pas Berry Punch. Veux-tu du cidre?"
+    b "Wow. Calme-toi, tu n'es pas Berry Punch. Veux-tu du cidre?"
 
 # game/Scripts/applebarn.rpy:431
 translate French brae_reward_f0020e49:
 
     # p "Your cider bottle. My mouth. Now."
-    p "Ta bouteille de cidre. Ma bouche. Maintenant."
+    p "Ta bouteille de cidre. Ma bouche. Maintenant."
 
 # game/Scripts/applebarn.rpy:452
 translate French brae_reward_44f29ef5:
 
     # "And you... Drank... A lot? Until accepting kisses from random ponies did not bother you anymore? What the..."
-    "Et vous... Avez bu... beaucoup? Jusqu'à ce qu'accepter des baisers de poneys inconnus ne vous dérange plus? Qu'est-ce que..."
+    "Et vous... Avez bu... beaucoup? Jusqu'à ce qu'accepter des baisers de poneys inconnus ne vous dérange plus? Qu'est-ce que..."
 
 # game/Scripts/applebarn.rpy:454
 translate French brae_reward_5a2fffb8:
 
     # "--Drunk ending--"
-    "-- Fin bourrée --"
+    "-- Fin bourrée --"
 
 # game/Scripts/applebarn.rpy:458
 translate French brae_reward_5062e6d5:
 
     # p "I want some alone time with AJ, if you know what I mean."
-    p "Je veux un peu de temps seul avec AJ, si tu vois ce que je veux dire."
+    p "Je veux un peu de temps seul avec AJ, si tu vois ce que je veux dire."
 
 # game/Scripts/applebarn.rpy:459
 translate French brae_reward_fe34a9c9:
 
     # b "I sure do [playername2], but that's not really up to me."
-    b "Oui, bien sûr [playername2], mais ce n'est pas vraiment à moi de décider."
+    b "Oui, bien sûr [playername2], mais ce n'est pas vraiment à moi de décider."
 
 # game/Scripts/applebarn.rpy:460
 translate French brae_reward_757aacb5:
 
     # p "Come on, I helped you with Big Mac, now it's your turn to help me! To try, at least."
-    p "Allez, je t'ai aidé avec Big Mac, maintenant c'est à ton tour de m'aider! Essaye, au moins."
+    p "Allez, je t'ai aidé avec Big Mac, maintenant c'est à ton tour de m'aider! Essaye, au moins."
 
 # game/Scripts/applebarn.rpy:461
 translate French brae_reward_1e1ff37d:
 
     # b "I promise nothin', but I'll do my best... Come back in a moment."
-    b "Je promets rien, mais je ferai de mon mieux... Reviens dans un instant."
+    b "Je promets rien, mais je ferai de mon mieux... Reviens dans un instant."
 
 # game/Scripts/applebarn.rpy:464
 translate French brae_reward_56441532:
 
     # "And so he left, to try something undisclosed."
-    "Et il est parti, pour essayer quelque chose."
+    "Et il est parti, pour essayer quelque chose."
 
 # game/Scripts/applebarn.rpy:470
 translate French brae_reward_84a61e25:
 
     # "And you went back to the crossroad, thinking about what you could do to wait."
-    "Et vous êtes retourné au carrefour en réfléchissant à ce que vous pourriez faire pour attendre."
+    "Et vous êtes retourné au carrefour en réfléchissant à ce que vous pourriez faire pour attendre."
 
 # game/Scripts/applebarn.rpy:471
 translate French brae_reward_76b3cd1c:
 
     # p "Isn't walking to the crossroad then going back enough?"
-    p "Est-ce que marcher jusqu'au carrefour puis revenir à la grange serait suffisant?"
+    p "Est-ce que marcher jusqu'au carrefour puis revenir à la grange serait suffisant?"
 
 # game/Scripts/applebarn.rpy:472
 translate French brae_reward_f4e3f50f:
 
     # "Maybe. Or not."
-    "Peut-être, ou pas."
+    "Peut-être, ou pas."
 
 # game/Scripts/applebarn.rpy:476
 translate French brae_reward_e22e06a7:
 
     # p "But I don't have the sunglasses!"
-    p "Mais je n'ai pas les lunettes de soleil!"
+    p "Mais je n'ai pas les lunettes de soleil!"
 
 # game/Scripts/applebarn.rpy:477
 translate French brae_reward_87072f4c:
 
     # "Don't blame me, I'm merely the narrator! But if you insist, I will now narrate how you went back without searching for Braeburn."
-    "Ne me blâmez pas, je ne suis que le narrateur! Mais si vous insistez, je vais maintenant raconter comment vous êtes rentré sans chercher Braeburn."
+    "Ne me blâmez pas, je ne suis que le narrateur! Mais si vous insistez, je vais maintenant raconter comment vous êtes rentré sans chercher Braeburn."
 
 # game/Scripts/applebarn.rpy:483
 translate French brae_reward_b9431735:
 
     # "And you went back without searching for Braeburn."
-    "Et vous êtes rentré sans chercher Braeburn."
+    "Et vous êtes rentré sans chercher Braeburn."
 
 # game/Scripts/applebarn.rpy:484
 translate French brae_reward_c8ea8a4a:
 
     # p "..."
-    p "..."
+    p "..."
 
 # game/Scripts/applebarn.rpy:485
 translate French brae_reward_3ed162ed:
 
     # "What did you expect? Crossroad!"
-    "A quoi vous attendiez-vous? Carrefour!"
+    "A quoi vous attendiez-vous? Carrefour!"
 
 # game/Scripts/applebarn.rpy:493
 translate French brae_reward_1aa110eb:
 
     # "You get back to the Apple farm, where everypony is slowly starting to leave, either going to their vehicle so they can get home, to their trailer, so they can prepare themselves for the night to come, or to any other sleeping place there."
-    "Vous revenez à la ferme Apple, où tout le monde commence lentement à partir, soit en voiture pour pouvoir rentrer chez eux, soit vers leur caravane, ou tout autre endroit où dormir avant de partir à l'aube."
+    "Vous revenez à la ferme Apple, où tout le monde commence lentement à partir, soit en voiture pour pouvoir rentrer chez eux, soit vers leur caravane, ou tout autre endroit où dormir avant de partir à l'aube."
 
 # game/Scripts/applebarn.rpy:494
 translate French brae_reward_db05870f:
 
     # "The Apple house is clearly too small to host the whole crowd. Most ponies have come from too far away not to stay over and wait for the next day before starting to drive home. Although most would simply ride the train."
-    "La maison Apple est clairement trop petite pour accueillir tout le monde. La plupart des poneys sont venus de loin et préfèrent ne pas rouler de nuit trop longtemps. Et il y a aussi ceux qui prennent le train."
+    "La maison Apple est clairement trop petite pour accueillir tout le monde. La plupart des poneys sont venus de loin et préfèrent ne pas rouler de nuit trop longtemps. Et il y a aussi ceux qui prennent le train."
 
 # game/Scripts/applebarn.rpy:498
 translate French brae_reward_cc1064fb:
 
     # aj "Howdy, [playername3]! I didn't think you'd come back! Did you want to stay over for the night?"
-    aj "Salut, [playername3]! Je ne pensais pas que tu reviendrais! Voulais-tu rester pour la nuit?"
+    aj "Salut, [playername3]! Je ne pensais pas que tu reviendrais! Voulais-tu rester pour la nuit?"
 
 # game/Scripts/applebarn.rpy:500
 translate French brae_reward_b90f6818:
 
     # p "Yeah, I was thinking about having a little extended family fun time. You know, us two, in a secluded space, sharing a close bond…"
-    p "Ouais, je pensais qu'on aurait un peu de temps pour nous amuser en famille. Tu sais, nous deux, dans un espace isolé, partageant des liens étroits…"
+    p "Ouais, je pensais qu'on aurait un peu de temps pour nous amuser en famille. Tu sais, nous deux, dans un espace isolé, partageant des liens étroits…"
 
 # game/Scripts/applebarn.rpy:504
 translate French brae_reward_851b7b3f:
 
     # aj "Don’t worry [playername2], I have all your needs covered!"
-    aj "Ne t'inquiètes pas [playername2], je sais exactement ce que tu veux dire!"
+    aj "Ne t'inquiètes pas [playername2], je sais exactement ce que tu veux dire!"
 
 # game/Scripts/applebarn.rpy:509
 translate French brae_reward_1476b537:
 
     # "And thus, in her bedroom, you and Applejack got close to one another, with a sinful look in your eyes, there was some lip biting, moaning and…"
-    "Et ainsi, dans sa chambre à coucher, Applejack et vous vous êtes rapprochés l'un de l'autre, vous regardant l'un l'autre de manière complice, avec quelques mordillements de lèvres, gémissement et…"
+    "Et ainsi, dans sa chambre à coucher, Applejack et vous vous êtes rapprochés l'un de l'autre, vous regardant l'un l'autre de manière complice, avec quelques mordillements de lèvres, gémissement et…"
 
 # game/Scripts/applebarn.rpy:513
 translate French brae_reward_e87f6fcc:
 
     # aj "I win! Haha! I’m the best Gin Rummy Matching player in all the family!"
-    aj "J'ai gagné! Haha! Je suis la meilleure joueuse de Gin Rami de toute la famille!"
+    aj "J'ai gagné! Haha! Je suis la meilleure joueuse de Gin Rami de toute la famille!"
 
 # game/Scripts/applebarn.rpy:515
 translate French brae_reward_e2afe855:
 
     # "Your moans of frustration turned to a grunt of displeasure. Followed by a chuckle as you cleaned up the playing area and shuffled the cards again."
-    "Vos gémissements de frustration se sont transformés en un grognement de mécontentement. Un petit rire vous a suivi alors que vous nettoyiez l'aire de jeu et que vous brassiez à nouveau les cartes."
+    "Vos gémissements de frustration se sont transformés en un grognement de mécontentement. Un petit rire vous a suivi alors que vous nettoyiez l'aire de jeu et que vous brassiez à nouveau les cartes."
 
 # game/Scripts/applebarn.rpy:517
 translate French brae_reward_809ee4c4:
 
     # p "I didn’t think you’d be so much into card games! … Wait. It feels like I am totally missing some kind of point there."
-    p "Je ne pensais pas que tu aimerais jouer autant aux jeux de cartes!... Attends. J'ai l'impression de manquer totalement un truc."
+    p "Je ne pensais pas que tu aimerais jouer autant aux jeux de cartes!... Attends. J'ai l'impression de manquer totalement un truc."
 
 # game/Scripts/applebarn.rpy:519
 translate French brae_reward_9210dfde:
 
     # aj "As if you expected us two to be doing something else, hidden in my bedroom? They don’t call me the Ungar of the family for nothin’!"
-    aj "Que pensais-tu que nous ferions d'autres, seuls dans ma chambre? On ne m'appelle pas le Ungar de la famille pour rien"!
+    aj "Que pensais-tu que nous ferions d'autres, seuls dans ma chambre? On ne m'appelle pas le Ungar de la famille pour rien!"
 
 # game/Scripts/applebarn.rpy:523
 translate French brae_reward_d8c79f93:
 
     # p "Literally no one call you that."
-    p "Littéralement, personne ne t'appelle comme ça."
+    p "Littéralement, personne ne t'appelle comme ça."
 
 # game/Scripts/applebarn.rpy:525
 translate French brae_reward_e0413497:
 
     # "And thus you two spent the remaining of your evening and night playing games and having some tame sisterly fun. Well, almost-sisterly."
-    "Et ainsi vous deux avez passé le reste de votre soirée et de votre nuit à jouer à des jeux et à vous amuser dans une douce complicité."
+    "Et ainsi vous deux avez passé le reste de votre soirée et de votre nuit à jouer à des jeux et à vous amuser dans une douce complicité."
 
 # game/Scripts/applebarn.rpy:527
 translate French brae_reward_20fd188e:
 
     # p "Are you sure there shouldn’t be a scene there with a lot of inces-"
-    p "Êtes-vous sûr qu'il ne devrait pas y avoir de scène avec beaucoup d'inces-"
+    p "Êtes-vous sûr qu'il ne devrait pas y avoir de scène avec beaucoup d'inces-"
 
 # game/Scripts/applebarn.rpy:529
 translate French brae_reward_066a88e4:
 
     # "Shhhh"
-    "Chut"
+    "Chut"
 
 # game/Scripts/applebarn.rpy:550
 translate French brae_reward_9c5d0dfe:
 
     # "--Applejack true ending--"
-    "--Applejack vraie fin--"
+    "--Applejack vraie fin--"
 
 # game/Scripts/applebarn.rpy:553
 translate French brae_reward_8a4553f0:
 
     # "After walking for a bit, you arrive at the Apple barn in Sweet Apple Acres."
-    "Après avoir marché un peu, vous arrivez à la grange Apple à Sweet Apple Acres."
+    "Après avoir marché un peu, vous arrivez à la grange Apple à Sweet Apple Acres."
 
 # game/Scripts/applebarn.rpy:554
 translate French brae_reward_f16a342f:
 
     # p "The barn seems full of busy ponies for the moment. I should probably go somewhere else."
-    p "La grange semble pleine de poneys occupés pour le moment. Je devrais probablement aller ailleurs."
+    p "La grange semble pleine de poneys occupés pour le moment. Je devrais probablement aller ailleurs."
 
 # game/Scripts/applebarn.rpy:558
 translate French brae_reward_05943dd2:
 
     # "What a useless trip... You went back to the crossroad anyway."
-    "Quel voyage inutile... Et vous êtes retourné au carrefour."
+    "Quel voyage inutile... Et vous êtes retourné au carrefour."
 
 translate French strings:
 
