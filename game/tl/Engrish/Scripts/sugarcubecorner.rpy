@@ -256,7 +256,7 @@ translate Engrish pinkieguess_0cd76975:
 translate Engrish pinkieguess_01f9883e:
 
     # p "Pinkie! What am I supposed to know?"
-    P "Pinkie! What should I know?"
+    p "Pinkie! What should I know?"
 
 # game/Scripts/sugarcubecorner.rpy:99
 translate Engrish pinkieguess_3c613ab4:
@@ -1120,7 +1120,7 @@ translate Engrish sell_bake_6ff9d3af:
 translate Engrish sell_bake_56c91265:
 
     # p "Thank you! Now, if you don't have anything else, I'll see if I can help someone else."
-    P "Hi! Now, if you have nothing else, I'll see if I can help someone else."
+    p "Hi! Now, if you have nothing else, I'll see if I can help someone else."
 
 # game/Scripts/sugarcubecorner.rpy:456
 translate Engrish sell_bake_1adebe60:

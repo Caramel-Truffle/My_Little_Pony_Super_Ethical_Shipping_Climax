@@ -446,26 +446,36 @@ init python:
     lockety_c = False
     lockety_d = False
     
+    # These are for name translating
+    twilightname   = _("Twilight Sparkle")
+    pinkiename     = _("Pinkie Pie")
+    fluttername    = _("Fluttershy")
+    rainbowname    = _("Rainbow Dash")
+    applename      = _("Applejack")
+    rarityname     = _("Rarity")
+    macname        = _("Big Macintosh")
+    
+    
     def p(what, **kwargs):
-        if playername == "Twilight Sparkle":
+        if playername == twilightname:
             yts(what, **kwargs)
             
-        if playername == "Pinkie Pie":
+        if playername == pinkiename:
             ypp(what, **kwargs)
             
-        if playername == "Fluttershy":
+        if playername == fluttername:
             yfs(what, **kwargs)
             
-        if playername == "Rainbow Dash":
+        if playername == rainbowname:
             yrd(what, **kwargs)
             
-        if playername == "Applejack":
+        if playername == applename:
             yaj(what, **kwargs)
             
-        if playername == "Rarity":
+        if playername == rarityname:
             yr(what, **kwargs)
         
-        if playername == "Big Macintosh":
+        if playername == macname:
             ybm(what, **kwargs)
 
 # Splashscreen
@@ -524,34 +534,34 @@ label character_selection:
     c "Who do you want to be? All have white teeth!"
     menu name_choice:
         "Twilight Sparkle":
-            $ playername = "Twilight Sparkle"
-            $ playername2 = "Twilight"
-            $ playername3 = "Twi\'"
+            $ playername  = _("Twilight Sparkle")
+            $ playername2 = _("Twilight")
+            $ playername3 = _("Twi\'")
             jump end_name_choice
         "Pinkie Pie":
-            $ playername = "Pinkie Pie"
-            $ playername2 = "Pinkie"
-            $ playername3 = "Pinkeh"
+            $ playername  = _("Pinkie Pie")
+            $ playername2 = _("Pinkie")
+            $ playername3 = _("Pinkeh")
             jump end_name_choice
         "Applejack":
-            $ playername = "Applejack"
-            $ playername2 = "Applejack"
-            $ playername3 = "AJ"
+            $ playername  = _("Applejack")
+            $ playername2 = _("Applejack")
+            $ playername3 = _("AJ")
             jump end_name_choice
         "Rainbow Dash":
-            $ playername = "Rainbow Dash"
-            $ playername2 = "Rainbow"
-            $ playername3 = "Dashie"
+            $ playername  = _("Rainbow Dash")
+            $ playername2 = _("Rainbow")
+            $ playername3 = _("Dashie")
             jump end_name_choice
         "Rarity":
-            $ playername = "Rarity"
-            $ playername2 = "Rarity"
-            $ playername3 = "Rarity"
+            $ playername  = _("Rarity")
+            $ playername2 = _("Rarity")
+            $ playername3 = _("Rarity")
             jump end_name_choice
         "Fluttershy":
-            $ playername = "Fluttershy"
-            $ playername2 = "Fluttershy"
-            $ playername3 = "\'Shy"
+            $ playername  = _("Fluttershy")
+            $ playername2 = _("Fluttershy")
+            $ playername3 = _("\'Shy")
             jump end_name_choice
         "Wait!! I want to be my OC!! It's a super-awesome alicorn with neon colors and stuff!!!!":
             c "No."
@@ -559,8 +569,8 @@ label character_selection:
             jump character_selection
 
 label end_name_choice:
-    y "I want to be [playername]."
-    c "So, you are [playername] now."
+    y "I want to be [playername!t]."
+    c "So, you are [playername!t] now."
     p "Really?"
     c "Yes! Just look at yourself in the mirror!"
     p "What mirror? It's too dark here!"

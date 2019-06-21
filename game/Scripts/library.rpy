@@ -106,7 +106,7 @@
         show twilight happy
         with dissolve
         
-        ts "Oh, [playername2]! What can I do for you?"
+        ts "Oh, [playername2!t]! What can I do for you?"
         p "I'm looking for a book."
         
         if(playername=="Rainbow Dash"):
@@ -144,7 +144,7 @@
                 p "Thank you Twilight, I will. Rest assured."
                 ts "Now if you don't mind, I have some stuff to do. You probably won't like to read there during this time."
                 p "I understand, see you later!"
-                ts "See you later [playername2]!"
+                ts "See you later [playername2!t]!"
                 $ libr2 = True
                 $ p_ts = "astronomy"
                 stop music fadeout 1.0
@@ -164,7 +164,7 @@
                 if(playername=="Fluttershy"):
                     ts "Come on, it's me, Fluttershy. I'm your friend!"
                 else:
-                    ts "Come on [playername3], you are not Fluttershy!"
+                    ts "Come on [playername3!t], you are not Fluttershy!"
                 stop music fadeout 1.0    
                 p "A BOOK ABOUT PONIES HAVING SEX!"
                 
@@ -195,7 +195,7 @@
                 p "Well... Thank you?"
                 ts "No worries. Now if you don't mind, I have other things to do. You can come back tomorrow!"
                 p "I will! Bye Twilight!"
-                ts "Bye [playername2]!"
+                ts "Bye [playername2!t]!"
                 
                 $ p_ts = "xxx"
                 $ nb_lock = nb_lock + 1
@@ -231,7 +231,7 @@
         else:
             show spike happy
             with dissolve
-        sp "Hey [playername2]! Twilight is out for the moment. What can I do for you?"
+        sp "Hey [playername2!t]! Twilight is out for the moment. What can I do for you?"
         
         menu spikechoice:
             "\"Can I be alone with Twilight tonight?\"":
@@ -263,7 +263,7 @@
                     $ libr4 = True
                     jump outdoors
                 p "No problem, stay there, I will get you that."
-                sp "I'll wait for you [playername2], see you later!"
+                sp "I'll wait for you [playername2!t], see you later!"
                 p "See you later!"
                 stop music fadeout 1.0
                 scene black
@@ -278,7 +278,7 @@
                 if(playername!="Rarity"):
                     show spike anxious
                     with dissolve
-                    sp "[playername2]? What's wrong with you?"
+                    sp "[playername2!t]? What's wrong with you?"
                     p "Nothing."
                     sp "I won't kiss you, I... I... Forget it. Don't you have anything else you want?"
                     jump spikechoice
@@ -313,7 +313,7 @@
         show spike happy
         with dissolve
         "You go back to the library, Twilight isn't there yet."
-        sp "So [playername2], you are back! Do you have a ruby?"
+        sp "So [playername2!t], you are back! Do you have a ruby?"
         
         if(p_rr=="ruby"):
             p "Yes. Take this one."

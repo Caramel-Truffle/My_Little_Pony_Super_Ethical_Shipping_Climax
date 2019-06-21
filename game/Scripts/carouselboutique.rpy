@@ -24,7 +24,7 @@
             p "Really? Then we share the same name, my dear. What a coincidence!"
             "Yeah... Coincidence. For sure."
         else:
-            r "[playername]! What a surprise!"
+            r "[playername!t]! What a surprise!"
             
         if(playername=="Twilight Sparkle"):
             r "I was designing a new hat! Do you have some time? I sure would appreciate the help of a pony as skilled with mathematics as you are."
@@ -59,7 +59,7 @@
                     show rarity shocked
                     with dissolve
                     if(doomloop==1):
-                        r "Erm... Are you alright [playername2]?"
+                        r "Erm... Are you alright [playername2!t]?"
                         p "... Why did I just say that?"
                         show rarity srsly
                         with dissolve
@@ -140,7 +140,7 @@
                     if(playername=="Pinkie Pie"):
                         r "Well. You are just being Pinkie Pie, I guess. Wait there."
                     else:
-                        r "[playername], you are just sounding like pinkie Pie right now. Anyway, wait there."
+                        r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
                     
                 stop music fadeout 1.0
                 scene black
@@ -198,7 +198,7 @@
         if(playername=="Rarity"):
             r "Help? I did not ask for so much! But if you are willing, who am I to refuse?"
         else:
-            r "Thank you [playername2], it would be harder without your help."
+            r "Thank you [playername2!t], it would be harder without your help."
             p "I could do it more often, you know, simply ask."
             r "Don't worry, it's not like I never did it alone before."
                     
@@ -218,17 +218,17 @@
         
         r "Look at that! This is so... So..."
         
-        if(playername == "Twilight Sparkle"):
+        if(playername == twilightname):
             p "Conceptual."
-        if(playername == "Rarity"):
+        if(playername == rarityname):
             p "Fabulous."
-        if(playername == "Fluttershy"):
+        if(playername == fluttername):
             p "Grandiose."
-        if(playername == "Rainbow Dash"):
+        if(playername == rainbowname):
             p "Awesome!"
-        if(playername == "Pinkie Pie"):
+        if(playername == pinkiename):
             p "Fun!"
-        if(playername == "Applejack"):
+        if(playername == applename):
             p "Impractical."
             
         if((playername != "Rarity") and (playername != "Fluttershy")):
@@ -261,10 +261,10 @@
         show rarity happy
         with dissolve
          
-        if(playername == "Rarity"):
+        if(playername == rarityname):
             r "Hello again darling."
         else:
-            r "Hello again [playername2]."
+            r "Hello again [playername2!t]."
 
         p "Hello again Rarity! Are you designing something?"
         r "Not really, I'm simply keeping my ledger up to date, darling."
@@ -439,7 +439,7 @@
             show rarity happy2 with dissolve
             r "Yes, I know, adult things like politics or economy are always between scary and boring."
             p "Anyways, I'm on my way to find you some tea! See you soon!"
-            r "Good luck [playername2]!"
+            r "Good luck [playername2!t]!"
             stop music fadeout 1.0
             scene black
             with fade
@@ -453,7 +453,7 @@
         
         show rarity happy with dissolve
 
-        r"Welcome back [playername]! I just finished brewing the tea. This scent is divine!"
+        r"Welcome back [playername!t]! I just finished brewing the tea. This scent is divine!"
 
         if(playername=="Twilight Sparkle"):
             ts"Yes, it clearly is better than any book I sniffed. ... Not that I commonly do that, only to those with a great smell."

@@ -24,22 +24,22 @@
         show pinkie moustache at default with dissolve
         
         if(playername=="Rainbow Dash"):
-            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername]? She's fast, awesome and cool, but you do realize that you could have been an alicorn? With great powers and all, right?"
+            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? She's fast, awesome and cool, but you do realize that you could have been an alicorn? With great powers and all, right?"
         if(playername=="Pinkie Pie"):
             pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply me? Do you realize that you did not need to be me to do things like I do and that you could have been an alicorn? With great powers and all?"
         if(playername=="Rarity"):
-            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername]? You may love fashion and beauty, but do you realize that you could have been an alicorn? With great powers and all?"
+            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love fashion and beauty, but do you realize that you could have been an alicorn? With great powers and all?"
         if(playername=="Fluttershy"):    
-            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername]? You may love animals and stuff, but do you realize that you could have been an alicorn? With great powers and all?"
+            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love animals and stuff, but do you realize that you could have been an alicorn? With great powers and all?"
         if(playername=="Applejack"):
-            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername]? Do you really prefer her simple lifestyle to the power of an alicorn?"
+            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? Do you really prefer her simple lifestyle to the power of an alicorn?"
         if(playername=="Twilight Sparkle"):
-            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been your own alicorn? With great powers and all? "
+            pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been your own alicorn? With great powers and all? "
         
         if(alichoice == 0):
             p "I did not even try to be one. Why would I?"
         elif(alichoice ==1):
-            p "I tried once, but Colgate didn't want to, so I chose [playername2]."
+            p "I tried once, but Colgate didn't want to, so I chose [playername2!t]."
         else:
             p "I tried, [alichoice] times! But Colgate did not let me be my super alicorn OC."
             
@@ -91,7 +91,7 @@
             "I want a mustache":
                 p "Whatever that means, you are wrong! I want a mustache!"
                 pp "But you already have one!"
-                p "Wait. What? But I'm [playername2]! I can't have a mustache, I'm a mare! ...Am I?"
+                p "Wait. What? But I'm [playername2!t]! I can't have a mustache, I'm a mare! ...Am I?"
                 pp "Nopony told you? Really? Like, never ever ever ever?"
                 p "Told me what?"
                 pp "I can't believe it, they really didn't."
@@ -258,7 +258,7 @@
             
         "Erm. Time to go then! See you next time!"
         p "Bye Pinkie!"
-        pp "Bye \"[playername3]\"!"
+        pp "Bye \"[playername3!t]\"!"
         
         stop music fadeout 1.0
         scene black
@@ -289,7 +289,7 @@
         play sound "SFX/bite.mp3"
         "You eat three cupcakes!"
         p "I should be okay for a while now."
-        pp "So, [playername2], what are you up to? Need anything special? Have you something planned for this night?"
+        pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
         p "Well, I was going to ask you the exact same thing, to be honest."
         pp "Uh. In this case, what about making a sugar cube pie? Doesn't this sound exciting?"
         p "Don't you have enough sugar in your bloodstream already?"
@@ -417,7 +417,7 @@
                     
                     "The customer is a stallion! He looks friendly."
                     
-                    u "Hello [playername]! Taking care of the business while the Cakes are out?"
+                    u "Hello [playername!t]! Taking care of the business while the Cakes are out?"
                     
                     if(playername != "Pinkie Pie"):
                         p "Not really, Pinkie is baking sugar cube pies and I volunteered to help with customer service!"
@@ -428,14 +428,14 @@
                     p "Sorry, but you clearly are not alone. It's like half the town decided to eat that today. What could possibly make so many ponies do the same thing at the same date? ... Anyway. Would you like to wait for some pie or would you prefer something else?"
                     t "I would love to wait all day with you, but I have an appointment in half an hour and some other things to buy before that, sorry."
                     p "Don't be sorry, that's not your fault!"
-                    t "Thank you [playername2]. I'll buy a dozen rainbow cupcakes."
+                    t "Thank you [playername2!t]. I'll buy a dozen rainbow cupcakes."
                     "You put them carefully in a box and show it to him."
                     p "I'm sure I can add something in it. What about a Luna's Special?"
                     t "One that glows in the dark?"
                     p "With the moon we're expecting this night, that would be perfect! I can add you three but only charge you one if you would like!"
                     t "Sounds good to me!"
                     "And so you add the cupcakes in the box and exchange it for the bits the stallion gives you."
-                    t "See you next time [playername2]!"
+                    t "See you next time [playername2!t]!"
                     p "Have a good day Thunderlane!"
                     t "Thanks! You too!"
                     

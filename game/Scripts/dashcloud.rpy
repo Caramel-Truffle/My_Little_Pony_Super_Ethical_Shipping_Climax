@@ -6,10 +6,10 @@
     if(dash1==False):
         if((playername=="Rainbow Dash")or(playername=="Fluttershy")):
             "As a pegasus, you are easily able to fly to Rainbow's cloud."
-            p "Wings are useful, [playername] was a good choice."
+            p "Wings are useful, [playername!t] was a good choice."
         else:
             "As a unicorn, you are able to cast spells to go up to Rainbow's cloud and not fall through it."
-            p "Magic is useful, [playername] was a good choice."
+            p "Magic is useful, [playername!t] was a good choice."
             
         "Anyway, Rainbow Dash is there, searching something under her bed, she apparently hasn't seen you yet."
         "What are you going to do?"
@@ -44,16 +44,16 @@
         else:
             show rainbow happy with dissolve
             
-        rd "Are you just passing by [playername3], or do you need something?"
+        rd "Are you just passing by [playername3!t], or do you need something?"
         p "I was wondering if you could help me with something."
         
-        if(playername == "Twilight Sparkle"):
+        if(playername == twilightname):
             rd "Do you need help in the library? I heard it's this time of the year where you sort all the books again."
-        if(playername == "Rarity"):
+        if(playername == rarityname):
             rd "Please tell me you are not looking for a model to design a dress!"
-        if(playername == "Fluttershy"):
+        if(playername == fluttername):
             rd "Do you need some help at night? It would be a pleasure."
-        if(playername == "Rainbow Dash"):
+        if(playername == rainbowname):
             rd "And what can the awesome Rainbow Dash do for you?"
         
         p "In fact, I was thinking of asking help..."
@@ -68,7 +68,7 @@
                 rd "That sentence has been overused, you know?"
                 p "Sorry. Anyway, do you think you could help?"
                 
-                if(playername == "Fluttershy"):
+                if(playername == fluttername):
                     show rainbow interested
                     with dissolve
                     rd "We could make out. I already told you that I was open with that."
@@ -176,7 +176,7 @@
         with dissolve
         "You are back to Rainbow's cloud, but instead of her, you stumble upon Derpy Hooves, a gray mare with yellow... Eyes."
         
-        if(playername == "Rainbow Dash"):
+        if(playername == rainbowname):
             d "Rainbow Dash! You are back!"
             
             menu derpyabuse:
@@ -244,11 +244,11 @@
                     "--Rainbow Dash ending 2--"
                     jump credits
         else:
-            d "Hey [playername2]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
+            d "Hey [playername2!t]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
             p "Actually, that's what I'm here for, Derpy. But, where's Rainbow?"
         d "I just don't know where she went."
         p "I expected you to say something similar. Anyway, she will surely be back soon."
-        d "That's true [playername2]! And-"
+        d "That's true [playername2!t]! And-"
         show derpy sad
         with dissolve
         d "I... Lost my Muffin..."
@@ -268,7 +268,7 @@
         p "Wait there, I'll get you one. I don't know how, but I'll get you one."
         show derpy bittersweet
         with dissolve
-        d "Thank you [playername2], I will wait for your return."
+        d "Thank you [playername2!t], I will wait for your return."
         p "I will come back as soon as possible!"
         
         stop music fadeout 1.0
@@ -285,7 +285,7 @@
         "You go back to Rainbow's cloud, where Derpy Hooves is waiting for a muffin."
         show derpy bittersweet
         with dissolve
-        d "Hey [playername2], you are back! Did you find any muffin?"
+        d "Hey [playername2!t], you are back! Did you find any muffin?"
         if(p_pp != "muffin"):
             p "Hey Derpy! Sadly no, I haven't found a muffin yet."
             d "Yet? Are you going to try again?"
@@ -302,7 +302,7 @@
             with dissolve
             label yummymuffin:
                 "You give your muffin to Derpy."
-                d "Thank you so much [playername2]!"
+                d "Thank you so much [playername2!t]!"
                 show derpy superhappy with dissolve:
                     linear 1.0 xalign 0.2
                 show rainbow happy with dissolve:
@@ -310,7 +310,7 @@
                     xalign 0.9 yalign 1.0
                 with dissolve
                 
-                rd "Sorry girls, I took my time! ...[playername3], what did you do to Derpy? She's so happy!"
+                rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
                 show derpy fly hug
                 with dissolve
                 d "She gave me a muffin! Muffin!"

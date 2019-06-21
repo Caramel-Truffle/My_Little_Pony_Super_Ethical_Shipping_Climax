@@ -40,7 +40,7 @@
                 else:
                     show fluttershy fly happy
                     with dissolve
-                    fs "Oh, [playername2]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
+                    fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
                     
                 fs "Would you like to come in? I've got my teapot on the stove, we could have some tea together."
                 "This sounds like a fire hazard. ...Doesn't it? By the way, you, at home, go check the batteries of your fire alarm. And if you took them off, shame on you. You're endegering the whole neighbou-"
@@ -104,12 +104,12 @@
                         fs "Really? We could be friends... If... If that's okay with you."
                         p "Of course!"                        
                     show fluttershy what with dissolve
-                    fs "[playername2]... Why did you try to...?"
+                    fs "[playername2!t]... Why did you try to...?"
                     p "Sorry if you didn't like it."
                     fs "N... No, that's okay... Anyway, would you like to come in? I've got my teapot on the stove, we could have some tea together."
         p "Yes, sure!"
         show fluttershy fly happy with dissolve
-        fs "Then, please follow me [playername2]."
+        fs "Then, please follow me [playername2!t]."
         stop music fadeout 1.0
         scene black
         with fade
@@ -167,7 +167,7 @@
                 p "I'm afraid that it's a bit of both. It's hot here and you are too."
                 show fluttershy side embarassed with dissolve
                 "She blushes."
-                fs "[playername2], would you mind..."
+                fs "[playername2!t], would you mind..."
                 p "Hugging you tight until the afternoon ends? I wouldn't mind at all."
                 play sound "SFX/squee.mp3"
                 "She blushes even more and squees in approval."
@@ -217,7 +217,7 @@
                 show fluttershy shutter with dissolve
                 "She blushes again."
                 show fluttershy fly happy with dissolve
-                fs "Of course [playername2], but don't abuse it..."
+                fs "Of course [playername2!t], but don't abuse it..."
                 p "Don't worry, I won't drink more than a cup per day."
                 "You didn't say that you wouldn't let somepony else drink more of it..."
                 stop music fadeout 1.0
@@ -256,7 +256,7 @@
         show fluttershy fly happy
         with dissolve
         
-        fs "Welcome back [playername2]!"
+        fs "Welcome back [playername2!t]!"
         p "Are you ready now? The birds must be hungry now."
         fs "Oh... Yes.... Sorry..."
         p "I was joking! Let's go!"
@@ -276,11 +276,11 @@
         "A dozen of birds are coming; blue, red, yellow... All are colorful and visibly hungry, considering the way they eat the seeds Fluttershy is throwing."
         p "How do I feed them? Like that?"
         "You start imitating her at your best."
-        fs "That's it, you are skilled [playername2]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
+        fs "That's it, you are skilled [playername2!t]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
         p "Don't worry, I will gladly offer my help again."
         show fluttershy shutter with dissolve
         "She blushes once again."
-        fs "[playername2]? Did you read some good books recently?"
+        fs "[playername2!t]? Did you read some good books recently?"
         
         if(p_ts=="xxx"):
             p "Yes, I've read this book!"
@@ -298,7 +298,7 @@
         fs "One you... You wouldn't.... You know, talk about usually...."
         p "No... Sorry. I didn't read anything at all recently."
         if(playername=="Twilight Sparkle"):
-            "Being [playername], you try to be convincing."
+            "Being [playername!t], you try to be convincing."
             p "Well, except from a bunch of old books concerning Starswirl the Bearded and his lesser known spells, but none that would interest you deeply, I assume."
         fs "Well... If you... You know.... Find a book... You wouldn't....  You know... Share with somepony.... You know.... We could like.... Read it together.... If that's okay with you...."
         p "I... Guess that I can do that."

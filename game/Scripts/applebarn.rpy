@@ -12,7 +12,7 @@
         "An \"apple family\" reunion, as in an orchard owners association, or a real Apple family reunion, as in family related by blood? Either way, you probably should leave them for the mom-"
         aj "Howdy! Long time no see..."
         
-        if(playername == "Applejack"):
+        if(playername == applename):
             show applejack hat side gasp
             with dissolve
             aj "...Myself? Cousin, you really look like me, who's inside this costume?"
@@ -29,7 +29,7 @@
                     p "Can I be part of your family as yourself for today? Pretty please?"
                     show applejack hat happy
                     with dissolve
-                    aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3] for today."
+                    aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3!t] for today."
                     p "Woohoo! You're the best, Applejack!"
                     
                 "\"I'm... Your lost sister.\"":
@@ -85,14 +85,14 @@
         else:
             show applejack hat happy
             with dissolve
-            aj "...[playername3]? I did not expect you today!"
+            aj "...[playername3!t]? I did not expect you today!"
             if(playername=="Pinkie Pie"):
                 p "A party! Can I stay? Please?"
                 aj "Well, you're part of the extended family, as I said when the Flim Flam brothers where there."
                 p "Woohoo! You're the best, Applejack!"
             else:
                 p "Sorry, you seem busy with your family, so I better leave."
-                aj "[playername]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
+                aj "[playername!t]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
         p "So, what have you planned for this year? Things that I can participate in, I mean."
         aj "Well, right now you can either go to the nearest table and enjoy some food or try to catch some apples in the big bucket of water over there."
         
@@ -124,7 +124,7 @@
                     u "Howdy! Erm... AJ's friend?"
                     show braeburn happy
                     with dissolve
-                    p "Yes, close friend. My name is [playername]."
+                    p "Yes, close friend. My name is [playername!t]."
                     b "Oh yes! We've met before, in Aaaapple-looooooosa! I'm Braeburn!"
                     p "Yes, with Bloomberg, the \"You gotta share\" song and all of that..."
                     b "Good times, you should come back someday."
@@ -139,7 +139,7 @@
                 p "Wait, you're like...?"
                 b "Colt cuddler? Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And I like some variety, you know?"
                 
-                if(playername == "Applejack"):
+                if(playername == applename):
                     menu braeburncest:
                         "What about incest?":
                             p "What do you think about incest?"
@@ -179,7 +179,7 @@
                     aj "Prove it, \"Dashie\"."
                     "She's clearly grinning at the thought."
                 else:
-                    aj "You're not Rainbow, but you know what saying this means, don't you [playername3]?"
+                    aj "You're not Rainbow, but you know what saying this means, don't you [playername3!t]?"
                     p "That I need to prove it?"
                    
                     aj "Exactly."
@@ -198,7 +198,7 @@
                 show applejack hat side calling
                 with dissolve
                 
-                aj "So, let's see what you got [playername2]! I bet you can't beat..."
+                aj "So, let's see what you got [playername2!t]! I bet you can't beat..."
                 show applejack hat applemouth
                 with fade
                 
@@ -218,18 +218,18 @@
                         if((playername=="Twilight Sparkle") and (p_ts == "astronomy")):
                             "3 and 8? Uh. That's pretty bad, 'Twilie'."
                             
-                        elif (playername == "Rainbow Dash" and p_rd == "sunglasses"):
+                        elif (playername == rainbowname and p_rd == "sunglasses"):
                             "14 and 13? That's quite good! Uh. But you have the cool sunglasses, it boosts your charm, but lowers your dexterity by 20 points. Your result isn't 27, It's only 7. That's bad, 'Dashie'."
-                        elif (playername == "Pinkie Pie" and p_pp == "cupcake"):
+                        elif (playername == pinkiename and p_pp == "cupcake"):
                             "You rolled... A cupcake? Wait, where are my dice? You automatically lose, then."
                             
-                        elif (playername == "Rarity" and p_rr == "hat"):
+                        elif (playername == rarityname and p_rr == "hat"):
                             "1 and 1. And that is not even counting for that ridiculous hat that cuts your dexterity in half."
                             
-                        elif (playername == "Fluttershy"):
+                        elif (playername == fluttername):
                             "2 and 3. If you had a bunny with you it would boost your stats, but you aren't the real Fluttershy, so it's no use."
                             
-                        elif (playername == "Applejack"):
+                        elif (playername == applename):
                             "17 and 20! But I have to apply an aribitrary negative modifier, since you are not the real Applejack and thus cannot beat her."
                         elif(doomloop > 9):
                             "This won't be your cupboard ending. Stop trying, I said."
@@ -249,7 +249,7 @@
                         p "Arrr... Pfff.... Gnnnn..."
                         show applejack hat supersmile
                         with dissolve
-                        aj "That's a bit slow for ten seconds and you only got one apple, [playername2]. I guess I won!"
+                        aj "That's a bit slow for ten seconds and you only got one apple, [playername2!t]. I guess I won!"
                         p "I guess you did."
                         
                     "Do your worst":
@@ -304,7 +304,7 @@
             u "Howdy! Erm... AJ's friend?"
             show braeburn happy
             with dissolve
-            p "Yes, close friend. My name is [playername]."
+            p "Yes, close friend. My name is [playername!t]."
             b "Oh yes! We've met before, in Aaaapple-looooooosa! I'm Braeburn!"
             p "Yes, with Bloomberg, the \"You gotta share\" song and all of that..."
             b "Good times, you should come back someday."
@@ -413,7 +413,7 @@
             show braeburn happy
             with dissolve
             
-            b "Welcome back [playername2]!"
+            b "Welcome back [playername2!t]!"
             p "Hey Brae, I've got your sunglasses, but I can't let you have them forever."
             
             label give_brae_sunglasses:
@@ -456,7 +456,7 @@
                     
                 "I want some time with AJ":
                     p "I want some alone time with AJ, if you know what I mean."
-                    b "I sure do [playername2], but that's not really up to me."
+                    b "I sure do [playername2!t], but that's not really up to me."
                     p "Come on, I helped you with Big Mac, now it's your turn to help me! To try, at least."
                     b "I promise nothin', but I'll do my best... Come back in a moment."
                     hide braeburn
@@ -495,13 +495,13 @@
         
         show applejack hat happy
 
-        aj "Howdy, [playername3]! I didn't think you'd come back! Did you want to stay over for the night?"
+        aj "Howdy, [playername3!t]! I didn't think you'd come back! Did you want to stay over for the night?"
 
         p "Yeah, I was thinking about having a little extended family fun time. You know, us two, in a secluded space, sharing a close bond…"
 
         show applejack hat supersmile
 
-        aj "Don’t worry [playername2], I have all your needs covered!"
+        aj "Don’t worry [playername2!t], I have all your needs covered!"
         
         scene black with fade
         stop music fadeout 1.0

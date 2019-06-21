@@ -34,7 +34,7 @@ translate Engrish uselessoption1_d8e12b41:
 translate Engrish uselessoption1_02f8fbc4:
 
     # p "What are you even..."
-    P "What are you ..."
+    p "What are you ..."
 
 # game/Scripts/library.rpy:33
 translate Engrish uselessoption1_1d53b7fd:
@@ -100,7 +100,7 @@ translate Engrish twi_see_double_4b816dc4:
 translate Engrish twi_see_double_4479bd2c:
 
     # p "Don't worry, I'm not you, I'm just a random person trapped in a fake body similar to yours, please don't mind it."
-    P "Do not worry, not me, I'm someone else who does not die like you, please do not miss it."
+    p "Do not worry, not me, I'm someone else who does not die like you, please do not miss it."
 
 # game/Scripts/library.rpy:57
 translate Engrish twi_see_double_b1214103:
@@ -112,7 +112,7 @@ translate Engrish twi_see_double_b1214103:
 translate Engrish twi_see_double_bfa8cf63:
 
     # p "If I am, you are too. Don't forget that you would be talking to yourself then."
-    P "If I, you too. Do not forget that you'll talk to yourself at that time."
+    p "If I, you too. Do not forget that you'll talk to yourself at that time."
 
 # game/Scripts/library.rpy:62
 translate Engrish twi_see_double_27db4081:
@@ -130,7 +130,7 @@ translate Engrish twi_see_double_dfe02931:
 translate Engrish twi_see_double_5b72dec1:
 
     # p "I'm neither attacking you nor zapping back to the future, don't worry. It's safe, don't mind it."
-    P "I do not wage war or come back in the future, do not worry. OK, do not worry."
+    p "I do not wage war or come back in the future, do not worry. OK, do not worry."
 
 # game/Scripts/library.rpy:68
 translate Engrish twi_see_double_92c282a6:
@@ -148,7 +148,7 @@ translate Engrish twi_see_double_07db0628:
 translate Engrish twi_see_double_ffc4b7bf:
 
     # p "I'm serious. You won't have the occasion again."
-    P "I'm bad, you will never have another chance."
+    p "I'm bad, you will never have another chance."
 
 # game/Scripts/library.rpy:73
 translate Engrish twi_see_double_88d176bc:
@@ -172,7 +172,7 @@ translate Engrish twi_see_double_6c1e85cc:
 translate Engrish twi_see_double_70f60805:
 
     # p "You are quite the enthusiastic pony, aren't you?"
-    P "Are you a good payer, are you not?"
+    p "Are you a good payer, are you not?"
 
 # game/Scripts/library.rpy:81
 translate Engrish twi_see_double_c5450b39:
@@ -202,7 +202,7 @@ translate Engrish twi_see_double_96db4d9b:
 translate Engrish twi_see_double_2759a3c1:
 
     # p "Come on! What about a kiss?"
-    P "Come! What about the point?"
+    p "Come! What about the point?"
 
 # game/Scripts/library.rpy:90
 translate Engrish twi_see_double_d0c1da4d:
@@ -214,7 +214,7 @@ translate Engrish twi_see_double_d0c1da4d:
 translate Engrish twi_see_double_a7d9ce3c:
 
     # p "Well... That's better than nothing, I guess."
-    P "I'm OK ... That's better than anything, I wait."
+    p "I'm OK ... That's better than anything, I wait."
 
 # game/Scripts/library.rpy:92
 translate Engrish twi_see_double_b5a26360:
@@ -358,7 +358,7 @@ translate Engrish bookchoice_23bb903d:
 translate Engrish bookchoice_1ee9a78b:
 
     # p "Thank you Twilight, I will. Rest assured."
-    P "You've been red, I'll make you feel better."
+    p "You've been red, I'll make you feel better."
 
 # game/Scripts/library.rpy:145
 translate Engrish bookchoice_3aa3e2c0:
@@ -370,7 +370,7 @@ translate Engrish bookchoice_3aa3e2c0:
 translate Engrish bookchoice_1d350c7f:
 
     # p "I understand, see you later!"
-    P "I realized, see you later!"
+    p "I realized, see you later!"
 
 # game/Scripts/library.rpy:147
 translate Engrish bookchoice_d41a62d9:
@@ -388,7 +388,7 @@ translate Engrish bookchoice_75242ef6:
 translate Engrish bookchoice_bbdb9495:
 
     # p "What is a supermoon? And how can a book know what will happen during the night?"
-    P "What is a bigger thing, and how does one book know what to do during the night?"
+    p "What is a bigger thing, and how does one book know what to do during the night?"
 
 # game/Scripts/library.rpy:156
 translate Engrish bookchoice_2c89d3a8:
@@ -556,7 +556,7 @@ translate Engrish bookchoice_end_3870e0ad:
 translate Engrish bookchoice_end_7d11ca11:
 
     # p "No, I'm currently in the kitchen of the Sugarcube Corner, making a delicious strawberry pie."
-    P "No, I'm already in the kitchen of the Sugarcube Corner, making the strawberry sweet."
+    p "No, I'm already in the kitchen of the Sugarcube Corner, making the strawberry sweet."
 
 # game/Scripts/library.rpy:226
 translate Engrish bookchoice_end_aec4130a:
@@ -580,7 +580,7 @@ translate Engrish bookchoice_end_50873d1b:
 translate Engrish bookchoice_end_3c0d2998:
 
     # p "Just call me Twilight and consider I'm one of her friends, okay?"
-    P "Just call me in the afternoon and think I'm one of his friends, is it okay?"
+    p "Just call me in the afternoon and think I'm one of his friends, is it okay?"
 
 # game/Scripts/library.rpy:230
 translate Engrish bookchoice_end_c17d177a:
@@ -610,7 +610,7 @@ translate Engrish spikechoice_469517f8:
 translate Engrish spikechoice_e14a9f2b:
 
     # p "Yes, do I need to be even more direct or is the innuendo enough?"
-    P "Yes, do I need to have more restrictions or less?"
+    p "Yes, do I need to have more restrictions or less?"
 
 # game/Scripts/library.rpy:249
 translate Engrish spikechoice_430bb9f0:
@@ -646,7 +646,7 @@ translate Engrish spikechoice_e4ce8b67:
 translate Engrish spikechoice_7f0679ac:
 
     # p "I can get you one with no problem."
-    P "I can find you safely."
+    p "I can find you safely."
 
 # game/Scripts/library.rpy:255
 translate Engrish spikechoice_3216ef74:
@@ -664,7 +664,7 @@ translate Engrish spikechoice_c848e616:
 translate Engrish spikechoice_f25a3f01:
 
     # p "No problem, take this one."
-    P "No problem, do this."
+    p "No problem, do this."
 
 # game/Scripts/library.rpy:259
 translate Engrish spikechoice_8c873cd7:
@@ -676,7 +676,7 @@ translate Engrish spikechoice_8c873cd7:
 translate Engrish spikechoice_fbaa2da0:
 
     # p "Count on me for that. Bye Spike!"
-    P "Read me for this. Bye Spike!"
+    p "Read me for this. Bye Spike!"
 
 # game/Scripts/library.rpy:261
 translate Engrish spikechoice_cb28b729:
@@ -688,7 +688,7 @@ translate Engrish spikechoice_cb28b729:
 translate Engrish spikechoice_c9fd1456:
 
     # p "No problem, stay there, I will get you that."
-    P "No problem, stay there, I'll get you."
+    p "No problem, stay there, I'll get you."
 
 # game/Scripts/library.rpy:266
 translate Engrish spikechoice_67312eca:
@@ -700,7 +700,7 @@ translate Engrish spikechoice_67312eca:
 translate Engrish spikechoice_420a7424:
 
     # p "See you later!"
-    P "Look at you when it's finished!"
+    p "Look at you when it's finished!"
 
 # game/Scripts/library.rpy:271
 translate Engrish spikechoice_4399119a:
@@ -754,7 +754,7 @@ translate Engrish spikechoice_a22f5238:
 translate Engrish spikechoice_3008e1fb:
 
     # p "Anyways. Come here..."
-    P "Come, come here ..."
+    p "Come, come here ..."
 
 # game/Scripts/library.rpy:297
 translate Engrish spikechoice_05adb819:
@@ -790,7 +790,7 @@ translate Engrish spikechoice_bcf6dd4d:
 translate Engrish spikechoice_4abb71de:
 
     # p "Explicit details in their telling?"
-    P "Is it clear that they are telling them?"
+    p "Is it clear that they are telling them?"
 
 # game/Scripts/library.rpy:303
 translate Engrish spikechoice_bcf6dd4d_1:
@@ -862,7 +862,7 @@ translate Engrish spikechoice_8c873cd7_1:
 translate Engrish spikechoice_fbaa2da0_1:
 
     # p "Count on me for that. Bye Spike!"
-    P "Read me for this. Bye Spike!"
+    p "Read me for this. Bye Spike!"
 
 # game/Scripts/library.rpy:323
 translate Engrish spikechoice_cb28b729_1:
@@ -904,7 +904,7 @@ translate Engrish spikechoice_8d996349:
 translate Engrish spikechoice_224a8273:
 
     # p "Well. I just have to go back later, right?"
-    P "Well, should I have to go back later, right?"
+    p "Well, should I have to go back later, right?"
 
 # game/Scripts/library.rpy:345
 translate Engrish spikechoice_fa2c9a3d:
@@ -928,7 +928,7 @@ translate Engrish spikechoice_a20cefa7:
 translate Engrish spikechoice_96d5638d:
 
     # p "Can I sit down and read something? the silence is awkward enough."
-    P "I can sit down and read, the stop is not good."
+    p "I can sit down and read, the stop is not good."
 
 # game/Scripts/library.rpy:353
 translate Engrish spikechoice_50446e65:
@@ -946,7 +946,7 @@ translate Engrish spikechoice_a3601bc7:
 translate Engrish spikechoice_5d3a34f7:
 
     # p "Oi! Let me decide what's fun for me!"
-    P "Please, let's make a decision!"
+    p "Please, let's make a decision!"
 
 # game/Scripts/library.rpy:359
 translate Engrish spikechoice_92786a62:
@@ -1012,7 +1012,7 @@ translate Engrish spikechoice_000682f3:
 translate Engrish spikechoice_53ed7ef4:
 
     # p "Oh dear. If she continued, it would have been THE. MOST. TERRIBLE. THING."
-    P "If it goes on, it must have been the best."
+    p "If it goes on, it must have been the best."
 
 # game/Scripts/library.rpy:384
 translate Engrish spikechoice_8f9d001d:
@@ -1024,13 +1024,13 @@ translate Engrish spikechoice_8f9d001d:
 translate Engrish spikechoice_9a07faf9:
 
     # p "I didn't know that! What happens now during supermoons?"
-    P "I do not know this! What's happening now in heroes?"
+    p "I do not know this! What's happening now in heroes?"
 
 # game/Scripts/library.rpy:388
 translate Engrish spikechoice_29918a8b:
 
     # p "Howdy y'all mate! ... Blimey. I can't do the accent properly. Anyway, what does Princess Luna do now?"
-    P "Howdy I'm a Wife! ... I do not know too much, I can not speak too quietly."
+    p "Howdy I'm a Wife! ... I do not know too much, I can not speak too quietly."
 
 # game/Scripts/library.rpy:392
 translate Engrish spikechoice_4b18fd90:
@@ -1060,13 +1060,13 @@ translate Engrish spikechoice_c4764221:
 translate Engrish spikechoice_f77030d9:
 
     # p "By making peace reign through peaceful means?"
-    P "By peace?"
+    p "By peace?"
 
 # game/Scripts/library.rpy:405
 translate Engrish spikechoice_fbc5b876:
 
     # p "By taking care of the wildlife she might have hurt during these years?"
-    P "How to care for forests that may be sucking these years?"
+    p "How to care for forests that may be sucking these years?"
 
 # game/Scripts/library.rpy:407
 translate Engrish spikechoice_608d0861:
@@ -1078,7 +1078,7 @@ translate Engrish spikechoice_608d0861:
 translate Engrish spikechoice_e068f45b:
 
     # p "Don't be all mouth and trousers, what does she do?"
-    P "You're not a fan and a house, what did he do?"
+    p "You're not a fan and a house, what did he do?"
 
 # game/Scripts/library.rpy:411
 translate Engrish spikechoice_23228a7c:
@@ -1144,13 +1144,13 @@ translate Engrish spikechoice_9e4e6bde:
 translate Engrish spikechoice_1e332db5:
 
     # p "Is your input supposed to be sufficient?"
-    P "Does your contribution have a lot?"
+    p "Does your contribution have a lot?"
 
 # game/Scripts/library.rpy:439
 translate Engrish spikechoice_b2943026:
 
     # p "What was that for?"
-    P "What is this?"
+    p "What is this?"
 
 # game/Scripts/library.rpy:441
 translate Engrish spikechoice_d1deb183:
@@ -1174,7 +1174,7 @@ translate Engrish spikechoice_23fcbffc:
 translate Engrish spikechoice_08e321ba:
 
     # p "I would like to say that a nod is as good as a wink to a blind horse, but I can't."
-    P "I would like to say that a good luggage is like a brush for a donkey, but I can not afford it."
+    p "I would like to say that a good luggage is like a brush for a donkey, but I can not afford it."
 
 # game/Scripts/library.rpy:449
 translate Engrish spikechoice_8ce23de1:
@@ -1192,19 +1192,19 @@ translate Engrish spikechoice_32fab660:
 translate Engrish spikechoice_fda84158:
 
     # p "Ah, of course. What would you mean otherwise? Ahah!"
-    P "Oh, really, what are you going to say no, Ahah!"
+    p "Oh, really, what are you going to say no, Ahah!"
 
 # game/Scripts/library.rpy:458
 translate Engrish spikechoice_d7287d56:
 
     # p "Oh. I thought you meant something else."
-    P "Oh, I think you're something else."
+    p "Oh, I think you're something else."
 
 # game/Scripts/library.rpy:460
 translate Engrish spikechoice_b29f511d:
 
     # p "You had me for one second. ....Wait, you know that I am not....?"
-    P "You gave me for a second step .... Wait, you know I'm not ...."
+    p "You gave me for a second step .... Wait, you know I'm not ...."
 
 # game/Scripts/library.rpy:462
 translate Engrish spikechoice_3ab47dae:
@@ -1216,13 +1216,13 @@ translate Engrish spikechoice_3ab47dae:
 translate Engrish spikechoice_4bb747fe:
 
     # p "Ooh, I hope they're having fun."
-    P "Oh, I hope they're enjoying life."
+    p "Oh, I hope they're enjoying life."
 
 # game/Scripts/library.rpy:466
 translate Engrish spikechoice_4f77ad11:
 
     # p "Oh, yes, the nancy boy and the maiden. What else? Ha ha."
-    P "Oh, yes, boy and girl. What's the difference? Ha ha. "
+    p "Oh, yes, boy and girl. What's the difference? Ha ha. "
 
 # game/Scripts/library.rpy:470
 translate Engrish spikechoice_83e201a0:
@@ -1240,7 +1240,7 @@ translate Engrish spikechoice_681e3962:
 translate Engrish spikechoice_b3b7e3bd:
 
     # p "Let's put the mask aside for a moment. I was just thinking of us."
-    P "Let's remove the cover for a while, and I just think about it."
+    p "Let's remove the cover for a while, and I just think about it."
 
 # game/Scripts/library.rpy:478
 translate Engrish spikechoice_771be910:
@@ -1270,7 +1270,7 @@ translate Engrish spikechoice_516021de:
 translate Engrish spikechoice_b80baa44:
 
     # p "Okay, looking at the moon during the night. Close to one another, sharing our hopes, sharing our dreams, until we both realize..."
-    P "Okay, watch day and night, watch one another, share our hope, share our dreams, until we understand ..."
+    p "Okay, watch day and night, watch one another, share our hope, share our dreams, until we understand ..."
 
 # game/Scripts/library.rpy:488
 translate Engrish spikechoice_247f6bb8:
@@ -1360,7 +1360,7 @@ translate Engrish spikechoice_7dbf1bae:
 translate Engrish spikechoice_bf592b0f:
 
     # p "What? I don't even understand why you are mad at me, I did not choose to..."
-    P "I did not know why you encouraged me, I did not want ..."
+    p "I did not know why you encouraged me, I did not want ..."
 
 # game/Scripts/library.rpy:544
 translate Engrish spikechoice_63c4f853:
@@ -1402,7 +1402,7 @@ translate Engrish spikechoice_7130e386:
 translate Engrish spikechoice_d5b87959:
 
     # p "Do you mean?"
-    P "Are you going out?"
+    p "Are you going out?"
 
 # game/Scripts/library.rpy:560
 translate Engrish spikechoice_fa3e7d51:
@@ -1426,7 +1426,7 @@ translate Engrish spikechoice_eed9f181:
 translate Engrish spikechoice_f0f38ed0:
 
     # p "There is nothing except books here. I surely have something better to do than reading."
-    P "There is nothing except the book here. I have something better than reading."
+    p "There is nothing except the book here. I have something better than reading."
 
 # game/Scripts/library.rpy:595
 translate Engrish spikechoice_569b10b9:
@@ -1479,4 +1479,5 @@ translate Engrish strings:
     # Scripts\library.rpy:236
     old "\"Can I have a kiss?\""
     new "\"May I have some kiss?\""
+
 
