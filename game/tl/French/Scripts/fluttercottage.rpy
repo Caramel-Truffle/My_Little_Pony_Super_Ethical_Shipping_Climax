@@ -1290,3 +1290,59 @@ translate French strings:
     old "Be gentle with her and get the book"
     new "Être gentille et aller chercher le livre"
 
+# TODO: Translation updated at 2019-06-21 07:22
+
+# game/Scripts/fluttercottage.rpy:43
+translate French crittercare_09f2e390:
+
+    # fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
+    fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
+
+# game/Scripts/fluttercottage.rpy:107
+translate French flutterabuse_c59eabd5:
+
+    # fs "[playername2!t]... Why did you try to...?"
+    fs "[playername2!t]... Why did you try to...?"
+
+# game/Scripts/fluttercottage.rpy:112
+translate French flutterabuse_f4d0263a:
+
+    # fs "Then, please follow me [playername2!t]."
+    fs "Then, please follow me [playername2!t]."
+
+# game/Scripts/fluttercottage.rpy:170
+translate French aphrodishy_bdd86a1e:
+
+    # fs "[playername2!t], would you mind..."
+    fs "[playername2!t], would you mind..."
+
+# game/Scripts/fluttercottage.rpy:220
+translate French teabird_6fcd9f60:
+
+    # fs "Of course [playername2!t], but don't abuse it..."
+    fs "Of course [playername2!t], but don't abuse it..."
+
+# game/Scripts/fluttercottage.rpy:259
+translate French teabird_3ce4f74c:
+
+    # fs "Welcome back [playername2!t]!"
+    fs "Welcome back [playername2!t]!"
+
+# game/Scripts/fluttercottage.rpy:279
+translate French teabird_87fe7d03:
+
+    # fs "That's it, you are skilled [playername2!t]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
+    fs "That's it, you are skilled [playername2!t]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
+
+# game/Scripts/fluttercottage.rpy:283
+translate French teabird_17475353:
+
+    # fs "[playername2!t]? Did you read some good books recently?"
+    fs "[playername2!t]? Did you read some good books recently?"
+
+# game/Scripts/fluttercottage.rpy:301
+translate French teabird_51b93075:
+
+    # "Being [playername!t], you try to be convincing."
+    "Being [playername!t], you try to be convincing."
+

@@ -1304,3 +1304,77 @@ translate Engrish strings:
     old "I want to finish baking!"
     new "I want to clean up!"
 
+# TODO: Translation updated at 2019-06-21 07:20
+
+# game/Scripts/sugarcubecorner.rpy:27
+translate Engrish sugarcubecorner_7baa6336:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? She's fast, awesome and cool, but you do realize that you could have been an alicorn? With great powers and all, right?"
+    pp pp "Welcome to our new vision! Sorry, do not you choose to be alicorn, but only [playername!t]? It's fast, tasty and quiet, but you realize that you can be food alicorn?"
+
+# game/Scripts/sugarcubecorner.rpy:31
+translate Engrish sugarcubecorner_b63c3a23:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love fashion and beauty, but do you realize that you could have been an alicorn? With great powers and all?"
+    pp "Welcome to our new one! Sorry, do not you choose what you want, but just me? Do you realize that you do not need to be able to do as I do and that you would have been a bone? and everything? "
+
+# game/Scripts/sugarcubecorner.rpy:33
+translate Engrish sugarcubecorner_b1b01aff:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love animals and stuff, but do you realize that you could have been an alicorn? With great powers and all?"
+    pp "Welcome to our new vision! Wait. You will not choose to be anyone but only [playername!t] You can see animals and things different, but you realize that you can be anyone ? "
+
+# game/Scripts/sugarcubecorner.rpy:35
+translate Engrish sugarcubecorner_fb13aef5:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? Do you really prefer her simple lifestyle to the power of an alicorn?"
+    pp "Welcome to our new alicorn! Wait. You do not choose to be alicorn, but only [playername!t]? Do you choose its simple life and energy of alicorn?"
+
+# game/Scripts/sugarcubecorner.rpy:37
+translate Engrish sugarcubecorner_f54ac078:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been your own alicorn? With great powers and all? "
+    pp "Welcome to our new alicorn! Please wait. You will not choose to be anyone, but only [playername!t] before it becomes one or more. It's hard to find out where we are in the timeline, which It's just a bit of everything ... It's been in development for many years! Many years at hiatus, but you are. Do you realize that you can be your own?"
+
+# game/Scripts/sugarcubecorner.rpy:42
+translate Engrish sugarcubecorner_a387f315:
+
+    # p "I tried once, but Colgate didn't want to, so I chose [playername2!t]."
+    p "I tried once, but Colgate didn't want to, so I chose [playername2!t]."
+
+# game/Scripts/sugarcubecorner.rpy:94
+translate Engrish pinkieguess_dbd0ada0:
+
+    # p "Wait. What? But I'm [playername2!t]! I can't have a mustache, I'm a mare! ...Am I?"
+    p "Wait. What? But I'm [playername2!t]! I can't have a mustache, I'm a mare! ...Am I?"
+
+# game/Scripts/sugarcubecorner.rpy:261
+translate Engrish assertivepie_dcbd16bc:
+
+    # pp "Bye \"[playername3!t]\"!"
+    pp "Bye \"[playername3!t]\"!"
+
+# game/Scripts/sugarcubecorner.rpy:292
+translate Engrish assertivepie_ba55a991:
+
+    # pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
+    pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
+
+# game/Scripts/sugarcubecorner.rpy:420
+translate Engrish sell_bake_b5b31c41:
+
+    # u "Hello [playername!t]! Taking care of the business while the Cakes are out?"
+    u "Hello [playername!t]! Taking care of the business while the Cakes are out?"
+
+# game/Scripts/sugarcubecorner.rpy:431
+translate Engrish sell_bake_0c46aad6:
+
+    # t "Thank you [playername2!t]. I'll buy a dozen rainbow cupcakes."
+    t "Thank you [playername2!t]. I'll buy a dozen rainbow cupcakes."
+
+# game/Scripts/sugarcubecorner.rpy:438
+translate Engrish sell_bake_f0c693c6:
+
+    # t "See you next time [playername2!t]!"
+    t "See you next time [playername2!t]!"
+

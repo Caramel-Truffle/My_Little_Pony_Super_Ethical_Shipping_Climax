@@ -1078,3 +1078,67 @@ translate English strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copies the errors.txt file to the clipboard as Markdown for Discord."
 
+# TODO: Translation updated at 2019-06-21 07:21
+
+translate English strings:
+
+    # 00accessibility.rpy:76
+    old "Font Override"
+    new "Font Override"
+
+    # 00accessibility.rpy:80
+    old "Default"
+    new "Default"
+
+    # 00accessibility.rpy:84
+    old "DejaVu Sans"
+    new "DejaVu Sans"
+
+    # 00accessibility.rpy:88
+    old "Opendyslexic"
+    new "Opendyslexic"
+
+    # 00accessibility.rpy:94
+    old "Text Size Scaling"
+    new "Text Size Scaling"
+
+    # 00accessibility.rpy:100
+    old "Reset"
+    new "Reset"
+
+    # 00accessibility.rpy:105
+    old "Line Spacing Scaling"
+    new "Line Spacing Scaling"
+
+    # 00accessibility.rpy:117
+    old "Self-Voicing"
+    new "Self-Voicing"
+
+    # 00accessibility.rpy:121
+    old "Off"
+    new "Off"
+
+    # 00accessibility.rpy:125
+    old "Text-to-speech"
+    new "Text-to-speech"
+
+    # 00accessibility.rpy:129
+    old "Clipboard"
+    new "Clipboard"
+
+    # 00accessibility.rpy:133
+    old "Debug"
+    new "Debug"
+
+    # 00preferences.rpy:430
+    old "font transform"
+    new "font transform"
+
+    # 00preferences.rpy:433
+    old "font size"
+    new "font size"
+
+    # 00preferences.rpy:441
+    old "font line spacing"
+    new "font line spacing"
+

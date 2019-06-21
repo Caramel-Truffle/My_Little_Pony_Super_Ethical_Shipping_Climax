@@ -1307,3 +1307,77 @@ translate French strings:
     old "I want to finish baking!"
     new "Je veux terminer de cuisiner!"
 
+# TODO: Translation updated at 2019-06-21 07:22
+
+# game/Scripts/sugarcubecorner.rpy:27
+translate French sugarcubecorner_7baa6336:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? She's fast, awesome and cool, but you do realize that you could have been an alicorn? With great powers and all, right?"
+    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? She's fast, awesome and cool, but you do realize that you could have been an alicorn? With great powers and all, right?"
+
+# game/Scripts/sugarcubecorner.rpy:31
+translate French sugarcubecorner_b63c3a23:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love fashion and beauty, but do you realize that you could have been an alicorn? With great powers and all?"
+    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love fashion and beauty, but do you realize that you could have been an alicorn? With great powers and all?"
+
+# game/Scripts/sugarcubecorner.rpy:33
+translate French sugarcubecorner_b1b01aff:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love animals and stuff, but do you realize that you could have been an alicorn? With great powers and all?"
+    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love animals and stuff, but do you realize that you could have been an alicorn? With great powers and all?"
+
+# game/Scripts/sugarcubecorner.rpy:35
+translate French sugarcubecorner_fb13aef5:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? Do you really prefer her simple lifestyle to the power of an alicorn?"
+    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? Do you really prefer her simple lifestyle to the power of an alicorn?"
+
+# game/Scripts/sugarcubecorner.rpy:37
+translate French sugarcubecorner_f54ac078:
+
+    # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been your own alicorn? With great powers and all? "
+    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been your own alicorn? With great powers and all? "
+
+# game/Scripts/sugarcubecorner.rpy:42
+translate French sugarcubecorner_a387f315:
+
+    # p "I tried once, but Colgate didn't want to, so I chose [playername2!t]."
+    p "I tried once, but Colgate didn't want to, so I chose [playername2!t]."
+
+# game/Scripts/sugarcubecorner.rpy:94
+translate French pinkieguess_dbd0ada0:
+
+    # p "Wait. What? But I'm [playername2!t]! I can't have a mustache, I'm a mare! ...Am I?"
+    p "Wait. What? But I'm [playername2!t]! I can't have a mustache, I'm a mare! ...Am I?"
+
+# game/Scripts/sugarcubecorner.rpy:261
+translate French assertivepie_dcbd16bc:
+
+    # pp "Bye \"[playername3!t]\"!"
+    pp "Bye \"[playername3!t]\"!"
+
+# game/Scripts/sugarcubecorner.rpy:292
+translate French assertivepie_ba55a991:
+
+    # pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
+    pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
+
+# game/Scripts/sugarcubecorner.rpy:420
+translate French sell_bake_b5b31c41:
+
+    # u "Hello [playername!t]! Taking care of the business while the Cakes are out?"
+    u "Hello [playername!t]! Taking care of the business while the Cakes are out?"
+
+# game/Scripts/sugarcubecorner.rpy:431
+translate French sell_bake_0c46aad6:
+
+    # t "Thank you [playername2!t]. I'll buy a dozen rainbow cupcakes."
+    t "Thank you [playername2!t]. I'll buy a dozen rainbow cupcakes."
+
+# game/Scripts/sugarcubecorner.rpy:438
+translate French sell_bake_f0c693c6:
+
+    # t "See you next time [playername2!t]!"
+    t "See you next time [playername2!t]!"
+

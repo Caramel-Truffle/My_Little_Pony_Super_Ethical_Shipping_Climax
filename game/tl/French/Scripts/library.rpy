@@ -1483,3 +1483,53 @@ translate French strings:
     old "\"Can I have a kiss?\""
     new "\"Est-ce que je peux avoir un bisou?\""
 
+# TODO: Translation updated at 2019-06-21 07:22
+
+# game/Scripts/library.rpy:109
+translate French twi_see_double_end_aec9d14a:
+
+    # ts "Oh, [playername2!t]! What can I do for you?"
+    ts "Oh, [playername2!t]! What can I do for you?"
+
+# game/Scripts/library.rpy:147
+translate French bookchoice_6648fa35:
+
+    # ts "See you later [playername2!t]!"
+    ts "See you later [playername2!t]!"
+
+# game/Scripts/library.rpy:167
+translate French bookchoice_d6f242bb:
+
+    # ts "Come on [playername3!t], you are not Fluttershy!"
+    ts "Come on [playername3!t], you are not Fluttershy!"
+
+# game/Scripts/library.rpy:198
+translate French bookchoice_4fda2c3a:
+
+    # ts "Bye [playername2!t]!"
+    ts "Bye [playername2!t]!"
+
+# game/Scripts/library.rpy:234
+translate French bookchoice_end_9182bfa0:
+
+    # sp "Hey [playername2!t]! Twilight is out for the moment. What can I do for you?"
+    sp "Hey [playername2!t]! Twilight is out for the moment. What can I do for you?"
+
+# game/Scripts/library.rpy:266
+translate French spikechoice_8163cce8:
+
+    # sp "I'll wait for you [playername2!t], see you later!"
+    sp "I'll wait for you [playername2!t], see you later!"
+
+# game/Scripts/library.rpy:281
+translate French spikechoice_4e5f0a2e:
+
+    # sp "[playername2!t]? What's wrong with you?"
+    sp "[playername2!t]? What's wrong with you?"
+
+# game/Scripts/library.rpy:316
+translate French spikechoice_458d8957:
+
+    # sp "So [playername2!t], you are back! Do you have a ruby?"
+    sp "So [playername2!t], you are back! Do you have a ruby?"
+

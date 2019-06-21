@@ -1432,3 +1432,83 @@ translate Engrish strings:
     old "I want some time with aj "
     new "I need some time in aj "
 
+# TODO: Translation updated at 2019-06-21 07:20
+
+# game/Scripts/applebarn.rpy:32
+translate Engrish aj_see_herself_e031e6a2:
+
+    # aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3!t] for today."
+    aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3!t] for today."
+
+# game/Scripts/applebarn.rpy:88
+translate Engrish aj_see_herself_3a5386dc:
+
+    # aj "...[playername3!t]? I did not expect you today!"
+    aj "...[playername3!t]? I did not expect you today!"
+
+# game/Scripts/applebarn.rpy:95
+translate Engrish aj_see_herself_778e0e93:
+
+    # aj "[playername!t]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
+    aj "[playername!t]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
+
+# game/Scripts/applebarn.rpy:127
+translate Engrish sugapple_b85ebf1a:
+
+    # p "Yes, close friend. My name is [playername!t]."
+    p "Yes, close friend. My name is [playername!t]."
+
+# game/Scripts/applebarn.rpy:182
+translate Engrish braeburncest_d3ba3e3f:
+
+    # aj "You're not Rainbow, but you know what saying this means, don't you [playername3!t]?"
+    aj "You're not Rainbow, but you know what saying this means, don't you [playername3!t]?"
+
+# game/Scripts/applebarn.rpy:201
+translate Engrish braeburncest_1ff5a80d:
+
+    # aj "So, let's see what you got [playername2!t]! I bet you can't beat..."
+    aj "So, let's see what you got [playername2!t]! I bet you can't beat..."
+
+# game/Scripts/applebarn.rpy:252
+translate Engrish waterapple_2f1e6c79:
+
+    # aj "That's a bit slow for ten seconds and you only got one apple, [playername2!t]. I guess I won!"
+    aj "That's a bit slow for ten seconds and you only got one apple, [playername2!t]. I guess I won!"
+
+# game/Scripts/applebarn.rpy:307
+translate Engrish waterapple_b85ebf1a:
+
+    # p "Yes, close friend. My name is [playername!t]."
+    p "Yes, close friend. My name is [playername!t]."
+
+# game/Scripts/applebarn.rpy:416
+translate Engrish cute_bb_d3d882cc:
+
+    # b "Welcome back [playername2!t]!"
+    b "Welcome back [playername2!t]!"
+
+# game/Scripts/applebarn.rpy:459
+translate Engrish brae_reward_dd2ff640:
+
+    # b "I sure do [playername2!t], but that's not really up to me."
+    b "I sure do [playername2!t], but that's not really up to me."
+
+# game/Scripts/applebarn.rpy:498
+translate Engrish brae_reward_2955f5c7:
+
+    # aj "Howdy, [playername3!t]! I didn't think you'd come back! Did you want to stay over for the night?"
+    aj "Howdy, [playername3!t]! I didn't think you'd come back! Did you want to stay over for the night?"
+
+# game/Scripts/applebarn.rpy:504
+translate Engrish brae_reward_a5d576c2:
+
+    # aj "Don’t worry [playername2!t], I have all your needs covered!"
+    aj "Don’t worry [playername2!t], I have all your needs covered!"
+
+translate Engrish strings:
+
+    # Scripts\applebarn.rpy:427
+    old "I want some time with AJ"
+    new "I want some time with AJ"
+

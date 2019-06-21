@@ -184,7 +184,7 @@ translate French askdashiehelp_f92adb54:
 translate French askdashiehelp_653097b6:
 
     # p "I need to be about 20%% cooler."
-    p "J'ai besoin d'être environ 20% plus cool."
+    p "J'ai besoin d'être environ 20%% plus cool."
 
 # game/Scripts/dashcloud.rpy:68
 translate French askdashiehelp_035770f1:
@@ -1031,4 +1031,60 @@ translate French strings:
     # Scripts\dashcloud.rpy:191
     old "\"I love them too!\""
     new "\"Je les aime aussi!\""
+
+# TODO: Translation updated at 2019-06-21 07:22
+
+# game/Scripts/dashcloud.rpy:9
+translate French dashcloud_09477f07:
+
+    # p "Wings are useful, [playername!t] was a good choice."
+    p "Wings are useful, [playername!t] was a good choice."
+
+# game/Scripts/dashcloud.rpy:12
+translate French dashcloud_859397e4:
+
+    # p "Magic is useful, [playername!t] was a good choice."
+    p "Magic is useful, [playername!t] was a good choice."
+
+# game/Scripts/dashcloud.rpy:47
+translate French datdashplot_f2278cf7:
+
+    # rd "Are you just passing by [playername3!t], or do you need something?"
+    rd "Are you just passing by [playername3!t], or do you need something?"
+
+# game/Scripts/dashcloud.rpy:247
+translate French truederpyabuse_48911279:
+
+    # d "Hey [playername2!t]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
+    d "Hey [playername2!t]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
+
+# game/Scripts/dashcloud.rpy:251
+translate French truederpyabuse_8af0bad0:
+
+    # d "That's true [playername2!t]! And-"
+    d "That's true [playername2!t]! And-"
+
+# game/Scripts/dashcloud.rpy:271
+translate French truederpyabuse_ce787523:
+
+    # d "Thank you [playername2!t], I will wait for your return."
+    d "Thank you [playername2!t], I will wait for your return."
+
+# game/Scripts/dashcloud.rpy:288
+translate French truederpyabuse_2a4fc9d0:
+
+    # d "Hey [playername2!t], you are back! Did you find any muffin?"
+    d "Hey [playername2!t], you are back! Did you find any muffin?"
+
+# game/Scripts/dashcloud.rpy:305
+translate French yummymuffin_a74114b3:
+
+    # d "Thank you so much [playername2!t]!"
+    d "Thank you so much [playername2!t]!"
+
+# game/Scripts/dashcloud.rpy:313
+translate French yummymuffin_0384e70d:
+
+    # rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
+    rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
 

@@ -150,3 +150,55 @@ translate Engrish strings:
     old "Wait!! I want to be my OC!! It's a super-awesome alicorn with neon colors and stuff!!!!"
     new "Wait !! I want to be OC !! It's a bigger alicorn and neon colors and stuff !!!!"
 
+# TODO: Translation updated at 2019-06-21 07:20
+
+# game/Scripts/script.rpy:572
+translate Engrish end_name_choice_3929edae:
+
+    # y "I want to be [playername!t]."
+    y "I want to be [playername!t]."
+
+# game/Scripts/script.rpy:573
+translate Engrish end_name_choice_72736899:
+
+    # c "So, you are [playername!t] now."
+    c "So, you are right [playername!t] now."
+
+translate Engrish strings:
+
+    # Scripts\script.rpy:456
+    old "Big Macintosh"
+    new "tall Macintosh"
+
+    # Scripts\script.rpy:538
+    old "Twilight"
+    new "twilight"
+
+    # Scripts\script.rpy:539
+    old "Twi'"
+    new "twig"
+
+    # Scripts\script.rpy:543
+    old "Pinkie"
+    new "toe"
+
+    # Scripts\script.rpy:544
+    old "Pinkeh"
+    new "Pinkeh"
+
+    # Scripts\script.rpy:549
+    old "AJ"
+    new "AJ"
+
+    # Scripts\script.rpy:553
+    old "Rainbow"
+    new "rainbow"
+
+    # Scripts\script.rpy:554
+    old "Dashie"
+    new "Dashboard"
+
+    # Scripts\script.rpy:564
+    old "'Shy"
+    new "timid"
+

@@ -1157,3 +1157,47 @@ translate French strings:
     old "Offer your \"help\" for \"something else\""
     new "De \"l'aide\" pour \"autre chose\""
 
+# TODO: Translation updated at 2019-06-21 07:22
+
+# game/Scripts/carouselboutique.rpy:27
+translate French carouselboutique_1ab81280:
+
+    # r "[playername!t]! What a surprise!"
+    r "[playername!t]! What a surprise!"
+
+# game/Scripts/carouselboutique.rpy:62
+translate French raritychoice1_d54074db:
+
+    # r "Erm... Are you alright [playername2!t]?"
+    r "Erm... Are you alright [playername2!t]?"
+
+# game/Scripts/carouselboutique.rpy:143
+translate French raritychoice1_c266718d:
+
+    # r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
+    r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
+
+# game/Scripts/carouselboutique.rpy:201
+translate French raritychoice1_3a151ce3:
+
+    # r "Thank you [playername2!t], it would be harder without your help."
+    r "Thank you [playername2!t], it would be harder without your help."
+
+# game/Scripts/carouselboutique.rpy:267
+translate French raritychoice1_4ed6e73e:
+
+    # r "Hello again [playername2!t]."
+    r "Hello again [playername2!t]."
+
+# game/Scripts/carouselboutique.rpy:442
+translate French rarity_get_tea_9fca844c:
+
+    # r "Good luck [playername2!t]!"
+    r "Good luck [playername2!t]!"
+
+# game/Scripts/carouselboutique.rpy:456
+translate French rarity_get_tea_761209f7:
+
+    # "Welcome back [playername!t]! I just finished brewing the tea. This scent is divine!"
+    "Welcome back [playername!t]! I just finished brewing the tea. This scent is divine!"
+
