@@ -1168,19 +1168,19 @@ translate Engrish carouselboutique_1ab81280:
 translate Engrish raritychoice1_d54074db:
 
     # r "Erm... Are you alright [playername2!t]?"
-    r "Erm... Are you alright [playername2!t]?"
+    r "Are you alright [playername2!t]?"
 
 # game/Scripts/carouselboutique.rpy:143
 translate Engrish raritychoice1_c266718d:
 
     # r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
-    r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
+    r "[playername!t], you are the sound of the cake now. But wait there."
 
 # game/Scripts/carouselboutique.rpy:201
 translate Engrish raritychoice1_3a151ce3:
 
     # r "Thank you [playername2!t], it would be harder without your help."
-    r "Thank you [playername2!t], it would be harder without your help."
+    r "Thank you [playername2!t], it would be stiff with not your help."
 
 # game/Scripts/carouselboutique.rpy:267
 translate Engrish raritychoice1_4ed6e73e:
@@ -1198,5 +1198,5 @@ translate Engrish rarity_get_tea_9fca844c:
 translate Engrish rarity_get_tea_761209f7:
 
     # "Welcome back [playername!t]! I just finished brewing the tea. This scent is divine!"
-    "Welcome back [playername!t]! I just finished brewing the tea. This scent is divine!"
+    "Welcome back [playername!t]! I have ended the tea. This odour is in the temple"
 

@@ -412,7 +412,7 @@ translate Engrish strings:
 
     # 00library.rpy:308
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "This software has free software in many licenses, including MIT License and GNU Lesser General Public License. You can find a complete list of software, including link and full entry code, (a=https://www.renpy.org/l/license}here{/a}."
+    new "This software has free software in many licenses, including MIT License and GNU Lesser General Public License. You can find a complete list of software, including link and full entry code, a=https://www.renpy.org/l/license}here/a}."
 
     # 00preferences.rpy:223
     old "display"

@@ -1039,43 +1039,43 @@ translate Engrish strings:
 translate Engrish dashcloud_09477f07:
 
     # p "Wings are useful, [playername!t] was a good choice."
-    p "Wings are useful, [playername!t] was a good choice."
+    p "Chicken chicken chicken, [playername!t] was a good meal."
 
 # game/Scripts/dashcloud.rpy:12
 translate Engrish dashcloud_859397e4:
 
     # p "Magic is useful, [playername!t] was a good choice."
-    p "Magic is useful, [playername!t] was a good choice."
+    p "Magic is clean, [playername!t] was a decent choice."
 
 # game/Scripts/dashcloud.rpy:47
 translate Engrish datdashplot_f2278cf7:
 
     # rd "Are you just passing by [playername3!t], or do you need something?"
-    rd "Are you just passing by [playername3!t], or do you need something?"
+    rd "Are you only adapting the [playername3!t], or do need something?"
 
 # game/Scripts/dashcloud.rpy:247
 translate Engrish truederpyabuse_48911279:
 
     # d "Hey [playername2!t]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
-    d "Hey [playername2!t]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
+    d "Hello [playername2!t]! Rainbow lane and I am gone to the train for a coin, have you want to rejoin us?"
 
 # game/Scripts/dashcloud.rpy:251
 translate Engrish truederpyabuse_8af0bad0:
 
     # d "That's true [playername2!t]! And-"
-    d "That's true [playername2!t]! And-"
+    d "That is true [playername2!t]! Also minus"
 
 # game/Scripts/dashcloud.rpy:271
 translate Engrish truederpyabuse_ce787523:
 
     # d "Thank you [playername2!t], I will wait for your return."
-    d "Thank you [playername2!t], I will wait for your return."
+    d "Thank you [playername2!t], I will wait for you to go return."
 
 # game/Scripts/dashcloud.rpy:288
 translate Engrish truederpyabuse_2a4fc9d0:
 
     # d "Hey [playername2!t], you are back! Did you find any muffin?"
-    d "Hey [playername2!t], you are back! Did you find any muffin?"
+    d "Hey [playername2!t], you have a back! Did you find any"
 
 # game/Scripts/dashcloud.rpy:305
 translate Engrish yummymuffin_a74114b3:
@@ -1087,5 +1087,5 @@ translate Engrish yummymuffin_a74114b3:
 translate Engrish yummymuffin_0384e70d:
 
     # rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
-    rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
+    rd "Sorry girls, I took my clock! ... [playername3!t], why did you hamster? She is very happy!"
 

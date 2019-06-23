@@ -46,7 +46,7 @@ translate Engrish outdoors_ce147a6b:
 translate Engrish outdoors_a48c0e8f:
 
     # "--Bad Ending--"
-    "--Bad Ending--"
+    "-Evil is end--"
 
 # game/Scripts/ourdoors.rpy:48
 translate Engrish outdoors_1512f66c:

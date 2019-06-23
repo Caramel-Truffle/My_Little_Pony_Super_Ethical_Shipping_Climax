@@ -1346,7 +1346,7 @@ translate Engrish sugarcubecorner_a387f315:
 translate Engrish pinkieguess_dbd0ada0:
 
     # p "Wait. What? But I'm [playername2!t]! I can't have a mustache, I'm a mare! ...Am I?"
-    p "Wait. What? But I'm [playername2!t]! I can't have a mustache, I'm a mare! ...Am I?"
+    p "Wait. What? But I [playername2!t]! I like beard a mustache, I like the horse! ... Am I?"
 
 # game/Scripts/sugarcubecorner.rpy:261
 translate Engrish assertivepie_dcbd16bc:
@@ -1358,19 +1358,19 @@ translate Engrish assertivepie_dcbd16bc:
 translate Engrish assertivepie_ba55a991:
 
     # pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
-    pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
+    pp "So, [playername2!t], what are you up to? Needle is special? Have you planned doctor for this dark sky?"
 
 # game/Scripts/sugarcubecorner.rpy:420
 translate Engrish sell_bake_b5b31c41:
 
     # u "Hello [playername!t]! Taking care of the business while the Cakes are out?"
-    u "Hello [playername!t]! Taking care of the business while the Cakes are out?"
+    u "Hello [playername!t]! Taking care of the family while the pastries are outlawed?"
 
 # game/Scripts/sugarcubecorner.rpy:431
 translate Engrish sell_bake_0c46aad6:
 
     # t "Thank you [playername2!t]. I'll buy a dozen rainbow cupcakes."
-    t "Thank you [playername2!t]. I'll buy a dozen rainbow cupcakes."
+    t "Thank you [playername2!t]. I'll buy a dozen rainbow children."
 
 # game/Scripts/sugarcubecorner.rpy:438
 translate Engrish sell_bake_f0c693c6:
