@@ -1313,43 +1313,45 @@ translate French strings:
 translate French sugarcubecorner_7baa6336:
 
     # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? She's fast, awesome and cool, but you do realize that you could have been an alicorn? With great powers and all, right?"
-    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? She's fast, awesome and cool, but you do realize that you could have been an alicorn? With great powers and all, right?"
+    pp "Bienvenue à notre nouvelle alicorne! Attends. Tu n'as pas choisi d'être une alicorne, mais simplement [playername!t]? Elle est rapide, géniale et cool, mais tu réalises que tu aurais pu être une alicorne? Surpuissante et tout?"
 
 # game/Scripts/sugarcubecorner.rpy:31
 translate French sugarcubecorner_b63c3a23:
 
     # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love fashion and beauty, but do you realize that you could have been an alicorn? With great powers and all?"
-    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love fashion and beauty, but do you realize that you could have been an alicorn? With great powers and all?"
+    pp "Bienvenue à notre nouvelle alicorne! Attends. Tu n'as pas choisi d'être une alicorne, mais simplement [playername!t]? Tu aimes peut-être la mode et la beauté, mais te rends-tu compte que tu aurais pu être une alicorne? Surpuissante et tout? "
 
 # game/Scripts/sugarcubecorner.rpy:33
 translate French sugarcubecorner_b1b01aff:
 
     # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love animals and stuff, but do you realize that you could have been an alicorn? With great powers and all?"
-    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? You may love animals and stuff, but do you realize that you could have been an alicorn? With great powers and all?"
+     pp "Bienvenue à notre nouvelle alicorne! Attends. Tu n'as pas choisi d'être une alicorne, mais simplement [playername!t]? Tu aimes peut-être les animaux et d'autres choses, mais te rendes-tu compte que tu aurais pu être une alicorne? Surpuissante et tout? "
 
 # game/Scripts/sugarcubecorner.rpy:35
 translate French sugarcubecorner_fb13aef5:
 
     # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? Do you really prefer her simple lifestyle to the power of an alicorn?"
-    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t]? Do you really prefer her simple lifestyle to the power of an alicorn?"
+    pp "Bienvenue à notre nouvelle alicorne! Attends. Tu n'as pas choisi d'être une alicorne, mais simplement [playername!t]? Préfères-tu vraiment son style de vie simple à la puissance d'une alicorne?"
 
 # game/Scripts/sugarcubecorner.rpy:37
 translate French sugarcubecorner_f54ac078:
 
     # pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been your own alicorn? With great powers and all? "
-    pp "Welcome to our new alicorn! Wait. You did not choose to be an alicorn, but simply [playername!t] before she became one? Or will become. It's hard to know where we are on the timeline, this is just a fangame after all... Plus it's been in development for years! With years of hiatus at times, but still. Do you realize that you could have been your own alicorn? With great powers and all? "
+    pp "Bienvenue à notre nouvelle alicorne! Attends. Tu n'as pas choisi d'être une alicorne, mais simplement [playername!t] avant qu’elle ne le devienne?"
+    "..."
+    "Ou, le deviendra? Il est difficile pour moi de savoir où nous en sommes sur la chronologie, c’est juste un fangame. En plus, il est en développement depuis des années! Avec des années de pause parfois, mais quand même. Te rends-tu compte que tu aurais pu être ta propre alicorne? Surpuissante et tout?"
 
 # game/Scripts/sugarcubecorner.rpy:42
 translate French sugarcubecorner_a387f315:
 
     # p "I tried once, but Colgate didn't want to, so I chose [playername2!t]."
-    p "I tried once, but Colgate didn't want to, so I chose [playername2!t]."
+    p "J'ai essayé une fois, mais Colgate ne m'a pas laissé faire, donc j'ai choisi [playername2!t] à la place."
 
 # game/Scripts/sugarcubecorner.rpy:94
 translate French pinkieguess_dbd0ada0:
 
     # p "Wait. What? But I'm [playername2!t]! I can't have a mustache, I'm a mare! ...Am I?"
-    p "Wait. What? But I'm [playername2!t]! I can't have a mustache, I'm a mare! ...Am I?"
+    p "Attends. Quoi? Mais je suis [playername2!t]! Je ne peux pas avoir une moustache, je suis une jument! ...Pas vrai?"
 
 # game/Scripts/sugarcubecorner.rpy:261
 translate French assertivepie_dcbd16bc:
@@ -1361,23 +1363,23 @@ translate French assertivepie_dcbd16bc:
 translate French assertivepie_ba55a991:
 
     # pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
-    pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
+    pp "Donc, [playername2!t], que veux-tu faire? As-tu besoin de quelque chose? As-tu des plans pour cette nuit?"
 
 # game/Scripts/sugarcubecorner.rpy:420
 translate French sell_bake_b5b31c41:
 
     # u "Hello [playername!t]! Taking care of the business while the Cakes are out?"
-    u "Hello [playername!t]! Taking care of the business while the Cakes are out?"
+    u "Bonjour [playername!t]! Tu prends soin du magasin pendant que les Cakes sont dehors?"
 
 # game/Scripts/sugarcubecorner.rpy:431
 translate French sell_bake_0c46aad6:
 
     # t "Thank you [playername2!t]. I'll buy a dozen rainbow cupcakes."
-    t "Thank you [playername2!t]. I'll buy a dozen rainbow cupcakes."
+    t "Merci [playername2!t]. Je vais te prendre une douzaine de cupcakes arc-en-ciel."
 
 # game/Scripts/sugarcubecorner.rpy:438
 translate French sell_bake_f0c693c6:
 
     # t "See you next time [playername2!t]!"
-    t "See you next time [playername2!t]!"
+    t "À la prochaine, [playername2!t]!"
 

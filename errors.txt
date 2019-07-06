@@ -2,40 +2,77 @@
 errors listed below, and try again.
 
 
-File "game/tl/Engrish/Scripts/sugarcubecorner.rpy", line 805: end of line expected.
-(Perhaps you left out a " at the end of the first line.)
-    pp "This is a good idea! But let's first take a drink." And thanks. "
-                                                            ^
-    
-    # game/Scripts/sugarcubecorner.rpy:323
-    translate Engrish assertivepie_7cd06fc1:
-    
-        # "Both of you get the various ingredients, Pinkie singing you where to find them when they were closer to you than to her."
-        "Both of you will get things, and Pinkie will be the place where you will find them as they draw closer to you."
-    
-    # game/Scripts/sugarcubecorner.rpy:326
-    translate Engrish assertivepie_b9179edd:
-    
-        # pp "Sugar cubes! Add them aplenty! Sugar cubes, let's start with twenty!"
-        pp "cubes sugar! Add them a lot!"
-    
-    # game/Scripts/sugarcubecorner.rpy:329
-    translate Engrish assertivepie_e671bc57:
-    
-        # pp "..."
-        pp "..."
-    
-    # game/Scripts/sugarcubecorner.rpy:330
-    translate Engrish assertivepie_decee9b5:
-    
-        # p "What's wrong? You are silent. It's... Unusual."
-        p "What's wrong?"
-    
-    # game/Scripts/sugarcubecorner.rpy:331
-    translate Engrish assertivepie_d9b52f75:
-    
-        # pp "We don't have enough sugar cubes! This is my \"we have no sugarcubes left\" face. It's important to know, since my yelling, singing and laughing faces are all the same."
-        pp "We have no cubes sugar! This is my \" we have no sugar in front. \"It's important to know, since my cry is, it's funny and funny."
+File "game/Scripts/other.rpy", line 200: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 203: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 206: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 209: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 212: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 215: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 218: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 221: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 224: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 227: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 230: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 233: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 236: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 239: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 242: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 245: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 248: expected statement.
+    renpy.pause
+               ^
+
+File "game/Scripts/other.rpy", line 251: expected statement.
+    renpy.pause
+               ^
 
 Ren'Py Version: Ren'Py 7.2.2.491
-Sat Jun 15 08:48:37 2019
+Sun Jun 23 16:51:42 2019

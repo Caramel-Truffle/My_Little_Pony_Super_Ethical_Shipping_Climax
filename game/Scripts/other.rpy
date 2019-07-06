@@ -196,60 +196,41 @@ label credits:
     scene black 
     with Pause(1)
 
-    show credit1 with dissolve
-    with Pause(4)
+    show credit1 with fade
+    $renpy.pause()
 
-    scene black with dissolve
-    with Pause(1)
     
-    scene credit2 with dissolve
-    with Pause(4)
+    scene credit2 with fade
+    $renpy.pause()
     
-    scene black with dissolve
-    with Pause(1)
         
-    show credit3 with dissolve
-    with Pause(4)
+    show credit3 with fade
+    $renpy.pause()
      
-    scene black with dissolve
-    with Pause(1)
        
-    scene credit4 with dissolve
-    with Pause(4)
+    scene credit4 with fade
+    $renpy.pause()
      
-    scene black with dissolve
-    with Pause(1)
        
-    show credit5 with dissolve
-    with Pause(4)
+    show credit5 with fade
+    $renpy.pause()
     
-    scene black with dissolve
-    with Pause(1)
        
-    show credit6 with dissolve
-    with Pause(4)
+    show credit6 with fade
+    $renpy.pause()
     
-    scene black with dissolve
-    with Pause(1)
-       
-    show credit7 with dissolve
-    with Pause(4)
+    show credit7 with fade
+    $renpy.pause()
     
-    scene black with dissolve
-    with Pause(1)
        
-    show credit8 with dissolve
-    with Pause(4)
+    show credit8 with fade
+    $renpy.pause()
     
-    scene black with dissolve
-    with Pause(1)
        
-    show credit9 with dissolve
-    with Pause(4)
+    show credit9 with fade
+    $renpy.pause()
     
-    scene black with dissolve
-    with Pause(1)
        
-    show credit10 with dissolve
-
-    ""
+    show credit10 with fade
+    $renpy.pause()
+    

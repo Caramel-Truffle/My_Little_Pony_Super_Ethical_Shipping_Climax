@@ -46,7 +46,7 @@ translate French start_a6fc5652:
 translate French start_a06862f5:
 
     # y "Please calm down and do your stuff. I will see what happen myself."
-    y "Came-toi et fais ce que tu as à faire. Je verrai ce qui arrive moi-même."
+    y "Calme-toi et fais ce que tu as à faire. Je verrai ce qui arrive moi-même."
 
 # game/Scripts/script.rpy:524
 translate French character_selection_75deb98c:
@@ -156,13 +156,13 @@ translate French strings:
 translate French end_name_choice_3929edae:
 
     # y "I want to be [playername!t]."
-    y "I want to be [playername!t]."
+    y "Je veux devenir [playername!t]."
 
 # game/Scripts/script.rpy:573
 translate French end_name_choice_72736899:
 
     # c "So, you are [playername!t] now."
-    c "So, you are [playername!t] now."
+    c "Alors tu es [playername!t] désormais. Et au passage, prétends savoir que 'You' ça veut dire 'Toi', okay?"
 
 translate French strings:
 

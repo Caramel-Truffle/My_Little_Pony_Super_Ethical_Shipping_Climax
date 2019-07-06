@@ -293,25 +293,35 @@ image end87 = "Images/BonusEnding.png"
 
 #final ending
 
+
+# These are for name translating
+define twilightname   = __("Twilight Sparkle")
+define pinkiename     = __("Pinkie Pie")
+define fluttername    = __("Fluttershy")
+define rainbowname    = __("Rainbow Dash")
+define applename      = __("Applejack")
+define rarityname     = __("Rarity")
+define macname        = __("Big Macintosh")
+
 # Declare characters used by this game.
-define ts = Character("Twilight Sparkle", color="#B689C8")
-define pp = Character("Pinkie Pie", color="#F3B6CF")
-define fs = Character("Fluttershy", color="#FDF6AF")
-define rd = Character("Rainbow Dash", color="#9EDBF9")
-define aj = Character("Applejack", color="#FFC261")
-define r = Character("Rarity", color="#EBEFF1")
+define ts = Character(twilightname, color="#B689C8")
+define pp = Character(pinkiename, color="#F3B6CF")
+define fs = Character(fluttername, color="#FDF6AF")
+define rd = Character(rainbowname, color="#9EDBF9")
+define aj = Character(applename, color="#FFC261")
+define r = Character(rarityname, color="#EBEFF1")
 
 define y = Character("You",kind=r)
 define c = Character("Colgate",kind=rd)
 
-define bm = Character("Big Macintosh",kind=aj,color="#FF0003")
+define bm = Character(macname,kind=aj,color="#FF0003")
 
-define yts = Character("You (Twilight Sparkle)",kind=ts)
-define ypp = Character("You (Pinkie Pie)",kind=pp)
-define yfs = Character("You (Fluttershy)",kind=fs)
-define yrd = Character("You (Rainbow Dash)",kind=rd)
-define yaj = Character("You (Applejack)",kind=aj)
-define yr = Character("You (Rarity)",kind=r)
+define yts = Character("You (" +  _(twilightname) + ")",kind=ts)
+define ypp = Character("You (" +  _(pinkiename)   + ")",kind=pp)
+define yfs = Character("You (" +  _(fluttername)  + ")",kind=fs)
+define yrd = Character("You (" +  _(rainbowname)  + ")",kind=rd)
+define yaj = Character("You (" +  _(applename)    + ")",kind=aj)
+define yr  = Character("You (" +  _(rarityname)   + ")",kind=r)
 
 define ybm = Character("You (Big Mac)",kind=bm)
 
@@ -446,14 +456,6 @@ init python:
     lockety_c = False
     lockety_d = False
     
-    # These are for name translating
-    twilightname   = _("Twilight Sparkle")
-    pinkiename     = _("Pinkie Pie")
-    fluttername    = _("Fluttershy")
-    rainbowname    = _("Rainbow Dash")
-    applename      = _("Applejack")
-    rarityname     = _("Rarity")
-    macname        = _("Big Macintosh")
     
     
     def p(what, **kwargs):
@@ -488,23 +490,15 @@ label splashscreen:
     
   #  play sound "ping.ogg"
 
-    show splash with dissolve
-    with Pause(4)
+    show splash with fade
+    $renpy.pause(10)
     
-    scene black with dissolve
-    with Pause(1)
+    show splash1 with fade
+    $renpy.pause(10)
     
-    show splash1 with dissolve
-    with Pause(5)
+    show splash2 with fade
+    $renpy.pause(10)
     
-    scene black with dissolve
-    with Pause(1)
-    
-    show splash2 with dissolve
-    with Pause(9000000000001)
-    
-    scene black with dissolve
-    with Pause(1)
 
     return
 

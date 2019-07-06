@@ -1296,53 +1296,53 @@ translate French strings:
 translate French crittercare_09f2e390:
 
     # fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
-    fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
+    fs "Oh, [playername2!t]! Je ne t'avais pas reconnu. Ne fais pas attention à Angel Bunny, il est juste un peu fatigué."
 
 # game/Scripts/fluttercottage.rpy:107
 translate French flutterabuse_c59eabd5:
 
     # fs "[playername2!t]... Why did you try to...?"
-    fs "[playername2!t]... Why did you try to...?"
+    fs "[playername2!t]... Pourquoi as-tu essayé de...?"
 
 # game/Scripts/fluttercottage.rpy:112
 translate French flutterabuse_f4d0263a:
 
     # fs "Then, please follow me [playername2!t]."
-    fs "Then, please follow me [playername2!t]."
+    fs "Alors, suis moi donc [playername2!t]."
 
 # game/Scripts/fluttercottage.rpy:170
 translate French aphrodishy_bdd86a1e:
 
     # fs "[playername2!t], would you mind..."
-    fs "[playername2!t], would you mind..."
+    fs "[playername2!t], est-ce que tu..."
 
 # game/Scripts/fluttercottage.rpy:220
 translate French teabird_6fcd9f60:
 
     # fs "Of course [playername2!t], but don't abuse it..."
-    fs "Of course [playername2!t], but don't abuse it..."
+    fs "Bien sûr [playername2!t], mais n'en abuse pas..."
 
 # game/Scripts/fluttercottage.rpy:259
 translate French teabird_3ce4f74c:
 
     # fs "Welcome back [playername2!t]!"
-    fs "Welcome back [playername2!t]!"
+    fs "Bon retour [playername2!t]!"
 
 # game/Scripts/fluttercottage.rpy:279
 translate French teabird_87fe7d03:
 
     # fs "That's it, you are skilled [playername2!t]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
-    fs "That's it, you are skilled [playername2!t]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
+    fs "C'est ça, tu es douée [playername2!t]. Si tu es d'accord, je pourrais utiliser ton aide de nouveau... De temps en temps, je veux dire... Et si tu veux bien...."
 
 # game/Scripts/fluttercottage.rpy:283
 translate French teabird_17475353:
 
     # fs "[playername2!t]? Did you read some good books recently?"
-    fs "[playername2!t]? Did you read some good books recently?"
+    fs "[playername2!t]? As-tu lu des livres intéressants récemment?"
 
 # game/Scripts/fluttercottage.rpy:301
 translate French teabird_51b93075:
 
     # "Being [playername!t], you try to be convincing."
-    "Being [playername!t], you try to be convincing."
+    "Étant [playername!t], vous essayez d'être convaincante."
 

@@ -1441,71 +1441,71 @@ translate French strings:
 translate French aj_see_herself_e031e6a2:
 
     # aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3!t] for today."
-    aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3!t] for today."
+    aj "Comme je te l'avais dit, tu fais partie de la famille étendue et... Si tu veux VRAIMENT que je t'appelle ainsi, je peux utiliser [playername3!t] pour te désigner aujourd'hui."
 
 # game/Scripts/applebarn.rpy:88
 translate French aj_see_herself_3a5386dc:
 
     # aj "...[playername3!t]? I did not expect you today!"
-    aj "...[playername3!t]? I did not expect you today!"
+    aj "...[playername3!t]? Je ne pensais pas te voir aujourd'hui!"
 
 # game/Scripts/applebarn.rpy:95
 translate French aj_see_herself_778e0e93:
 
     # aj "[playername!t]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
-    aj "[playername!t]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
+    aj "[playername!t]. Après tout ce qu'on a traversé ensemble, je te considèere comme faisant partie de la famille étendue, tu sais? Si tu n'as rien de mieux à faire aujourd'hui, tu as intérêt à rester là un bout de temps!"
 
 # game/Scripts/applebarn.rpy:127
 translate French sugapple_b85ebf1a:
 
     # p "Yes, close friend. My name is [playername!t]."
-    p "Yes, close friend. My name is [playername!t]."
+    p "Oui, ami proche. Mon nom est [playername!t]."
 
 # game/Scripts/applebarn.rpy:182
 translate French braeburncest_d3ba3e3f:
 
     # aj "You're not Rainbow, but you know what saying this means, don't you [playername3!t]?"
-    aj "You're not Rainbow, but you know what saying this means, don't you [playername3!t]?"
+    aj "Tu n'es pas Rainbow, mais tu sais ce que dire ceci signifie, pas vrai [playername3!t]?"
 
 # game/Scripts/applebarn.rpy:201
 translate French braeburncest_1ff5a80d:
 
     # aj "So, let's see what you got [playername2!t]! I bet you can't beat..."
-    aj "So, let's see what you got [playername2!t]! I bet you can't beat..."
+    aj "Donc, voyons ce que tu as dans le ventre [playername2!t]! Je parie que tu ne peux pas battre..."
 
 # game/Scripts/applebarn.rpy:252
 translate French waterapple_2f1e6c79:
 
     # aj "That's a bit slow for ten seconds and you only got one apple, [playername2!t]. I guess I won!"
-    aj "That's a bit slow for ten seconds and you only got one apple, [playername2!t]. I guess I won!"
+    aj "C'est un peu lentt pour dix secondes et tu n'as qu'une pomme, [playername2!t]. J'ai gagné!"
 
 # game/Scripts/applebarn.rpy:307
 translate French waterapple_b85ebf1a:
 
     # p "Yes, close friend. My name is [playername!t]."
-    p "Yes, close friend. My name is [playername!t]."
+    p "Oui, ami proche. Mon nom est [playername!t]."
 
 # game/Scripts/applebarn.rpy:416
 translate French cute_bb_d3d882cc:
 
     # b "Welcome back [playername2!t]!"
-    b "Welcome back [playername2!t]!"
+    b "Bon retour [playername2!t]!"
 
 # game/Scripts/applebarn.rpy:459
 translate French brae_reward_dd2ff640:
 
     # b "I sure do [playername2!t], but that's not really up to me."
-    b "I sure do [playername2!t], but that's not really up to me."
+    b "Pour sûr [playername2!t], mais ce n'est pas à moi de décider."
 
 # game/Scripts/applebarn.rpy:498
 translate French brae_reward_2955f5c7:
 
     # aj "Howdy, [playername3!t]! I didn't think you'd come back! Did you want to stay over for the night?"
-    aj "Howdy, [playername3!t]! I didn't think you'd come back! Did you want to stay over for the night?"
+    aj "Hey, [playername3!t]! Je ne pensais pas que tu reviendrais! Resteras-tu ici pour la nuit?"
 
 # game/Scripts/applebarn.rpy:504
 translate French brae_reward_a5d576c2:
 
     # aj "Don’t worry [playername2!t], I have all your needs covered!"
-    aj "Don’t worry [playername2!t], I have all your needs covered!"
+    aj "Ne t'en fais pas [playername2!t], tous tes besoins seront couverts!"
 
