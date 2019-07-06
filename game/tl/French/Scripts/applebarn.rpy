@@ -281,7 +281,7 @@ translate French aj_see_herself_7af6df31:
 translate French aj_see_herself_700c9bd3:
 
     # aj "[playername]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
-    aj "[playername]. Après tout ce qu'on a fait ensemble, t'es de la famille aussi, tu sais? Tu ferais mieux de rester ici pour un bout de tempssi tu n'as rien de plus important de prévu pour la journée!"
+    aj "[playername]. Après tout ce qu'on a fait ensemble, t'es de la famille aussi, tu sais? Tu ferais mieux de rester ici pour un bout de temps si tu n'as rien de plus important de prévu pour la journée!"
 
 # game/Scripts/applebarn.rpy:96
 translate French aj_see_herself_16eb9830:
@@ -611,7 +611,7 @@ translate French waterapple_122346a4:
 translate French waterapple_73ae492d:
 
     # "14 and 13? That's quite good! Uh. But you have the cool sunglasses, it boosts your charm, but lowers your dexterity by 20 points. Your result isn't 27, It's only 7. That's bad, 'Dashie'."
-    "14 et 13? C'est bon, ça! Uh. Mais vous avez aussi les lunettes cool, elles augmentent le charisme, mais réduissent l'agilité de 20 points. Votre ésultat n'est pas 27, mais 7. C'est mauvais, 'Dashie'."
+    "14 et 13? C'est bon, ça! Uh. Mais vous avez aussi les lunettes cool, elles augmentent le charisme, mais réduissent l'agilité de 20 points. Votre résultat n'est pas 27, mais 7. C'est mauvais, 'Dashie'."
 
 # game/Scripts/applebarn.rpy:224
 translate French waterapple_5bbddaec:
@@ -1417,7 +1417,7 @@ translate French strings:
 
     # Scripts\applebarn.rpy:324
     old "I'm not cute!"
-    new "I'm not cute!"
+    new "Je ne suis pas mignonne!"
 
     # Scripts\applebarn.rpy:324
     old "I sure am. *wink wink*"
@@ -1453,7 +1453,7 @@ translate French aj_see_herself_3a5386dc:
 translate French aj_see_herself_778e0e93:
 
     # aj "[playername!t]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
-    aj "[playername!t]. Après tout ce qu'on a traversé ensemble, je te considèere comme faisant partie de la famille étendue, tu sais? Si tu n'as rien de mieux à faire aujourd'hui, tu as intérêt à rester là un bout de temps!"
+    aj "[playername!t]. Après tout ce qu'on a traversé ensemble, je te considère comme faisant partie de la famille étendue, tu sais? Si tu n'as rien de mieux à faire aujourd'hui, tu as intérêt à rester là un bout de temps!"
 
 # game/Scripts/applebarn.rpy:127
 translate French sugapple_b85ebf1a:

@@ -238,7 +238,7 @@ translate French braeburnchoice_bf12372d:
 translate French braeburnchoice_e295efc7:
 
     # b "And I thought you would never say it, ol' big chunk of love. Come here!"
-    b "Et je pensais que tu ne le dirais jamais, gros cehval d'amour. Viens ici!"
+    b "Et je pensais que tu ne le dirais jamais, gros cheval d'amour. Viens ici!"
 
 # game/Scripts/other.rpy:140
 translate French braeburnchoice_17fdf8c9:

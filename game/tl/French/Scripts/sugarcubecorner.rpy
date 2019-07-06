@@ -186,7 +186,7 @@ translate French sugarcubecorner_36fb628b:
 translate French sugarcubecorner_8006b699:
 
     # pp "You need a muffin but you also have a sugar cube... You are good! I don't know what you are up to!"
-    pp "Tu as  besoin d'un muffin mais tu as aussi un petit chou... Wow! Je ne sais pas ce que tu fais!"
+    pp "Tu as besoin d'un muffin mais tu as aussi un petit chou... Wow! Je ne sais pas ce que tu fais!"
 
 # game/Scripts/sugarcubecorner.rpy:78
 translate French sugarcubecorner_3c4f5418:

@@ -118,7 +118,7 @@ translate French crittercare_7843e3dc:
 translate French crittercare_89733ace:
 
     # fs "Would you like to come in? I've got my teapot on the stove, we could have some tea together."
-    fs "Veux-tu entrer? J'ai ma théière sur le feu, on pourrait avoir du thé ensemble."
+    fs "Veux-tu entrer? J'ai ma théière sur le feu, on pourrait boire du thé ensemble."
 
 # game/Scripts/fluttercottage.rpy:46
 translate French crittercare_7bfd9547:
@@ -394,7 +394,7 @@ translate French flutterabuse_18fef0fa:
 translate French flutterabuse_ae6a7bb6:
 
     # fs "Th... Thanks..."
-    fs "Th... Merci..."
+    fs "Me... Merci..."
 
 # game/Scripts/fluttercottage.rpy:145
 translate French flutterabuse_052d9bd5:
@@ -706,7 +706,7 @@ translate French teabird_9219b2f4:
 translate French teabird_9fd92ee3:
 
     # fs "[playername2]? Did you read some good books recently?"
-    fs "[playername2]? Az-tu lu de bons livres récemment?"
+    fs "[playername2]? As-tu lu de bons livres récemment?"
 
 # game/Scripts/fluttercottage.rpy:286
 translate French teabird_f3d45203:
@@ -808,7 +808,7 @@ translate French teabird_d250686e:
 translate French teabird_fe6a9986:
 
     # p "We... You know.... We're both quiet and all... And you know what they tell about the quiet ones..."
-    p "Nous... Tu sais... Nous sommes toutes les deux discrètes... Et tu savez ce qu'on raconte à propos de gens timides et silencieux comme ça..."
+    p "Nous... Tu sais... Nous sommes toutes les deux discrètes... Et tu savait ce qu'on raconte à propos de gens timides et silencieux comme ça..."
 
 # game/Scripts/fluttercottage.rpy:312
 translate French teabird_366f2e98:
@@ -880,7 +880,7 @@ translate French fsquickend_1287c559:
 translate French fsquickend_e225f534:
 
     # p "Well... That escalated quickly."
-    p "BEt bien... Ça a dégénéré rapidement."
+    p "Et bien... Ça a dégénéré rapidement."
 
 # game/Scripts/fluttercottage.rpy:331
 translate French fsquickend_d4ac8c6e:
@@ -1186,7 +1186,7 @@ translate French fluterx_dca99ce9:
 translate French fluterx_36467d5e:
 
     # "You're sorta close actually, but that still burns. The idea was to put ponies behind and enter more officially a \"new age\", with finishing that old project as a way of ending pony dreams with a bang, like the Bronycon. Not exploiting it."
-    "Tu es un peu proche en fait, mais ça brûle toujours. L'idée était de mettre les poneys derrière moi et d'entrer plus officiellement dans un \"nouvel âge\", en terminant ce vieux projet comme une façon de mettre fin aux rêves de poneys avec un gros bang. Comme la Bronycon. Mas pas de l'exploiter. "
+    "Tu es un peu proche en fait, mais ça brûle toujours. L'idée était de mettre les poneys derrière moi et d'entrer plus officiellement dans un \"nouvel âge\", en terminant ce vieux projet comme une façon de mettre fin aux rêves de poneys avec un gros bang. Comme la Bronycon. Mais pas de l'exploiter. "
 
 # game/Scripts/fluttercottage.rpy:442
 translate French fluterx_b6fab3f0:
@@ -1256,7 +1256,7 @@ translate French strings:
 
     # Scripts\fluttercottage.rpy:13
     old "Pet the pony"
-    new "caresser la pouliche"
+    new "Caresser la pouliche"
 
     # Scripts\fluttercottage.rpy:61
     old "Of course not!"

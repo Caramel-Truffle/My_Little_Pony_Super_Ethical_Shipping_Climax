@@ -334,7 +334,7 @@ translate French easyflutterdash_f81b4f06:
 translate French easyflutterdash_5b477f39:
 
     # "She went somewhere else in her cloud, looking for something, before coming back with a pair of sunglasses."
-    "Elle alla à quelque bar dans son nuage, à la recherche de quelque chose, avant de revenir avec une paire de lunettes de soleil."
+    "Elle alla quelque part dans son nuage, à la recherche de quelque chose, avant de revenir avec une paire de lunettes de soleil."
 
 # game/Scripts/dashcloud.rpy:120
 translate French easyflutterdash_71bc14f0:
@@ -400,7 +400,7 @@ translate French easyflutterdash_1fe2d40c:
 translate French easyflutterdash_59d81184:
 
     # "And she invited you to leave before doing so herself, then you went back to the Ponyville crossroad, with her pair of cool sunglasses in... Wait... How do you even carry the items that ponies give you?"
-    "Et elle vous invita à partir avant de le faire elle-même, allant èa la croisée des chemins de Ponyville, une paire de lunettes de soleil cool dans... Attendez... Comment transportez-vous les objets que les poneys vous donnent?"
+    "Et elle vous invita à partir avant de le faire elle-même, allant à la croisée des chemins de Ponyville, une paire de lunettes de soleil cool dans... Attendez... Comment transportez-vous les objets que les poneys vous donnent?"
 
 # game/Scripts/dashcloud.rpy:138
 translate French easyflutterdash_b53e7692:
@@ -448,7 +448,7 @@ translate French easyflutterdash_ae2d537e:
 translate French easyflutterdash_9ddaf9d0:
 
     # rd "I don't think she would mind, so, yeah, sure! But first, we need to find that dumbbell."
-    rd "Je ne pense pas que çca la dérangerait, donc oui, bien sûr! Mais d’abord, nous devons trouver cet haltère."
+    rd "Je ne pense pas que ça la dérangerait, donc oui, bien sûr! Mais d’abord, nous devons trouver cet haltère."
 
 # game/Scripts/dashcloud.rpy:152
 translate French easyflutterdash_68b25803:
@@ -874,7 +874,7 @@ translate French yummymuffin_c67e549a:
 translate French yummymuffin_c4adac6b:
 
     # "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
-    "Et vous trois êtes allés à l'extérieur de Ponyville pour vous entraîner, soulever des poids, courir, voler, etc. Après cela, vous avez auux deux autres qui sont rentrées chez elles tandis que vous aliez à nouveau à la croisée des chemins."
+    "Et vous trois êtes allés à l'extérieur de Ponyville pour vous entraîner, soulever des poids, courir, voler, etc. Après cela, vous avez dit au revoir aux deux autres qui sont rentrées chez elles tandis que vous aliez à nouveau à la croisée des chemins."
 
 # game/Scripts/dashcloud.rpy:340
 translate French yummymuffin_0adfd453:

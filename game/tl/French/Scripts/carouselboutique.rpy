@@ -545,7 +545,7 @@ translate French raritychoice1_6d42a2d3:
 translate French raritychoice1_67e9ffb1:
 
     # r "Yes. The notebook where I keep track of all my sales and purchases, it really helps when dealing with the equestrian taxes."
-    r "Oui. Le celui dans lequel je garde la trace de toutes mes ventes et de tous mes achats, c'est vraiment utile pour gérer les taxes d'Equestria."
+    r "Oui. Celui dans lequel je garde la trace de toutes mes ventes et de tous mes achats, c'est vraiment utile pour gérer les taxes d'Equestria."
 
 # game/Scripts/carouselboutique.rpy:275
 translate French raritychoice1_26162d57:
@@ -1151,7 +1151,7 @@ translate French strings:
 
     # Scripts\carouselboutique.rpy:279
     old "Offer your help for something else"
-    new "De l'aide pour qutre chose"
+    new "De l'aide pour autre chose"
 
     # Scripts\carouselboutique.rpy:279
     old "Offer your \"help\" for \"something else\""

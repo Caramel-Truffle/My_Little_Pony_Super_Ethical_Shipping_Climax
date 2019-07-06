@@ -934,7 +934,7 @@ translate French spikechoice_96d5638d:
 translate French spikechoice_50446e65:
 
     # "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you sooner. The cover is blue as the moon. Well, once in a blue moon."
-    "Bon.Vous vous placez sur un coussin et ouvrez... Euh... Ah! L'astronomie pour les nulles, le livre que Twilight vous a donné plus tôt. La couverture est bleue comme la lune. Enfin, quand elle est bleue."
+    "Bon. Vous vous placez sur un coussin et ouvrez... Euh... Ah! L'astronomie pour les nulles, le livre que Twilight vous a donné plus tôt. La couverture est bleue comme la lune. Enfin, quand elle est bleue."
 
 # game/Scripts/library.rpy:355
 translate French spikechoice_a3601bc7:
@@ -1282,7 +1282,7 @@ translate French spikechoice_247f6bb8:
 translate French spikechoice_4af25ce6:
 
     # "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, were moonlight engulfed you for a second."
-    "Vous ne n'aviez pas remarqué que le soleil s'était couché et que la lune s'était levée, mais chaque marche de l'escalier conduisait à l'obscurité de la bibliothèque."
+    "Vous n'aviez pas remarqué que le soleil s'était couché et que la lune s'était levée, mais chaque marche de l'escalier conduisait à l'obscurité de la bibliothèque."
     "Vous avez fait attention de ne pas trébucher en montant là où le clair de lune vous a englouti pendant une seconde. "
 
 # game/Scripts/library.rpy:495
@@ -1296,7 +1296,7 @@ translate French spikechoice_4e72f7d0:
 
     # "You gasped as your body started to sparkle and after a few seconds, you levitated two hooves from the ground, without the help of wings or unicorn magic. Your colour scheme changed quickly a few times and all the while, Twilight stepped back slowly until being tail-to-wall."
     "Vous vous exclamez quand votre corps a commencé à scintiller et après quelques secondes, s'est élevé à deux sabots du sol, sans l'aide d'ailes ni de magie de licorne."
-    "Votre couleur a même rapidement changé plusieurs fois alors que Twilight recula jusqu.à être queue au mur. "
+    "Votre couleur a même rapidement changé plusieurs fois alors que Twilight recula jusqu'à être queue au mur. "
 
 # game/Scripts/library.rpy:504
 translate French spikechoice_cdfa2fe4:
