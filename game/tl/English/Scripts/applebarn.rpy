@@ -1120,7 +1120,7 @@ translate English cute_bb_646ac986:
 translate English cute_bb_a4d61408:
 
     # "Yes you do and Braeburn is just there."
-    "Yes you do and Braeburn is just there."
+    "Yes you do, and Braeburn is just there."
 
 # game/Scripts/applebarn.rpy:416
 translate English cute_bb_cd277b80:
@@ -1330,7 +1330,7 @@ translate English brae_reward_9210dfde:
 translate English brae_reward_d8c79f93:
 
     # p "Literally no one call you that."
-    p "Literally no one call you that."
+    p "Literally no one calls you that."
 
 # game/Scripts/applebarn.rpy:525
 translate English brae_reward_e0413497:

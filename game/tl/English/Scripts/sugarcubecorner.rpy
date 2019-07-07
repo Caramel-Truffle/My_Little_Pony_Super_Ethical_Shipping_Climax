@@ -100,7 +100,7 @@ translate English sugarcubecorner_7224db11:
 translate English sugarcubecorner_419cf7ef:
 
     # pp "Normally? According to you or according to the norm an unknown part of the players are expecting me to act?"
-    pp "Normally? According to you or according to the norm an unknown part of the players are expecting me to act?"
+    pp "Normally? According to you or according to the norm an unknown part of the playerbase are expecting me to act?"
 
 # game/Scripts/sugarcubecorner.rpy:48
 translate English sugarcubecorner_90e9cec9:
@@ -130,7 +130,7 @@ translate English sugarcubecorner_0b22d2fc:
 translate English sugarcubecorner_28ef7c5a:
 
     # pp "No, it's not because I mustache you a question, this joke has already been done."
-    pp "No, it's not because I mustache you a question, this joke has already been done."
+    pp "No, it's not because I mustache you a question...this joke has already been done."
 
 # game/Scripts/sugarcubecorner.rpy:53
 translate English sugarcubecorner_91f1bb35:
@@ -664,7 +664,7 @@ translate English assertivepie_6a17aebb:
 translate English assertivepie_834bee92:
 
     # "You are back to the bakery, where sugar scent invade your nose and makes your stomach growl."
-    "You are back to the bakery, where sugar scent invade your nose and makes your stomach growl."
+    "You are back to the bakery, a sweet sugar scent invades your nose and makes your stomach growl."
 
 # game/Scripts/sugarcubecorner.rpy:277
 translate English assertivepie_2875bf6a:
@@ -724,7 +724,7 @@ translate English assertivepie_bf151a10:
 translate English assertivepie_4d7f2c19:
 
     # pp "So, [playername2], what are you up to? Need anything special? Have you something planned for this night?"
-    pp "So, [playername2], what are you up to? Need anything special? Have you something planned for this night?"
+    pp "So, [playername2], what are you up to? Need anything special? Have you something planned for tonight?"
 
 # game/Scripts/sugarcubecorner.rpy:293
 translate English assertivepie_22f189cd:
@@ -796,7 +796,7 @@ translate English assertivepie_73739c39:
 translate English assertivepie_7e20a4a8:
 
     # p "Or if I'm there, you could always either let the baking or the selling to me. Also your mustache fell off."
-    p "Or if I'm there, you could always either let the baking or the selling to me. Also your mustache fell off."
+    p "Or if I'm there, you could always either leave the baking or the selling to me. Also your mustache fell off."
 
 # game/Scripts/sugarcubecorner.rpy:320
 translate English assertivepie_b0484d4a:
@@ -910,7 +910,7 @@ translate English assertivepie_b4b80350:
 translate English assertivepie_8a645f47:
 
     # pp "COME THERE THEN!"
-    pp "COME THERE THEN!"
+    pp "COME HERE THEN!"
 
 # game/Scripts/sugarcubecorner.rpy:382
 translate English assertivepie_5fa7d8f5:

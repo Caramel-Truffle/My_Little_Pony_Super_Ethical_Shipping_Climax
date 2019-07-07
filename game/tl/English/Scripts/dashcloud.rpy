@@ -574,7 +574,7 @@ translate English truederpyabuse_e166e62e:
 translate English truederpyabuse_d5aa4191:
 
     # "And it was kisses and hugs time for the remaining of the day, Dashie joigning you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
-    "And it was kisses and hugs time for the remaining of the day, Dashie joigning you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
+    "And it was kisses and hugs time for the remaining of the day, Dashie joining you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
 
 # game/Scripts/dashcloud.rpy:217
 translate English truederpyabuse_f10a4ec1:
@@ -706,13 +706,13 @@ translate English truederpyabuse_78a79987:
 translate English truederpyabuse_5aaaf352:
 
     # d "I don't know, I simply wanted to eat one, but remembered it was my last one, but decided to eat it anyway, but... I can't find it anymore!"
-    d "I don't know, I simply wanted to eat one, but remembered it was my last one, but decided to eat it anyway, but... I can't find it anymore!"
+    d "I don't know, I only wanted to eat one, but remembered it was my last one, but decided to eat it anyway, but... I can't find it anymore!"
 
 # game/Scripts/dashcloud.rpy:257
 translate English truederpyabuse_b4e6dcb6:
 
     # p "Well, we will buy you some, the Sugarcube Corner isn't far."
-    p "Well, we will buy you some, the Sugarcube Corner isn't far."
+    p "Well, we can buy you some, the Sugarcube Corner isn't far."
 
 # game/Scripts/dashcloud.rpy:258
 translate English truederpyabuse_26404882:
@@ -874,7 +874,7 @@ translate English yummymuffin_c67e549a:
 translate English yummymuffin_c4adac6b:
 
     # "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
-    "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
+    "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to them -who were going back to their homes- and returned to the crossroad."
 
 # game/Scripts/dashcloud.rpy:340
 translate English yummymuffin_0adfd453:
@@ -904,7 +904,7 @@ translate English yummymuffin_afde9838:
 translate English yummymuffin_390a9618:
 
     # p "I was wondering about something. Why does no one here has genitals?"
-    p "I was wondering about something. Why does no one here has genitals?"
+    p "I was wondering about something. Why does no one here have genitals?"
 
 # game/Scripts/dashcloud.rpy:356
 translate English yummymuffin_70dc61b7:
@@ -922,13 +922,13 @@ translate English yummymuffin_ae7b114b:
 translate English yummymuffin_5dd7cf6c:
 
     # rd "Barbier dolls? You're making less and less sense by the minute."
-    rd "Barbier dolls? You're making less and less sense by the minute."
+    rd "Barbie dolls? You're making less and less sense by the minute."
 
 # game/Scripts/dashcloud.rpy:361
 translate English yummymuffin_e0d0f471:
 
     # p "Rainbow Dash. How are fillies and colt made?"
-    p "Rainbow Dash. How are fillies and colt made?"
+    p "Rainbow Dash. How are fillies and colts made?"
 
 # game/Scripts/dashcloud.rpy:363
 translate English yummymuffin_fbc37a88:

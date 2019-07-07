@@ -10,7 +10,7 @@ translate English library_ee002932:
 translate English uselessoption1_9e9f99d1:
 
     # "You wait some minutes, but nothing happens. Why don't you say something?"
-    "You wait some minutes, but nothing happens. Why don't you say something?"
+    "You wait for some time, but nothing happens. Why don't you say something?"
 
 # game/Scripts/library.rpy:20
 translate English uselessoption1_0137749e:
@@ -28,7 +28,7 @@ translate English uselessoption1_5d8ed4b8:
 translate English uselessoption1_d8e12b41:
 
     # ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that so you are not in the correct past!"
-    ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that so you are not in the correct past!"
+    ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that's so you are not in the correct past!"
 
 # game/Scripts/library.rpy:32
 translate English uselessoption1_02f8fbc4:
@@ -382,7 +382,7 @@ translate English bookchoice_d41a62d9:
 translate English bookchoice_75242ef6:
 
     # "You skim through the book a bit while going back to the crossroad and a sentence attracts your attention: \"Don't miss the supermoon this night!\""
-    "You skim through the book a bit while going back to the crossroad and a sentence attracts your attention: \"Don't miss the supermoon this night!\""
+    "You skim through the book a bit while going back to the crossroad and a sentence attracts your attention: \"Don't miss the supermoon tonight!\""
 
 # game/Scripts/library.rpy:155
 translate English bookchoice_bbdb9495:
@@ -514,7 +514,7 @@ translate English bookchoice_fb373058:
 translate English bookchoice_f79ffd17:
 
     # "You skimed through the book a bit while going out, but due to its nature, no description of it will be made."
-    "You skimed through the book a bit while going out, but due to its nature, no description of it will be made."
+    "You skimmed through the book a bit while going out, but due to its nature, no description of it will be made."
 
 # game/Scripts/library.rpy:206
 translate English bookchoice_93346427:
@@ -568,7 +568,7 @@ translate English bookchoice_end_aec4130a:
 translate English bookchoice_end_4464f48b:
 
     # p "...That was ironical. And I'm not the real Twilight."
-    p "...That was ironical. And I'm not the real Twilight."
+    p "...That was irony. And I'm not the real Twilight."
 
 # game/Scripts/library.rpy:228
 translate English bookchoice_end_50873d1b:
@@ -706,7 +706,7 @@ translate English spikechoice_420a7424:
 translate English spikechoice_4399119a:
 
     # "And you quick went out, wondering where you could find a ruby."
-    "And you quick went out, wondering where you could find a ruby."
+    "And you quickly went out, wondering where you could find a ruby."
 
 # game/Scripts/library.rpy:277
 translate English spikechoice_b9af60a1:
@@ -760,7 +760,7 @@ translate English spikechoice_3008e1fb:
 translate English spikechoice_05adb819:
 
     # "And both of you kissed during hours."
-    "And both of you kissed during hours."
+    "And both of you kissed for hours."
 
 # game/Scripts/library.rpy:298
 translate English spikechoice_c26c53f7:
@@ -892,7 +892,7 @@ translate English spikechoice_bea03fe7:
 translate English spikechoice_545528ce:
 
     # "And you quickly went out again. It seems that going back here without a ruby is useless."
-    "And you quickly went out again. It seems that going back here without a ruby is useless."
+    "And you quickly went out again. It seems that going back there without a ruby is useless."
 
 # game/Scripts/library.rpy:341
 translate English spikechoice_8d996349:
@@ -934,7 +934,7 @@ translate English spikechoice_96d5638d:
 translate English spikechoice_50446e65:
 
     # "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you sooner. The cover is blue as the moon. Well, once in a blue moon."
-    "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you sooner. The cover is blue as the moon. Well, once in a blue moon."
+    "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you earlier. The cover is blue as the moon. Well, once in a blue moon."
 
 # game/Scripts/library.rpy:355
 translate English spikechoice_a3601bc7:
@@ -1282,7 +1282,7 @@ translate English spikechoice_247f6bb8:
 translate English spikechoice_4af25ce6:
 
     # "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, were moonlight engulfed you for a second."
-    "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, were moonlight engulfed you for a second."
+    "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going up the stairs, were moonlight engulfed you for a second."
 
 # game/Scripts/library.rpy:495
 translate English spikechoice_3b0e49b6:
@@ -1396,7 +1396,7 @@ translate English spikechoice_694d6d38:
 translate English spikechoice_7130e386:
 
     # "(Yes, for the two sleeping in the back, the gestation time for dogs is around two months.)"
-    "(Yes, for the two sleeping in the back, the gestation time for dogs is around two months.)"
+    "(Yes, for the two sleeping in the back, the gestation period for dogs is around two months.)"
 
 # game/Scripts/library.rpy:558
 translate English spikechoice_d5b87959:

@@ -406,7 +406,7 @@ translate English raritychoice1_94805f1c:
 translate English raritychoice1_0e8b08f8:
 
     # r "Thank you [playername2], it would be harder without your help."
-    r "Thank you [playername2], it would be harder without your help."
+    r "Thank you [playername2], it would be much harder without your help."
 
 # game/Scripts/carouselboutique.rpy:202
 translate English raritychoice1_4f1aec13:
@@ -772,7 +772,7 @@ translate English raritychoice1_fcbcf892:
 translate English raritychoice1_39e01afd:
 
     # "Needless to say, it led you two to a long and intimate moment where Rarity searched her oil and massaged you in return, being quite talented herself."
-    "Needless to say, it led you two to a long and intimate moment where Rarity searched her oil and massaged you in return, being quite talented herself."
+    "Needless to say, it led you two to a long and intimate moment where Rarity searched for her oil and massaged you in return, being quite talented herself."
 
 # game/Scripts/carouselboutique.rpy:378
 translate English raritychoice1_aff0f82a:
@@ -796,7 +796,7 @@ translate English raritychoice1_d678d71e:
 translate English raritychoice1_25a9f71d:
 
     # r "You see, I'm quite busy here and I don't have any herbs to make some tea anymore."
-    r "You see, I'm quite busy here and I don't have any herbs to make some tea anymore."
+    r "You see, I'm quite busy here and I don't have any herbs left to make any tea at the moment"
 
 # game/Scripts/carouselboutique.rpy:385
 translate English raritychoice1_5c91d834:
@@ -826,7 +826,7 @@ translate English raritychoice1_0b21c400:
 translate English raritychoice1_bd3bf468:
 
     # r "I will be right here, waiting for you if you need me or want to give me the tea you got."
-    r "I will be right here, waiting for you if you need me or want to give me the tea you got."
+    r "I will be waiting here if you need me or want to give me the tea you got."
 
 # game/Scripts/carouselboutique.rpy:397
 translate English raritychoice1_ba306a93:
@@ -844,7 +844,7 @@ translate English raritychoice1_27257d14:
 translate English raritychoice1_e39fe46a:
 
     # "And you went back to the crossroad. Where could you get tea, wonderful natural product?"
-    "And you went back to the crossroad. Where could you get tea, wonderful natural product?"
+    "And you went back to the crossroad. Where could you get tea, the wonderful natural product?"
 
 # game/Scripts/carouselboutique.rpy:414
 translate English raritychoice1_da64b237:
@@ -868,7 +868,7 @@ translate English raritychoice1_dea821f8:
 translate English rarity_get_tea_8c9640a5:
 
     # r "Marvelous! I'm going to prepare some then, just wait five minutes. If you have some quick business to do around, don't worry, I can handle it on my own, just be back soon, okay?"
-    r "Marvelous! I'm going to prepare some then, just wait five minutes. If you have some quick business to do around, don't worry, I can handle it on my own, just be back soon, okay?"
+    r "Marvelous! I'm going to prepare some then, just wait a few minutes. If you have some quick business to do around, don't worry, I can handle it on my own, just be back soon, okay?"
 
 # game/Scripts/carouselboutique.rpy:421
 translate English rarity_get_tea_964fad0d:
@@ -886,7 +886,7 @@ translate English rarity_get_tea_ee47385e:
 translate English rarity_get_tea_1078a933:
 
     # p "Not really, but I'm searching!"
-    p "Not really, but I'm searching!"
+    p "Nothing really, but I'm searching!"
 
 # game/Scripts/carouselboutique.rpy:432
 translate English rarity_get_tea_fae9a7c5:

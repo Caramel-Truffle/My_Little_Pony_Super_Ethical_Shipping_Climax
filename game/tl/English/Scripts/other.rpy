@@ -88,7 +88,7 @@ translate English bm_place_choice_bf12372d_1:
 translate English bm_place_choice_592959da:
 
     # sb "You don't have any plan for tonight, do you?"
-    sb "You don't have any plan for tonight, do you?"
+    sb "You don't have any plans for tonight, do you?"
 
 # game/Scripts/other.rpy:68
 translate English bm_place_choice_50810729:
@@ -106,7 +106,7 @@ translate English bm_place_choice_e747cf69:
 translate English bm_place_choice_1a89e756:
 
     # ab "Yah! Ah admit we didn' do well last time..."
-    ab "Yah! Ah admit we didn' do well last time..."
+    ab "Yah! Ah admit we didn' do too well last time..."
 
 # game/Scripts/other.rpy:71
 translate English bm_place_choice_7533a892:

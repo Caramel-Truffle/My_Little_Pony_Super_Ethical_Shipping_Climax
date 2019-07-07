@@ -4,7 +4,7 @@
 translate English fluttercottage_2a0f6ec4:
 
     # "Fluttershy's cottage... There are birds, squirrels, bunnies and other critters walking, running and doing critter stuff there. A nice wind is going through your mane and bringing delicious scents to your nostrils."
-    "Fluttershy's cottage... There are birds, squirrels, bunnies and other critters walking, running and doing critter stuff there. A nice wind is going through your mane and bringing delicious scents to your nostrils."
+    "Fluttershy's cottage... There are birds, squirrels, bunnies and other critters walking, running and doing critter stuff there. A nice wind is blowing through your mane and bringing delicious scents to your nostrils."
 
 # game/Scripts/fluttercottage.rpy:10
 translate English fluttercottage_a1d8d870:
@@ -376,13 +376,13 @@ translate English flutterabuse_988e19f9:
 translate English flutterabuse_fd8cceb6:
 
     # "And she headed for the kitchen. Some muffled noises could be heard, like those of cups being placed on a plate and soon after, silence again. Well, except for all the forest noises. Fluttershy went back in the room."
-    "And she headed for the kitchen. Some muffled noises could be heard, like those of cups being placed on a plate and soon after, silence again. Well, except for all the forest noises. Fluttershy went back in the room."
+    "And she headed for the kitchen. Some muffled noises could be heard, like those of cups being placed on a plate and soon after, silence again. Well, except forest noises. Fluttershy went back in the room."
 
 # game/Scripts/fluttercottage.rpy:141
 translate English flutterabuse_888c2cd0:
 
     # fs "And there it is... Some nice hot tea. New recipe, I hope it will be good, first time trying it..."
-    fs "And there it is... Some nice hot tea. New recipe, I hope it will be good, first time trying it..."
+    fs "And here it is... Some nice hot tea. New recipe, I hope it will be good, first time trying it..."
 
 # game/Scripts/fluttercottage.rpy:142
 translate English flutterabuse_18fef0fa:
@@ -586,13 +586,13 @@ translate English teabird_41c88880:
 translate English teabird_7f38e07d:
 
     # p "Can I go with you? If you give me some seeds, I certainly would love to use them to feed the birds."
-    p "Can I go with you? If you give me some seeds, I certainly would love to use them to feed the birds."
+    p "Can I go with you? If you give me some seeds, I certainly would love to feed the birds."
 
 # game/Scripts/fluttercottage.rpy:235
 translate English teabird_7330ef9f:
 
     # fs "Oh, of course! They are not easily scared of strangers, as long as you are quiet."
-    fs "Oh, of course! They are not easily scared of strangers, as long as you are quiet."
+    fs "Oh, of course! They are not really scared of strangers, as long as you are quiet."
 
 # game/Scripts/fluttercottage.rpy:237
 translate English teabird_a80953cb:
@@ -670,7 +670,7 @@ translate English teabird_4f71f899:
 translate English teabird_de2b28dc:
 
     # "A dozen of birds are coming; blue, red, yellow... All are colorful and visibly hungry, considering the way they eat the seeds Fluttershy is throwing."
-    "A dozen of birds are coming; blue, red, yellow... All are colorful and visibly hungry, considering the way they eat the seeds Fluttershy is throwing."
+    "A dozen birds came fluttering down; blue, red, yellow... All are colorful and visibly hungry, considering the way they eat the seeds Fluttershy is throwing."
 
 # game/Scripts/fluttercottage.rpy:277
 translate English teabird_0cb41067:
@@ -760,7 +760,7 @@ translate English teabird_3e965d7b:
 translate English teabird_14860da0:
 
     # p "No... Sorry. I didn't read anything at all recently."
-    p "No... Sorry. I didn't read anything at all recently."
+    p "No... Sorry. I havn't read anything at all recently."
 
 # game/Scripts/fluttercottage.rpy:301
 translate English teabird_fd86a573:
@@ -922,7 +922,7 @@ translate English smallboink_bddf0ff8:
 translate English smallboink_7c01eaef:
 
     # p "Are you even getting money for this?"
-    p "Are you even getting money for this?"
+    p "Are you even getting paid for this?"
 
 # game/Scripts/fluttercottage.rpy:348
 translate English smallboink_fd38f889:
@@ -934,7 +934,7 @@ translate English smallboink_fd38f889:
 translate English smallboink_b103aee6:
 
     # "You are back to the cottage and remember that Fluttershy is still in the Everfree Forest, waiting for you to come back with a special book."
-    "You are back to the cottage and remember that Fluttershy is still in the Everfree Forest, waiting for you to come back with a special book."
+    "You go back to the cottage and remember that Fluttershy is still in the Everfree Forest, waiting for you to come back with a special book."
 
 # game/Scripts/fluttercottage.rpy:359
 translate English smallboink_c6d07d30:
@@ -1138,7 +1138,7 @@ translate English fluterx_c625ceb2:
 translate English fluterx_f632bff2:
 
     # fs "KA-ME!"
-    fs "KA-ME!"
+    fs "HA-ME!"
 
 # game/Scripts/fluttercottage.rpy:433
 translate English fluterx_15ea0948:
