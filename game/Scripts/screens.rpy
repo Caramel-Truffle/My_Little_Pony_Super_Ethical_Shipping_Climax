@@ -752,7 +752,7 @@ screen preferences():
                 ## added here, to add additional creator-defined preferences.
                 vbox:
                     label _("Language")
-                    textbutton "English" action Language(None)
+                    textbutton "English" action Language("English")
                     textbutton "Engrish" action Language("Engrish")
                     textbutton "Français" action Language("French")
                     textbutton "TABARNAK" action Language("TABARNAK")

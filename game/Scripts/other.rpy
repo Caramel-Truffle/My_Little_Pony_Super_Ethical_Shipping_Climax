@@ -3,9 +3,9 @@
     
     menu:
         "English":
-            $ persistent.lang = "english"
+            $ persistent.lang = "English"
         "French":
-            $ persistent.lang = "french"
+            $ persistent.lang = "French"
 
     $ renpy.utter_restart()
 
