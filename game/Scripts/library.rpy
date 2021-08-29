@@ -41,7 +41,7 @@
                     ts "I thought you would improve your lying skills, Chrysalis. It's time for you to really be banned this time!"
                     p "Wait, what are you even talking abou-"
                     scene end77
-                    $persistent.unlock_77
+                    $persistent.unlock_77 = True
                     with fade
                     "And she kicked your buttock. What did you expect?"
                     p "...\n
@@ -81,7 +81,7 @@
                     ts "When I have a good teacher? Always. Now give me a lesson..."
                     stop music fadeout 1.0
                     scene end78
-                    $persistent.unlock_78
+                    $persistent.unlock_78 = True
                     with fade
                     "And then you kissed and stuff."
                     p "Wait, you are not going to show that?"
@@ -291,7 +291,7 @@
                     p "Anyways. Come here..."
                     stop music fadeout 1.0
                     scene end76
-                    $persistent.unlock_76
+                    $persistent.unlock_76 = True
                     with fade
                     
                     "And both of you kissed during hours."
@@ -561,27 +561,27 @@
         
         if(playername=="Applejack"):
             scene end79
-            $persistent.unlock_79  
+            $persistent.unlock_79 = True  
             with fade          
         if(playername=="Fluttershy"):
             scene end80
-            $persistent.unlock_80
+            $persistent.unlock_80 = True
             with fade
         if(playername=="Pinkie Pie"):
             scene end81
-            $persistent.unlock_81
+            $persistent.unlock_81 = True
             with fade
         if(playername=="Rainbow Dash"):
             scene end82
-            $persistent.unlock_82
+            $persistent.unlock_82 = True
             with fade
         if(playername=="Rarity"):
             scene end83
-            $persistent.unlock_83
+            $persistent.unlock_83 = True
             with fade
         if(playername=="Twilight Sparkle"):
             scene end84
-            $persistent.unlock_84
+            $persistent.unlock_84 = True
             with fade        
         play sound "SFX/trueEnding.mp3"
         "--Twilight true ending--"

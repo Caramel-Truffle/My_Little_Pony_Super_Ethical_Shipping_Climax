@@ -72,7 +72,7 @@
                             p "That's it... Now, come here, for a little wing-hug. Just that, nothing more..."
                             stop music fadeout 1.0
                             scene end20
-                            $persistent.unlock_20
+                            $persistent.unlock_20 = True
                             with fade
                             "And both of you hugged. And kissed. And you are really lazy to end the game so soon, this ending was so predictable."
                             p "I still got some future pic, right?"
@@ -174,27 +174,27 @@
                 stop music fadeout 1.0
                 if(playername=="Applejack"):
                     scene end21
-                    $persistent.unlock_21  
+                    $persistent.unlock_21 = True  
                     with fade          
                 if(playername=="Fluttershy"):
                     scene end22
-                    $persistent.unlock_22
+                    $persistent.unlock_22 = True
                     with fade
                 if(playername=="Pinkie Pie"):
                     scene end23
-                    $persistent.unlock_23
+                    $persistent.unlock_23 = True
                     with fade
                 if(playername=="Rainbow Dash"):
                     scene end24
-                    $persistent.unlock_24
+                    $persistent.unlock_24 = True
                     with fade
                 if(playername=="Rarity"):
                     scene end25
-                    $persistent.unlock_25
+                    $persistent.unlock_25 = True
                     with fade
                 if(playername=="Twilight Sparkle"):
                     scene end26
-                    $persistent.unlock_26
+                    $persistent.unlock_26 = True
                     with fade
                 "And you ended the day into each other arms, happy together. Nothing sexual happened, the end."
                 play sound "SFX/fail.mp3"
@@ -324,7 +324,7 @@
                 "Just do it already":
                     stop music fadeout 1.0
                     scene end27
-                    $persistent.unlock_27
+                    $persistent.unlock_27 = True
                     with fade
                     "And then you approached her and went all chibi-kiss-kiss-in-a-forest. Both of you liked that and even the birds decided to leave you two alone."
                     p "Well... That escalated quickly."
@@ -452,27 +452,27 @@
         
         if(playername=="Applejack"):
             scene end28
-            $persistent.unlock_28  
+            $persistent.unlock_28 = True  
             with fade          
         if(playername=="Fluttershy"):
             scene end29
-            $persistent.unlock_29
+            $persistent.unlock_29 = True
             with fade
         if(playername=="Pinkie Pie"):
             scene end30
-            $persistent.unlock_30
+            $persistent.unlock_30 = True
             with fade
         if(playername=="Rainbow Dash"):
             scene end31
-            $persistent.unlock_31
+            $persistent.unlock_31 = True
             with fade
         if(playername=="Rarity"):
             scene end32
-            $persistent.unlock_32
+            $persistent.unlock_32 = True
             with fade
         if(playername=="Twilight Sparkle"):
             scene end33
-            $persistent.unlock_33
+            $persistent.unlock_33 = True
             with fade        
         play sound "SFX/trueEnding.mp3"
         "--Fluttershy true ending--"

@@ -86,7 +86,7 @@
                             p "Just... Be gentle, please."
                             stop music fadeout 1.0
                             scene end53
-                            $persistent.unlock_53
+                            $persistent.unlock_53 = True
                             with fade
                             "And then both of you did naughty things, the bed being too close to ignore it."
                             p "Your lack of pictures on that matter disappoint me."
@@ -210,7 +210,7 @@
                             
                             stop music fadeout 1.0
                             scene end19
-                            $persistent.unlock_19
+                            $persistent.unlock_19 = True
                             with fade
                             
                             "And it was kisses and hugs time for the remaining of the day, Dashie joigning you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
@@ -235,7 +235,7 @@
                     stop music
                     play sound "SFX/vinylscratch.mp3"
                     scene end54
-                    $persistent.unlock_54
+                    $persistent.unlock_54 = True
                     with fade
                     "And she kicked you so hard... You just lost the game."
                     p "This isn't funny anymore either."
@@ -377,19 +377,19 @@
         
         if(playername=="Fluttershy"):
             scene end55
-            $persistent.unlock_55
+            $persistent.unlock_55 = True
             with fade
         if(playername=="Rainbow Dash"):
             scene end56
-            $persistent.unlock_56
+            $persistent.unlock_56 = True
             with fade
         if(playername=="Rarity"):
             scene end57
-            $persistent.unlock_57
+            $persistent.unlock_57 = True
             with fade
         if(playername=="Twilight Sparkle"):
             scene end15
-            $persistent.unlock_15
+            $persistent.unlock_15 = True
             with fade
         play sound "SFX/trueEnding.mp3"
         "--Rainbow Dash true ending--"

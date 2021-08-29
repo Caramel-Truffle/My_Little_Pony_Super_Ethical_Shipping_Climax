@@ -91,27 +91,27 @@
 
                 if(playername=="Applejack"):
                     scene end58
-                    $persistent.unlock_58  
+                    $persistent.unlock_58 = True  
                     with fade          
                 if(playername=="Fluttershy"):
                     scene end59
-                    $persistent.unlock_59
+                    $persistent.unlock_59 = True
                     with fade
                 if(playername=="Pinkie Pie"):
                     scene end60
-                    $persistent.unlock_60
+                    $persistent.unlock_60 = True
                     with fade
                 if(playername=="Rainbow Dash"):
                     scene end61
-                    $persistent.unlock_61
+                    $persistent.unlock_61 = True
                     with fade
                 if(playername=="Rarity"):
                     scene end62
-                    $persistent.unlock_62
+                    $persistent.unlock_62 = True
                     with fade
                 if(playername=="Twilight Sparkle"):
                     scene end63
-                    $persistent.unlock_63
+                    $persistent.unlock_63 = True
                     with fade
                 
                 play sound "SFX/thunder.mp3"
@@ -350,27 +350,27 @@
 
                 if(playername=="Applejack"):
                     scene end64
-                    $persistent.unlock_64  
+                    $persistent.unlock_64 = True  
                     with fade          
                 if(playername=="Fluttershy"):
                     scene end65
-                    $persistent.unlock_65
+                    $persistent.unlock_65 = True
                     with fade
                 if(playername=="Pinkie Pie"):
                     scene end66
-                    $persistent.unlock_66
+                    $persistent.unlock_66 = True
                     with fade
                 if(playername=="Rainbow Dash"):
                     scene end67
-                    $persistent.unlock_67
+                    $persistent.unlock_67 = True
                     with fade
                 if(playername=="Rarity"):
                     scene end68
-                    $persistent.unlock_68
+                    $persistent.unlock_68 = True
                     with fade
                 if(playername=="Twilight Sparkle"):
                     scene end69
-                    $persistent.unlock_69
+                    $persistent.unlock_69 = True
                     with fade                
                 
                 "And you massaged her hooves with all your might, before helping her with her legs and then every body part where she was really tense and needed to relax."
@@ -522,27 +522,27 @@
 
         if(playername=="Applejack"):
             scene end70
-            $persistent.unlock_70  
+            $persistent.unlock_70 = True  
             with fade          
         if(playername=="Fluttershy"):
             scene end71
-            $persistent.unlock_71
+            $persistent.unlock_71 = True
             with fade
         if(playername=="Pinkie Pie"):
             scene end72
-            $persistent.unlock_72
+            $persistent.unlock_72 = True
             with fade
         if(playername=="Rainbow Dash"):
             scene end73
-            $persistent.unlock_73
+            $persistent.unlock_73 = True
             with fade
         if(playername=="Rarity"):
             scene end74
-            $persistent.unlock_74
+            $persistent.unlock_74 = True
             with fade
         if(playername=="Twilight Sparkle"):
             scene end75
-            $persistent.unlock_75
+            $persistent.unlock_75 = True
             with fade
         play sound "SFX/trueEnding.mp3"
         "--Rarity true ending--"

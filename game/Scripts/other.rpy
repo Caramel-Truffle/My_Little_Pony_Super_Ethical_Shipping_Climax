@@ -99,7 +99,7 @@ label eegg:
                 "Okay, you deserved it. this is your cupboard ending."
                 stop music fadeout 1.0
                 scene end85
-                $persistent.unlock_85
+                $persistent.unlock_85 = True
                 "Seen from up close. Congrats!"
                 play sound "SFX/fail.mp3"
                 "--Cupboard Ending--"
@@ -131,7 +131,7 @@ label eegg:
             b "And I thought you would never say it, ol' big chunk of love. Come here!"
             
             scene end06
-            $persistent.unlock_06
+            $persistent.unlock_06 = True
             with fade
             stop music fadeout 1.0
             show CMC awe
@@ -170,7 +170,7 @@ label eegg:
             nr "Let's go then!"
             
             scene end40
-            $persistent.unlock_40
+            $persistent.unlock_40 = True
             with fade
             
             "And after putting Braeburn in his bed again, the nurse gave you a kiss on the cheek. You won't be able to see that in a future version... But everything went better than expected."
@@ -181,9 +181,13 @@ label eegg:
             jump credits
             
 label credits:
-    
-    scene black
-    with fade
+    if persistent.unlock_01 and persistent.unlock_02 and persistent.unlock_03 and persistent.unlock_04 and persistent.unlock_05 and persistent.unlock_06 and persistent.unlock_07 and persistent.unlock_08 and persistent.unlock_09 and persistent.unlock_10 and persistent.unlock_11 and persistent.unlock_12 and persistent.unlock_13 and persistent.unlock_14 and persistent.unlock_15 and persistent.unlock_16 and persistent.unlock_17 and persistent.unlock_18 and persistent.unlock_19 and persistent.unlock_20 and persistent.unlock_21 and persistent.unlock_22 and persistent.unlock_23 and persistent.unlock_24 and persistent.unlock_25 and persistent.unlock_26 and persistent.unlock_27 and persistent.unlock_28 and persistent.unlock_29 and persistent.unlock_30 and persistent.unlock_31 and persistent.unlock_32 and persistent.unlock_33 and persistent.unlock_34 and persistent.unlock_35 and persistent.unlock_36 and persistent.unlock_37 and persistent.unlock_38 and persistent.unlock_39 and persistent.unlock_40 and persistent.unlock_41 and persistent.unlock_42 and persistent.unlock_43 and persistent.unlock_44 and persistent.unlock_45 and persistent.unlock_46 and persistent.unlock_47 and persistent.unlock_48 and persistent.unlock_49 and persistent.unlock_50 and persistent.unlock_51 and persistent.unlock_52 and persistent.unlock_53 and persistent.unlock_54 and persistent.unlock_55 and persistent.unlock_56 and persistent.unlock_57 and persistent.unlock_58 and persistent.unlock_59 and persistent.unlock_60 and persistent.unlock_61 and persistent.unlock_62 and persistent.unlock_63 and persistent.unlock_64 and persistent.unlock_65 and persistent.unlock_66 and persistent.unlock_67 and persistent.unlock_68 and persistent.unlock_69 and persistent.unlock_70 and persistent.unlock_71 and persistent.unlock_72 and persistent.unlock_73 and persistent.unlock_74 and persistent.unlock_75 and persistent.unlock_76 and persistent.unlock_77 and persistent.unlock_78 and persistent.unlock_79 and persistent.unlock_80 and persistent.unlock_81 and persistent.unlock_82 and persistent.unlock_83 and persistent.unlock_84 and persistent.unlock_85 and persistent.unlock_86:
+        scene end87
+        with fade
+        $persistent.unlock_87 = True
+    else:
+        scene black
+        with fade
     pp "You reached the end!"
     aj "Good for you!"
     r "But there is more to see."

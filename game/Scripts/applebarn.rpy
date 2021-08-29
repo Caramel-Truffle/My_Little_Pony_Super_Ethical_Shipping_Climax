@@ -52,7 +52,7 @@
                     aj "..."
                     stop music fadeout 1.0
                     scene end01
-                    $persistent.unlock_01
+                    $persistent.unlock_01 = True
                     with fade
                     "You touched her to the core, bravo! Unfortunately, you had nothing else than bittersweet hugs this day. Applejack wouldn't let you go after that."
                     p "This seems a bit odd for a parody."
@@ -147,7 +147,7 @@
                             b "That's direct, sugarcube. Do you ask for... Or... Buck it. Let's go behind the barn, we should be alone and all."
                             stop music fadeout 1.0
                             scene end07
-                            $persistent.unlock_07
+                            $persistent.unlock_07 = True
                             with fade
                             "And both of you went all \"kissu-kissu my cousin\". Except you two weren't really cousins."
                             play sound "SFX/fail.mp3"
@@ -341,27 +341,27 @@
                         
                 if(playername=="Applejack"):
                     scene end08
-                    $persistent.unlock_08  
+                    $persistent.unlock_08 = True  
                     with fade          
                 if(playername=="Fluttershy"):
                     scene end09
-                    $persistent.unlock_09
+                    $persistent.unlock_09 = True
                     with fade
                 if(playername=="Pinkie Pie"):
                     scene end10
-                    $persistent.unlock_10
+                    $persistent.unlock_10 = True
                     with fade
                 if(playername=="Rainbow Dash"):
                     scene end11
-                    $persistent.unlock_11
+                    $persistent.unlock_11 = True
                     with fade
                 if(playername=="Rarity"):
                     scene end13
-                    $persistent.unlock_13
+                    $persistent.unlock_13 = True
                     with fade
                 if(playername=="Twilight Sparkle"):
                     scene end12
-                    $persistent.unlock_12
+                    $persistent.unlock_12 = True
                     with fade
                 
                 
@@ -434,19 +434,19 @@
                           
                     if(playername=="Fluttershy"):
                         scene end14
-                        $persistent.unlock_14
+                        $persistent.unlock_14 = True
                         with fade
                     if(playername=="Rainbow Dash"):
                         scene end16
-                        $persistent.unlock_16
+                        $persistent.unlock_16 = True
                         with fade
                     if(playername=="Rarity"):
                         scene end17
-                        $persistent.unlock_17
+                        $persistent.unlock_17 = True
                         with fade
                     if(playername=="Twilight Sparkle"):
                         scene end18
-                        $persistent.unlock_18
+                        $persistent.unlock_18 = True
                         with fade
                     
                     "And you... Drank... A lot? Until accepting kisses from random ponies did not bother you anymore? What the..."
@@ -531,19 +531,19 @@
         
         if(playername=="Fluttershy"):
             scene end02
-            $persistent.unlock_02
+            $persistent.unlock_02 = True
             with fade
         if(playername=="Rainbow Dash"):
             scene end03
-            $persistent.unlock_03
+            $persistent.unlock_03 = True
             with fade
         if(playername=="Rarity"):
             scene end04
-            $persistent.unlock_04
+            $persistent.unlock_04 = True
             with fade
         if(playername=="Twilight Sparkle"):
             scene end05
-            $persistent.unlock_05
+            $persistent.unlock_05 = True
             with fade
         
         play sound "SFX/trueEnding.mp3"

@@ -161,7 +161,7 @@ image end01 = "Images/ApplejackEnding1.png"
 image end02 = "Images/ApplejackTrueEndingFluttershy.png"
 image end03 = "Images/ApplejackTrueEndingRainbow.png"
 image end04 = "Images/ApplejackTrueEndingRarity.png"
-image end05 = "Images/ApplejackTrueEndingTwilight"
+image end05 = "Images/ApplejackTrueEndingTwilight.png"
 
 
 image end06 = "Images/BraeburnEnding0.png"
@@ -206,7 +206,7 @@ image end29 = "Images/FluttershyTrueEndingFluttershy.png"
 image end30 = "Images/FluttershyTrueEndingPinkie.png"
 image end31 = "Images/FluttershyTrueEndingRainbowDash.png"
 image end32 = "Images/FluttershyTrueEndingRarity.png"
-image end33 = "Images/FluttershyTrueEndingTwilight"
+image end33 = "Images/FluttershyTrueEndingTwilight.png"
 
 
 image end34 = "Images/MustacheEndingApplejack.png"
