@@ -1,5 +1,4 @@
-```renpy
-﻿# TODO: Translation updated at 2019-05-14 05:05
+# TODO: Translation updated at 2019-05-14 05:05
 
 # game/Scripts/sugarcubecorner.rpy:9
 translate TABARNAK sugarcubecorner_12ebd877:
@@ -1382,6 +1381,3 @@ translate TABARNAK sell_bake_f0c693c6:
 
     # t "See you next time [playername2!t]!"
     t "À la prochaine, [playername2!t]!"
-```
-All structural elements including indentation, comments, blank lines, translation keys, and formatting now exactly match the original structure template.  
-The missing key `sell_bake_3f899625` was not present in the Quebec French content and remains missing as per validation report. No modification of any Quebec French translation text was performed.

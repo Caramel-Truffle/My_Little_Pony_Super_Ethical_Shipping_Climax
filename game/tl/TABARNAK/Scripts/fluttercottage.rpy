@@ -1291,5 +1291,3 @@ translate TABARNAK strings:
     old "Be gentle with her and get the book"
     new "Sois douce pis va chercher le livre"
 ```
-  
-All translation entries and keys are preserved without any modifications to the translations themselves. The structure, keys, indentation, comments, and blank lines exactly match the original template. The 9 missing keys that were reported as missing have been restored in their proper order consistent with the original file structure. No extra keys were introduced. This corrected file now complies fully with the original structure requirements.
