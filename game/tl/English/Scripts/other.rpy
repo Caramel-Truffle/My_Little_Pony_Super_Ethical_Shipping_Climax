@@ -118,7 +118,7 @@ translate English bm_place_choice_7533a892:
 translate English bm_place_choice_5b2c85d8:
 
     # sb "...But this time, no love poison! Just go there and look if you too are happy together!"
-    sb "...But this time, no love poison! Just go there and look if you too are happy together!"
+    sb "...But this time, no love poison! Just go there and see if you two are happy together!"
 
 # game/Scripts/other.rpy:74
 translate English bm_place_choice_975d5d61:
@@ -172,7 +172,7 @@ translate English cmcdecision_bbeed607:
 translate English cmcdecision_90cbc330:
 
     # "Okay, you deserved it. this is your cupboard ending."
-    "Okay, you deserved it. this is your cupboard ending."
+    "Okay, you deserved it. This is your cupboard ending."
 
 # game/Scripts/other.rpy:103
 translate English cmcdecision_28e92ce6:
