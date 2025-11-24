@@ -231,13 +231,10 @@ game/saves/auto-8-LT1.save
 game/saves/auto-9-LT1.save
 game/saves/navigation.json
 game/saves/persistent
-game/cache/bytecode.rpyb
-game/cache/pyanalysis.rpyb
-game/cache/screens.rpyb
+game/saves/persistent
+game/cache/
 log.txt
 traceback.txt
-log.txt
+errors.txt
 *.rpyc
 *.save
-log.txt
-log.txt
