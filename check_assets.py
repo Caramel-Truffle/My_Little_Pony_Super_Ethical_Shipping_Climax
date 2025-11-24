@@ -18,22 +18,26 @@ def find_referenced_assets(game_dir):
     
     for rpy_file in Path(scripts_dir).glob('*.rpy'):
         with open(rpy_file, 'r', encoding='utf-8') as f:
-            content = f.read()
-            
-            # Find image references
-            # Pattern: image name = "path/to/file.png"
-            image_matches = re.findall(r'image\s+[^=]+=\s*"([^"]+)"', content)
-            referenced_images.update(image_matches)
-            
-            # Find music references
-            # Pattern: play music "path/to/file.mp3"
-            music_matches = re.findall(r'play music\s+"([^"]+)"', content)
-            referenced_music.update(music_matches)
-            
-            # Find sound references
-            # Pattern: play sound "path/to/file.wav"
-            sound_matches = re.findall(r'play sound\s+"([^"]+)"', content)
-            referenced_sfx.update(sound_matches)
+            for line in f:
+                # Skip commented-out lines
+                stripped = line.strip()
+                if stripped.startswith('#'):
+                    continue
+                
+                # Find image references
+                # Pattern: image name = "path/to/file.png"
+                image_matches = re.findall(r'image\s+[^=]+=\s*"([^"]+)"', line)
+                referenced_images.update(image_matches)
+                
+                # Find music references
+                # Pattern: play music "path/to/file.mp3"
+                music_matches = re.findall(r'play music\s+"([^"]+)"', line)
+                referenced_music.update(music_matches)
+                
+                # Find sound references
+                # Pattern: play sound "path/to/file.wav"
+                sound_matches = re.findall(r'play sound\s+"([^"]+)"', line)
+                referenced_sfx.update(sound_matches)
     
     return referenced_images, referenced_music, referenced_sfx
 
