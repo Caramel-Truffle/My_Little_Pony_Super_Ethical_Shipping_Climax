@@ -188,7 +188,7 @@ translate Engrish crittercare_58a4e565:
 translate Engrish crittercare_ae4835e4:
 
     # "She didn't like that!"
-    ""female one didn't similar those there!""
+    ""female one did negation similar those there!""
 
 # game/Scripts/fluttercottage.rpy:59
 translate Engrish crittercare_ebedbd24:
@@ -206,13 +206,13 @@ translate Engrish crittercare_cbc2703c:
 translate Engrish flutterabuse_5fae082b:
 
     # p "Sorry Fluttershy, I didn't mean to scare you! Honest! Sorry if you didn't like it."
-    p "Sorry Fluttershy, Me didn't signify for scare yuo! Honest! Sorry when yuo didn't enjoy dat."
+    p "Sorry Fluttershy, Me did negation signify for scare yuo! Honest! Sorry when yuo did negation enjoy dat."
 
 # game/Scripts/fluttercottage.rpy:66
 translate Engrish flutterabuse_4e554b53:
 
     # fs "N... No, that's okay... Anyway, would you like to come in? I've got my teapot on the stove, we could have some tea together."
-    fs "N... Negative, that's okay... Anyway, might yuo enjoy toward arrive within? I've got mine teapot upon dat stove, us-group able-past possess certain tea jointly."
+    fs "N... Negative, that's okay... Anyway, might yuo enjoy toward arrive within? self-entity have got mine teapot upon dat stove, us-group able-past possess certain tea jointly."
 
 # game/Scripts/fluttercottage.rpy:69
 translate Engrish flutterabuse_7cb9e172:
@@ -254,7 +254,7 @@ translate Engrish flutterabuse_320107cb:
 translate Engrish flutterabuse_c5cd90ef:
 
     # "--Fluttershy ending 1--"
-    ""--Fluttershy ending 1--" absolutely surely yep"
+    ""--Fluttershy Conclusion Primary--" absolutely surely yep"
 
 # game/Scripts/fluttercottage.rpy:87
 translate Engrish flutterabuse_f780d289:
@@ -308,7 +308,7 @@ translate Engrish flutterabuse_c9d2cb6c:
 translate Engrish flutterabuse_ede84808:
 
     # fs "Do I like them? I LOVE them! All the critters, no matter how they're small, all the squirrels, the little birds, the cute little bunnies..."
-    fs "Do self-entity like objects-them? self-entity LOVE objects-them! totality specific-item critters, negative matter method-query they're small, totality specific-item squirrels, specific-item amount-small birds, specific-item cute amount-small bunnies..."
+    fs "Do self-entity like objects-them? self-entity LOVE objects-them! totality specific-item critters, negative matter method-query plural-entity are small, totality specific-item squirrels, specific-item amount-small birds, specific-item cute amount-small bunnies..."
 
 # game/Scripts/fluttercottage.rpy:100
 translate Engrish flutterabuse_64f11e70:
@@ -344,13 +344,13 @@ translate Engrish flutterabuse_c59eabd5:
 translate Engrish flutterabuse_06ccd83c:
 
     # p "Sorry if you didn't like it."
-    p "Sorry supposing yuo didn't enjoy dat-thing."
+    p "Sorry supposing yuo did negation enjoy dat-thing."
 
 # game/Scripts/fluttercottage.rpy:109
 translate Engrish flutterabuse_4e554b53_1:
 
     # fs "N... No, that's okay... Anyway, would you like to come in? I've got my teapot on the stove, we could have some tea together."
-    fs "N... Negative, that's okay... Anyway, might yuo enjoy toward arrive within? I've got mine teapot upon dat stove, us-group able-past possess certain tea jointly."
+    fs "N... Negative, that's okay... Anyway, might yuo enjoy toward arrive within? self-entity have got mine teapot upon dat stove, us-group able-past possess certain tea jointly."
 
 # game/Scripts/fluttercottage.rpy:110
 translate Engrish flutterabuse_f2f41b12:
@@ -392,13 +392,13 @@ translate Engrish flutterabuse_31552d8a:
 translate Engrish flutterabuse_a0f22e06:
 
     # fs "Anyway... Please sit down, I'm going to the kitchen and will be back soon."
-    fs "Anyway... Please rest downwards, I'm going toward dat kitchen also shall existing returning shortly."
+    fs "Anyway... Please rest downwards, self-entity am going toward dat kitchen also shall existing returning shortly."
 
 # game/Scripts/fluttercottage.rpy:129
 translate Engrish flutterabuse_7936a561:
 
     # p "Okey-dokey-lokey!"
-    p "OKEY-DOKEY-LOKEY! very much"
+    p "AFFIRMATIVE-AFFIRMATIVE-AFFIRMATIVE-LOKEY! very much"
 
 # game/Scripts/fluttercottage.rpy:131
 translate Engrish flutterabuse_988e19f9:
@@ -446,7 +446,7 @@ translate Engrish flutterabuse_5f107ff6:
 translate Engrish flutterabuse_3451f991:
 
     # fs "Oh... Some herbs from the Everfree Forest, Zecora helped me choose some and... Oh! Right, she said that \"For a good taste, this plant you shouldn't miss, but drink too much and you will search another bliss.\" I don't know what it was supposed to mean though..."
-    fs "Oh... Certain herbs originating dat Everfree Forest, Zecora helped myself choose certain also... Oh! Correct, her-female said dat-there \"For single excellent taste, dis-here plant yuo shouldn't miss, yet drink excessively plenty also yuo shall search another bliss.\" I don't understand what dat-thing been supposed toward signify though..."
+    fs "Oh... Certain herbs originating dat Everfree Forest, Zecora helped myself choose certain also... Oh! Correct, her-female said dat-there \"For single excellent taste, dis-here plant yuo shouldn't miss, yet drink excessively plenty also yuo shall search another bliss.\" I do negation understand what dat-thing been supposed toward signify though..."
 
 # game/Scripts/fluttercottage.rpy:149
 translate Engrish flutterabuse_7cc84655:
@@ -494,7 +494,7 @@ translate Engrish aphrodishy_1a6f11d0:
 translate Engrish aphrodishy_27959fd8:
 
     # p "I'm afraid that it's a bit of both. It's hot here and you are too."
-    p "I'm afraid dat it's one bit from both. It's hot dis-place plus yuo be excessive."
+    p "self-entity am afraid dat it's one bit from both. It's hot dis-place plus yuo be excessive."
 
 # game/Scripts/fluttercottage.rpy:169
 translate Engrish aphrodishy_a546598b:
@@ -530,7 +530,7 @@ translate Engrish aphrodishy_5c2a71d4:
 translate Engrish aphrodishy_e1b96b6a:
 
     # "--Fluttershy ending 2--"
-    ""--Fluttershy ending 2--" absolutely absolutely much"
+    ""--Fluttershy Conclusion Secondary--" absolutely absolutely much"
 
 # game/Scripts/fluttercottage.rpy:203
 translate Engrish aphrodishy_4376dd02:
@@ -566,7 +566,7 @@ translate Engrish aphrodishy_9c84e808:
 translate Engrish aphrodishy_4b10e6c7:
 
     # "Special tea? Bird seeds? You know what you should get, don't you?"
-    ""Special tea? Bird seeds? yours knowledge what yours must obtain, don't yours?""
+    ""Special tea? Bird seeds? yours knowledge what yours must obtain, do negation yours?""
 
 # game/Scripts/fluttercottage.rpy:216
 translate Engrish teabird_433c211f:
@@ -584,7 +584,7 @@ translate Engrish teabird_4461369c:
 translate Engrish teabird_6fcd9f60:
 
     # fs "Of course [playername2!t], but don't abuse it..."
-    fs "from course [playername2!t], however don't abuse dat... totally definitely"
+    fs "from course [playername2!t], however do negation abuse dat... totally definitely"
 
 # game/Scripts/fluttercottage.rpy:221
 translate Engrish teabird_03e8570c:
@@ -596,7 +596,7 @@ translate Engrish teabird_03e8570c:
 translate Engrish teabird_3199b5c0:
 
     # "You didn't say that you wouldn't let somepony else drink more of it..."
-    ""You didn't state dat-there yuo wouldn't allow somepony else drink additional belonging dat-thing...""
+    ""You did negation state dat-there yuo wouldn't allow somepony else drink additional belonging dat-thing...""
 
 # game/Scripts/fluttercottage.rpy:227
 translate Engrish teabird_7ec93946:
@@ -692,7 +692,7 @@ translate Engrish teabird_e05e1562:
 translate Engrish teabird_d05df268:
 
     # "The two of you went to the edge of the Forest. If Fluttershy didn't guide you there but went alone, you wouldn't have been able to find her."
-    ""The two from yuo went for edge from Forest. when Fluttershy didn't guide yuo dat-place however went solo, yuo wouldn't got be able for find hers.""
+    ""The two from yuo went for edge from Forest. when Fluttershy did negation guide yuo dat-place however went solo, yuo wouldn't got be able for find hers.""
 
 # game/Scripts/fluttercottage.rpy:275
 translate Engrish teabird_4f71f899:
@@ -794,7 +794,7 @@ translate Engrish teabird_3e965d7b:
 translate Engrish teabird_14860da0:
 
     # p "No... Sorry. I didn't read anything at all recently."
-    p "nope... Sorry. me didn't read anything near all recently. definitely much absolutely surely"
+    p "nope... Sorry. me did negation read anything near all recently. definitely much absolutely surely"
 
 # game/Scripts/fluttercottage.rpy:301
 translate Engrish teabird_51b93075:
@@ -932,7 +932,7 @@ translate Engrish fsquickend_5640491f:
 translate Engrish smallboink_c33e2e58:
 
     # p "Okay Fluttershy, don't worry, I'm going to get a book like that and then we'll see what happens."
-    p "Okay Fluttershy, don't worry, me'm going for obtain book enjoy dat plus then us'll observe what happens. absolutely much"
+    p "Okay Fluttershy, do negation worry, me'm going for obtain book enjoy dat plus then us'll observe what happens. absolutely much"
 
 # game/Scripts/fluttercottage.rpy:341
 translate Engrish smallboink_b5ee5f71:
@@ -1010,7 +1010,7 @@ translate Engrish smallboink_74cd4445:
 translate Engrish smallboink_1d47f386:
 
     # fs "You are right.... I don't want to be mean or anything, but.... You are not making any sense right now."
-    fs "You existence-plural right.... self-entity don't want destination existence-infinitive mean alternative anything, however.... entity-yours existence-plural negation making arbitrary sense right temporal-present."
+    fs "You existence-plural right.... self-entity do negation want destination existence-infinitive mean alternative anything, however.... entity-yours existence-plural negation making arbitrary sense right temporal-present."
 
 # game/Scripts/fluttercottage.rpy:377
 translate Engrish smallboink_66cc50c6:

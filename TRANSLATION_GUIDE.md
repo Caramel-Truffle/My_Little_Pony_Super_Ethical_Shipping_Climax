@@ -68,10 +68,80 @@ To ensure coherence across the project, each supported language adheres to speci
 
 ### Engrish (`game/tl/Engrish/`)
 *   **Description**: A broken, literal, and grammatically incorrect version of English.
-*   **Goal**: To create a humorous, "badly translated" feel.
+*   **Goal**: To create a humorous, "badly translated" feel while maintaining readability.
 *   **Guidelines**:
     *   **Differentiation**: The translation must be at least **50% different** (Levenshtein distance) from the original English text.
     *   **Style**: Use literal translations, wrong verb tenses, misused idioms, and broken grammar.
+    
+#### Engrish Style Guide (Based on `script.rpy`)
+
+**Core Principles:**
+1. **Readability First**: Text should be broken but still understandable
+2. **Consistent Voice**: Maintain the same style throughout each file
+3. **Creative Vocabulary**: Use literal translations for common words
+4. **Technical Formality**: Mix formal/technical vocabulary with broken grammar for humor
+
+**DO:**
+*   ✓ Use technical vocabulary incorrectly: "Nomenclature", "Comprehension", "Affirmative/Negative"
+*   ✓ Create literal translations: "blood group" (family), "red fruit" (apple), "foot-glove" (shoe)
+*   ✓ Simplify grammar: Remove articles (a/an/the), use wrong tenses
+*   ✓ Use formal constructions: "entity-yours" (you), "self-entity" (I/me), "possession-yours" (your)
+*   ✓ Compress sentences: "Walk finish, now at place"
+*   ✓ Misuse idioms: "Long time blind" (long time no see)
+
+**DON'T:**
+*   ✗ Use intentional typos: No "yuo", "dat", "dis", "dose"
+*   ✗ Add excessive filler words: Avoid spam of "indeed", "certainly", "absolutely", "yep"
+*   ✗ Make text incomprehensible: Players should understand the meaning
+*   ✗ Mix multiple broken English styles in one file
+*   ✗ Use dialect markers inconsistently
+
+**Example Transformations:**
+
+Original: `"Hello! Long time no see, how are you?"`
+Good Engrish: `"Greeting! Long time blind, condition query?"`
+Bad Engrish: `"Helo yuo! Long time no seeing, how be yuo? indeed certainly yep"`
+
+Original: `"I'm looking for a book about astronomy."`
+Good Engrish: `"Book search initiation. Astronomy literature."`
+Bad Engrish: `"I be looking for book about star stuff yuo know"`
+
+**Creative Vocabulary Reference:**
+
+Common words to translate literally:
+*   Family → "blood group"
+*   Apple → "red fruit"
+*   Shoe → "foot-glove"
+*   Horse/Pony → "equine" or keep as "horse"
+*   Friend → "companion" or "blood-friend" (close friend)
+*   House → "dwelling" or "residence"
+*   Food → "nutrient" or "sustenance"
+*   Eyes → "visual sensors" or "ocular organs"
+*   Speak/Talk → "vocalization" or "verbal communication"
+*   Think → "cognition" or "mental processing"
+
+**Formal Technical Constructions:**
+*   You → "entity-yours" or "you"
+*   I/Me → "self-entity" or "I"
+*   Your → "possession-yours"
+*   My → "possession-self"
+*   Here → "location-proximal"
+*   There → "location-distal"
+*   Now → "temporal-present"
+*   Yes → "Affirmative"
+*   No → "Negative" or "Negation"
+*   Maybe → "Possibility exists"
+*   Hello → "Greeting" or "Salutation"
+*   Goodbye → "Farewell" or "Departure"
+
+**Character Voice Considerations:**
+*   Keep character personalities distinct through word choice
+*   Twilight: More technical vocabulary
+*   Pinkie: More compressed/energetic
+*   Fluttershy: Simpler constructions, hesitant
+*   Rainbow Dash: Confident, direct
+*   Rarity: Formal vocabulary
+*   Applejack: Practical, straightforward
 
 ### French (`game/tl/French/`)
 *   **Description**: Standard "Metropolitan" French (France).
