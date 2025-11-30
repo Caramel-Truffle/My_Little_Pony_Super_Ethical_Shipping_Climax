@@ -93,13 +93,13 @@ translate English datdashplot_a5e14cce:
 # game/Scripts/dashcloud.rpy:36
 translate English datdashplot_291020bc:
 
-    # rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroin this city needs, but the one this city deserves!"
+    # rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroine this city needs, but the one this city deserves!"
     rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroine this city needs, but the one this city deserves!"
 
 # game/Scripts/dashcloud.rpy:38
 translate English datdashplot_bc4cd5d5:
 
-    # p "You watched batmare too much."
+    # p "You watched Batmare too much."
     p "You watched Batmare too much."
 
 # game/Scripts/dashcloud.rpy:40
@@ -111,7 +111,7 @@ translate English datdashplot_99551c5e:
 # game/Scripts/dashcloud.rpy:41
 translate English datdashplot_b4af8ed3:
 
-    # p "Can you make one of my dream come true and call me Rainbow Dash?"
+    # p "Can you make one of my dreams come true and call me Rainbow Dash?"
     p "Can you make one of my dreams come true and call me Rainbow Dash?"
 
 # game/Scripts/dashcloud.rpy:42
@@ -249,7 +249,7 @@ translate English easyflutterdash_f02d2de8:
 # game/Scripts/dashcloud.rpy:92
 translate English easyflutterdash_491425f7:
 
-    # p "Your lack of pictures on that matter disappoint me."
+    # p "Your lack of pictures on that matter disappoints me."
     p "Your lack of pictures on that matter disappoints me."
 
 # game/Scripts/dashcloud.rpy:93
@@ -573,7 +573,7 @@ translate English truederpyabuse_e166e62e:
 # game/Scripts/dashcloud.rpy:216
 translate English truederpyabuse_d5aa4191:
 
-    # "And it was kisses and hugs time for the remaining of the day, Dashie joigning you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
+    # "And it was kisses and hugs time for the remaining of the day, Dashie joining you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
     "And it was kisses and hugs time for the remainder of the day, Dashie joining you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
 
 # game/Scripts/dashcloud.rpy:217
@@ -915,8 +915,8 @@ translate English yummymuffin_c67e549a:
 # game/Scripts/dashcloud.rpy:329
 translate English yummymuffin_c4adac6b:
 
-    # "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
-    "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
+    # "And you three went outside Ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
+    "And you three went outside Ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
 
 # game/Scripts/dashcloud.rpy:340
 translate English yummymuffin_0adfd453:
@@ -945,8 +945,8 @@ translate English yummymuffin_afde9838:
 # game/Scripts/dashcloud.rpy:354
 translate English yummymuffin_390a9618:
 
-    # p "I was wondering about something. Why does no one here has genitals?"
-    p "I was wondering about something. Why does no one here has genitals?"
+    # p "I was wondering about something. Why does no one here have genitals?"
+    p "I was wondering about something. Why does no one here have genitals?"
 
 # game/Scripts/dashcloud.rpy:356
 translate English yummymuffin_70dc61b7:
@@ -957,20 +957,20 @@ translate English yummymuffin_70dc61b7:
 # game/Scripts/dashcloud.rpy:357
 translate English yummymuffin_ae7b114b:
 
-    # p "No, I mean, everypony resembles a barbie doll down there."
-    p "No, I mean, everypony resembles a barbie doll down there."
+    # p "No, I mean, everypony resembles a Barbie doll down there."
+    p "No, I mean, everypony resembles a Barbie doll down there."
 
 # game/Scripts/dashcloud.rpy:359
 translate English yummymuffin_5dd7cf6c:
 
-    # rd "Barbier dolls? You're making less and less sense by the minute."
-    rd "Barbier dolls? You're making less and less sense by the minute."
+    # rd "Barbie dolls? You're making less and less sense by the minute."
+    rd "Barbie dolls? You're making less and less sense by the minute."
 
 # game/Scripts/dashcloud.rpy:361
 translate English yummymuffin_e0d0f471:
 
-    # p "Rainbow Dash. How are fillies and colt made?"
-    p "Rainbow Dash. How are fillies and colt made?"
+    # p "Rainbow Dash. How are fillies and colts made?"
+    p "Rainbow Dash. How are fillies and colts made?"
 
 # game/Scripts/dashcloud.rpy:363
 translate English yummymuffin_fbc37a88:
@@ -1029,6 +1029,6 @@ translate English yummymuffin_00755e5a:
 # game/Scripts/dashcloud.rpy:403
 translate English yummymuffin_c55c2acb:
 
-    # "And so you went back to ponyville and its crossroad."
-    "And so you went back to ponyville and its crossroad."
+    # "And so you went back to Ponyville and its crossroad."
+    "And so you went back to Ponyville and its crossroad."
 

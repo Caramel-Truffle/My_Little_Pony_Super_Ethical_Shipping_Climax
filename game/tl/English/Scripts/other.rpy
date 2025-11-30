@@ -105,8 +105,8 @@ translate English bm_place_choice_e747cf69:
 # game/Scripts/other.rpy:70
 translate English bm_place_choice_1a89e756:
 
-    # ab "Yah! Ah admit we didn' do well last time..."
-    ab "Yah! Ah admit we didn' do well last time..."
+    # ab "Yah! Ah admit we didn't do well last time..."
+    ab "Yah! Ah admit we didn't do well last time..."
 
 # game/Scripts/other.rpy:71
 translate English bm_place_choice_7533a892:
@@ -171,7 +171,7 @@ translate English cmcdecision_bbeed607:
 # game/Scripts/other.rpy:99
 translate English cmcdecision_90cbc330:
 
-    # "Okay, you deserved it. this is your cupboard ending."
+    # "Okay, you deserved it. This is your cupboard ending."
     "Okay, you deserved it. This is your cupboard ending."
 
 # game/Scripts/other.rpy:103
@@ -225,7 +225,7 @@ translate English cmcdecision_bf12372d_1:
 # game/Scripts/other.rpy:125
 translate English cmcdecision_6c9055d4:
 
-    # b "I tried hard to have your attention, even got these sunglasses. Do you want to try now?"
+    # b "I tried hard to get your attention, even got these sunglasses. Do you want to try now?"
     b "I tried hard to get your attention, even got these sunglasses. Do you want to try now?"
 
 # game/Scripts/other.rpy:130
@@ -237,8 +237,8 @@ translate English braeburnchoice_bf12372d:
 # game/Scripts/other.rpy:131
 translate English braeburnchoice_e295efc7:
 
-    # b "And I thought you would never say it, ol' big chunk of love. Come here!"
-    b "And I thought you would never say it, ol' big chunk of love. Come here!"
+    # b "And I thought you would never say it, ol' big hunk of love. Come here!"
+    b "And I thought you would never say it, ol' big hunk of love. Come here!"
 
 # game/Scripts/other.rpy:140
 translate English braeburnchoice_17fdf8c9:
@@ -297,7 +297,7 @@ translate English braeburnchoice_5e90538c:
 # game/Scripts/other.rpy:161
 translate English braeburnchoice_4a0aaad0:
 
-    # nr "You are drunk Braeburn. And now you won't be able to take your medication for tonight and that's bad."
+    # nr "You're drunk Braeburn. And now you won't be able to take your medication for tonight and that's bad."
     nr "You're drunk Braeburn. And now you won't be able to take your medication for tonight and that's bad."
 
 # game/Scripts/other.rpy:162

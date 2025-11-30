@@ -40,13 +40,13 @@ translate English start_d8983fd6:
 translate English start_a6fc5652:
 
     # c "Hum. So, I will change you into one of the mane 6 instead! And then I will send you in Ponyville and and-"
-    c "Hum. So, I will change you into one of the mane 6 instead! And then I will send you in Ponyville and and-"
+    c "Hum. So, I will change you into one of the mane 6 instead! And then I will send you to Ponyville and and-"
 
 # game/Scripts/script.rpy:524
 translate English start_a06862f5:
 
     # y "Please calm down and do your stuff. I will see what happen myself."
-    y "Please calm down and do your stuff. I will see what happen myself."
+    y "Please calm down and do your stuff. I will see what happens myself."
 
 # game/Scripts/script.rpy:528
 translate English character_selection_75deb98c:

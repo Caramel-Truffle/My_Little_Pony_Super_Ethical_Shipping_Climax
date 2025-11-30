@@ -115,8 +115,8 @@ translate English carouselboutique_bf23cf05:
 # game/Scripts/carouselboutique.rpy:40
 translate English carouselboutique_e1e9191e:
 
-    # r "I was... Designing a new hat. I know you are going to think about its practicality before everything, but I'm willing to let you a chance to prove me wrong."
-    r "I was... Designing a new hat. I know you are going to think about its practicality before everything, but I'm willing to let you a chance to prove me wrong."
+    # r "I was... Designing a new hat. I know you are going to think about its practicality before everything, but I'm willing to give you a chance to prove me wrong."
+    r "I was... Designing a new hat. I know you are going to think about its practicality before everything, but I'm willing to give you a chance to prove me wrong."
 
 # game/Scripts/carouselboutique.rpy:42
 translate English carouselboutique_6c13998b:
@@ -307,8 +307,8 @@ translate English raritychoice1_5f9a82e1:
 # game/Scripts/carouselboutique.rpy:138
 translate English raritychoice1_1d6ecb25:
 
-    # p "Your path. I'm don't know the purpose of the ruby yet, but it'll be useful. And you will refuse to talk to me after that."
-    p "Your path. I'm don't know the purpose of the ruby yet, but it'll be useful. And you will refuse to talk to me after that."
+    # p "Your path. I don't know the purpose of the ruby yet, but it'll be useful. And you will refuse to talk to me after that."
+    p "Your path. I don't know the purpose of the ruby yet, but it'll be useful. And you will refuse to talk to me after that."
 
 # game/Scripts/carouselboutique.rpy:141
 translate English raritychoice1_459e5c33:
@@ -319,8 +319,8 @@ translate English raritychoice1_459e5c33:
 # game/Scripts/carouselboutique.rpy:143
 translate English raritychoice1_c266718d:
 
-    # r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
-    r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
+    # r "[playername!t], you are just sounding like Pinkie Pie right now. Anyway, wait there."
+    r "[playername!t], you are just sounding like Pinkie Pie right now. Anyway, wait there."
 
 # game/Scripts/carouselboutique.rpy:149
 translate English raritychoice1_953b2218:
@@ -409,8 +409,8 @@ translate English raritychoice1_5f59fc60:
 # game/Scripts/carouselboutique.rpy:186
 translate English raritychoice1_11839530:
 
-    # "Seriously? you fell for it?"
-    "Seriously? you fell for it?"
+    # "Seriously? You fell for it?"
+    "Seriously? You fell for it?"
 
 # game/Scripts/carouselboutique.rpy:189
 translate English raritychoice1_e5c96eea:
@@ -703,8 +703,8 @@ translate English raritychoice1_386b7cea:
 # game/Scripts/carouselboutique.rpy:317
 translate English raritychoice1_cbfd28b7:
 
-    # r "With you, it always involve foodplay."
-    r "With you, it always involve foodplay."
+    # r "With you, it always involves foodplay."
+    r "With you, it always involves foodplay."
 
 # game/Scripts/carouselboutique.rpy:318
 translate English raritychoice1_d396c3b7:
@@ -763,8 +763,8 @@ translate English raritychoice1_880886c8:
 # game/Scripts/carouselboutique.rpy:337
 translate English raritychoice1_100c14a7:
 
-    # p "Yeah, be happy for what you give, not what you get. 'Sort of."
-    p "Yeah, be happy for what you give, not what you get. 'Sort of."
+    # p "Yeah, be happy for what you give, not what you get. Sort of."
+    p "Yeah, be happy for what you give, not what you get. Sort of."
 
 # game/Scripts/carouselboutique.rpy:340
 translate English raritychoice1_a2e8da42:
@@ -1093,8 +1093,8 @@ translate English rarity_get_tea_5dd8689a:
 # game/Scripts/carouselboutique.rpy:504
 translate English rarity_get_tea_bd1565df:
 
-    # "I'm pretty sure they don't mean 'so good that you need to lick other ponies hooves clean'. And T doesn't stand for excuses! There is'nt even a single T in that word!"
-    "I'm pretty sure they don't mean 'so good that you need to lick other ponies hooves clean'. And T doesn't stand for excuses! There is'nt even a single T in that word!"
+    # "I'm pretty sure they don't mean 'so good that you need to lick other ponies hooves clean'. And T doesn't stand for excuses! There isn't even a single T in that word!"
+    "I'm pretty sure they don't mean 'so good that you need to lick other ponies hooves clean'. And T doesn't stand for excuses! There isn't even a single T in that word!"
 
 # game/Scripts/carouselboutique.rpy:506
 translate English rarity_get_tea_7ec5da83:
@@ -1147,8 +1147,8 @@ translate English rarity_get_tea_e3538ec3:
 # game/Scripts/carouselboutique.rpy:552
 translate English rarity_get_tea_168586dc:
 
-    # p "The boutique is empty. I better should go and find somepony elsewhere."
-    p "The boutique is empty. I better should go and find somepony elsewhere."
+    # p "The boutique is empty. I'd better go and find somepony elsewhere."
+    p "The boutique is empty. I'd better go and find somepony elsewhere."
 
 # game/Scripts/carouselboutique.rpy:556
 translate English rarity_get_tea_3ca21c1d:

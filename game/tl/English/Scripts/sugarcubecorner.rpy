@@ -105,8 +105,8 @@ translate English sugarcubecorner_419cf7ef:
 # game/Scripts/sugarcubecorner.rpy:48
 translate English sugarcubecorner_90e9cec9:
 
-    # p "And either way, a narrator shouldn't talk to his characters, that's disrespectful of the laws of tales telling."
-    p "And either way, a narrator shouldn't talk to his characters, that's disrespectful of the laws of tales telling."
+    # p "And either way, a narrator shouldn't talk to his characters, that's disrespectful of the laws of storytelling."
+    p "And either way, a narrator shouldn't talk to his characters, that's disrespectful of the laws of storytelling."
 
 # game/Scripts/sugarcubecorner.rpy:49
 translate English sugarcubecorner_5fc1d59b:
@@ -195,8 +195,8 @@ translate English sugarcubecorner_3c4f5418:
 # game/Scripts/sugarcubecorner.rpy:80
 translate English sugarcubecorner_d7ce895d:
 
-    # pp "You don't need a muffin and you already have a sugar cube! You want to be all kissu-kissu with me, don't you?"
-    pp "You don't need a muffin and you already have a sugar cube! You want to be all kissu-kissu with me, don't you?"
+    # pp "You don't need a muffin and you already have a sugar cube! You want to be all kissy-kissy with me, don't you?"
+    pp "You don't need a muffin and you already have a sugar cube! You want to be all kissy-kissy with me, don't you?"
 
 # game/Scripts/sugarcubecorner.rpy:82
 translate English sugarcubecorner_3d48bbf5:
@@ -369,8 +369,8 @@ translate English pinkieguess_f56df942:
 # game/Scripts/sugarcubecorner.rpy:181
 translate English pinkieguess_e27a30a2:
 
-    # "And both of you went all kissu-kissu with the whipped cream and all."
-    "And both of you went all kissu-kissu with the whipped cream and all."
+    # "And both of you went all kissy-kissy with the whipped cream and all."
+    "And both of you went all kissy-kissy with the whipped cream and all."
 
 # game/Scripts/sugarcubecorner.rpy:182
 translate English pinkieguess_b6dcd992:
@@ -663,8 +663,8 @@ translate English assertivepie_6a17aebb:
 # game/Scripts/sugarcubecorner.rpy:276
 translate English assertivepie_834bee92:
 
-    # "You are back to the bakery, where sugar scent invade your nose and makes your stomach growl."
-    "You are back to the bakery, where sugar scent invade your nose and makes your stomach growl."
+    # "You are back to the bakery, where sugar scent invades your nose and makes your stomach growl."
+    "You are back to the bakery, where sugar scent invades your nose and makes your stomach growl."
 
 # game/Scripts/sugarcubecorner.rpy:277
 translate English assertivepie_2875bf6a:
@@ -753,8 +753,8 @@ translate English assertivepie_b68dcf1f:
 # game/Scripts/sugarcubecorner.rpy:299
 translate English assertivepie_3c3d7a95:
 
-    # pp "But are you in or are you not? Because I'm totally going to make some! Seriously. I already sold every sugar cube pie I made last time you were there. It's like the town is on sugar cube frenzy or something! We expected the Luna's Special -a cupcake- to sell well due to the beautiful moon we should have this night, but... No."
-    pp "But are you in or are you not? Because I'm totally going to make some! Seriously. I already sold every sugar cube pie I made last time you were there. It's like the town is on sugar cube frenzy or something! We expected the Luna's Special -a cupcake- to sell well due to the beautiful moon we should have this night, but... No."
+    # pp "But are you in or are you not? Because I'm totally going to make some! Seriously. I already sold every sugar cube pie I made last time you were there. It's like the town is on a sugar cube frenzy or something! We expected the Luna's Special -a cupcake- to sell well due to the beautiful moon we should have this night, but... No."
+    pp "But are you in or are you not? Because I'm totally going to make some! Seriously. I already sold every sugar cube pie I made last time you were there. It's like the town is on a sugar cube frenzy or something! We expected the Luna's Special -a cupcake- to sell well due to the beautiful moon we should have this night, but... No."
 
 # game/Scripts/sugarcubecorner.rpy:300
 translate English assertivepie_ec1c468f:
@@ -777,8 +777,8 @@ translate English assertivepie_115504b9:
 # game/Scripts/sugarcubecorner.rpy:312
 translate English assertivepie_ce32277b:
 
-    # pp "Nah. The bell would go all dingeling-ding-ding if that was the case, so I could always yell to them."
-    pp "Nah. The bell would go all dingeling-ding-ding if that was the case, so I could always yell to them."
+    # pp "Nah. The bell would go all dingaling-ding-ding if that was the case, so I could always yell to them."
+    pp "Nah. The bell would go all dingaling-ding-ding if that was the case, so I could always yell to them."
 
 # game/Scripts/sugarcubecorner.rpy:315
 translate English assertivepie_4656123d:
@@ -795,8 +795,8 @@ translate English assertivepie_73739c39:
 # game/Scripts/sugarcubecorner.rpy:319
 translate English assertivepie_7e20a4a8:
 
-    # p "Or if I'm there, you could always either let the baking or the selling to me. Also your mustache fell off."
-    p "Or if I'm there, you could always either let the baking or the selling to me. Also your mustache fell off."
+    # p "Or if I'm there, you could always either leave the baking or the selling to me. Also your mustache fell off."
+    p "Or if I'm there, you could always either leave the baking or the selling to me. Also your mustache fell off."
 
 # game/Scripts/sugarcubecorner.rpy:320
 translate English assertivepie_b0484d4a:
@@ -807,8 +807,8 @@ translate English assertivepie_b0484d4a:
 # game/Scripts/sugarcubecorner.rpy:323
 translate English assertivepie_7cd06fc1:
 
-    # "Both of you get the various ingredients, Pinkie singing you where to find them when they were closer to you than to her."
-    "Both of you get the various ingredients, Pinkie singing you where to find them when they were closer to you than to her."
+    # "Both of you get the various ingredients, Pinkie singing to you where to find them when they were closer to you than to her."
+    "Both of you get the various ingredients, Pinkie singing to you where to find them when they were closer to you than to her."
 
 # game/Scripts/sugarcubecorner.rpy:326
 translate English assertivepie_b9179edd:
@@ -849,8 +849,8 @@ translate English assertivepie_37b4a9ea:
 # game/Scripts/sugarcubecorner.rpy:346
 translate English assertivepie_f08fbd8f:
 
-    # pp "Great idea! I'll wait there then. Or I might be selling something when you return, but be quick! I don't want to disappoint somepony by telling them we're out of stock!"
-    pp "Great idea! I'll wait there then. Or I might be selling something when you return, but be quick! I don't want to disappoint somepony by telling them we're out of stock!"
+    # pp "Great idea! I'll wait here then. Or I might be selling something when you return, but be quick! I don't want to disappoint somepony by telling them we're out of stock!"
+    pp "Great idea! I'll wait here then. Or I might be selling something when you return, but be quick! I don't want to disappoint somepony by telling them we're out of stock!"
 
 # game/Scripts/sugarcubecorner.rpy:347
 translate English assertivepie_5f660f11:
@@ -909,8 +909,8 @@ translate English assertivepie_b4b80350:
 # game/Scripts/sugarcubecorner.rpy:381
 translate English assertivepie_8a645f47:
 
-    # pp "COME THERE THEN!"
-    pp "COME THERE THEN!"
+    # pp "COME HERE THEN!"
+    pp "COME HERE THEN!"
 
 # game/Scripts/sugarcubecorner.rpy:382
 translate English assertivepie_5fa7d8f5:
@@ -1017,14 +1017,14 @@ translate English sell_bake_a4652cc1:
 # game/Scripts/sugarcubecorner.rpy:427
 translate English sell_bake_017c5b36:
 
-    # u "Sugar cube pies? Did the Cakes told you \"Thunderlane is coming! Bake some sugar cube pies while we're out!\"? because they are my favorite!"
-    u "Sugar cube pies? Did the Cakes told you \"Thunderlane is coming! Bake some sugar cube pies while we're out!\"? because they are my favorite!"
+    # u "Sugar cube pies? Did the Cakes tell you \"Thunderlane is coming! Bake some sugar cube pies while we're out!\"? because they are my favorite!"
+    u "Sugar cube pies? Did the Cakes tell you \"Thunderlane is coming! Bake some sugar cube pies while we're out!\"? because they are my favorite!"
 
 # game/Scripts/sugarcubecorner.rpy:428
 translate English sell_bake_414060f5:
 
-    # p "Sorry, but you clearly are not alone. It's like half the town decided to eat that today. What could possibly make so many ponies do the same thing at the same date? ... Anyway. Would you like to wait for some pie or would you prefer something else?"
-    p "Sorry, but you clearly are not alone. It's like half the town decided to eat that today. What could possibly make so many ponies do the same thing at the same date? ... Anyway. Would you like to wait for some pie or would you prefer something else?"
+    # p "Sorry, but you clearly are not alone. It's like half the town decided to eat that today. What could possibly make so many ponies do the same thing on the same date? ... Anyway. Would you like to wait for some pie or would you prefer something else?"
+    p "Sorry, but you clearly are not alone. It's like half the town decided to eat that today. What could possibly make so many ponies do the same thing on the same date? ... Anyway. Would you like to wait for some pie or would you prefer something else?"
 
 # game/Scripts/sugarcubecorner.rpy:429
 translate English sell_bake_fbe76a2c:

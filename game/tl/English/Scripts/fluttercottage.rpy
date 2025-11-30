@@ -56,8 +56,8 @@ translate English fluttercottage_5afbc557:
 # game/Scripts/fluttercottage.rpy:16
 translate English crittercare_d157e6a5:
 
-    # "You go near the little animal and bend your (po)knees, approaching your hoof, but he quickly turn his head and run away."
-    "You go near the little animal and bend your (po)knees, approaching your hoof, but he quickly turn his head and run away."
+    # "You go near the little animal and bend your (po)knees, approaching your hoof, but he quickly turns his head and runs away."
+    "You go near the little animal and bend your (po)knees, approaching your hoof, but he quickly turns his head and runs away."
 
 # game/Scripts/fluttercottage.rpy:18
 translate English crittercare_495d740a:
@@ -158,8 +158,8 @@ translate English crittercare_89733ace:
 # game/Scripts/fluttercottage.rpy:46
 translate English crittercare_7bfd9547:
 
-    # "This sounds like a fire hazard. ...Doesn't it? By the way, you, at home, go check the batteries of your fire alarm. And if you took them off, shame on you. You're endegering the whole neighbou-"
-    "This sounds like a fire hazard. ...Doesn't it? By the way, you, at home, go check the batteries of your fire alarm. And if you took them off, shame on you. You're endegering the whole neighbou-"
+    # "This sounds like a fire hazard. ...Doesn't it? By the way, you, at home, go check the batteries of your fire alarm. And if you took them off, shame on you. You're endangering the whole neighbou-"
+    "This sounds like a fire hazard. ...Doesn't it? By the way, you, at home, go check the batteries of your fire alarm. And if you took them off, shame on you. You're endangering the whole neighbou-"
 
 # game/Scripts/fluttercottage.rpy:48
 translate English crittercare_3834d994:
@@ -290,8 +290,8 @@ translate English flutterabuse_40fe93d3:
 # game/Scripts/fluttercottage.rpy:94
 translate English flutterabuse_86b1e29a:
 
-    # "Fluttershy whisper too."
-    "Fluttershy whisper too."
+    # "Fluttershy whispers too."
+    "Fluttershy whispers too."
 
 # game/Scripts/fluttercottage.rpy:95
 translate English flutterabuse_db25cb2e:
@@ -308,8 +308,8 @@ translate English flutterabuse_c9d2cb6c:
 # game/Scripts/fluttercottage.rpy:99
 translate English flutterabuse_ede84808:
 
-    # fs "Do I like them? I LOVE them! All the critters, no matter how they're small, all the squirrels, the little birds, the cute little bunnies..."
-    fs "Do I like them? I LOVE them! All the critters, no matter how they're small, all the squirrels, the little birds, the cute little bunnies..."
+    # fs "Do I like them? I LOVE them! All the critters, no matter how small they are, all the squirrels, the little birds, the cute little bunnies..."
+    fs "Do I like them? I LOVE them! All the critters, no matter how small they are, all the squirrels, the little birds, the cute little bunnies..."
 
 # game/Scripts/fluttercottage.rpy:100
 translate English flutterabuse_64f11e70:
@@ -422,8 +422,8 @@ translate English flutterabuse_888c2cd0:
 # game/Scripts/fluttercottage.rpy:142
 translate English flutterabuse_18fef0fa:
 
-    # p "Don't worry Fluttershy, I'm sure it will be one of the best teas I'll have ever drank."
-    p "Don't worry Fluttershy, I'm sure it will be one of the best teas I'll have ever drank."
+    # p "Don't worry Fluttershy, I'm sure it will be one of the best teas I've ever drunk."
+    p "Don't worry Fluttershy, I'm sure it will be one of the best teas I've ever drunk."
 
 # game/Scripts/fluttercottage.rpy:143
 translate English flutterabuse_ae6a7bb6:
@@ -524,8 +524,8 @@ translate English aphrodishy_d2cd80c5:
 # game/Scripts/fluttercottage.rpy:199
 translate English aphrodishy_5c2a71d4:
 
-    # "And you ended the day into each other arms, happy together. Nothing sexual happened, the end."
-    "And you ended the day into each other arms, happy together. Nothing sexual happened, the end."
+    # "And you ended the day into each other's arms, happy together. Nothing sexual happened, the end."
+    "And you ended the day into each other's arms, happy together. Nothing sexual happened, the end."
 
 # game/Scripts/fluttercottage.rpy:201
 translate English aphrodishy_e1b96b6a:
@@ -608,8 +608,8 @@ translate English teabird_7ec93946:
 # game/Scripts/fluttercottage.rpy:228
 translate English teabird_f543886d:
 
-    # "Then she went feeding the birds, saying that you probably wouldn't be able to find her until the next day."
-    "Then she went feeding the birds, saying that you probably wouldn't be able to find her until the next day."
+    # "Then she went to feed the birds, saying that you probably wouldn't be able to find her until the next day."
+    "Then she went to feed the birds, saying that you probably wouldn't be able to find her until the next day."
 
 # game/Scripts/fluttercottage.rpy:229
 translate English teabird_41c88880:
@@ -806,8 +806,8 @@ translate English teabird_51b93075:
 # game/Scripts/fluttercottage.rpy:302
 translate English teabird_b5821ac6:
 
-    # p "Well, except from a bunch of old books concerning Starswirl the Bearded and his lesser known spells, but none that would interest you deeply, I assume."
-    p "Well, except from a bunch of old books concerning Starswirl the Bearded and his lesser known spells, but none that would interest you deeply, I assume."
+    # p "Well, except for a bunch of old books concerning Starswirl the Bearded and his lesser known spells, but none that would interest you deeply, I assume."
+    p "Well, except for a bunch of old books concerning Starswirl the Bearded and his lesser known spells, but none that would interest you deeply, I assume."
 
 # game/Scripts/fluttercottage.rpy:303
 translate English teabird_236cb9a4:
@@ -824,8 +824,8 @@ translate English teabird_964e4054:
 # game/Scripts/fluttercottage.rpy:307
 translate English teabird_628445bf:
 
-    # "She squee-d."
-    "She squee-d."
+    # "She squeed."
+    "She squeed."
 
 # game/Scripts/fluttercottage.rpy:309
 translate English teabird_cbe81e92:
@@ -1130,8 +1130,8 @@ translate English fluterx_4ccf05ca:
 # game/Scripts/fluttercottage.rpy:423
 translate English fluterx_42727027:
 
-    # "And with one kick of her hoof, she turns an hidden switch on, making a large amount of snow suddenly fall on you."
-    "And with one kick of her hoof, she turns an hidden switch on, making a large amount of snow suddenly fall on you."
+    # "And with one kick of her hoof, she turns a hidden switch on, making a large amount of snow suddenly fall on you."
+    "And with one kick of her hoof, she turns a hidden switch on, making a large amount of snow suddenly fall on you."
 
 # game/Scripts/fluttercottage.rpy:426
 translate English fluterx_9c7eab4a:
@@ -1202,14 +1202,14 @@ translate English fluterx_7a1f6f69:
 # game/Scripts/fluttercottage.rpy:438
 translate English fluterx_a2c82dab:
 
-    # uc "I mean, come on. You said it yourself. This was initially made as a small test, then it blew out of proportions. Now? No one cared enough to stay until the launch day, years after years of hiatus. Why did it even got released?"
-    uc "I mean, come on. You said it yourself. This was initially made as a small test, then it blew out of proportions. Now? No one cared enough to stay until the launch day, years after years of hiatus. Why did it even got released?"
+    # uc "I mean, come on. You said it yourself. This was initially made as a small test, then it blew out of proportions. Now? No one cared enough to stay until the launch day, years after years of hiatus. Why did it even get released?"
+    uc "I mean, come on. You said it yourself. This was initially made as a small test, then it blew out of proportions. Now? No one cared enough to stay until the launch day, years after years of hiatus. Why did it even get released?"
 
 # game/Scripts/fluttercottage.rpy:439
 translate English fluterx_e2c97893:
 
-    # uc "Did you even proofreaded this time?"
-    uc "Did you even proofreaded this time?"
+    # uc "Did you even proofread this time?"
+    uc "Did you even proofread this time?"
 
 # game/Scripts/fluttercottage.rpy:440
 translate English fluterx_dca99ce9:
@@ -1274,8 +1274,8 @@ translate English fluterx_73d51c08:
 # game/Scripts/fluttercottage.rpy:482
 translate English fluterx_b727b3e4:
 
-    # p "The door is locked. I better go elsewhere."
-    p "The door is locked. I better go elsewhere."
+    # p "The door is locked. I'd better go elsewhere."
+    p "The door is locked. I'd better go elsewhere."
 
 # game/Scripts/fluttercottage.rpy:486
 translate English fluterx_088da974:

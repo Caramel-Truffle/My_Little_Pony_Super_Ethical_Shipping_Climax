@@ -27,8 +27,8 @@ translate English uselessoption1_5d8ed4b8:
 # game/Scripts/library.rpy:30
 translate English uselessoption1_d8e12b41:
 
-    # ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that so you are not in the correct past!"
-    ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that so you are not in the correct past!"
+    # ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that's so, you are not in the correct past!"
+    ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that's so, you are not in the correct past!"
 
 # game/Scripts/library.rpy:32
 translate English uselessoption1_02f8fbc4:
@@ -195,8 +195,8 @@ translate English twi_see_double_9b11e205:
 # game/Scripts/library.rpy:88
 translate English twi_see_double_96db4d9b:
 
-    # "Nope. This is not a 18+ game."
-    "Nope. This is not a 18+ game."
+    # "Nope. This is not an 18+ game."
+    "Nope. This is not an 18+ game."
 
 # game/Scripts/library.rpy:89
 translate English twi_see_double_2759a3c1:
@@ -309,7 +309,7 @@ translate English twi_see_double_end_7328a4c1:
 # game/Scripts/library.rpy:123
 translate English twi_see_double_end_434fbe78:
 
-    # ts "A book about freaking someone by looking like their clone?"
+    # ts "A book about freaking someone out by looking like their clone?"
     ts "A book about freaking someone out by looking like their clone?"
 
 # game/Scripts/library.rpy:125
@@ -327,8 +327,8 @@ translate English bookchoice_66bd050e:
 # game/Scripts/library.rpy:130
 translate English bookchoice_7985dbae:
 
-    # ts "Great! Don't judge it by the cover, but \"The astronomy for silly fillies\" would be a perfect start!"
-    ts "Great! Don't judge it by the cover, but \"The astronomy for silly fillies\" would be a perfect start!"
+    # ts "Great! Don't judge it by the cover, but \"Astronomy for Silly Fillies\" would be a perfect start!"
+    ts "Great! Don't judge it by the cover, but \"Astronomy for Silly Fillies\" would be a perfect start!"
 
 # game/Scripts/library.rpy:131
 translate English bookchoice_c53fe9e0:
@@ -345,8 +345,8 @@ translate English bookchoice_290a1f3b:
 # game/Scripts/library.rpy:140
 translate English bookchoice_7c7b1544:
 
-    # "Twilight takes the book with her magic and gives it to you. You now have \"The astronomy for silly fillies\"!"
-    "Twilight takes the book with her magic and gives it to you. You now have \"The astronomy for silly fillies\"!"
+    # "Twilight takes the book with her magic and gives it to you. You now have \"Astronomy for Silly Fillies\"!"
+    "Twilight takes the book with her magic and gives it to you. You now have \"Astronomy for Silly Fillies\"!"
 
 # game/Scripts/library.rpy:143
 translate English bookchoice_23bb903d:
@@ -483,8 +483,8 @@ translate English bookchoice_3fb5320f:
 # game/Scripts/library.rpy:194
 translate English bookchoice_ada99ff9:
 
-    # "You know have a ponygraphic book! Don't make it sticky, Twilight wouldn't appreciate that."
-    "You know have a ponygraphic book! Don't make it sticky, Twilight wouldn't appreciate that."
+    # "You now have a ponygraphic book! Don't make it sticky, Twilight wouldn't appreciate that."
+    "You now have a ponygraphic book! Don't make it sticky, Twilight wouldn't appreciate that."
 
 # game/Scripts/library.rpy:195
 translate English bookchoice_94471cbd:
@@ -513,7 +513,7 @@ translate English bookchoice_4fda2c3a:
 # game/Scripts/library.rpy:205
 translate English bookchoice_f79ffd17:
 
-    # "You skimed through the book a bit while going out, but due to its nature, no description of it will be made."
+    # "You skimmed through the book a bit while going out, but due to its nature, no description of it will be made."
     "You skimmed through the book a bit while going out, but due to its nature, no description of it will be made."
 
 # game/Scripts/library.rpy:206
@@ -567,7 +567,7 @@ translate English bookchoice_end_aec4130a:
 # game/Scripts/library.rpy:227
 translate English bookchoice_end_4464f48b:
 
-    # p "...That was ironical. And I'm not the real Twilight."
+    # p "...That was ironic. And I'm not the real Twilight."
     p "...That was ironic. And I'm not the real Twilight."
 
 # game/Scripts/library.rpy:228
@@ -705,7 +705,7 @@ translate English spikechoice_420a7424:
 # game/Scripts/library.rpy:271
 translate English spikechoice_4399119a:
 
-    # "And you quick went out, wondering where you could find a ruby."
+    # "And you quickly went out, wondering where you could find a ruby."
     "And you quickly went out, wondering where you could find a ruby."
 
 # game/Scripts/library.rpy:277
@@ -759,8 +759,8 @@ translate English spikechoice_3008e1fb:
 # game/Scripts/library.rpy:297
 translate English spikechoice_05adb819:
 
-    # "And both of you kissed during hours."
-    "And both of you kissed during hours."
+    # "And both of you kissed for hours."
+    "And both of you kissed for hours."
 
 # game/Scripts/library.rpy:298
 translate English spikechoice_c26c53f7:
@@ -879,8 +879,8 @@ translate English spikechoice_d51a2b24:
 # game/Scripts/library.rpy:330
 translate English spikechoice_7dd48add:
 
-    # sp "You better work faster, clock is ticking after all."
-    sp "You better work faster, clock is ticking after all."
+    # sp "You better work faster, the clock is ticking after all."
+    sp "You better work faster, the clock is ticking after all."
 
 # game/Scripts/library.rpy:331
 translate English spikechoice_bea03fe7:
@@ -897,8 +897,8 @@ translate English spikechoice_545528ce:
 # game/Scripts/library.rpy:341
 translate English spikechoice_8d996349:
 
-    # "You're back to the library, fragrance of books fills the air, the quiet \"who?\" of a sleeping owl may come to your ear if you listen well enough and the absence of any other living creature here seems obvious."
-    "You're back to the library, fragrance of books fills the air, the quiet \"who?\" of a sleeping owl may come to your ear if you listen well enough and the absence of any other living creature here seems obvious."
+    # "You're back to the library, the fragrance of books fills the air, the quiet \"who?\" of a sleeping owl may come to your ear if you listen well enough and the absence of any other living creature here seems obvious."
+    "You're back to the library, the fragrance of books fills the air, the quiet \"who?\" of a sleeping owl may come to your ear if you listen well enough and the absence of any other living creature here seems obvious."
 
 # game/Scripts/library.rpy:343
 translate English spikechoice_224a8273:
@@ -927,14 +927,14 @@ translate English spikechoice_a20cefa7:
 # game/Scripts/library.rpy:351
 translate English spikechoice_96d5638d:
 
-    # p "Can I sit down and read something? the silence is awkward enough."
-    p "Can I sit down and read something? the silence is awkward enough."
+    # p "Can I sit down and read something? The silence is awkward enough."
+    p "Can I sit down and read something? The silence is awkward enough."
 
 # game/Scripts/library.rpy:353
 translate English spikechoice_50446e65:
 
-    # "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you sooner. The cover is blue as the moon. Well, once in a blue moon."
-    "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you earlier. The cover is blue as the moon. Well, once in a blue moon."
+    # "Right. You sit down and open... Erm.... Ah! Astronomy for Silly Fillies, the book that Twilight gave you earlier. The cover is blue as the moon. Well, once in a blue moon."
+    "Right. You sit down and open... Erm.... Ah! Astronomy for Silly Fillies, the book that Twilight gave you earlier. The cover is blue as the moon. Well, once in a blue moon."
 
 # game/Scripts/library.rpy:355
 translate English spikechoice_a3601bc7:
@@ -987,7 +987,7 @@ translate English spikechoice_dac516e1:
 # game/Scripts/library.rpy:371
 translate English spikechoice_6c737beb:
 
-    # ts "And you're right, this book has been written before we defeated Nightmare Moon. Most ponies forgot about her and even the scientists thought that the earthquakes and volcanic eruptions were natural. In fact, it was Nightmare Moon trying to make the nature rebels against us."
+    # ts "And you're right, this book has been written before we defeated Nightmare Moon. Most ponies forgot about her and even the scientists thought that the earthquakes and volcanic eruptions were natural. In fact, it was Nightmare Moon trying to make nature rebel against us."
     ts "And you're right, this book has been written before we defeated Nightmare Moon. Most ponies forgot about her and even the scientists thought that the earthquakes and volcanic eruptions were natural. In fact, it was Nightmare Moon trying to make nature rebel against us."
 
 # game/Scripts/library.rpy:373
@@ -1281,7 +1281,7 @@ translate English spikechoice_247f6bb8:
 # game/Scripts/library.rpy:493
 translate English spikechoice_4af25ce6:
 
-    # "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, were moonlight engulfed you for a second."
+    # "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, where moonlight engulfed you for a second."
     "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, where moonlight engulfed you for a second."
 
 # game/Scripts/library.rpy:495
@@ -1293,8 +1293,8 @@ translate English spikechoice_3b0e49b6:
 # game/Scripts/library.rpy:500
 translate English spikechoice_4e72f7d0:
 
-    # "You gasped as your body started to sparkle and after a few seconds, you levitated two hooves from the ground, without the help of wings or unicorn magic. Your colour scheme changed quickly a few times and all the while, Twilight stepped back slowly until being tail-to-wall."
-    "You gasped as your body started to sparkle and after a few seconds, you levitated two hooves from the ground, without the help of wings or unicorn magic. Your colour scheme changed quickly a few times and all the while, Twilight stepped back slowly until being tail-to-wall."
+    # "You gasped as your body started to sparkle and after a few seconds, you levitated two hooves from the ground, without the help of wings or unicorn magic. Your color scheme changed quickly a few times and all the while, Twilight stepped back slowly until being tail-to-wall."
+    "You gasped as your body started to sparkle and after a few seconds, you levitated two hooves from the ground, without the help of wings or unicorn magic. Your color scheme changed quickly a few times and all the while, Twilight stepped back slowly until being tail-to-wall."
 
 # game/Scripts/library.rpy:504
 translate English spikechoice_cdfa2fe4:
@@ -1371,8 +1371,8 @@ translate English spikechoice_63c4f853:
 # game/Scripts/library.rpy:546
 translate English spikechoice_b4033192:
 
-    # "Oh. Right. I might need to lower that down a notch. Hum. Do you mind if we continue at the telescope part then? It's clearly my favourite."
-    "Oh. Right. I might need to lower that down a notch. Hum. Do you mind if we continue at the telescope part then? It's clearly my favourite."
+    # "Oh. Right. I might need to lower that down a notch. Hum. Do you mind if we continue at the telescope part then? It's clearly my favorite."
+    "Oh. Right. I might need to lower that down a notch. Hum. Do you mind if we continue at the telescope part then? It's clearly my favorite."
 
 # game/Scripts/library.rpy:548
 translate English spikechoice_a3bf3f92:

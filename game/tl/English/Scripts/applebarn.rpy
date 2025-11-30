@@ -9,7 +9,7 @@ translate English applebarn_8a4553f0:
 # game/Scripts/applebarn.rpy:10
 translate English applebarn_674ec907:
 
-    # "The smell of apples is strong in this place. Apple trees are all around you, ponies with apple-related cutie marks run around and apple products are on a giant table... Wait, is there some kind of party here?"
+    # "The smell of apples is strong in this place. Apple trees are all around you, ponies with apple-related cutie marks run around, and apple products are on a giant table... Wait, is there some kind of party here?"
     "The smell of apples is strong in this place. Apple trees are all around you, ponies with apple-related cutie marks run around, and apple products are on a giant table... Wait, is there some kind of party here?"
 
 # game/Scripts/applebarn.rpy:11
@@ -953,13 +953,13 @@ translate English waterapple_c1500ee6:
 translate English waterapple_a2c242a0:
 
     # p "Cider, uh? Well, don't drink too much!"
-    p "Cider, uh? Well, don't drink too much!"
+    p "Cider, huh? Well, don't drink too much!"
 
 # game/Scripts/applebarn.rpy:315
 translate English waterapple_f2e9394f:
 
     # "You added a wink to your last comment."
-    "You added a wink to your last comment."
+    "You add a wink to your last comment."
 
 # game/Scripts/applebarn.rpy:316
 translate English waterapple_3ce0ba02:
@@ -977,7 +977,7 @@ translate English waterapple_77a1f5a5:
 translate English waterapple_ec91ebbc:
 
     # b "Big Macintosh. First stallion I met who did not react to my charms."
-    b "Big Macintosh. First stallion I met who did not react to my charms."
+    b "Big Macintosh. First stallion I met who didn't react to my charms."
 
 # game/Scripts/applebarn.rpy:319
 translate English waterapple_c8dc0cc1:
@@ -1043,7 +1043,7 @@ translate English cute_bb_5c3aeb68:
 translate English cute_bb_52cfc343:
 
     # b "And what does your cute face intends to do today?"
-    b "And what does your cute face intends to do today?"
+    b "And what does your cute face intend to do today?"
 
 # game/Scripts/applebarn.rpy:337
 translate English cute_bb_307c5416:
@@ -1391,7 +1391,7 @@ translate English brae_reward_9210dfde:
 translate English brae_reward_d8c79f93:
 
     # p "Literally no one call you that."
-    p "Literally no one call you that."
+    p "Literally no one calls you that."
 
 # game/Scripts/applebarn.rpy:525
 translate English brae_reward_e0413497:

@@ -184,5 +184,5 @@ translate Engrish strings:
 
     # game/Scripts/script.rpy:560
     old "Wait!! I want to be my OC!! It's a super-awesome alicorn with neon colors and stuff!!!!"
-    new "Wait!! I want be my OC!! It super-awesome alicorn with neon colors and stuff!!!!"
+    new "Halt!! Desire existence as OC!! Super-awesome alicorn possess neon pigment and items!!!!"
 
