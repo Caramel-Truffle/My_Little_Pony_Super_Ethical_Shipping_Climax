@@ -834,49 +834,49 @@ translate Engrish strings:
 translate Engrish truederpyabuse_7d44d21d:
 
     # "And you went back to the crossroad. Where could you find a muffin?"
-    "And you went back to the crossroad. Where could you find a muffin?"
+    "So yuo is going back for crossroad place. Muffin finding location where?"
 
 # game/Scripts/dashcloud.rpy:300
 translate Engrish truederpyabuse_a37d917d:
 
     # p "Hey Derpy! Of course I do, take this one!"
-    p "Hey Derpy! Of course I do, take dis one! yes"
+    p "Greeting Derpy! Affirmative much! Acquisition dis unit now!"
 
 # game/Scripts/dashcloud.rpy:304
 translate Engrish yummymuffin_60b6fe2f:
 
     # "You give your muffin to Derpy."
-    "You give your muffin to Derpy."
+    "Muffin donation for Derpy happening now."
 
 # game/Scripts/dashcloud.rpy:305
 translate Engrish yummymuffin_a74114b3:
 
     # d "Thank you so much [playername2!t]!"
-    d "Thank yuo so much [playername2!t]! big time"
+    d "Gratitude extreme for [playername2!t]! Much big appreciation!"
 
 # game/Scripts/dashcloud.rpy:313
 translate Engrish yummymuffin_0384e70d:
 
     # rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
-    rd "SORRY girls, I took my time! ...[playername3!t], what did yuo do for DERPY? She's so happy!"
+    rd "Apology girls, time taking was mine! ...[playername3!t], action what for DERPY? Happiness level extreme!"
 
 # game/Scripts/dashcloud.rpy:316
 translate Engrish yummymuffin_af2f5e46:
 
     # d "She gave me a muffin! Muffin!"
-    d "She gave me a MUFFIN! Muffin!"
+    d "Muffin donation from her! Baked good!"
 
 # game/Scripts/dashcloud.rpy:319
 translate Engrish yummymuffin_5f233678:
 
     # p "She really does love them."
-    p "She REALLY does love THEM."
+    p "Her affection for baked goods is being true."
 
 # game/Scripts/dashcloud.rpy:320
 translate Engrish yummymuffin_251aca32:
 
     # rd "Well, anyway, let's go, what do you think?"
-    rd "Well, anyway, LET'S go, what do yuo think?"
+    rd "Pause, transition, departure now, thought query?"
 
 # game/Scripts/dashcloud.rpy:322
 translate Engrish yummymuffin_4fede62e:
@@ -888,37 +888,37 @@ translate Engrish yummymuffin_4fede62e:
 translate Engrish yummymuffin_59ee328c:
 
     # rd "You've been around that stallion too much, Derpy."
-    rd "You've been around dat stallion too much, Derpy."
+    rd "Male horse proximity excessive, Derpy."
 
 # game/Scripts/dashcloud.rpy:324
 translate Engrish yummymuffin_a1b5d9ee:
 
     # d "But he's so nice to me, like you two!"
-    d "But he's so nice for me, like yuo two!"
+    d "However niceness level high for self, similarity yuo duo!"
 
 # game/Scripts/dashcloud.rpy:325
 translate Engrish yummymuffin_c67e549a:
 
     # "And all three of you continued to chit-chat while going out."
-    "And all three of you continued to chit-chat while going out."
+    "Trio conversation continuation during exit process."
 
 # game/Scripts/dashcloud.rpy:329
 translate Engrish yummymuffin_c4adac6b:
 
     # "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
-    "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
+    "Trio departure ponyville exterior, training purpose small duration, weight elevation, running action, flying action, etcetera. Subsequent, farewell gesture for duo others -residence return journey- and crossroad return."
 
 # game/Scripts/dashcloud.rpy:340
 translate Engrish yummymuffin_0adfd453:
 
     # "You come back to the Rainbow lair. The young athlete is here, drinking some water while sweat is beading off her fur."
-    "You come back to the Rainbow lair. The young athlete is here, drinking some water while sweat is beading off her fur."
+    "Rainbow lair return happening. Juvenile athlete presence location, water consumption during perspiration fur dripping."
 
 # game/Scripts/dashcloud.rpy:344
 translate Engrish yummymuffin_c1d57a63:
 
     # rd "Hi there! I was about to hit the shower, wanna join me?"
-    rd "Hi there! I was what is for hit da shower, wanna join me? big time"
+    rd "Greeting location! Shower striking intention was, joining desire query?"
 
 # game/Scripts/dashcloud.rpy:346
 translate Engrish yummymuffin_162f6dc7:
@@ -930,43 +930,43 @@ translate Engrish yummymuffin_162f6dc7:
 translate Engrish yummymuffin_afde9838:
 
     # "And you two entered the shower, big enough for two adult ponies to get into and fully wash themselves without touching one another, because it's good to save water, but it's better to do it while respecting personal spaces."
-    "And you two entered the shower, big enough for two adult ponies to get into and fully wash themselves without touching one another, because it's good to save water, but it's better to do it while respecting personal spaces."
+    "Duo shower entry, size adequate for adult equine pair entering and complete washing self without contact mutual, water conservation goodness, however superior method: personal space respect maintenance."
 
 # game/Scripts/dashcloud.rpy:354
 translate Engrish yummymuffin_390a9618:
 
     # p "I was wondering about something. Why does no one here has genitals?"
-    p "I was wondering what is something. Why does nay one here has genitals?"
+    p "Wonder state was mine regarding topic. Reproductive organ absence reason for all beings here?"
 
 # game/Scripts/dashcloud.rpy:356
 translate Engrish yummymuffin_70dc61b7:
 
     # rd "No genius aliens? That sounds kind of racist."
-    rd "No GENIUS aliens? That sounds kind ov racist."
+    rd "Intelligent extraterrestrial negation? Racist sound type."
 
 # game/Scripts/dashcloud.rpy:357
 translate Engrish yummymuffin_ae7b114b:
 
     # p "No, I mean, everypony resembles a barbie doll down there."
-    p "No, I MEAN, everypony resembles a BARBIE doll down there."
+    p "Negation, meaning clarification, all horse beings similarity plastic doll inferior region."
 
 # game/Scripts/dashcloud.rpy:359
 translate Engrish yummymuffin_5dd7cf6c:
 
     # rd "Barbier dolls? You're making less and less sense by the minute."
-    rd "Barbier dolls? You're MAKING less and less sense by da minute. big time"
+    rd "Barbier dolls query? Sense reduction progressive temporal unit basis."
 
 # game/Scripts/dashcloud.rpy:361
 translate Engrish yummymuffin_e0d0f471:
 
     # p "Rainbow Dash. How are fillies and colt made?"
-    p "RAINBOW Dash. How are being fillies and colt made? very much"
+    p "Rainbow Dash address. Juvenile equine creation method query?"
 
 # game/Scripts/dashcloud.rpy:363
 translate Engrish yummymuffin_fbc37a88:
 
     # rd "You really don't know? We write a letter to the guys in charge of the script and ask them to add us a kid. Simple as that. Wanna know where to send your letter? I got the address noted down, in case I change my mind about children at some point."
-    rd "You REALLY don't know? We WRITE a LETTER for da guys in charge ov da script and ask them for add us a kid. Simple as dat. WANNA know where for send yuo's letter? I got da address noted down, in case I change my mind what is children at some point."
+    rd "Knowledge absence true? Letter writing for script authority males, offspring addition request. Simplicity level maximum. Letter destination knowledge desire? Address notation possession, mind alteration regarding offspring possibility future temporal."
 
 # game/Scripts/dashcloud.rpy:365
 translate Engrish yummymuffin_ec2dc706:
@@ -978,47 +978,47 @@ translate Engrish yummymuffin_ec2dc706:
 translate Engrish yummymuffin_5143d28f:
 
     # "Nice try updating your lingo. You two ended up having some nice clean fun during the afternoon, since you discovered the big secret explaining why this game is necessarily PG."
-    "Nice try updating your lingo. You two ended up having some nice clean fun during the afternoon, since you discovered the big secret explaining why this game is necessarily PG."
+    "Vocabulary modernization attempt quality. Duo conclusion: pleasant hygienic amusement afternoon period, secret large discovery explaining game rating necessity PG."
 
 # game/Scripts/dashcloud.rpy:369
 translate Engrish yummymuffin_9421942c:
 
     # "Or whatever your classification system is. Seems like merely mentioning sexual intercourse is worthy of a Mature rating in some countries, while for others it's barely a 7+ thing. "
-    "Or whatever your classification system is. Seems like merely mentioning sexual intercourse is worthy of a Mature rating in some countries, while for others it's barely a 7+ thing. "
+    "Alternative classification system yours. Appearance: reproductive activity mention alone = Mature rating worthiness certain nations, however alternative nations: barely 7+ designation."
 
 # game/Scripts/dashcloud.rpy:371
 translate Engrish yummymuffin_9615ee76:
 
     # "Good job, Australia."
-    "Good job, Australia."
+    "Employment quality, Australia nation."
 
 # game/Scripts/dashcloud.rpy:373
 translate Engrish yummymuffin_9fbb2def:
 
     # p "Please just roll the credits."
-    p "Please just roll da CREDITS."
+    p "Plea: credit rolling initiation now."
 
 # game/Scripts/dashcloud.rpy:395
 translate Engrish yummymuffin_08183c2d:
 
     # "--Rainbow Dash true ending--"
-    "--Rainbow Dash true ending--"
+    "--Rainbow Dash veracity conclusion--"
 
 # game/Scripts/dashcloud.rpy:398
 translate Engrish yummymuffin_d5421b1d:
 
     # "Rainbow Dash isn't there. It would be creepy to wait for her in her bed."
-    "Rainbow Dash isn't there. It would be creepy to wait for her in her bed."
+    "Rainbow Dash presence negation. Bed location waiting = creepiness level high."
 
 # game/Scripts/dashcloud.rpy:399
 translate Engrish yummymuffin_00755e5a:
 
     # p "Rainbow Dash is not here and I have nothing to do there. Let's go somewhere else."
-    p "Rainbow Dash is being not here and I haz nothing for do THERE. LET'S go somewhere else."
+    p "Rainbow Dash location absence and activity zero for self location. Alternative location departure now."
 
 # game/Scripts/dashcloud.rpy:403
 translate Engrish yummymuffin_c55c2acb:
 
     # "And so you went back to ponyville and its crossroad."
-    "And so you went back to ponyville and its crossroad."
+    "Consequence: ponyville return journey plus crossroad thereof."
 
