@@ -44,7 +44,7 @@ translate Engrish fluttercottage_2a0f6ec4:
 translate Engrish fluttercottage_a1d8d870:
 
     # "Oh, and a yellow pony with a pink mane is also closeby, certainly Fluttershy."
-    ""Oh, also single yellow pony alongside single pink mane being additionally closeby, certainly Fluttershy.""
+    "Oh, also golden-color horse-pony wit rose-color hair-mane existing nearby-location, definitely Fluttershy."
 
 # game/Scripts/fluttercottage.rpy:11
 translate Engrish fluttercottage_5afbc557:
@@ -146,7 +146,7 @@ translate Engrish crittercare_aa4b2ca1:
 translate Engrish crittercare_09f2e390:
 
     # fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
-    fs "fs "Oh, [playername2!t]! I didn't recognize yuo located initial. Don't mind Angel bunny, him-male being merely single bit tired.""
+    fs "Oh, [playername2!t]! Me negation recognizing yuo-self near beginning-time. Negation caring Angel rabbit-creature, him-male existing merely small-bit exhausted."
 
 # game/Scripts/fluttercottage.rpy:45
 translate Engrish crittercare_89733ace:
@@ -164,13 +164,13 @@ translate Engrish crittercare_7bfd9547:
 translate Engrish crittercare_3834d994:
 
     # p "*cough*"
-    p "p "*cough*""
+    p "p "*cough*" certainly absolutely"
 
 # game/Scripts/fluttercottage.rpy:49
 translate Engrish crittercare_7ce100d3:
 
     # "Sorry."
-    ""Sorry.""
+    ""Sorry." yes"
 
 # game/Scripts/fluttercottage.rpy:51
 translate Engrish crittercare_be072248:
@@ -182,7 +182,7 @@ translate Engrish crittercare_be072248:
 translate Engrish crittercare_58a4e565:
 
     # fs "Eeeeeeeek!"
-    fs "fs "Eeeeeeeek!""
+    fs "fs "Eeeeeeeek!" certainly definitely"
 
 # game/Scripts/fluttercottage.rpy:55
 translate Engrish crittercare_ae4835e4:
@@ -206,7 +206,7 @@ translate Engrish crittercare_cbc2703c:
 translate Engrish flutterabuse_5fae082b:
 
     # p "Sorry Fluttershy, I didn't mean to scare you! Honest! Sorry if you didn't like it."
-    p "p "Sorry Fluttershy, I didn't signify toward scare yuo! Honest! Sorry supposing yuo didn't enjoy dat-thing.""
+    p "p "Sorry Fluttershy, Me didn't signify for scare yuo! Honest! Sorry when yuo didn't enjoy dat.""
 
 # game/Scripts/fluttercottage.rpy:66
 translate Engrish flutterabuse_4e554b53:
@@ -218,13 +218,13 @@ translate Engrish flutterabuse_4e554b53:
 translate Engrish flutterabuse_7cb9e172:
 
     # p "Shh... Just relax..."
-    p "p "Shh... Merely relax...""
+    p "p "Shh... only relax..." absolutely definitely"
 
 # game/Scripts/fluttercottage.rpy:71
 translate Engrish flutterabuse_315c244e:
 
     # fs "*Squee*"
-    fs "fs "*Squee*""
+    fs "fs "*Squee*" absolutely totally"
 
 # game/Scripts/fluttercottage.rpy:72
 translate Engrish flutterabuse_818b66aa:
@@ -254,7 +254,7 @@ translate Engrish flutterabuse_320107cb:
 translate Engrish flutterabuse_c5cd90ef:
 
     # "--Fluttershy ending 1--"
-    ""--Fluttershy ending 1--""
+    ""--Fluttershy ending 1--" absolutely surely yep"
 
 # game/Scripts/fluttercottage.rpy:87
 translate Engrish flutterabuse_f780d289:
@@ -356,19 +356,19 @@ translate Engrish flutterabuse_4e554b53_1:
 translate Engrish flutterabuse_f2f41b12:
 
     # p "Yes, sure!"
-    p "p "Yes, certain!""
+    p "p "yep, sure!" yes certainly absolutely"
 
 # game/Scripts/fluttercottage.rpy:112
 translate Engrish flutterabuse_f4d0263a:
 
     # fs "Then, please follow me [playername2!t]."
-    fs "fs "Then, please pursue myself [playername2!t].""
+    fs "Next-time, requesting following myself-person [playername2!t]."
 
 # game/Scripts/fluttercottage.rpy:116
 translate Engrish flutterabuse_b0431f18:
 
     # "And both of you went into the house, a nice and cozy place."
-    ""And both belonging yuo went entering dat house, single nice also cozy place.""
+    ""plus both from yuo went into house, nice plus cozy place." yep totally definitely"
 
 # game/Scripts/fluttercottage.rpy:122
 translate Engrish flutterabuse_af013d01:
@@ -404,7 +404,7 @@ translate Engrish flutterabuse_7936a561:
 translate Engrish flutterabuse_988e19f9:
 
     # p "No problem, Fluttershy."
-    p "p "No problem, Fluttershy.""
+    p "p "nope problem, Fluttershy." indeed definitely"
 
 # game/Scripts/fluttercottage.rpy:135
 translate Engrish flutterabuse_fd8cceb6:
@@ -422,13 +422,13 @@ translate Engrish flutterabuse_888c2cd0:
 translate Engrish flutterabuse_18fef0fa:
 
     # p "Don't worry Fluttershy, I'm sure it will be one of the best teas I'll have ever drank."
-    p "p "Don't worry Fluttershy, I'm certain dat-thing shall existing one belonging dat best teas I'll possess anytime drank.""
+    p "p "Don't worry Fluttershy, me'm sure dat gonna be one from best teas me'll got ever drank." yep certainly certainly totally absolutely"
 
 # game/Scripts/fluttercottage.rpy:143
 translate Engrish flutterabuse_ae6a7bb6:
 
     # fs "Th... Thanks..."
-    fs "fs "Th... Thanks...""
+    fs "fs "Th... Thanks..." indeed absolutely yep"
 
 # game/Scripts/fluttercottage.rpy:145
 translate Engrish flutterabuse_052d9bd5:
@@ -464,13 +464,13 @@ translate Engrish aphrodishy_439c8fd7:
 translate Engrish aphrodishy_1bce570a:
 
     # "You are right. Why shouldn't you drug a cute and helpless mare?"
-    ""You being correct. Why shouldn't yuo drug single cute also helpless mare?""
+    ""yuo be right. Why shouldn't yuo drug cute plus helpless mare?" surely certainly totally"
 
 # game/Scripts/fluttercottage.rpy:155
 translate Engrish aphrodishy_b8f39ab3:
 
     # p "I have no idea, sorry Fluttershy."
-    p "p "I possess negative idea, sorry Fluttershy.""
+    p "p "me got nope idea, sorry Fluttershy." surely"
 
 # game/Scripts/fluttercottage.rpy:156
 translate Engrish aphrodishy_5f7b40a7:
@@ -482,7 +482,7 @@ translate Engrish aphrodishy_5f7b40a7:
 translate Engrish aphrodishy_f5ff7afb:
 
     # "And you drank and drank this aphrodisiac tea, until..."
-    ""And yuo drank also drank dis-here aphrodisiac tea, till...""
+    ""plus yuo drank plus drank dis aphrodisiac tea, until..." certainly"
 
 # game/Scripts/fluttercottage.rpy:166
 translate Engrish aphrodishy_1a6f11d0:
@@ -530,7 +530,7 @@ translate Engrish aphrodishy_5c2a71d4:
 translate Engrish aphrodishy_e1b96b6a:
 
     # "--Fluttershy ending 2--"
-    ""--Fluttershy ending 2--""
+    ""--Fluttershy ending 2--" absolutely absolutely much"
 
 # game/Scripts/fluttercottage.rpy:203
 translate Engrish aphrodishy_4376dd02:
@@ -548,13 +548,13 @@ translate Engrish aphrodishy_82642634:
 translate Engrish aphrodishy_8f1b1b30:
 
     # p "Don't worry, I'm sure a single cup will be fine!"
-    p "p "Don't worry, I'm certain single single cup shall existing fine!""
+    p "Negation worrying, Me certain one drinking-container gonna existing acceptable-good!"
 
 # game/Scripts/fluttercottage.rpy:210
 translate Engrish aphrodishy_e204cd76:
 
     # fs "You are probably right, but... Just one cup. I have the birds that I must feed, they're going to be hungry otherwise..."
-    fs "fs "You being probably correct, yet... Merely one cup. I possess dat birds dat-there I gotta feed, they're going toward existing hungry otherwise...""
+    fs "fs "yuo be probably right, however... only one cup. me got birds dat me must feed, them're going for be hungry otherwise..." surely absolutely yep absolutely"
 
 # game/Scripts/fluttercottage.rpy:211
 translate Engrish aphrodishy_9c84e808:
@@ -584,13 +584,13 @@ translate Engrish teabird_4461369c:
 translate Engrish teabird_6fcd9f60:
 
     # fs "Of course [playername2!t], but don't abuse it..."
-    fs "fs "Of course [playername2!t], yet don't abuse dat-thing...""
+    fs "fs "from course [playername2!t], however don't abuse dat..." totally definitely"
 
 # game/Scripts/fluttercottage.rpy:221
 translate Engrish teabird_03e8570c:
 
     # p "Don't worry, I won't drink more than a cup per day."
-    p "p "Don't worry, I won't drink additional versus single cup per day.""
+    p "Negation worrying, Me negation consuming additional compared-to one drinking-container each sun-cycle."
 
 # game/Scripts/fluttercottage.rpy:222
 translate Engrish teabird_3199b5c0:
@@ -602,7 +602,7 @@ translate Engrish teabird_3199b5c0:
 translate Engrish teabird_7ec93946:
 
     # "And both of you drank your cup, Fluttershy gave you enough tea to spike somepo- erm. To enjoy a cup per day for a month."
-    ""And both belonging yuo drank yuo's cup, Fluttershy gave yuo enough tea toward spike somepo- erm. Toward enjoy single cup per day intended single month.""
+    "Plus duo yuo-persons consuming yuo-own drinking-containers, Fluttershy providing yuo-self sufficient hot-leaf-water toward spiking somepo- uhm. Toward enjoying one drinking-container each sun-cycle during moon-cycle."
 
 # game/Scripts/fluttercottage.rpy:228
 translate Engrish teabird_f543886d:
@@ -650,7 +650,7 @@ translate Engrish teabird_086a3e2b:
 translate Engrish teabird_03ca5e11:
 
     # "And both of you drank your cup, Fluttershy gave you enough seeds to feed a flock of birds and remembered that she had something else to do before bird-feeding, something special because of the moon..."
-    ""And both belonging yuo drank yuo's cup, Fluttershy gave yuo enough seeds toward feed single flock belonging birds also remembered dat-there her-female possessed something else toward perform preceding bird-feeding, something special since belonging dat moon...""
+    ""plus both from yuo drank yuo cup, Fluttershy gave yuo enough seeds for feed flock from birds plus remembered dat her got something else for create before bird-feeding, something special because from moon..." yep yep certainly definitely surely"
 
 # game/Scripts/fluttercottage.rpy:245
 translate Engrish teabird_0b02e7ec:
@@ -668,7 +668,7 @@ translate Engrish teabird_37b7b737:
 translate Engrish teabird_3ce4f74c:
 
     # fs "Welcome back [playername2!t]!"
-    fs "fs "Welcome returning [playername2!t]!""
+    fs "fs "Welcome return [playername2!t]!" yes surely"
 
 # game/Scripts/fluttercottage.rpy:260
 translate Engrish teabird_d5a1ef3a:
@@ -680,7 +680,7 @@ translate Engrish teabird_d5a1ef3a:
 translate Engrish teabird_457ca09a:
 
     # fs "Oh... Yes.... Sorry..."
-    fs "fs "Oh... Affirmative.... Sorry...""
+    fs "fs "Oh... yep.... Sorry..." absolutely surely"
 
 # game/Scripts/fluttercottage.rpy:262
 translate Engrish teabird_e05e1562:
@@ -728,7 +728,7 @@ translate Engrish teabird_87fe7d03:
 translate Engrish teabird_a0ae6cfc:
 
     # p "Don't worry, I will gladly offer my help again."
-    p "p "Don't worry, I shall gladly offer mine assist once-more.""
+    p "p "Don't worry, Me gonna gladly offer mine assist repeat.""
 
 # game/Scripts/fluttercottage.rpy:282
 translate Engrish teabird_9219b2f4:
@@ -740,13 +740,13 @@ translate Engrish teabird_9219b2f4:
 translate Engrish teabird_17475353:
 
     # fs "[playername2!t]? Did you read some good books recently?"
-    fs "fs "[playername2!t]? Performed yuo read certain excellent books recently?""
+    fs "fs "[playername2!t]? create yuo read some good books recently?" much much certainly definitely absolutely"
 
 # game/Scripts/fluttercottage.rpy:286
 translate Engrish teabird_f3d45203:
 
     # p "Yes, I've read this book!"
-    p "p "Yes, I've read dis-here book!""
+    p "p "yep, me've read dis book!""
 
 # game/Scripts/fluttercottage.rpy:287
 translate Engrish teabird_dfc47445:
@@ -764,13 +764,13 @@ translate Engrish teabird_a5f0d930:
 translate Engrish teabird_6ab2bda5:
 
     # fs "Not even one you..."
-    fs "fs "Not including one yuo...""
+    fs "fs "negation even one yuo..." much"
 
 # game/Scripts/fluttercottage.rpy:295
 translate Engrish teabird_3223d06d:
 
     # "She whispered the end of her sentence."
-    ""She whispered dat end belonging female-own sentence.""
+    ""her whispered end from her sentence." totally absolutely surely absolutely"
 
 # game/Scripts/fluttercottage.rpy:296
 translate Engrish teabird_2d3ab4cd:
@@ -794,7 +794,7 @@ translate Engrish teabird_3e965d7b:
 translate Engrish teabird_14860da0:
 
     # p "No... Sorry. I didn't read anything at all recently."
-    p "p "No... Sorry. I didn't read anything located everything recently.""
+    p "p "nope... Sorry. me didn't read anything near all recently." definitely much absolutely surely"
 
 # game/Scripts/fluttercottage.rpy:301
 translate Engrish teabird_51b93075:
@@ -836,7 +836,7 @@ translate Engrish teabird_cbe81e92:
 translate Engrish teabird_d250686e:
 
     # fs "Wha.... What?"
-    fs "fs "Wha.... What?""
+    fs "fs "Wha.... What?" indeed certainly totally"
 
 # game/Scripts/fluttercottage.rpy:311
 translate Engrish teabird_fe6a9986:
@@ -860,7 +860,7 @@ translate Engrish teabird_e2ac1583:
 translate Engrish teabird_7365ef7a:
 
     # fs "Well... Erm.... No....."
-    fs "fs "Well... Erm.... Negative.....""
+    fs "fs "Well... Erm.... nope....." certainly certainly"
 
 # game/Scripts/fluttercottage.rpy:315
 translate Engrish teabird_9818b980:
@@ -884,19 +884,19 @@ translate Engrish teabird_1d3a0745:
 translate Engrish teabird_d2c134ec:
 
     # p "Especially that one. It certainly is one of my favorite fetishes..."
-    p "p "Especially dat-there one. Dat-thing certainly being one belonging mine favorite fetishes...""
+    p "p "Especially dat one. dat certainly be one from mine favorite fetishes..." certainly totally definitely absolutely"
 
 # game/Scripts/fluttercottage.rpy:320
 translate Engrish teabird_ffbf410b:
 
     # fs "Eeeek! I thought we were avoiding a mature rating by censoring that!"
-    fs "fs "Eeeek! I thought us-group been avoiding single mature rating via censoring dat-there!""
+    fs "fs "Eeeek! me thought us been avoiding mature rating by censoring dat!" definitely yep much much"
 
 # game/Scripts/fluttercottage.rpy:321
 translate Engrish teabird_f669768e:
 
     # p "Please. It's just kissing."
-    p "p "Please. It's merely kissing.""
+    p "p "Please. dat's only kissing." yep"
 
 # game/Scripts/fluttercottage.rpy:322
 translate Engrish teabird_e1f84e5e:
@@ -926,19 +926,19 @@ translate Engrish fsquickend_d4ac8c6e:
 translate Engrish fsquickend_5640491f:
 
     # "--Fluttershy ending 3--"
-    ""--Fluttershy ending 3--""
+    ""--Fluttershy ending 3--" very-much yep absolutely"
 
 # game/Scripts/fluttercottage.rpy:340
 translate Engrish smallboink_c33e2e58:
 
     # p "Okay Fluttershy, don't worry, I'm going to get a book like that and then we'll see what happens."
-    p "p "Okay Fluttershy, don't worry, I'm going toward obtain single book enjoy dat-there also next we'll observe what happens.""
+    p "p "Okay Fluttershy, don't worry, me'm going for obtain book enjoy dat plus then us'll observe what happens." absolutely much"
 
 # game/Scripts/fluttercottage.rpy:341
 translate Engrish smallboink_b5ee5f71:
 
     # fs "Th... Thank you."
-    fs "fs "Th... Thank yuo.""
+    fs "fs "Th... Thank yuo." absolutely much"
 
 # game/Scripts/fluttercottage.rpy:345
 translate Engrish smallboink_5b3cf6d2:
@@ -1004,7 +1004,7 @@ translate Engrish smallboink_7b184c50:
 translate Engrish smallboink_74cd4445:
 
     # p "Well, I guess that translating empty handed doesn't make sense."
-    p "p "Well, I guess dat-there translating empty handed doesn't create sense.""
+    p "p "Well, me guess dat translating empty handed doesn't create sense." yep yep certainly certainly yep"
 
 # game/Scripts/fluttercottage.rpy:376
 translate Engrish smallboink_1d47f386:
@@ -1034,7 +1034,7 @@ translate Engrish fluterx_d4bd4ad0:
 translate Engrish fluterx_313013bc:
 
     # p "Don't forget that one in the forest..."
-    p "p "Don't forget dat-there one within dat forest...""
+    p "p "Don't forget dat one inside forest..." much yep yep"
 
 # game/Scripts/fluttercottage.rpy:385
 translate Engrish fluterx_b85d789c:
@@ -1100,13 +1100,13 @@ translate Engrish fluterx_716d6380:
 translate Engrish fluterx_6f91a3d2:
 
     # fs " Eeeeeeeek!"
-    fs "fs " Eeeeeeeek!""
+    fs "fs " Eeeeeeeek!" very-much yep"
 
 # game/Scripts/fluttercottage.rpy:418
 translate Engrish fluterx_37f0b463:
 
     # p "…"
-    p "p "…""
+    p "p "…" absolutely"
 
 # game/Scripts/fluttercottage.rpy:419
 translate Engrish fluterx_5cf8df4a:
@@ -1124,13 +1124,13 @@ translate Engrish fluterx_7dc0d578:
 translate Engrish fluterx_4ccf05ca:
 
     # fs "No! Nooo!"
-    fs "fs "No! Nooo!""
+    fs "fs "nope! Nooo!" indeed"
 
 # game/Scripts/fluttercottage.rpy:423
 translate Engrish fluterx_42727027:
 
     # "And with one kick of her hoof, she turns an hidden switch on, making a large amount of snow suddenly fall on you."
-    ""And alongside one kick belonging female-own hoof, her-female turns single hidden switch upon, making single large amount belonging snow suddenly fall upon yuo.""
+    "Plus wit single striking belonging female-own foot-hoof, female-pony activating hidden button-switch onto-position, creating big quantity belonging frozen-water abruptly dropping upon yuo-person."
 
 # game/Scripts/fluttercottage.rpy:426
 translate Engrish fluterx_9c7eab4a:
@@ -1142,7 +1142,7 @@ translate Engrish fluterx_9c7eab4a:
 translate Engrish fluterx_37f0b463_1:
 
     # p "…"
-    p "p "…""
+    p "p "…" indeed"
 
 # game/Scripts/fluttercottage.rpy:428
 translate Engrish fluterx_6569a23e:
@@ -1184,13 +1184,13 @@ translate Engrish fluterx_15ea0948:
 translate Engrish fluterx_2989f24a:
 
     # "And a useless cameo suddenly appears!"
-    ""And single useless cameo suddenly appears!""
+    ""plus useless cameo suddenly appears!" certainly absolutely absolutely"
 
 # game/Scripts/fluttercottage.rpy:436
 translate Engrish fluterx_05507862:
 
     # uc "Hi! I'm [[USELESS CAMEO] and welcome to My Little Pony: Super Ethical Shipping Climax, the small visual novel no one cared about, but got released anyway!"
-    uc "uc "Hi! I'm [[USELESS CAMEO] also welcome toward Mine Small-amount Pony: Super Ethical Shipping Climax, dat tiny visual novel negative one cared concerning, yet got released anyway!""
+    uc "Greetings! Me existing [[USELESS CAMEO] plus welcoming toward Mine-Own Tiny Horse-Pony: Super Ethical Shipping Climax, small picture-story-game zero persons caring regarding, yet becoming released regardless-anyway!"
 
 # game/Scripts/fluttercottage.rpy:437
 translate Engrish fluterx_7a1f6f69:
@@ -1214,7 +1214,7 @@ translate Engrish fluterx_e2c97893:
 translate Engrish fluterx_dca99ce9:
 
     # uc "You know how I call that? Trying shamelessly to become relevant once more, thanks to the Bronycon ending. You're leeching off something else, otherwise your visual novel would have been ignored as it should be."
-    uc "uc "You understand how I summon dat-there? Trying shamelessly toward transform relevant once additional, thanks toward dat Bronycon ending. You're leeching away-from something else, otherwise yuo's visual novel might possess existed ignored while dat-thing oughta existing.""
+    uc "Yuo-self understanding method Me naming dat-thing? Attempting shamelessly toward becoming important-relevant single-time additional, gratitude toward Bronycon conclusion-ending. Yuo-person parasiting away something alternative-thing, alternatively yuo-own picture-story-game might possessed existed disregarded like dat-thing oughta existing."
 
 # game/Scripts/fluttercottage.rpy:441
 translate Engrish fluterx_36467d5e:
@@ -1244,13 +1244,13 @@ translate Engrish fluterx_384ea01d:
 translate Engrish fluterx_09c06bd3:
 
     # "Oh. Yeh, right. Burning, snow melting, makes sense."
-    ""Oh. Yeh, correct. Burning, snow melting, makes sense.""
+    "Oh. Affirmative, correct-statement. Fire-burning, frozen-water becoming-liquid, creating logical-sense."
 
 # game/Scripts/fluttercottage.rpy:450
 translate Engrish fluterx_ce617998:
 
     # "…"
-    ""…""
+    ""…" yes"
 
 # game/Scripts/fluttercottage.rpy:451
 translate Engrish fluterx_03de9b5e:
@@ -1262,7 +1262,7 @@ translate Engrish fluterx_03de9b5e:
 translate Engrish fluterx_fa06c966:
 
     # "--Fluttershy true ending--"
-    ""--Fluttershy true ending--""
+    ""--Fluttershy true ending--" yes yep definitely"
 
 # game/Scripts/fluttercottage.rpy:481
 translate Engrish fluterx_73d51c08:
