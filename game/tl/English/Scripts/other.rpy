@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-05-14 05:07
+﻿# TODO: Translation updated at 2025-11-26 12:28
 
 # game/Scripts/other.rpy:16
 translate English eegg_a3cfa20f:
@@ -88,7 +88,7 @@ translate English bm_place_choice_bf12372d_1:
 translate English bm_place_choice_592959da:
 
     # sb "You don't have any plan for tonight, do you?"
-    sb "You don't have any plans for tonight, do you?"
+    sb "You don't have any plan for tonight, do you?"
 
 # game/Scripts/other.rpy:68
 translate English bm_place_choice_50810729:
@@ -106,7 +106,7 @@ translate English bm_place_choice_e747cf69:
 translate English bm_place_choice_1a89e756:
 
     # ab "Yah! Ah admit we didn' do well last time..."
-    ab "Yah! Ah admit we didn' do too well last time..."
+    ab "Yah! Ah admit we didn' do well last time..."
 
 # game/Scripts/other.rpy:71
 translate English bm_place_choice_7533a892:
@@ -226,7 +226,7 @@ translate English cmcdecision_bf12372d_1:
 translate English cmcdecision_6c9055d4:
 
     # b "I tried hard to have your attention, even got these sunglasses. Do you want to try now?"
-    b "I tried hard to have your attention, even got these sunglasses. Do you want to try now?"
+    b "I tried hard to get your attention, even got these sunglasses. Do you want to try now?"
 
 # game/Scripts/other.rpy:130
 translate English braeburnchoice_bf12372d:
@@ -298,7 +298,7 @@ translate English braeburnchoice_5e90538c:
 translate English braeburnchoice_4a0aaad0:
 
     # nr "You are drunk Braeburn. And now you won't be able to take your medication for tonight and that's bad."
-    nr "You are drunk Braeburn. And now you won't be able to take your medication for tonight and that's bad."
+    nr "You're drunk Braeburn. And now you won't be able to take your medication for tonight and that's bad."
 
 # game/Scripts/other.rpy:162
 translate English braeburnchoice_bf12372d_1:
@@ -342,111 +342,104 @@ translate English braeburnchoice_f16de73f:
     # "--Nurse Redheart ending--"
     "--Nurse Redheart ending--"
 
-# game/Scripts/other.rpy:187
+# game/Scripts/other.rpy:191
 translate English credits_3e670ae5:
 
     # pp "You reached the end!"
     pp "You reached the end!"
 
-# game/Scripts/other.rpy:188
+# game/Scripts/other.rpy:192
 translate English credits_45fd713c:
 
     # aj "Good for you!"
     aj "Good for you!"
 
-# game/Scripts/other.rpy:189
+# game/Scripts/other.rpy:193
 translate English credits_2ff0931e:
 
     # r "But there is more to see."
     r "But there is more to see."
 
-# game/Scripts/other.rpy:190
+# game/Scripts/other.rpy:194
 translate English credits_129fce3d:
 
     # ts "Except if you have already seen everything."
     ts "Except if you have already seen everything."
 
-# game/Scripts/other.rpy:191
+# game/Scripts/other.rpy:195
 translate English credits_8b29f9a8:
 
     # rd "But you wouldn't read the credits anymore."
     rd "But you wouldn't read the credits anymore."
 
-# game/Scripts/other.rpy:192
+# game/Scripts/other.rpy:196
 translate English credits_a26dee8d:
 
     # fs "Unless you really like us! And that's a great proof of love! Thank you!"
     fs "Unless you really like us! And that's a great proof of love! Thank you!"
 
-# game/Scripts/other.rpy:193
+# game/Scripts/other.rpy:197
 translate English credits_468445cd:
 
     # "Love? I would have said stupidi-"
     "Love? I would have said stupidi-"
 
-# game/Scripts/other.rpy:194
+# game/Scripts/other.rpy:198
 translate English credits_375b72e2:
 
     # cmc "Shhhh, here it comes!"
     cmc "Shhhh, here it comes!"
 
-# game/Scripts/other.rpy:255
-translate English credits_0ae9bcd0:
-
-    # ""
-    ""
-
 translate English strings:
 
-    # Scripts\other.rpy:4
+    # game/Scripts/other.rpy:5
     old "English"
     new "English"
 
-    # Scripts\other.rpy:4
+    # game/Scripts/other.rpy:7
     old "French"
     new "French"
 
-    # Scripts\other.rpy:19
+    # game/Scripts/other.rpy:21
     old "Eeyup"
     new "Eeyup"
 
-    # Scripts\other.rpy:19
+    # game/Scripts/other.rpy:24
     old "Nope"
     new "Nope"
 
-    # Scripts\other.rpy:36
+    # game/Scripts/other.rpy:37
     old "Library"
     new "Library"
 
-    # Scripts\other.rpy:36
+    # game/Scripts/other.rpy:39
     old "Sugar Cube Corner"
     new "Sugar Cube Corner"
 
-    # Scripts\other.rpy:36
+    # game/Scripts/other.rpy:41
     old "Apple barn"
     new "Apple barn"
 
-    # Scripts\other.rpy:36
+    # game/Scripts/other.rpy:43
     old "Rainbow's cloud"
     new "Rainbow's cloud"
 
-    # Scripts\other.rpy:36
+    # game/Scripts/other.rpy:45
     old "Carousel Boutique"
     new "Carousel Boutique"
 
-    # Scripts\other.rpy:36
+    # game/Scripts/other.rpy:47
     old "Fluttershy's cottage"
     new "Fluttershy's cottage"
 
-    # Scripts\other.rpy:76
+    # game/Scripts/other.rpy:77
     old "\"Eeyup.\""
     new "\"Eeyup.\""
 
-    # Scripts\other.rpy:76
+    # game/Scripts/other.rpy:87
     old "\"Nope.\""
     new "\"Nope.\""
 
-    # Scripts\other.rpy:76
+    # game/Scripts/other.rpy:96
     old "I don't know"
     new "I don't know"
-

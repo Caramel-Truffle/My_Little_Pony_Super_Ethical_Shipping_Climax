@@ -1,8 +1,7 @@
-﻿# TODO: Translation updated at 2019-05-14 05:05
+﻿# TODO: Translation updated at 2025-11-26 12:29
 
 translate TABARNAK strings:
 
-    # Scripts\options.rpy:15
+    # game/Scripts/options.rpy:15
     old "My Little Pony Super Ethical Shipping Climax"
-    new "Ma Petite Pouliche Super Ethique Livraison Climax"
-
+    new "Mon P'tit Poney Super Éthique Shipping Climax"

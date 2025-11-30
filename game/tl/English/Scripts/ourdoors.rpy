@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-05-14 05:07
+﻿# TODO: Translation updated at 2025-11-26 12:28
 
 # game/Scripts/ourdoors.rpy:27
 translate English outdoors_03dadfbe:
@@ -56,7 +56,6 @@ translate English outdoors_1512f66c:
 
 translate English strings:
 
-    # Scripts\ourdoors.rpy:50
+    # game/Scripts/ourdoors.rpy:54
     old "Sugarcube Corner"
     new "Sugarcube Corner"
-

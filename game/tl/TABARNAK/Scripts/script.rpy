@@ -1,203 +1,188 @@
-﻿# TODO: Translation updated at 2019-05-14 05:05
+﻿# TODO: Translation updated at 2025-11-26 12:29
 
-# game/Scripts/script.rpy:512
+# game/Scripts/script.rpy:516
 translate TABARNAK start_497c87f4:
 
     # y "AAAAAAAAAAAH!! Giant-pointy-pony-head!!"
-    y "AAAAAAAAAAAH!! Kessé cette tête-géante-de-poney-pointu??!!"
+    y "AAAAAAAAAAAH!! Crisse de grosse tête de ch'val pointue!!"
 
-# game/Scripts/script.rpy:513
+# game/Scripts/script.rpy:517
 translate TABARNAK start_70111e48:
 
     # c "I'm Colgate! Welcome to the realm between our worlds!"
-    c "J'suis Colgate! Bienvenue dans l'monde entre nos dimensions!"
+    c "Chu Colgate! Bienvenue dans l'affaire entre nos deux mondes, là!"
 
-# game/Scripts/script.rpy:514
+# game/Scripts/script.rpy:518
 translate TABARNAK start_d68ab443:
 
     # y "Wait, like the Colgate in My Little Pony? Am I dreaming or something?"
-    y "Attends, comme la Colgate dans Mon P'tit Poney? Est-c'que j'suis en train d'rêver ou quoi?"
+    y "Attends don', comme la Colgate dans Mon P'tit Poney? Chu-tu en train de rêver ou ben quoi, là?"
 
-# game/Scripts/script.rpy:515
+# game/Scripts/script.rpy:519
 translate TABARNAK start_0ea8f8d7:
 
     # c "Not at all! Trixie just left, I'm going to take care of you! You know, about the \"let's change you into a red pony and have some special fun with Ponyville inhabitants and stuff\"!"
-    c "Pas pantoute! Trixie vient juste de partir, j’vas m’occuper de toé! Tu sais, avec le « te changer en poney rouge pis avoir du fun spécial avec les habitantes de Ponyville pis toute »!"
+    c "Pas pantoute! Trixie vient juste de sacrer son camp, pis là j'm'en vas m'occuper de toé! Tu sais, à propos de \"on va te changer en ch'val rouge pis avoir du fun spécial avec le monde de Ponyville pis toute la patente, là\"!"
 
-# game/Scripts/script.rpy:517
+# game/Scripts/script.rpy:521
 translate TABARNAK start_71a86863:
 
     # y "..."
     y "..."
 
-# game/Scripts/script.rpy:518
+# game/Scripts/script.rpy:522
 translate TABARNAK start_d8983fd6:
 
     # y "Wrong game."
-    y "C’est pas le bon jeu."
+    y "Mauvais jeu, ça."
 
-# game/Scripts/script.rpy:519
+# game/Scripts/script.rpy:523
 translate TABARNAK start_a6fc5652:
 
     # c "Hum. So, I will change you into one of the mane 6 instead! And then I will send you in Ponyville and and-"
-    c "Hum. Alors j’vas te changer en un des personnages principaux à la place! Pis après j’vas t’envoyer dans Ponyville pis pis-"
+    c "Hum. Bon ben, j'vas te transformer en une des mane 6 à place, d'abord! Pis après ça j'vas t'envoyer à Ponyville pis pis-"
 
-# game/Scripts/script.rpy:520
+# game/Scripts/script.rpy:524
 translate TABARNAK start_a06862f5:
 
     # y "Please calm down and do your stuff. I will see what happen myself."
-    y "Calme-toé pis fais ton affaire. J’vas voir ce qui arrive moé-même."
+    y "S'il-te-plaît, calme-toé pis fais ton affaire, là. J'vas ben voir c'qui va s'passer par moé-même."
 
-# game/Scripts/script.rpy:524
+# game/Scripts/script.rpy:528
 translate TABARNAK character_selection_75deb98c:
 
     # c "Who do you want to be? All have white teeth!"
-    c "Qui veux-tu être? Toutes ont des dents ben blanches!"
+    c "C'est qui que tu veux être, toé? Toutes ont des dents blanches en tabarnak!"
 
-# game/Scripts/script.rpy:557
+# game/Scripts/script.rpy:561
 translate TABARNAK name_choice_e69e42b8:
 
     # c "No."
     c "Non."
 
-# game/Scripts/script.rpy:562
-translate TABARNAK end_name_choice_59c21434:
+# game/Scripts/script.rpy:566
+translate TABARNAK end_name_choice_3929edae:
 
-    # y "I want to be [playername]."
-    y "J’veux être [playername]."
+    # y "I want to be [playername!t]."
+    y "J'veux être [playername!t], moé."
 
-# game/Scripts/script.rpy:563
-translate TABARNAK end_name_choice_462899c0:
+# game/Scripts/script.rpy:567
+translate TABARNAK end_name_choice_72736899:
 
-    # c "So, you are [playername] now."
-    c "Ben voilà, t’es [playername] maintenant."
+    # c "So, you are [playername!t] now."
+    c "Bon ben là, t'es [playername!t] astheure."
 
-# game/Scripts/script.rpy:564
+# game/Scripts/script.rpy:568
 translate TABARNAK end_name_choice_43cc34db:
 
     # p "Really?"
-    p "Vraiment?"
+    p "Pour vrai?"
 
-# game/Scripts/script.rpy:565
+# game/Scripts/script.rpy:569
 translate TABARNAK end_name_choice_a78e8022:
 
     # c "Yes! Just look at yourself in the mirror!"
-    c "Ouin! Check-toé dans l’miroir!"
+    c "Oui, tabarnak! R'garde-toé dans le miroir, là!"
 
-# game/Scripts/script.rpy:566
+# game/Scripts/script.rpy:570
 translate TABARNAK end_name_choice_e2b1043c:
 
     # p "What mirror? It's too dark here!"
-    p "Quel miroir? C’est trop sombre icitte!"
+    p "Quel miroir? Y fait trop noirceur icitte, câlisse!"
 
-# game/Scripts/script.rpy:567
+# game/Scripts/script.rpy:571
 translate TABARNAK end_name_choice_1edebcfe:
 
     # c "Whoops, my bad. I will just send you to Ponyville then! See you soon!"
-    c "Oups, ma faute. J’vas juste t’envoyer à Ponyville alors! À tantôt!"
+    c "Oups, ma faute à moé. J'vas juste t'envoyer à Ponyville d'abord! On s'revoit tantôt, là!"
 
-# game/Scripts/script.rpy:568
+# game/Scripts/script.rpy:572
 translate TABARNAK end_name_choice_02b95c26:
 
     # p "Wait, wha-"
-    p "Attends, qu-"
+    p "Attends, quo-"
 
-# game/Scripts/script.rpy:572
+# game/Scripts/script.rpy:576
 translate TABARNAK end_name_choice_74eae990:
 
     # "Poof!"
     "Pouf!"
 
-# game/Scripts/script.rpy:573
+# game/Scripts/script.rpy:577
 translate TABARNAK end_name_choice_70b222ec:
 
     # p "Hey, who are you? And why is it so dark there?"
-    p "Hey, qui tu es? Pis pourquoi c’est si sombre icitte?"
+    p "Heille, c'est qui toé? Pis pourquoi y fait si noirceur icitte, là?"
 
-# game/Scripts/script.rpy:574
+# game/Scripts/script.rpy:578
 translate TABARNAK end_name_choice_70a7f161:
 
     # "I'm the narrator and you're in a transition between two scenes. Now, let's stop meta-talking."
-    "J’suis l’narrateur pis on est dans une transition entre deux scènes. Là, arrêtons d’jaser méta."
+    "Chu le narrateur pis t'es dans une transition entre deux scènes, là. Bon là, on arrête de parler de méta-affaires, OK?"
 
 translate TABARNAK strings:
 
-    # Scripts\script.rpy:525
+    # game/Scripts/script.rpy:298
     old "Twilight Sparkle"
-    new "Crépuscule Étincelant"
+    new "Twilight Sparkle là"
 
-    # Scripts\script.rpy:525
+    # game/Scripts/script.rpy:299
     old "Pinkie Pie"
-    new "Tarte Rose"
+    new "Pinkie Pie là"
 
-    # Scripts\script.rpy:525
-    old "Applejack"
-    new "PommeJacques"
-
-    # Scripts\script.rpy:525
-    old "Rainbow Dash"
-    new "Arc-en-ciel Filant"
-
-    # Scripts\script.rpy:525
-    old "Rarity"
-    new "Rareté"
-
-    # Scripts\script.rpy:525
+    # game/Scripts/script.rpy:300
     old "Fluttershy"
-    new "Battement Timide"
+    new "Fluttershy là"
 
-    # Scripts\script.rpy:525
-    old "Wait!! I want to be my OC!! It's a super-awesome alicorn with neon colors and stuff!!!!"
-    new "Attends!! J’veux être mon OC!! C’est une alicorne super forte avec des couleurs flash pis toute!!!!"
+    # game/Scripts/script.rpy:301
+    old "Rainbow Dash"
+    new "Rainbow Dash là"
 
-# TODO: Translation updated at 2019-06-21 07:22
+    # game/Scripts/script.rpy:302
+    old "Applejack"
+    new "Applejack là"
 
-# game/Scripts/script.rpy:572
-translate TABARNAK end_name_choice_3929edae:
+    # game/Scripts/script.rpy:303
+    old "Rarity"
+    new "Rarity là"
 
-    # y "I want to be [playername!t]."
-    y "J’veux être [playername!t]."
-
-# game/Scripts/script.rpy:573
-translate TABARNAK end_name_choice_72736899:
-
-    # c "So, you are [playername!t] now."
-    c "Ben voilà, t’es [playername!t] maintenant. Pis au passage, prétends que tu sais que 'You' ça veut dire 'toé', pis oublie le nom en anglais, d’accord ?"
-
-translate TABARNAK strings:
-
-    # Scripts\script.rpy:456
+    # game/Scripts/script.rpy:304
     old "Big Macintosh"
-    new "Grand Macintosh"
+    new "Big Macintosh là"
 
-    # Scripts\script.rpy:538
+    # game/Scripts/script.rpy:532
     old "Twilight"
-    new "Crépuscule"
+    new "Twilight là"
 
-    # Scripts\script.rpy:539
+    # game/Scripts/script.rpy:533
     old "Twi'"
-    new "Crép'"
+    new "Twi'"
 
-    # Scripts\script.rpy:543
+    # game/Scripts/script.rpy:537
     old "Pinkie"
-    new "Rose"
+    new "Pinkie là"
 
-    # Scripts\script.rpy:544
+    # game/Scripts/script.rpy:538
     old "Pinkeh"
-    new "Rauz"
+    new "Pinkeh là"
 
-    # Scripts\script.rpy:549
+    # game/Scripts/script.rpy:543
     old "AJ"
-    new "PJ"
+    new "AJ"
 
-    # Scripts\script.rpy:553
+    # game/Scripts/script.rpy:547
     old "Rainbow"
-    new "Arc-en-ciel"
+    new "Rainbow là"
 
-    # Scripts\script.rpy:554
+    # game/Scripts/script.rpy:548
     old "Dashie"
-    new "Rapi'"
+    new "Dashie là"
 
-    # Scripts\script.rpy:564
+    # game/Scripts/script.rpy:558
     old "'Shy"
-    new "'Tim"
+    new "'Shy"
+
+    # game/Scripts/script.rpy:560
+    old "Wait!! I want to be my OC!! It's a super-awesome alicorn with neon colors and stuff!!!!"
+    new "Attends don'!! J'veux être mon OC à moé!! C'est une crisse de belle alicorne avec des couleurs fluo pis toute la patente, tabarnak!!!!"
+

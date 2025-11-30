@@ -1,8 +1,7 @@
-﻿# TODO: Translation updated at 2019-05-14 05:06
+﻿# TODO: Translation updated at 2025-11-26 12:29
 
 translate Engrish strings:
 
-    # Scripts\options.rpy:15
+    # game/Scripts/options.rpy:15
     old "My Little Pony Super Ethical Shipping Climax"
-    new "Small Fruit Fruit With Minimum Disorders"
-
+    new "Small Fruit Fruit with Minimal Disorders"

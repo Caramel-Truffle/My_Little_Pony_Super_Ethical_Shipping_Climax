@@ -132,8 +132,8 @@ image twilight what = "Images/twilight_what.png"
 
 image pinkie faceplant = "Images/pinkie_faceplant.png"
 image pinkie alicorn = "Images/pinkie_alicorn.png"
-image pinkie mini alicorn = im.FactorScale("Images/pinkie_alicorn.png", 0.5)
-image pinkie mini faceplant = im.FactorScale("Images/pinkie_faceplant.png", 0.68)
+image pinkie mini alicorn = Transform("Images/pinkie_alicorn.png", zoom=0.5)
+image pinkie mini faceplant = Transform("Images/pinkie_faceplant.png", zoom=0.68)
 
 image caramel truffle = "Images/caramel_truffle.png"
 image ginster steed = "Images/ginster_steed.png"

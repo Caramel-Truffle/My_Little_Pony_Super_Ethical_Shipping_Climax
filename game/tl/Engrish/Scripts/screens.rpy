@@ -1,324 +1,315 @@
-﻿# TODO: Translation updated at 2019-05-14 05:06
+﻿# TODO: Translation updated at 2025-11-26 12:29
 
 translate Engrish strings:
 
-    # Scripts\screens.rpy:256
+    # game/Scripts/screens.rpy:256
     old "Back"
-    new "Fish"
+    new "Go Back"
 
-    # Scripts\screens.rpy:257
+    # game/Scripts/screens.rpy:257
     old "History"
-    new "History"
+    new "Old Talk"
 
-    # Scripts\screens.rpy:258
+    # game/Scripts/screens.rpy:258
     old "Skip"
-    new "Go to"
+    new "Fast Forward"
 
-    # Scripts\screens.rpy:259
+    # game/Scripts/screens.rpy:259
     old "Auto"
-    new "Auto"
+    new "Self Go"
 
-    # Scripts\screens.rpy:260
+    # game/Scripts/screens.rpy:260
     old "Save"
-    new "Save"
+    new "Keep Safe"
 
-    # Scripts\screens.rpy:261
+    # game/Scripts/screens.rpy:261
     old "Q.Save"
-    new "Q.Save"
+    new "Fast Keep"
 
-    # Scripts\screens.rpy:262
+    # game/Scripts/screens.rpy:262
     old "Q.Load"
-    new "Payment"
+    new "Fast Back"
 
-    # Scripts\screens.rpy:263
+    # game/Scripts/screens.rpy:263
     old "Prefs"
-    new "Attack"
+    new "Fix-options"
 
-    # Scripts\screens.rpy:304
+    # game/Scripts/screens.rpy:304
     old "Start"
-    new "Start"
+    new "Begin"
 
-    # Scripts\screens.rpy:312
+    # game/Scripts/screens.rpy:312
     old "Load"
-    new "Load"
+    new "Bring Back"
 
-    # Scripts\screens.rpy:314
+    # game/Scripts/screens.rpy:314
     old "Preferences"
-    new "Interest"
+    new "Options"
 
-    # Scripts\screens.rpy:318
+    # game/Scripts/screens.rpy:318
     old "End Replay"
-    new "The End of Destruction"
+    new "Stop Replay"
 
-    # Scripts\screens.rpy:322
+    # game/Scripts/screens.rpy:322
     old "Main Menu"
-    new "General Summary"
+    new "Big Menu"
 
-    # Scripts\screens.rpy:324
+    # game/Scripts/screens.rpy:324
     old "Gallery"
-    new "Tree"
+    new "Picture Place"
 
-    # Scripts\screens.rpy:326
+    # game/Scripts/screens.rpy:326
     old "About"
-    new "About"
+    new "What Is"
 
-    # Scripts\screens.rpy:331
+    # game/Scripts/screens.rpy:331
     old "Help"
-    new "Help"
+    new "Aid"
 
-    # Scripts\screens.rpy:334
+    # game/Scripts/screens.rpy:334
     old "Quit"
-    new "Stop"
+    new "Leave"
 
-    # Scripts\screens.rpy:559
+    # game/Scripts/screens.rpy:559
     old "Version [config.version!t]\n"
     new "Version [config.version!t]\n"
 
-    # Scripts\screens.rpy:565
+    # game/Scripts/screens.rpy:565
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
     new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
-    # Scripts\screens.rpy:647
+    # game/Scripts/screens.rpy:647
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
 
-    # Scripts\screens.rpy:647
+    # game/Scripts/screens.rpy:647
     old "empty slot"
-    new "empty slot"
+    new "nothing here"
 
-    # Scripts\screens.rpy:664
+    # game/Scripts/screens.rpy:664
     old "<"
-    new "<"
+    new "<<"
 
-    # Scripts\screens.rpy:667
+    # game/Scripts/screens.rpy:667
     old "{#auto_page}A"
-    new "{#auto_page}A"
+    new "{#auto_page}Auto"
 
-    # Scripts\screens.rpy:670
+    # game/Scripts/screens.rpy:670
     old "{#quick_page}Q"
-    new "{#quick_page}Q"
+    new "{#quick_page}Fast"
 
-    # Scripts\screens.rpy:676
+    # game/Scripts/screens.rpy:676
     old ">"
-    new ">"
+    new ">>"
 
-    # Scripts\screens.rpy:733
+    # game/Scripts/screens.rpy:733
     old "Display"
     new "Show"
 
-    # Scripts\screens.rpy:734
+    # game/Scripts/screens.rpy:734
     old "Window"
-    new "Opportunity"
+    new "Box"
 
-    # Scripts\screens.rpy:735
+    # game/Scripts/screens.rpy:735
     old "Fullscreen"
-    new "Full screen"
+    new "Big Screen"
 
-    # Scripts\screens.rpy:739
+    # game/Scripts/screens.rpy:739
     old "Rollback Side"
-    new "Aborted Side"
+    new "Back Side"
 
-    # Scripts\screens.rpy:740
-    old "Disable"
-    new "Off"
-
-    # Scripts\screens.rpy:741
+    # game/Scripts/screens.rpy:741
     old "Left"
-    new "Copy"
+    new "No Right"
 
-    # Scripts\screens.rpy:742
+    # game/Scripts/screens.rpy:742
     old "Right"
-    new "Right"
+    new "No Left"
 
-    # Scripts\screens.rpy:747
+    # game/Scripts/screens.rpy:747
     old "Unseen Text"
-    new "Unseen Text"
+    new "No See Text"
 
-    # Scripts\screens.rpy:748
+    # game/Scripts/screens.rpy:748
     old "After Choices"
-    new "When Options"
+    new "After Pick"
 
-    # Scripts\screens.rpy:749
+    # game/Scripts/screens.rpy:749
     old "Transitions"
-    new "Transitions"
+    new "Move Effect"
 
-    # Scripts\screens.rpy:754
+    # game/Scripts/screens.rpy:754
     old "Language"
-    new "Language"
+    new "Tongue"
 
-    # Scripts\screens.rpy:768
+    # game/Scripts/screens.rpy:768
     old "Text Speed"
-    new "Text text"
+    new "Word Fast"
 
-    # Scripts\screens.rpy:772
+    # game/Scripts/screens.rpy:772
     old "Auto-Forward Time"
-    new "Time goes on"
+    new "Self-Go Time"
 
-    # Scripts\screens.rpy:779
+    # game/Scripts/screens.rpy:779
     old "Music Volume"
-    new "Music Music"
+    new "Song Loud"
 
-    # Scripts\screens.rpy:786
+    # game/Scripts/screens.rpy:786
     old "Sound Volume"
-    new "Voice"
+    new "Noise Loud"
 
-    # Scripts\screens.rpy:792
+    # game/Scripts/screens.rpy:792
     old "Test"
-    new "Test"
+    new "Try"
 
-    # Scripts\screens.rpy:796
-    old "Voice Volume"
-    new "Voice volume"
-
-    # Scripts\screens.rpy:807
+    # game/Scripts/screens.rpy:807
     old "Mute All"
-    new "Bad Things"
+    new "Quiet All"
 
-    # Scripts\screens.rpy:926
+    # game/Scripts/screens.rpy:926
     old "The dialogue history is empty."
-    new "The conversation was worthless."
+    new "Talk history empty."
 
-    # Scripts\screens.rpy:996
+    # game/Scripts/screens.rpy:996
     old "Keyboard"
-    new "Keyboard"
+    new "Key-Board"
 
-    # Scripts\screens.rpy:997
+    # game/Scripts/screens.rpy:997
     old "Mouse"
-    new "Nest"
+    new "Squeak"
 
-    # Scripts\screens.rpy:1000
+    # game/Scripts/screens.rpy:1000
     old "Gamepad"
-    new "Gamepad"
+    new "Game-Thing"
 
-    # Scripts\screens.rpy:1013
+    # game/Scripts/screens.rpy:1013
     old "Enter"
-    new "Add"
+    new "Go In"
 
-    # Scripts\screens.rpy:1014
+    # game/Scripts/screens.rpy:1014
     old "Advances dialogue and activates the interface."
-    new "Continue the conversation and enable the interface to work."
+    new "Move talk and use thing."
 
-    # Scripts\screens.rpy:1017
+    # game/Scripts/screens.rpy:1017
     old "Space"
-    new "Space"
+    new "Big Empty"
 
-    # Scripts\screens.rpy:1018
+    # game/Scripts/screens.rpy:1018
     old "Advances dialogue without selecting choices."
-    new "Continue communication without choosing the option."
+    new "Move talk no pick."
 
-    # Scripts\screens.rpy:1021
+    # game/Scripts/screens.rpy:1021
     old "Arrow Keys"
-    new "Type Key"
+    new "Point Keys"
 
-    # Scripts\screens.rpy:1022
+    # game/Scripts/screens.rpy:1022
     old "Navigate the interface."
-    new "Turn off the interface."
+    new "Move in thing."
 
-    # Scripts\screens.rpy:1025
+    # game/Scripts/screens.rpy:1025
     old "Escape"
-    new "Exit"
+    new "Run Away"
 
-    # Scripts\screens.rpy:1026
+    # game/Scripts/screens.rpy:1026
     old "Accesses the game menu."
-    new "Get the menu menu."
+    new "Go to game menu."
 
-    # Scripts\screens.rpy:1029
+    # game/Scripts/screens.rpy:1029
     old "Ctrl"
-    new "Ctrl"
+    new "Boss Key"
 
-    # Scripts\screens.rpy:1030
+    # game/Scripts/screens.rpy:1030
     old "Skips dialogue while held down."
-    new "Remove conversation when you end up."
+    new "Skip talk while hold."
 
-    # Scripts\screens.rpy:1033
+    # game/Scripts/screens.rpy:1033
     old "Tab"
-    new "Tab"
+    new "Jump Key"
 
-    # Scripts\screens.rpy:1034
+    # game/Scripts/screens.rpy:1034
     old "Toggles dialogue skipping."
-    new "Turn on chat."
+    new "Switch talk skip."
 
-    # Scripts\screens.rpy:1037
+    # game/Scripts/screens.rpy:1037
     old "Page Up"
-    new "Page Up"
+    new "Paper Up"
 
-    # Scripts\screens.rpy:1038
+    # game/Scripts/screens.rpy:1038
     old "Rolls back to earlier dialogue."
-    new "Returns to the first conversation."
+    new "Go back old talk."
 
-    # Scripts\screens.rpy:1041
+    # game/Scripts/screens.rpy:1041
     old "Page Down"
-    new "Page Page"
+    new "Paper Down"
 
-    # Scripts\screens.rpy:1042
+    # game/Scripts/screens.rpy:1042
     old "Rolls forward to later dialogue."
-    new "Continues the last conversation."
+    new "Go forward new talk."
 
-    # Scripts\screens.rpy:1046
+    # game/Scripts/screens.rpy:1046
     old "Hides the user interface."
-    new "Prevents user interface."
+    new "Hide thing."
 
-    # Scripts\screens.rpy:1050
+    # game/Scripts/screens.rpy:1050
     old "Takes a screenshot."
-    new "Take screenshots."
+    new "Take picture."
 
-    # Scripts\screens.rpy:1054
+    # game/Scripts/screens.rpy:1054
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Switch help {a=https://www.renpy.org/l/voicing}self-voice{/a}."
 
-    # Scripts\screens.rpy:1060
+    # game/Scripts/screens.rpy:1060
     old "Left Click"
-    new "To the left"
+    new "Left Push"
 
-    # Scripts\screens.rpy:1064
+    # game/Scripts/screens.rpy:1064
     old "Middle Click"
-    new "Middle Click"
+    new "Center Push"
 
-    # Scripts\screens.rpy:1068
+    # game/Scripts/screens.rpy:1068
     old "Right Click"
-    new "Right Click"
+    new "Right Push"
 
-    # Scripts\screens.rpy:1072
+    # game/Scripts/screens.rpy:1072
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Have a Footer \n Click Rollback Part"
+    new "Squeak Wheel Up\nClick Back Side"
 
-    # Scripts\screens.rpy:1076
+    # game/Scripts/screens.rpy:1076
     old "Mouse Wheel Down"
-    new "High Wife"
+    new "Squeak Wheel Down"
 
-    # Scripts\screens.rpy:1083
+    # game/Scripts/screens.rpy:1083
     old "Right Trigger\nA/Bottom Button"
-    new "Glorious Glory\n/button"
+    new "Right Gun-Finger\nA/Bottom Button"
 
-    # Scripts\screens.rpy:1087
+    # game/Scripts/screens.rpy:1087
     old "Left Trigger\nLeft Shoulder"
-    new "Left nLeft Shoulder "
+    new "Left Gun-Finger\nLeft Arm-Top"
 
-    # Scripts\screens.rpy:1091
+    # game/Scripts/screens.rpy:1091
     old "Right Shoulder"
-    new "Right Foot"
+    new "Right Arm-Top"
 
-    # Scripts\screens.rpy:1096
+    # game/Scripts/screens.rpy:1096
     old "D-Pad, Sticks"
-    new "D-Hands, Foot"
+    new "Cross-Button, Sticks"
 
-    # Scripts\screens.rpy:1100
+    # game/Scripts/screens.rpy:1100
     old "Start, Guide"
-    new "Start, Guide"
+    new "Go, Show"
 
-    # Scripts\screens.rpy:1104
+    # game/Scripts/screens.rpy:1104
     old "Y/Top Button"
-    new "Y / Top Button"
+    new "Y/Up Button"
 
-    # Scripts\screens.rpy:1107
+    # game/Scripts/screens.rpy:1107
     old "Calibrate"
-    new "Supporting"
+    new "Fix"
 
-    # Scripts\screens.rpy:1219
+    # game/Scripts/screens.rpy:1219
     old "Skipping"
-    new "Opens"
+    new "Fast forward"
 
-    # Scripts\screens.rpy:1442
+    # game/Scripts/screens.rpy:1442
     old "Menu"
-    new "Menu"
-
+    new "List"

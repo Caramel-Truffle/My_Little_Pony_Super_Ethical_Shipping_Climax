@@ -1,10 +1,45 @@
-﻿# TODO: Translation updated at 2019-05-14 05:07
+﻿# TODO: Translation updated at 2025-11-26 12:45
+translate English strings:
+
+    # game/Scripts/fluttercottage.rpy:13
+    old "Pet the bunny"
+    new "Pet the bunny"
+
+    # game/Scripts/fluttercottage.rpy:13
+    old "Pet the pony"
+    new "Pet the pony"
+
+    # game/Scripts/fluttercottage.rpy:61
+    old "Of course not!"
+    new "Of course not!"
+
+    # game/Scripts/fluttercottage.rpy:61
+    old "You bet I would!"
+    new "You bet I would!"
+
+    # game/Scripts/fluttercottage.rpy:214
+    old "Tea!"
+    new "Tea!"
+
+    # game/Scripts/fluttercottage.rpy:214
+    old "Seeds!"
+    new "Seeds!"
+
+    # game/Scripts/fluttercottage.rpy:323
+    old "Just do it already"
+    new "Just do it already"
+
+    # game/Scripts/fluttercottage.rpy:323
+    old "Be gentle with her and get the book"
+    new "Be gentle with her and get the book"
+
+# TODO: Translation updated at 2025-11-28 11:55
 
 # game/Scripts/fluttercottage.rpy:9
 translate English fluttercottage_2a0f6ec4:
 
     # "Fluttershy's cottage... There are birds, squirrels, bunnies and other critters walking, running and doing critter stuff there. A nice wind is going through your mane and bringing delicious scents to your nostrils."
-    "Fluttershy's cottage... There are birds, squirrels, bunnies and other critters walking, running and doing critter stuff there. A nice wind is blowing through your mane and bringing delicious scents to your nostrils."
+    "Fluttershy's cottage... There are birds, squirrels, bunnies and other critters walking, running and doing critter stuff there. A nice wind is going through your mane and bringing delicious scents to your nostrils."
 
 # game/Scripts/fluttercottage.rpy:10
 translate English fluttercottage_a1d8d870:
@@ -109,10 +144,10 @@ translate English crittercare_aa4b2ca1:
     p "Of course!"
 
 # game/Scripts/fluttercottage.rpy:43
-translate English crittercare_7843e3dc:
+translate English crittercare_09f2e390:
 
-    # fs "Oh, [playername2]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
-    fs "Oh, [playername2]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
+    # fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
+    fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
 
 # game/Scripts/fluttercottage.rpy:45
 translate English crittercare_89733ace:
@@ -301,10 +336,10 @@ translate English flutterabuse_aa4b2ca1:
     p "Of course!"
 
 # game/Scripts/fluttercottage.rpy:107
-translate English flutterabuse_4f6b78f8:
+translate English flutterabuse_c59eabd5:
 
-    # fs "[playername2]... Why did you try to...?"
-    fs "[playername2]... Why did you try to...?"
+    # fs "[playername2!t]... Why did you try to...?"
+    fs "[playername2!t]... Why did you try to...?"
 
 # game/Scripts/fluttercottage.rpy:108
 translate English flutterabuse_06ccd83c:
@@ -325,10 +360,10 @@ translate English flutterabuse_f2f41b12:
     p "Yes, sure!"
 
 # game/Scripts/fluttercottage.rpy:112
-translate English flutterabuse_74273944:
+translate English flutterabuse_f4d0263a:
 
-    # fs "Then, please follow me [playername2]."
-    fs "Then, please follow me [playername2]."
+    # fs "Then, please follow me [playername2!t]."
+    fs "Then, please follow me [playername2!t]."
 
 # game/Scripts/fluttercottage.rpy:116
 translate English flutterabuse_b0431f18:
@@ -376,13 +411,13 @@ translate English flutterabuse_988e19f9:
 translate English flutterabuse_fd8cceb6:
 
     # "And she headed for the kitchen. Some muffled noises could be heard, like those of cups being placed on a plate and soon after, silence again. Well, except for all the forest noises. Fluttershy went back in the room."
-    "And she headed for the kitchen. Some muffled noises could be heard, like those of cups being placed on a plate and soon after, silence again. Well, except forest noises. Fluttershy went back in the room."
+    "And she headed for the kitchen. Some muffled noises could be heard, like those of cups being placed on a plate and soon after, silence again. Well, except for all the forest noises. Fluttershy went back in the room."
 
 # game/Scripts/fluttercottage.rpy:141
 translate English flutterabuse_888c2cd0:
 
     # fs "And there it is... Some nice hot tea. New recipe, I hope it will be good, first time trying it..."
-    fs "And here it is... Some nice hot tea. New recipe, I hope it will be good, first time trying it..."
+    fs "And there it is... Some nice hot tea. New recipe, I hope it will be good, first time trying it..."
 
 # game/Scripts/fluttercottage.rpy:142
 translate English flutterabuse_18fef0fa:
@@ -469,10 +504,10 @@ translate English aphrodishy_a546598b:
     "She blushes."
 
 # game/Scripts/fluttercottage.rpy:170
-translate English aphrodishy_05e75907:
+translate English aphrodishy_bdd86a1e:
 
-    # fs "[playername2], would you mind..."
-    fs "[playername2], would you mind..."
+    # fs "[playername2!t], would you mind..."
+    fs "[playername2!t], would you mind..."
 
 # game/Scripts/fluttercottage.rpy:171
 translate English aphrodishy_7544a377:
@@ -547,10 +582,10 @@ translate English teabird_4461369c:
     "She blushes again."
 
 # game/Scripts/fluttercottage.rpy:220
-translate English teabird_3f7df7a8:
+translate English teabird_6fcd9f60:
 
-    # fs "Of course [playername2], but don't abuse it..."
-    fs "Of course [playername2], but don't abuse it..."
+    # fs "Of course [playername2!t], but don't abuse it..."
+    fs "Of course [playername2!t], but don't abuse it..."
 
 # game/Scripts/fluttercottage.rpy:221
 translate English teabird_03e8570c:
@@ -586,13 +621,13 @@ translate English teabird_41c88880:
 translate English teabird_7f38e07d:
 
     # p "Can I go with you? If you give me some seeds, I certainly would love to use them to feed the birds."
-    p "Can I go with you? If you give me some seeds, I certainly would love to feed the birds."
+    p "Can I go with you? If you give me some seeds, I certainly would love to use them to feed the birds."
 
 # game/Scripts/fluttercottage.rpy:235
 translate English teabird_7330ef9f:
 
     # fs "Oh, of course! They are not easily scared of strangers, as long as you are quiet."
-    fs "Oh, of course! They are not really scared of strangers, as long as you are quiet."
+    fs "Oh, of course! They are not easily scared of strangers, as long as you are quiet."
 
 # game/Scripts/fluttercottage.rpy:237
 translate English teabird_a80953cb:
@@ -631,10 +666,10 @@ translate English teabird_37b7b737:
     "You are back to the cottage. The last time you saw Fluttershy, she gave you seeds and asked you to wait. Maybe she's ready now?"
 
 # game/Scripts/fluttercottage.rpy:259
-translate English teabird_ce5ce055:
+translate English teabird_3ce4f74c:
 
-    # fs "Welcome back [playername2]!"
-    fs "Welcome back [playername2]!"
+    # fs "Welcome back [playername2!t]!"
+    fs "Welcome back [playername2!t]!"
 
 # game/Scripts/fluttercottage.rpy:260
 translate English teabird_d5a1ef3a:
@@ -670,7 +705,7 @@ translate English teabird_4f71f899:
 translate English teabird_de2b28dc:
 
     # "A dozen of birds are coming; blue, red, yellow... All are colorful and visibly hungry, considering the way they eat the seeds Fluttershy is throwing."
-    "A dozen birds came fluttering down; blue, red, yellow... All are colorful and visibly hungry, considering the way they eat the seeds Fluttershy is throwing."
+    "A dozen of birds are coming; blue, red, yellow... All are colorful and visibly hungry, considering the way they eat the seeds Fluttershy is throwing."
 
 # game/Scripts/fluttercottage.rpy:277
 translate English teabird_0cb41067:
@@ -685,10 +720,10 @@ translate English teabird_7da27fa1:
     "You start imitating her at your best."
 
 # game/Scripts/fluttercottage.rpy:279
-translate English teabird_f2e33510:
+translate English teabird_87fe7d03:
 
-    # fs "That's it, you are skilled [playername2]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
-    fs "That's it, you are skilled [playername2]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
+    # fs "That's it, you are skilled [playername2!t]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
+    fs "That's it, you are skilled [playername2!t]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
 
 # game/Scripts/fluttercottage.rpy:280
 translate English teabird_a0ae6cfc:
@@ -703,10 +738,10 @@ translate English teabird_9219b2f4:
     "She blushes once again."
 
 # game/Scripts/fluttercottage.rpy:283
-translate English teabird_9fd92ee3:
+translate English teabird_17475353:
 
-    # fs "[playername2]? Did you read some good books recently?"
-    fs "[playername2]? Did you read some good books recently?"
+    # fs "[playername2!t]? Did you read some good books recently?"
+    fs "[playername2!t]? Did you read some good books recently?"
 
 # game/Scripts/fluttercottage.rpy:286
 translate English teabird_f3d45203:
@@ -760,13 +795,13 @@ translate English teabird_3e965d7b:
 translate English teabird_14860da0:
 
     # p "No... Sorry. I didn't read anything at all recently."
-    p "No... Sorry. I havn't read anything at all recently."
+    p "No... Sorry. I didn't read anything at all recently."
 
 # game/Scripts/fluttercottage.rpy:301
-translate English teabird_fd86a573:
+translate English teabird_51b93075:
 
-    # "Being [playername], you try to be convincing."
-    "Being [playername], you try to be convincing."
+    # "Being [playername!t], you try to be convincing."
+    "Being [playername!t], you try to be convincing."
 
 # game/Scripts/fluttercottage.rpy:302
 translate English teabird_b5821ac6:
@@ -922,7 +957,7 @@ translate English smallboink_bddf0ff8:
 translate English smallboink_7c01eaef:
 
     # p "Are you even getting money for this?"
-    p "Are you even getting paid for this?"
+    p "Are you even getting money for this?"
 
 # game/Scripts/fluttercottage.rpy:348
 translate English smallboink_fd38f889:
@@ -934,7 +969,7 @@ translate English smallboink_fd38f889:
 translate English smallboink_b103aee6:
 
     # "You are back to the cottage and remember that Fluttershy is still in the Everfree Forest, waiting for you to come back with a special book."
-    "You go back to the cottage and remember that Fluttershy is still in the Everfree Forest, waiting for you to come back with a special book."
+    "You are back to the cottage and remember that Fluttershy is still in the Everfree Forest, waiting for you to come back with a special book."
 
 # game/Scripts/fluttercottage.rpy:359
 translate English smallboink_c6d07d30:
@@ -1138,7 +1173,7 @@ translate English fluterx_c625ceb2:
 translate English fluterx_f632bff2:
 
     # fs "KA-ME!"
-    fs "HA-ME!"
+    fs "KA-ME!"
 
 # game/Scripts/fluttercottage.rpy:433
 translate English fluterx_15ea0948:
@@ -1247,102 +1282,4 @@ translate English fluterx_088da974:
 
     # "And so you go back. That sure was a long and useless walk."
     "And so you go back. That sure was a long and useless walk."
-
-translate English strings:
-
-    # Scripts\fluttercottage.rpy:13
-    old "Pet the bunny"
-    new "Pet the bunny"
-
-    # Scripts\fluttercottage.rpy:13
-    old "Pet the pony"
-    new "Pet the pony"
-
-    # Scripts\fluttercottage.rpy:61
-    old "Of course not!"
-    new "Of course not!"
-
-    # Scripts\fluttercottage.rpy:61
-    old "You bet I would!"
-    new "You bet I would!"
-
-    # Scripts\fluttercottage.rpy:150
-    old "Yes"
-    new "Yes"
-
-    # Scripts\fluttercottage.rpy:150
-    old "No"
-    new "No"
-
-    # Scripts\fluttercottage.rpy:214
-    old "Tea!"
-    new "Tea!"
-
-    # Scripts\fluttercottage.rpy:214
-    old "Seeds!"
-    new "Seeds!"
-
-    # Scripts\fluttercottage.rpy:323
-    old "Just do it already"
-    new "Just do it already"
-
-    # Scripts\fluttercottage.rpy:323
-    old "Be gentle with her and get the book"
-    new "Be gentle with her and get the book"
-
-# TODO: Translation updated at 2019-06-21 07:21
-
-# game/Scripts/fluttercottage.rpy:43
-translate English crittercare_09f2e390:
-
-    # fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
-    fs "Oh, [playername2!t]! I didn't recognize you at first. Don't mind Angel bunny, he is just a bit tired."
-
-# game/Scripts/fluttercottage.rpy:107
-translate English flutterabuse_c59eabd5:
-
-    # fs "[playername2!t]... Why did you try to...?"
-    fs "[playername2!t]... Why did you try to...?"
-
-# game/Scripts/fluttercottage.rpy:112
-translate English flutterabuse_f4d0263a:
-
-    # fs "Then, please follow me [playername2!t]."
-    fs "Then, please follow me [playername2!t]."
-
-# game/Scripts/fluttercottage.rpy:170
-translate English aphrodishy_bdd86a1e:
-
-    # fs "[playername2!t], would you mind..."
-    fs "[playername2!t], would you mind..."
-
-# game/Scripts/fluttercottage.rpy:220
-translate English teabird_6fcd9f60:
-
-    # fs "Of course [playername2!t], but don't abuse it..."
-    fs "Of course [playername2!t], but don't abuse it..."
-
-# game/Scripts/fluttercottage.rpy:259
-translate English teabird_3ce4f74c:
-
-    # fs "Welcome back [playername2!t]!"
-    fs "Welcome back [playername2!t]!"
-
-# game/Scripts/fluttercottage.rpy:279
-translate English teabird_87fe7d03:
-
-    # fs "That's it, you are skilled [playername2!t]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
-    fs "That's it, you are skilled [playername2!t]. If that's okay with you, I sure could use the help of somepony like you... From time to time I mean... And if you are okay with it...."
-
-# game/Scripts/fluttercottage.rpy:283
-translate English teabird_17475353:
-
-    # fs "[playername2!t]? Did you read some good books recently?"
-    fs "[playername2!t]? Did you read some good books recently?"
-
-# game/Scripts/fluttercottage.rpy:301
-translate English teabird_51b93075:
-
-    # "Being [playername!t], you try to be convincing."
-    "Being [playername!t], you try to be convincing."
 

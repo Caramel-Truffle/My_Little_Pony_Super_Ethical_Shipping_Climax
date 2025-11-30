@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-05-14 05:07
+﻿# TODO: Translation updated at 2025-11-26 12:28
 
 # game/Scripts/library.rpy:10
 translate English library_ee002932:
@@ -10,7 +10,7 @@ translate English library_ee002932:
 translate English uselessoption1_9e9f99d1:
 
     # "You wait some minutes, but nothing happens. Why don't you say something?"
-    "You wait for some time, but nothing happens. Why don't you say something?"
+    "You wait some minutes, but nothing happens. Why don't you say something?"
 
 # game/Scripts/library.rpy:20
 translate English uselessoption1_0137749e:
@@ -28,7 +28,7 @@ translate English uselessoption1_5d8ed4b8:
 translate English uselessoption1_d8e12b41:
 
     # ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that so you are not in the correct past!"
-    ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that's so you are not in the correct past!"
+    ts "You! You are me! But I'm me too! Are you a future Twilight wanting to warn me about a future Twilight of mine that is also a past Twilight of yours? If that so you are not in the correct past!"
 
 # game/Scripts/library.rpy:32
 translate English uselessoption1_02f8fbc4:
@@ -70,7 +70,7 @@ translate English twi_see_double_6ce80a67:
 translate English twi_see_double_ee0091ca:
 
     # "And she kicked your buttock. What did you expect?"
-    "And she kicked your buttock. What did you expect?"
+    "And she kicked your flank. What did you expect?"
 
 # game/Scripts/library.rpy:47
 translate English twi_see_double_84fb6e74:
@@ -265,10 +265,10 @@ translate English twi_see_double_end_b6ea2310:
     ts "That's just twisted... But let's try."
 
 # game/Scripts/library.rpy:109
-translate English twi_see_double_end_28fbc63c:
+translate English twi_see_double_end_aec9d14a:
 
-    # ts "Oh, [playername2]! What can I do for you?"
-    ts "Oh, [playername2]! What can I do for you?"
+    # ts "Oh, [playername2!t]! What can I do for you?"
+    ts "Oh, [playername2!t]! What can I do for you?"
 
 # game/Scripts/library.rpy:110
 translate English twi_see_double_end_3e05e0aa:
@@ -310,7 +310,7 @@ translate English twi_see_double_end_7328a4c1:
 translate English twi_see_double_end_434fbe78:
 
     # ts "A book about freaking someone by looking like their clone?"
-    ts "A book about freaking someone by looking like their clone?"
+    ts "A book about freaking someone out by looking like their clone?"
 
 # game/Scripts/library.rpy:125
 translate English twi_see_double_end_cde92cc7:
@@ -373,16 +373,16 @@ translate English bookchoice_1d350c7f:
     p "I understand, see you later!"
 
 # game/Scripts/library.rpy:147
-translate English bookchoice_d41a62d9:
+translate English bookchoice_6648fa35:
 
-    # ts "See you later [playername2]!"
-    ts "See you later [playername2]!"
+    # ts "See you later [playername2!t]!"
+    ts "See you later [playername2!t]!"
 
 # game/Scripts/library.rpy:153
 translate English bookchoice_75242ef6:
 
     # "You skim through the book a bit while going back to the crossroad and a sentence attracts your attention: \"Don't miss the supermoon this night!\""
-    "You skim through the book a bit while going back to the crossroad and a sentence attracts your attention: \"Don't miss the supermoon tonight!\""
+    "You skim through the book a bit while going back to the crossroad and a sentence attracts your attention: \"Don't miss the supermoon this night!\""
 
 # game/Scripts/library.rpy:155
 translate English bookchoice_bbdb9495:
@@ -415,10 +415,10 @@ translate English bookchoice_18024d77:
     ts "Come on, it's me, Fluttershy. I'm your friend!"
 
 # game/Scripts/library.rpy:167
-translate English bookchoice_5b793cc9:
+translate English bookchoice_d6f242bb:
 
-    # ts "Come on [playername3], you are not Fluttershy!"
-    ts "Come on [playername3], you are not Fluttershy!"
+    # ts "Come on [playername3!t], you are not Fluttershy!"
+    ts "Come on [playername3!t], you are not Fluttershy!"
 
 # game/Scripts/library.rpy:169
 translate English bookchoice_a0d3701a:
@@ -505,10 +505,10 @@ translate English bookchoice_6415ca1f:
     p "I will! Bye Twilight!"
 
 # game/Scripts/library.rpy:198
-translate English bookchoice_fb373058:
+translate English bookchoice_4fda2c3a:
 
-    # ts "Bye [playername2]!"
-    ts "Bye [playername2]!"
+    # ts "Bye [playername2!t]!"
+    ts "Bye [playername2!t]!"
 
 # game/Scripts/library.rpy:205
 translate English bookchoice_f79ffd17:
@@ -568,7 +568,7 @@ translate English bookchoice_end_aec4130a:
 translate English bookchoice_end_4464f48b:
 
     # p "...That was ironical. And I'm not the real Twilight."
-    p "...That was irony. And I'm not the real Twilight."
+    p "...That was ironic. And I'm not the real Twilight."
 
 # game/Scripts/library.rpy:228
 translate English bookchoice_end_50873d1b:
@@ -589,10 +589,10 @@ translate English bookchoice_end_c17d177a:
     sp "Okay."
 
 # game/Scripts/library.rpy:234
-translate English bookchoice_end_f7a3bed1:
+translate English bookchoice_end_9182bfa0:
 
-    # sp "Hey [playername2]! Twilight is out for the moment. What can I do for you?"
-    sp "Hey [playername2]! Twilight is out for the moment. What can I do for you?"
+    # sp "Hey [playername2!t]! Twilight is out for the moment. What can I do for you?"
+    sp "Hey [playername2!t]! Twilight is out for the moment. What can I do for you?"
 
 # game/Scripts/library.rpy:238
 translate English spikechoice_607c1bf6:
@@ -691,10 +691,10 @@ translate English spikechoice_c9fd1456:
     p "No problem, stay there, I will get you that."
 
 # game/Scripts/library.rpy:266
-translate English spikechoice_67312eca:
+translate English spikechoice_8163cce8:
 
-    # sp "I'll wait for you [playername2], see you later!"
-    sp "I'll wait for you [playername2], see you later!"
+    # sp "I'll wait for you [playername2!t], see you later!"
+    sp "I'll wait for you [playername2!t], see you later!"
 
 # game/Scripts/library.rpy:267
 translate English spikechoice_420a7424:
@@ -715,10 +715,10 @@ translate English spikechoice_b9af60a1:
     p "Can I have a kiss?"
 
 # game/Scripts/library.rpy:281
-translate English spikechoice_9e7c81a6:
+translate English spikechoice_4e5f0a2e:
 
-    # sp "[playername2]? What's wrong with you?"
-    sp "[playername2]? What's wrong with you?"
+    # sp "[playername2!t]? What's wrong with you?"
+    sp "[playername2!t]? What's wrong with you?"
 
 # game/Scripts/library.rpy:282
 translate English spikechoice_e8763d15:
@@ -760,7 +760,7 @@ translate English spikechoice_3008e1fb:
 translate English spikechoice_05adb819:
 
     # "And both of you kissed during hours."
-    "And both of you kissed for hours."
+    "And both of you kissed during hours."
 
 # game/Scripts/library.rpy:298
 translate English spikechoice_c26c53f7:
@@ -835,10 +835,10 @@ translate English spikechoice_a7a9a4cd:
     "You go back to the library, Twilight isn't there yet."
 
 # game/Scripts/library.rpy:316
-translate English spikechoice_796ba173:
+translate English spikechoice_458d8957:
 
-    # sp "So [playername2], you are back! Do you have a ruby?"
-    sp "So [playername2], you are back! Do you have a ruby?"
+    # sp "So [playername2!t], you are back! Do you have a ruby?"
+    sp "So [playername2!t], you are back! Do you have a ruby?"
 
 # game/Scripts/library.rpy:319
 translate English spikechoice_b0a8e33a:
@@ -892,7 +892,7 @@ translate English spikechoice_bea03fe7:
 translate English spikechoice_545528ce:
 
     # "And you quickly went out again. It seems that going back here without a ruby is useless."
-    "And you quickly went out again. It seems that going back there without a ruby is useless."
+    "And you quickly went out again. It seems that going back here without a ruby is useless."
 
 # game/Scripts/library.rpy:341
 translate English spikechoice_8d996349:
@@ -988,7 +988,7 @@ translate English spikechoice_dac516e1:
 translate English spikechoice_6c737beb:
 
     # ts "And you're right, this book has been written before we defeated Nightmare Moon. Most ponies forgot about her and even the scientists thought that the earthquakes and volcanic eruptions were natural. In fact, it was Nightmare Moon trying to make the nature rebels against us."
-    ts "And you're right, this book has been written before we defeated Nightmare Moon. Most ponies forgot about her and even the scientists thought that the earthquakes and volcanic eruptions were natural. In fact, it was Nightmare Moon trying to make the nature rebels against us."
+    ts "And you're right, this book has been written before we defeated Nightmare Moon. Most ponies forgot about her and even the scientists thought that the earthquakes and volcanic eruptions were natural. In fact, it was Nightmare Moon trying to make nature rebel against us."
 
 # game/Scripts/library.rpy:373
 translate English spikechoice_bb86f06d:
@@ -1282,7 +1282,7 @@ translate English spikechoice_247f6bb8:
 translate English spikechoice_4af25ce6:
 
     # "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, were moonlight engulfed you for a second."
-    "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going up the stairs, were moonlight engulfed you for a second."
+    "You did not realize that the sun went down and the moon raised, but each of your steps was a step leading to the darkness of the library. You were cautious enough not to trip while going upstairs, where moonlight engulfed you for a second."
 
 # game/Scripts/library.rpy:495
 translate English spikechoice_3b0e49b6:
@@ -1396,7 +1396,7 @@ translate English spikechoice_694d6d38:
 translate English spikechoice_7130e386:
 
     # "(Yes, for the two sleeping in the back, the gestation time for dogs is around two months.)"
-    "(Yes, for the two sleeping in the back, the gestation period for dogs is around two months.)"
+    "(Yes, for the two sleeping in the back, the gestation time for dogs is around two months.)"
 
 # game/Scripts/library.rpy:558
 translate English spikechoice_d5b87959:
@@ -1436,97 +1436,47 @@ translate English spikechoice_569b10b9:
 
 translate English strings:
 
-    # Scripts\library.rpy:13
+    # game/Scripts/library.rpy:14
     old "Wait"
     new "Wait"
 
-    # Scripts\library.rpy:13
+    # game/Scripts/library.rpy:19
     old "\"Hello Twilight!\""
     new "\"Hello Twilight!\""
 
-    # Scripts\library.rpy:13
+    # game/Scripts/library.rpy:22
     old "Turn into Big Macintosh"
     new "Turn into Big Macintosh"
 
-    # Scripts\library.rpy:35
+    # game/Scripts/library.rpy:36
     old "\"Sorry, but you are not the real Twilight.\""
     new "\"Sorry, but you are not the real Twilight.\""
 
-    # Scripts\library.rpy:35
+    # game/Scripts/library.rpy:55
     old "\"I'm trapped into a fake body, don't mind it.\""
     new "\"I'm trapped into a fake body, don't mind it.\""
 
-    # Scripts\library.rpy:35
+    # game/Scripts/library.rpy:61
     old "\"This is just a dream, shhhh...\""
     new "\"This is just a dream, shhhh...\""
 
-    # Scripts\library.rpy:35
+    # game/Scripts/library.rpy:67
     old "\"Can't we just make out? Selfcest is hawt.\""
     new "\"Can't we just make out? Selfcest is hawt.\""
 
-    # Scripts\library.rpy:127
+    # game/Scripts/library.rpy:128
     old "\"A book about astronomy.\""
     new "\"A book about astronomy.\""
 
-    # Scripts\library.rpy:127
+    # game/Scripts/library.rpy:160
     old "\"A *whisper*\""
     new "\"A *whisper*\""
 
-    # Scripts\library.rpy:236
+    # game/Scripts/library.rpy:237
     old "\"Can I be alone with Twilight tonight?\""
     new "\"Can I be alone with Twilight tonight?\""
 
-    # Scripts\library.rpy:236
+    # game/Scripts/library.rpy:276
     old "\"Can I have a kiss?\""
     new "\"Can I have a kiss?\""
-
-# TODO: Translation updated at 2019-06-21 07:21
-
-# game/Scripts/library.rpy:109
-translate English twi_see_double_end_aec9d14a:
-
-    # ts "Oh, [playername2!t]! What can I do for you?"
-    ts "Oh, [playername2!t]! What can I do for you?"
-
-# game/Scripts/library.rpy:147
-translate English bookchoice_6648fa35:
-
-    # ts "See you later [playername2!t]!"
-    ts "See you later [playername2!t]!"
-
-# game/Scripts/library.rpy:167
-translate English bookchoice_d6f242bb:
-
-    # ts "Come on [playername3!t], you are not Fluttershy!"
-    ts "Come on [playername3!t], you are not Fluttershy!"
-
-# game/Scripts/library.rpy:198
-translate English bookchoice_4fda2c3a:
-
-    # ts "Bye [playername2!t]!"
-    ts "Bye [playername2!t]!"
-
-# game/Scripts/library.rpy:234
-translate English bookchoice_end_9182bfa0:
-
-    # sp "Hey [playername2!t]! Twilight is out for the moment. What can I do for you?"
-    sp "Hey [playername2!t]! Twilight is out for the moment. What can I do for you?"
-
-# game/Scripts/library.rpy:266
-translate English spikechoice_8163cce8:
-
-    # sp "I'll wait for you [playername2!t], see you later!"
-    sp "I'll wait for you [playername2!t], see you later!"
-
-# game/Scripts/library.rpy:281
-translate English spikechoice_4e5f0a2e:
-
-    # sp "[playername2!t]? What's wrong with you?"
-    sp "[playername2!t]? What's wrong with you?"
-
-# game/Scripts/library.rpy:316
-translate English spikechoice_458d8957:
-
-    # sp "So [playername2!t], you are back! Do you have a ruby?"
-    sp "So [playername2!t], you are back! Do you have a ruby?"
 

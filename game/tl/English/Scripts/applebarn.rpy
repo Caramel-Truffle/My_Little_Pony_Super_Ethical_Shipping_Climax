@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-05-14 05:07
+﻿# TODO: Translation updated at 2025-11-26 12:28
 
 # game/Scripts/applebarn.rpy:9
 translate English applebarn_8a4553f0:
@@ -10,19 +10,19 @@ translate English applebarn_8a4553f0:
 translate English applebarn_674ec907:
 
     # "The smell of apples is strong in this place. Apple trees are all around you, ponies with apple-related cutie marks run around and apple products are on a giant table... Wait, is there some kind of party here?"
-    "The smell of apples is strong in this place. Apple trees are all around you, ponies with apple-related cutie marks run around and apple products are on a giant table... Wait, is there some kind of party here?"
+    "The smell of apples is strong in this place. Apple trees are all around you, ponies with apple-related cutie marks run around, and apple products are on a giant table... Wait, is there some kind of party here?"
 
 # game/Scripts/applebarn.rpy:11
 translate English applebarn_d84fe490:
 
     # aj "Here you go, everypony! Y'all welcome to taste the products of our good ol' family!"
-    aj "Here you go, everypony! Y'all welcome to taste the products of our good ol' family!"
+    aj "Here you go, everypony! Y'all are welcome to taste the products of our good ol' family!"
 
 # game/Scripts/applebarn.rpy:12
 translate English applebarn_b3ac01f2:
 
     # "An \"apple family\" reunion, as in an orchard owners association, or a real Apple family reunion, as in family related by blood? Either way, you probably should leave them for the mom-"
-    "An \"apple family\" reunion, as in an orchard owners association, or a real Apple family reunion, as in family related by blood? Either way, you probably should leave them for the mom-"
+    "An \"apple family\" reunion, as in an orchard owners association, or a real Apple family reunion, as in family related by blood? Either way, you probably should leave them for the mom—"
 
 # game/Scripts/applebarn.rpy:13
 translate English applebarn_e8c2727e:
@@ -34,25 +34,25 @@ translate English applebarn_e8c2727e:
 translate English applebarn_4b514680:
 
     # aj "...Myself? Cousin, you really look like me, who's inside this costume?"
-    aj "...Myself? Cousin, you really look like me, who's inside this costume?"
+    aj "...Myself? Cousin, you really look like me. Who's inside this costume?"
 
 # game/Scripts/applebarn.rpy:21
 translate English aj_see_herself_c65736d1:
 
     # p "It's-a me! Pinkie! Isn't my cosplay great? Uh? Uh?"
-    p "It's-a me! Pinkie! Isn't my cosplay great? Uh? Uh?"
+    p "It's-a me! Pinkie! Isn't my cosplay great? Huh? Huh?"
 
 # game/Scripts/applebarn.rpy:24
 translate English aj_see_herself_4bd14ae3:
 
     # aj "Pinkie? This isn't one of Twilight's conventions, you know?"
-    aj "Pinkie? This isn't one of Twilight's conventions, you know?"
+    aj "Pinkie? This isn't one of Twilight's conventions, you know."
 
 # game/Scripts/applebarn.rpy:25
 translate English aj_see_herself_c272e935:
 
     # p "But there's all these apple-ponies!"
-    p "But there's all these apple-ponies!"
+    p "But there are all these apple-ponies!"
 
 # game/Scripts/applebarn.rpy:28
 translate English aj_see_herself_b9f9d00c:
@@ -67,10 +67,10 @@ translate English aj_see_herself_247e21e1:
     p "Can I be part of your family as yourself for today? Pretty please?"
 
 # game/Scripts/applebarn.rpy:32
-translate English aj_see_herself_62f3df1a:
+translate English aj_see_herself_e031e6a2:
 
-    # aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3] for today."
-    aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3] for today."
+    # aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3!t] for today."
+    aj "Well, you're part of the extended family, as I said, and... If you really want it, I can call you [playername3!t] for today."
 
 # game/Scripts/applebarn.rpy:33
 translate English aj_see_herself_792ed233:
@@ -82,19 +82,19 @@ translate English aj_see_herself_792ed233:
 translate English aj_see_herself_61754a07:
 
     # p "I'm... Your lost twin sister."
-    p "I'm... Your lost twin sister."
+    p "I'm... your lost twin sister."
 
 # game/Scripts/applebarn.rpy:39
 translate English aj_see_herself_f5564fe4:
 
     # aj "My what know?"
-    aj "My what know?"
+    aj "My what now?"
 
 # game/Scripts/applebarn.rpy:40
 translate English aj_see_herself_5e7e03b2:
 
     # p "Your lost twin sister. There's been an error at our birth and I've been sent to Fillydelphia. Years later, I learned that our parents never forgave themselves and chose to not tell you."
-    p "Your lost twin sister. There's been an error at our birth and I've been sent to Fillydelphia. Years later, I learned that our parents never forgave themselves and chose to not tell you."
+    p "Your lost twin sister. There was an error at our birth, and I was sent to Fillydelphia. Years later, I learned that our parents never forgave themselves and chose not to tell you."
 
 # game/Scripts/applebarn.rpy:43
 translate English aj_see_herself_b402dc65:
@@ -106,13 +106,13 @@ translate English aj_see_herself_b402dc65:
 translate English aj_see_herself_ec59358f:
 
     # p "I wish it was. Do you know the worst?"
-    p "I wish it was. Do you know the worst?"
+    p "I wish it was. Do you know the worst part?"
 
 # game/Scripts/applebarn.rpy:45
 translate English aj_see_herself_80f0e18d:
 
     # aj "How can it be any worse?"
-    aj "How can it be any worse?"
+    aj "How could it be any worse?"
 
 # game/Scripts/applebarn.rpy:46
 translate English aj_see_herself_c4c18f4e:
@@ -148,7 +148,7 @@ translate English aj_see_herself_16b19280_1:
 translate English aj_see_herself_23502966:
 
     # "You touched her to the core, bravo! Unfortunately, you had nothing else than bittersweet hugs this day. Applejack wouldn't let you go after that."
-    "You touched her to the core, bravo! Unfortunately, you had nothing else than bittersweet hugs this day. Applejack wouldn't let you go after that."
+    "You touched her to the core—bravo! Unfortunately, you had nothing else but bittersweet hugs this day. Applejack wouldn't let you go after that."
 
 # game/Scripts/applebarn.rpy:58
 translate English aj_see_herself_f96406fe:
@@ -160,19 +160,19 @@ translate English aj_see_herself_f96406fe:
 translate English aj_see_herself_6c26bda7:
 
     # "If you wanted something fun, you should have chosen Pinkie-oriented options, not the \"I'm your lost sibling\" one. And come on. the parents' reasoning doesn't make any sense if you think two seconds about it. Humour can also be found in how absurd and over-the-top something emotional is."
-    "If you wanted something fun, you should have chosen Pinkie-oriented options, not the \"I'm your lost sibling\" one. And come on. the parents' reasoning doesn't make any sense if you think two seconds about it. Humour can also be found in how absurd and over-the-top something emotional is."
+    "If you wanted something fun, you should have chosen Pinkie-oriented options, not the \"I'm your lost sibling\" one. And come on—the parents' reasoning doesn't make any sense if you think about it for two seconds. Humor can also be found in how absurd and over-the-top something emotional is."
 
 # game/Scripts/applebarn.rpy:60
 translate English aj_see_herself_fdb4c521:
 
     # "Now, shoe."
-    "Now, shoe."
+    "Now, shoo."
 
 # game/Scripts/applebarn.rpy:61
 translate English aj_see_herself_6f488ef3:
 
     # p "You mean shoo, ri-"
-    p "You mean shoo, ri-"
+    p "You mean shoo, ri—"
 
 # game/Scripts/applebarn.rpy:63
 translate English aj_see_herself_5680c31f:
@@ -202,7 +202,7 @@ translate English aj_see_herself_d0917140:
 translate English aj_see_herself_76434379:
 
     # aj "I'm not! I'm way more heavy than a duck!"
-    aj "I'm not! I'm way more heavy than a duck!"
+    aj "I'm not! I'm way heavier than a duck!"
 
 # game/Scripts/applebarn.rpy:73
 translate English aj_see_herself_50820398:
@@ -244,13 +244,13 @@ translate English aj_see_herself_aa7a868c:
 translate English aj_see_herself_c2ece30b:
 
     # aj "I think it's the strangest thing I have ever seen... But you're family and I don't wanna reject that."
-    aj "I think it's the strangest thing I have ever seen... But you're family and I don't wanna reject that."
+    aj "I think it's the strangest thing I've ever seen... But you're family, and I don't wanna reject that."
 
 # game/Scripts/applebarn.rpy:88
-translate English aj_see_herself_41fd0085:
+translate English aj_see_herself_3a5386dc:
 
-    # aj "...[playername3]? I did not expect you today!"
-    aj "...[playername3]? I did not expect you today!"
+    # aj "...[playername3!t]? I did not expect you today!"
+    aj "...[playername3!t]? I didn't expect you today!"
 
 # game/Scripts/applebarn.rpy:90
 translate English aj_see_herself_da038d7b:
@@ -262,7 +262,7 @@ translate English aj_see_herself_da038d7b:
 translate English aj_see_herself_3b002a69:
 
     # aj "Well, you're part of the extended family, as I said when the Flim Flam brothers where there."
-    aj "Well, you're part of the extended family, as I said when the Flim Flam brothers where there."
+    aj "Well, you're part of the extended family, as I said when the Flim Flam brothers were there."
 
 # game/Scripts/applebarn.rpy:92
 translate English aj_see_herself_792ed233_1:
@@ -274,13 +274,13 @@ translate English aj_see_herself_792ed233_1:
 translate English aj_see_herself_7af6df31:
 
     # p "Sorry, you seem busy with your family, so I better leave."
-    p "Sorry, you seem busy with your family, so I better leave."
+    p "Sorry, you seem busy with your family, so I'd better leave."
 
 # game/Scripts/applebarn.rpy:95
-translate English aj_see_herself_700c9bd3:
+translate English aj_see_herself_778e0e93:
 
-    # aj "[playername]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
-    aj "[playername]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
+    # aj "[playername!t]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
+    aj "[playername!t], after all we've gone through together, I consider you as part of the extended family, you know? You'd better stay here for a while if you don't have more important stuff to do today!"
 
 # game/Scripts/applebarn.rpy:96
 translate English aj_see_herself_16eb9830:
@@ -292,7 +292,7 @@ translate English aj_see_herself_16eb9830:
 translate English aj_see_herself_5f7d9a73:
 
     # aj "Well, right now you can either go to the nearest table and enjoy some food or try to catch some apples in the big bucket of water over there."
-    aj "Well, right now you can either go to the nearest table and enjoy some food or try to catch some apples in the big bucket of water over there."
+    aj "Well, right now you can either go to the nearest table and enjoy some food, or try to catch some apples in the big bucket of water over there."
 
 # game/Scripts/applebarn.rpy:101
 translate English sugapple_ea0c2075:
@@ -310,7 +310,7 @@ translate English sugapple_68a31684:
 translate English sugapple_8d77fb92:
 
     # "And thus, you went to the nearest table, to eat a bit."
-    "And thus, you went to the nearest table, to eat a bit."
+    "And thus, you went to the nearest table to eat a bit."
 
 # game/Scripts/applebarn.rpy:111
 translate English sugapple_91b94352:
@@ -322,19 +322,19 @@ translate English sugapple_91b94352:
 translate English sugapple_37146882:
 
     # u "Howdy cousin! You did a great job!"
-    u "Howdy cousin! You did a great job!"
+    u "Howdy, cousin! You did a great job!"
 
 # game/Scripts/applebarn.rpy:117
 translate English sugapple_b23cb738:
 
     # p "Sorry, I'm surely not the one you're thinking I am."
-    p "Sorry, I'm surely not the one you're thinking I am."
+    p "Sorry, I'm surely not the one you think I am."
 
 # game/Scripts/applebarn.rpy:118
 translate English sugapple_bdbab47c:
 
     # u "Ah, sorry mam', I thought you were the ol' AJ."
-    u "Ah, sorry mam', I thought you were the ol' AJ."
+    u "Ah, sorry ma'am, I thought you were the ol' AJ."
 
 # game/Scripts/applebarn.rpy:119
 translate English sugapple_da79eff4:
@@ -352,7 +352,7 @@ translate English sugapple_276da7de:
 translate English sugapple_ebe35a43:
 
     # b "Oh. I understand better now, I think. I'm Braeburn and I came from Aaaapple-loooooooosa! Great town, you should come someday!"
-    b "Oh. I understand better now, I think. I'm Braeburn and I came from Aaaapple-loooooooosa! Great town, you should come someday!"
+    b "Oh. I understand better now, I think. I'm Braeburn, and I came from Aaaapple-loooooooosa! Great town—you should come someday!"
 
 # game/Scripts/applebarn.rpy:124
 translate English sugapple_eadc751a:
@@ -361,10 +361,10 @@ translate English sugapple_eadc751a:
     u "Howdy! Erm... AJ's friend?"
 
 # game/Scripts/applebarn.rpy:127
-translate English sugapple_ae3641d7:
+translate English sugapple_b85ebf1a:
 
-    # p "Yes, close friend. My name is [playername]."
-    p "Yes, close friend. My name is [playername]."
+    # p "Yes, close friend. My name is [playername!t]."
+    p "Yes, close friend. My name is [playername!t]."
 
 # game/Scripts/applebarn.rpy:128
 translate English sugapple_41d1e36c:
@@ -376,13 +376,13 @@ translate English sugapple_41d1e36c:
 translate English sugapple_535670f0:
 
     # p "Yes, with Bloomberg, the \"You gotta share\" song and all of that..."
-    p "Yes, with Bloomberg, the \"You gotta share\" song and all of that..."
+    p "Yes, with Bloomberg, the \"You gotta share\" song, and all of that..."
 
 # game/Scripts/applebarn.rpy:130
 translate English sugapple_91e73450:
 
     # b "Good times, you should come back someday."
-    b "Good times, you should come back someday."
+    b "Good times—you should come back someday."
 
 # game/Scripts/applebarn.rpy:132
 translate English sugapple_93f6f2c1:
@@ -400,13 +400,13 @@ translate English sugapple_c1500ee6:
 translate English sugapple_a2c242a0:
 
     # p "Cider, uh? Well, don't drink too much!"
-    p "Cider, uh? Well, don't drink too much!"
+    p "Cider, huh? Well, don't drink too much!"
 
 # game/Scripts/applebarn.rpy:135
 translate English sugapple_f2e9394f:
 
     # "You added a wink to your last comment."
-    "You added a wink to your last comment."
+    "You add a wink to your last comment."
 
 # game/Scripts/applebarn.rpy:136
 translate English sugapple_3ce0ba02:
@@ -424,7 +424,7 @@ translate English sugapple_77a1f5a5:
 translate English sugapple_ec91ebbc:
 
     # b "Big Macintosh. First stallion I met who did not react to my charms."
-    b "Big Macintosh. First stallion I met who did not react to my charms."
+    b "Big Macintosh. First stallion I met who didn't react to my charms."
 
 # game/Scripts/applebarn.rpy:139
 translate English sugapple_c8dc0cc1:
@@ -436,7 +436,7 @@ translate English sugapple_c8dc0cc1:
 translate English sugapple_1e74489e:
 
     # b "Colt cuddler? Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And I like some variety, you know?"
-    b "Colt cuddler? Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And I like some variety, you know?"
+    b "Colt cuddler? Nah. Unicorn or pegasus, pony or buffalo, male or female—all have their perks. And kinks. And I like some variety, you know?"
 
 # game/Scripts/applebarn.rpy:145
 translate English braeburncest_96670246:
@@ -454,13 +454,13 @@ translate English braeburncest_953c97c1:
 translate English braeburncest_6fb89c5a:
 
     # b "That's direct, sugarcube. Do you ask for... Or... Buck it. Let's go behind the barn, we should be alone and all."
-    b "That's direct, sugarcube. Do you ask for... Or... Buck it. Let's go behind the barn, we should be alone and all."
+    b "That's direct, sugarcube. Do you ask for... Or... Buck it. Let's go behind the barn—we should be alone and all."
 
 # game/Scripts/applebarn.rpy:152
 translate English braeburncest_701ba413:
 
     # "And both of you went all \"kissu-kissu my cousin\". Except you two weren't really cousins."
-    "And both of you went all \"kissu-kissu my cousin\". Except you two weren't really cousins."
+    "And both of you went all \"kissu-kissu my cousin.\" Except you two weren't really cousins."
 
 # game/Scripts/applebarn.rpy:154
 translate English braeburncest_20ba4862:
@@ -478,7 +478,7 @@ translate English braeburncest_92b47b4b:
 translate English braeburncest_0c0e77e4:
 
     # b "You're cute sugarcube. But Big Mac is there, I'm gonna try one last time. We should meet again someday."
-    b "You're cute sugarcube. But Big Mac is there, I'm gonna try one last time. We should meet again someday."
+    b "You're cute, sugarcube. But Big Mac is there, I'm gonna try one last time. We should meet again someday."
 
 # game/Scripts/applebarn.rpy:163
 translate English braeburncest_1216b3bb:
@@ -490,7 +490,7 @@ translate English braeburncest_1216b3bb:
 translate English braeburncest_b01a88ac:
 
     # p "Well. Let's at least eat something."
-    p "Well. Let's at least eat something."
+    p "Well, let's at least eat something."
 
 # game/Scripts/applebarn.rpy:170
 translate English braeburncest_705ad9be:
@@ -508,13 +508,13 @@ translate English braeburncest_7fa749b5:
 translate English braeburncest_47f26525:
 
     # p "I'm feeling playful. I bet that I could catch an apple in 10 seconds flat."
-    p "I'm feeling playful. I bet that I could catch an apple in 10 seconds flat."
+    p "I'm feeling playful. I bet I could catch an apple in 10 seconds flat."
 
 # game/Scripts/applebarn.rpy:179
 translate English braeburncest_d10c1962:
 
     # aj "Prove it, \"Dashie\"."
-    aj "Prove it, \"Dashie\"."
+    aj "Prove it, \"Dashie.\""
 
 # game/Scripts/applebarn.rpy:180
 translate English braeburncest_5a93c064:
@@ -523,10 +523,10 @@ translate English braeburncest_5a93c064:
     "She's clearly grinning at the thought."
 
 # game/Scripts/applebarn.rpy:182
-translate English braeburncest_56107e09:
+translate English braeburncest_d3ba3e3f:
 
-    # aj "You're not Rainbow, but you know what saying this means, don't you [playername3]?"
-    aj "You're not Rainbow, but you know what saying this means, don't you [playername3]?"
+    # aj "You're not Rainbow, but you know what saying this means, don't you [playername3!t]?"
+    aj "You're not Rainbow, but you know what saying this means, don't you, [playername3!t]?"
 
 # game/Scripts/applebarn.rpy:183
 translate English braeburncest_f4f030f9:
@@ -559,10 +559,10 @@ translate English braeburncest_c754d09e:
     "Both of you went to the nearest barrel full of water and apples."
 
 # game/Scripts/applebarn.rpy:201
-translate English braeburncest_e710bc84:
+translate English braeburncest_1ff5a80d:
 
-    # aj "So, let's see what you got [playername2]! I bet you can't beat..."
-    aj "So, let's see what you got [playername2]! I bet you can't beat..."
+    # aj "So, let's see what you got [playername2!t]! I bet you can't beat..."
+    aj "So, let's see what you got, [playername2!t]! I bet you can't beat..."
 
 # game/Scripts/applebarn.rpy:205
 translate English braeburncest_e37fde23:
@@ -574,7 +574,7 @@ translate English braeburncest_e37fde23:
 translate English braeburncest_f76274ce:
 
     # "Wait, how did she do that? Three in a second? And you've never tried to catch an apple with your pony-mouth before. Seriously, have you looked at how different the teeths are? It's a wonder to even talk with one like that."
-    "Wait, how did she do that? Three in a second? And you've never tried to catch an apple with your pony-mouth before. Seriously, have you looked at how different the teeths are? It's a wonder to even talk with one like that."
+    "Wait, how did she do that? Three in a second? And you've never tried to catch an apple with your pony-mouth before. Seriously, have you looked at how different the teeth are? It's a wonder to even talk with one like that."
 
 # game/Scripts/applebarn.rpy:209
 translate English braeburncest_d161697d:
@@ -604,37 +604,37 @@ translate English waterapple_9cc2ef7a:
 translate English waterapple_122346a4:
 
     # "3 and 8? Uh. That's pretty bad, 'Twilie'."
-    "3 and 8? Uh. That's pretty bad, 'Twilie'."
+    "3 and 8? Uh. That's pretty bad, 'Twilie.'"
 
 # game/Scripts/applebarn.rpy:222
 translate English waterapple_73ae492d:
 
     # "14 and 13? That's quite good! Uh. But you have the cool sunglasses, it boosts your charm, but lowers your dexterity by 20 points. Your result isn't 27, It's only 7. That's bad, 'Dashie'."
-    "14 and 13? That's quite good! Uh. But you have the cool sunglasses, it boosts your charm, but lowers your dexterity by 20 points. Your result isn't 27, It's only 7. That's bad, 'Dashie'."
+    "14 and 13? That's quite good! Uh. But you have the cool sunglasses—it boosts your charm, but lowers your dexterity by 20 points. Your result isn't 27. It's only 7. That's bad, 'Dashie.'"
 
 # game/Scripts/applebarn.rpy:224
 translate English waterapple_5bbddaec:
 
     # "You rolled... A cupcake? Wait, where are my dice? You automatically lose, then."
-    "You rolled... A cupcake? Wait, where are my dice? You automatically lose, then."
+    "You rolled... a cupcake? Wait, where are my dice? You automatically lose, then."
 
 # game/Scripts/applebarn.rpy:227
 translate English waterapple_69b3c608:
 
     # "1 and 1. And that is not even counting for that ridiculous hat that cuts your dexterity in half."
-    "1 and 1. And that is not even counting for that ridiculous hat that cuts your dexterity in half."
+    "1 and 1. And that's not even counting that ridiculous hat that cuts your dexterity in half."
 
 # game/Scripts/applebarn.rpy:230
 translate English waterapple_87b55f2a:
 
     # "2 and 3. If you had a bunny with you it would boost your stats, but you aren't the real Fluttershy, so it's no use."
-    "2 and 3. If you had a bunny with you it would boost your stats, but you aren't the real Fluttershy, so it's no use."
+    "2 and 3. If you had a bunny with you, it would boost your stats, but you aren't the real Fluttershy, so it's no use."
 
 # game/Scripts/applebarn.rpy:233
 translate English waterapple_b30bbd84:
 
     # "17 and 20! But I have to apply an aribitrary negative modifier, since you are not the real Applejack and thus cannot beat her."
-    "17 and 20! But I have to apply an aribitrary negative modifier, since you are not the real Applejack and thus cannot beat her."
+    "17 and 20! But I have to apply an arbitrary negative modifier, since you are not the real Applejack and thus cannot beat her."
 
 # game/Scripts/applebarn.rpy:235
 translate English waterapple_bdcf2f22:
@@ -652,13 +652,13 @@ translate English waterapple_b4ec2071:
 translate English waterapple_bcfd6882:
 
     # "2 and 1? Epic failure. You didn't even try, well, not literally."
-    "2 and 1? Epic failure. You didn't even try, well, not literally."
+    "2 and 1? Epic failure. You didn't even try—well, not literally."
 
 # game/Scripts/applebarn.rpy:240
 translate English waterapple_18686e57:
 
     # p "Hey! You're making these up, don't blame me!"
-    p "Hey! You're making these up, don't blame me!"
+    p "Hey! You're making these up—don't blame me!"
 
 # game/Scripts/applebarn.rpy:243
 translate English waterapple_62a2ac0d:
@@ -670,13 +670,13 @@ translate English waterapple_62a2ac0d:
 translate English waterapple_a4ec83ff:
 
     # p "Not you AJ, the narrator."
-    p "Not you AJ, the narrator."
+    p "Not you, AJ—the narrator."
 
 # game/Scripts/applebarn.rpy:245
 translate English waterapple_4f7013f5:
 
     # aj "Oooookay sugarcube..."
-    aj "Oooookay sugarcube..."
+    aj "Oooookay, sugarcube..."
 
 # game/Scripts/applebarn.rpy:246
 translate English waterapple_4ae5b567:
@@ -688,7 +688,7 @@ translate English waterapple_4ae5b567:
 translate English waterapple_996e55c2:
 
     # p "Wai-"
-    p "Wai-"
+    p "Wai—"
 
 # game/Scripts/applebarn.rpy:248
 translate English waterapple_6bee6218:
@@ -703,10 +703,10 @@ translate English waterapple_48747bb2:
     p "Arrr... Pfff.... Gnnnn..."
 
 # game/Scripts/applebarn.rpy:252
-translate English waterapple_3baa1727:
+translate English waterapple_2f1e6c79:
 
-    # aj "That's a bit slow for ten seconds and you only got one apple, [playername2]. I guess I won!"
-    aj "That's a bit slow for ten seconds and you only got one apple, [playername2]. I guess I won!"
+    # aj "That's a bit slow for ten seconds and you only got one apple, [playername2!t]. I guess I won!"
+    aj "That's a bit slow for ten seconds, and you only got one apple, [playername2!t]. I guess I won!"
 
 # game/Scripts/applebarn.rpy:253
 translate English waterapple_2a22d84f:
@@ -730,7 +730,7 @@ translate English waterapple_5a3cfc48:
 translate English waterapple_11d84612:
 
     # "Yeah, yeah, and the more you try, the less you're able to catch an apple. Your miserable attempt is clearly a reflection of your general failure at life and it takes you 25 seconds to catch a single fruit."
-    "Yeah, yeah, and the more you try, the less you're able to catch an apple. Your miserable attempt is clearly a reflection of your general failure at life and it takes you 25 seconds to catch a single fruit."
+    "Yeah, yeah, and the more you try, the less you're able to catch an apple. Your miserable attempt is clearly a reflection of your general failure at life, and it takes you 25 seconds to catch a single fruit."
 
 # game/Scripts/applebarn.rpy:261
 translate English waterapple_d155c8c0:
@@ -742,7 +742,7 @@ translate English waterapple_d155c8c0:
 translate English waterapple_a946d782:
 
     # p "Yes, of course I was! I'm no wimp! It... It was because of the number of apples already in the water. I swear!"
-    p "Yes, of course I was! I'm no wimp! It... It was because of the number of apples already in the water. I swear!"
+    p "Yes, of course I was! I'm no wimp! It... it was because of the number of apples already in the water. I swear!"
 
 # game/Scripts/applebarn.rpy:264
 translate English waterapple_06398373:
@@ -754,7 +754,7 @@ translate English waterapple_06398373:
 translate English waterapple_f5811c68:
 
     # aj "Well... Keep the apple and come back to me when you feel like you can do better!"
-    aj "Well... Keep the apple and come back to me when you feel like you can do better!"
+    aj "Well... keep the apple and come back to me when you feel like you can do better!"
 
 # game/Scripts/applebarn.rpy:267
 translate English waterapple_e6bb1a14:
@@ -772,7 +772,7 @@ translate English waterapple_28bfb962:
 translate English waterapple_ed598481:
 
     # "Well. You better go back to the crossroad for the moment."
-    "Well. You better go back to the crossroad for the moment."
+    "Well, you'd better go back to the crossroad for the moment."
 
 # game/Scripts/applebarn.rpy:273
 translate English waterapple_c17da045:
@@ -790,13 +790,74 @@ translate English waterapple_e2240c74:
 translate English waterapple_fa5fdb4d:
 
     # p "Let's go then."
-    p "Let's go then."
+    p "Let's go, then."
 
 # game/Scripts/applebarn.rpy:281
 translate English waterapple_fcf0b1dd:
 
     # "And you went back to the crossroad."
     "And you went back to the crossroad."
+translate English strings:
+
+    # game/Scripts/applebarn.rpy:19
+    old "\"It's-a me! Pinkie!\""
+    new "\"It's-a me! Pinkie!\""
+
+    # game/Scripts/applebarn.rpy:35
+    old "\"I'm... Your lost sister.\""
+    new "\"I'm... your lost sister.\""
+
+    # game/Scripts/applebarn.rpy:66
+    old "\"Who are YOU?\""
+    new "\"Who are YOU?\""
+
+    # game/Scripts/applebarn.rpy:99
+    old "Go eat something"
+    new "Go eat something"
+
+    # game/Scripts/applebarn.rpy:99
+    old "Play a bit"
+    new "Play a bit"
+
+    # game/Scripts/applebarn.rpy:143
+    old "What about incest?"
+    new "What about incest?"
+
+    # game/Scripts/applebarn.rpy:157
+    old "I understand"
+    new "I understand"
+
+    # game/Scripts/applebarn.rpy:211
+    old "Do your best"
+    new "Do your best"
+
+    # game/Scripts/applebarn.rpy:255
+    old "Do your worst"
+    new "Do your worst"
+
+    # game/Scripts/applebarn.rpy:324
+    old "I'm not cute!"
+    new "I'm not cute!"
+
+    # game/Scripts/applebarn.rpy:333
+    old "I sure am. *wink wink*"
+    new "I sure am. *wink wink*"
+
+    # game/Scripts/applebarn.rpy:373
+    old "I don't have enough alcohol in my blood for that."
+    new "I don't have enough alcohol in my blood for that."
+
+    # game/Scripts/applebarn.rpy:427
+    old "I want some alcohol"
+    new "I want some alcohol"
+
+    # game/Scripts/applebarn.rpy:457
+    old "I want some time with AJ"
+    new "I want some time with AJ"
+
+
+
+# TODO: Translation updated at 2025-11-28 11:55
 
 # game/Scripts/applebarn.rpy:284
 translate English waterapple_d5e678d2:
@@ -853,10 +914,10 @@ translate English waterapple_eadc751a:
     u "Howdy! Erm... AJ's friend?"
 
 # game/Scripts/applebarn.rpy:307
-translate English waterapple_ae3641d7:
+translate English waterapple_b85ebf1a:
 
-    # p "Yes, close friend. My name is [playername]."
-    p "Yes, close friend. My name is [playername]."
+    # p "Yes, close friend. My name is [playername!t]."
+    p "Yes, close friend. My name is [playername!t]."
 
 # game/Scripts/applebarn.rpy:308
 translate English waterapple_41d1e36c:
@@ -1120,13 +1181,13 @@ translate English cute_bb_646ac986:
 translate English cute_bb_a4d61408:
 
     # "Yes you do and Braeburn is just there."
-    "Yes you do, and Braeburn is just there."
+    "Yes you do and Braeburn is just there."
 
 # game/Scripts/applebarn.rpy:416
-translate English cute_bb_cd277b80:
+translate English cute_bb_d3d882cc:
 
-    # b "Welcome back [playername2]!"
-    b "Welcome back [playername2]!"
+    # b "Welcome back [playername2!t]!"
+    b "Welcome back [playername2!t]!"
 
 # game/Scripts/applebarn.rpy:417
 translate English cute_bb_3770db0e:
@@ -1195,10 +1256,10 @@ translate English brae_reward_5062e6d5:
     p "I want some alone time with AJ, if you know what I mean."
 
 # game/Scripts/applebarn.rpy:459
-translate English brae_reward_fe34a9c9:
+translate English brae_reward_dd2ff640:
 
-    # b "I sure do [playername2], but that's not really up to me."
-    b "I sure do [playername2], but that's not really up to me."
+    # b "I sure do [playername2!t], but that's not really up to me."
+    b "I sure do [playername2!t], but that's not really up to me."
 
 # game/Scripts/applebarn.rpy:460
 translate English brae_reward_757aacb5:
@@ -1279,10 +1340,10 @@ translate English brae_reward_db05870f:
     "The Apple house is clearly too small to host the whole crowd. Most ponies have come from too far away not to stay over and wait for the next day before starting to drive home. Although most would simply ride the train."
 
 # game/Scripts/applebarn.rpy:498
-translate English brae_reward_cc1064fb:
+translate English brae_reward_2955f5c7:
 
-    # aj "Howdy, [playername3]! I didn't think you'd come back! Did you want to stay over for the night?"
-    aj "Howdy, [playername3]! I didn't think you'd come back! Did you want to stay over for the night?"
+    # aj "Howdy, [playername3!t]! I didn't think you'd come back! Did you want to stay over for the night?"
+    aj "Howdy, [playername3!t]! I didn't think you'd come back! Did you want to stay over for the night?"
 
 # game/Scripts/applebarn.rpy:500
 translate English brae_reward_b90f6818:
@@ -1291,10 +1352,10 @@ translate English brae_reward_b90f6818:
     p "Yeah, I was thinking about having a little extended family fun time. You know, us two, in a secluded space, sharing a close bond…"
 
 # game/Scripts/applebarn.rpy:504
-translate English brae_reward_851b7b3f:
+translate English brae_reward_a5d576c2:
 
-    # aj "Don’t worry [playername2], I have all your needs covered!"
-    aj "Don’t worry [playername2], I have all your needs covered!"
+    # aj "Don’t worry [playername2!t], I have all your needs covered!"
+    aj "Don’t worry [playername2!t], I have all your needs covered!"
 
 # game/Scripts/applebarn.rpy:509
 translate English brae_reward_1476b537:
@@ -1330,7 +1391,7 @@ translate English brae_reward_9210dfde:
 translate English brae_reward_d8c79f93:
 
     # p "Literally no one call you that."
-    p "Literally no one calls you that."
+    p "Literally no one call you that."
 
 # game/Scripts/applebarn.rpy:525
 translate English brae_reward_e0413497:
@@ -1373,136 +1434,4 @@ translate English brae_reward_05943dd2:
 
     # "What a useless trip... You went back to the crossroad anyway."
     "What a useless trip... You went back to the crossroad anyway."
-
-translate English strings:
-
-    # Scripts\applebarn.rpy:19
-    old "\"It's-a me! Pinkie!\""
-    new "\"It's-a me! Pinkie!\""
-
-    # Scripts\applebarn.rpy:19
-    old "\"I'm... Your lost sister.\""
-    new "\"I'm... Your lost sister.\""
-
-    # Scripts\applebarn.rpy:19
-    old "\"Who are YOU?\""
-    new "\"Who are YOU?\""
-
-    # Scripts\applebarn.rpy:99
-    old "Go eat something"
-    new "Go eat something"
-
-    # Scripts\applebarn.rpy:99
-    old "Play a bit"
-    new "Play a bit"
-
-    # Scripts\applebarn.rpy:143
-    old "What about incest?"
-    new "What about incest?"
-
-    # Scripts\applebarn.rpy:143
-    old "I understand"
-    new "I understand"
-
-    # Scripts\applebarn.rpy:211
-    old "Do your best"
-    new "Do your best"
-
-    # Scripts\applebarn.rpy:211
-    old "Do your worst"
-    new "Do your worst"
-
-    # Scripts\applebarn.rpy:324
-    old "I'm not cute!"
-    new "I'm not cute!"
-
-    # Scripts\applebarn.rpy:324
-    old "I sure am. *wink wink*"
-    new "I sure am. *wink wink*"
-
-    # Scripts\applebarn.rpy:324
-    old "I don't have enough alcohol in my blood for that."
-    new "I don't have enough alcohol in my blood for that."
-
-    # Scripts\applebarn.rpy:427
-    old "I want some alcohol"
-    new "I want some alcohol"
-
-    # Scripts\applebarn.rpy:427
-    old "I want some time with AJ"
-    new "I want some time with AJ"
-
-# TODO: Translation updated at 2019-06-21 07:21
-
-# game/Scripts/applebarn.rpy:32
-translate English aj_see_herself_e031e6a2:
-
-    # aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3!t] for today."
-    aj "Well, you're part of the extended family I said and... If you really want it, I can call you [playername3!t] for today."
-
-# game/Scripts/applebarn.rpy:88
-translate English aj_see_herself_3a5386dc:
-
-    # aj "...[playername3!t]? I did not expect you today!"
-    aj "...[playername3!t]? I did not expect you today!"
-
-# game/Scripts/applebarn.rpy:95
-translate English aj_see_herself_778e0e93:
-
-    # aj "[playername!t]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
-    aj "[playername!t]. After all we've gone through together, I consider yourself as part of the extended family, you know? You better stay here for a while if you don't have more important stuff to do today!"
-
-# game/Scripts/applebarn.rpy:127
-translate English sugapple_b85ebf1a:
-
-    # p "Yes, close friend. My name is [playername!t]."
-    p "Yes, close friend. My name is [playername!t]."
-
-# game/Scripts/applebarn.rpy:182
-translate English braeburncest_d3ba3e3f:
-
-    # aj "You're not Rainbow, but you know what saying this means, don't you [playername3!t]?"
-    aj "You're not Rainbow, but you know what saying this means, don't you [playername3!t]?"
-
-# game/Scripts/applebarn.rpy:201
-translate English braeburncest_1ff5a80d:
-
-    # aj "So, let's see what you got [playername2!t]! I bet you can't beat..."
-    aj "So, let's see what you got [playername2!t]! I bet you can't beat..."
-
-# game/Scripts/applebarn.rpy:252
-translate English waterapple_2f1e6c79:
-
-    # aj "That's a bit slow for ten seconds and you only got one apple, [playername2!t]. I guess I won!"
-    aj "That's a bit slow for ten seconds and you only got one apple, [playername2!t]. I guess I won!"
-
-# game/Scripts/applebarn.rpy:307
-translate English waterapple_b85ebf1a:
-
-    # p "Yes, close friend. My name is [playername!t]."
-    p "Yes, close friend. My name is [playername!t]."
-
-# game/Scripts/applebarn.rpy:416
-translate English cute_bb_d3d882cc:
-
-    # b "Welcome back [playername2!t]!"
-    b "Welcome back [playername2!t]!"
-
-# game/Scripts/applebarn.rpy:459
-translate English brae_reward_dd2ff640:
-
-    # b "I sure do [playername2!t], but that's not really up to me."
-    b "I sure do [playername2!t], but that's not really up to me."
-
-# game/Scripts/applebarn.rpy:498
-translate English brae_reward_2955f5c7:
-
-    # aj "Howdy, [playername3!t]! I didn't think you'd come back! Did you want to stay over for the night?"
-    aj "Howdy, [playername3!t]! I didn't think you'd come back! Did you want to stay over for the night?"
-
-# game/Scripts/applebarn.rpy:504
-translate English brae_reward_a5d576c2:
-
-    # aj "Don’t worry [playername2!t], I have all your needs covered!"
-    aj "Don’t worry [playername2!t], I have all your needs covered!"
 

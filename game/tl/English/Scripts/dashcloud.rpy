@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-05-14 05:07
+﻿# TODO: Translation updated at 2025-11-26 12:28
 
 # game/Scripts/dashcloud.rpy:8
 translate English dashcloud_89abc92a:
@@ -7,10 +7,10 @@ translate English dashcloud_89abc92a:
     "As a pegasus, you are easily able to fly to Rainbow's cloud."
 
 # game/Scripts/dashcloud.rpy:9
-translate English dashcloud_bfbae56c:
+translate English dashcloud_09477f07:
 
-    # p "Wings are useful, [playername] was a good choice."
-    p "Wings are useful, [playername] was a good choice."
+    # p "Wings are useful, [playername!t] was a good choice."
+    p "Wings are useful, [playername!t] was a good choice."
 
 # game/Scripts/dashcloud.rpy:11
 translate English dashcloud_817a4c8f:
@@ -19,16 +19,16 @@ translate English dashcloud_817a4c8f:
     "As a unicorn, you are able to cast spells to go up to Rainbow's cloud and not fall through it."
 
 # game/Scripts/dashcloud.rpy:12
-translate English dashcloud_5fbc2be3:
+translate English dashcloud_859397e4:
 
-    # p "Magic is useful, [playername] was a good choice."
-    p "Magic is useful, [playername] was a good choice."
+    # p "Magic is useful, [playername!t] was a good choice."
+    p "Magic is useful, [playername!t] was a good choice."
 
 # game/Scripts/dashcloud.rpy:14
 translate English dashcloud_36385248:
 
     # "Anyway, Rainbow Dash is there, searching something under her bed, she apparently hasn't seen you yet."
-    "Anyway, Rainbow Dash is there, searching something under her bed, she apparently hasn't seen you yet."
+    "Anyway, Rainbow Dash is there, searching for something under her bed; she apparently hasn't seen you yet."
 
 # game/Scripts/dashcloud.rpy:15
 translate English dashcloud_5afbc557:
@@ -70,7 +70,7 @@ translate English datdashplot_d9e91ea5:
 translate English datdashplot_7dd30603:
 
     # "She stands up, turn around and sees you."
-    "She stands up, turn around and sees you."
+    "She stands up, turns around, and sees you."
 
 # game/Scripts/dashcloud.rpy:30
 translate English datdashplot_b069318f:
@@ -94,13 +94,13 @@ translate English datdashplot_a5e14cce:
 translate English datdashplot_291020bc:
 
     # rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroin this city needs, but the one this city deserves!"
-    rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroin this city needs, but the one this city deserves!"
+    rd "Yeah, look at you! You are like my clone! You even got my cutie mark right! And my rainbow-cloud. I'm not the heroine this city needs, but the one this city deserves!"
 
 # game/Scripts/dashcloud.rpy:38
 translate English datdashplot_bc4cd5d5:
 
     # p "You watched batmare too much."
-    p "You watched batmare too much."
+    p "You watched Batmare too much."
 
 # game/Scripts/dashcloud.rpy:40
 translate English datdashplot_99551c5e:
@@ -112,7 +112,7 @@ translate English datdashplot_99551c5e:
 translate English datdashplot_b4af8ed3:
 
     # p "Can you make one of my dream come true and call me Rainbow Dash?"
-    p "Can you make one of my dream come true and call me Rainbow Dash?"
+    p "Can you make one of my dreams come true and call me Rainbow Dash?"
 
 # game/Scripts/dashcloud.rpy:42
 translate English datdashplot_724d5b96:
@@ -127,10 +127,10 @@ translate English datdashplot_31a90cd2:
     p "Deal."
 
 # game/Scripts/dashcloud.rpy:47
-translate English datdashplot_9e578579:
+translate English datdashplot_f2278cf7:
 
-    # rd "Are you just passing by [playername3], or do you need something?"
-    rd "Are you just passing by [playername3], or do you need something?"
+    # rd "Are you just passing by [playername3!t], or do you need something?"
+    rd "Are you just passing by, [playername3!t], or do you need something?"
 
 # game/Scripts/dashcloud.rpy:48
 translate English datdashplot_b146c7b8:
@@ -166,7 +166,7 @@ translate English datdashplot_1af79adf:
 translate English datdashplot_2d4a9ba7:
 
     # p "In fact, I was thinking of asking help..."
-    p "In fact, I was thinking of asking help..."
+    p "In fact, I was thinking of asking for help..."
 
 # game/Scripts/dashcloud.rpy:63
 translate English askdashiehelp_8ca08919:
@@ -250,7 +250,7 @@ translate English easyflutterdash_f02d2de8:
 translate English easyflutterdash_491425f7:
 
     # p "Your lack of pictures on that matter disappoint me."
-    p "Your lack of pictures on that matter disappoint me."
+    p "Your lack of pictures on that matter disappoints me."
 
 # game/Scripts/dashcloud.rpy:93
 translate English easyflutterdash_c0e9c353:
@@ -268,7 +268,7 @@ translate English easyflutterdash_a2a6d5b0:
 translate English easyflutterdash_f3d221c5:
 
     # "Chibi ponies kissing each other in a kawaii way. This isn't a 18+ game after all."
-    "Chibi ponies kissing each other in a kawaii way. This isn't a 18+ game after all."
+    "Chibi ponies kissing each other in a kawaii way. This isn't an 18+ game after all."
 
 # game/Scripts/dashcloud.rpy:96
 translate English easyflutterdash_e85ddcd3:
@@ -280,7 +280,7 @@ translate English easyflutterdash_e85ddcd3:
 translate English easyflutterdash_0a83f1c8:
 
     # "The chibis. Not the change of rating. When I said they did naughty things, I was talking about eating.... IN THE BED! Think about it! All the crumbs everywere! Naughty! Filthy!"
-    "The chibis. Not the change of rating. When I said they did naughty things, I was talking about eating.... IN THE BED! Think about it! All the crumbs everywere! Naughty! Filthy!"
+    "The chibis. Not the change of rating. When I said they did naughty things, I was talking about eating.... IN THE BED! Think about it! All the crumbs everywhere! Naughty! Filthy!"
 
 # game/Scripts/dashcloud.rpy:99
 translate English easyflutterdash_74ef33bb:
@@ -436,7 +436,7 @@ translate English easyflutterdash_c610938f:
 translate English easyflutterdash_2faa68c9:
 
     # rd "Yeah, no, that was the timing that surprised me, I was searching a dumbbell to go train myself with Derpy, because she asked me to too!"
-    rd "Yeah, no, that was the timing that surprised me, I was searching a dumbbell to go train myself with Derpy, because she asked me to too!"
+    rd "Yeah, no, that was the timing that surprised me, I was searching for a dumbbell to go train myself with Derpy, because she asked me to too!"
 
 # game/Scripts/dashcloud.rpy:149
 translate English easyflutterdash_ae2d537e:
@@ -574,7 +574,7 @@ translate English truederpyabuse_e166e62e:
 translate English truederpyabuse_d5aa4191:
 
     # "And it was kisses and hugs time for the remaining of the day, Dashie joigning you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
-    "And it was kisses and hugs time for the remaining of the day, Dashie joining you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
+    "And it was kisses and hugs time for the remainder of the day, Dashie joining you once she came back, thinking it was a suitable replacement for the training session she was initially planning."
 
 # game/Scripts/dashcloud.rpy:217
 translate English truederpyabuse_f10a4ec1:
@@ -661,10 +661,10 @@ translate English truederpyabuse_fd868e06:
     "--Rainbow Dash ending 2--"
 
 # game/Scripts/dashcloud.rpy:247
-translate English truederpyabuse_ba5260a6:
+translate English truederpyabuse_48911279:
 
-    # d "Hey [playername2]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
-    d "Hey [playername2]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
+    # d "Hey [playername2!t]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
+    d "Hey [playername2!t]! Rainbow Dash and I were going to go train for a bit, do you want to join us?"
 
 # game/Scripts/dashcloud.rpy:248
 translate English truederpyabuse_e9f19837:
@@ -685,10 +685,10 @@ translate English truederpyabuse_b91fd848:
     p "I expected you to say something similar. Anyway, she will surely be back soon."
 
 # game/Scripts/dashcloud.rpy:251
-translate English truederpyabuse_14282fcf:
+translate English truederpyabuse_8af0bad0:
 
-    # d "That's true [playername2]! And-"
-    d "That's true [playername2]! And-"
+    # d "That's true [playername2!t]! And-"
+    d "That's true [playername2!t]! And-"
 
 # game/Scripts/dashcloud.rpy:254
 translate English truederpyabuse_94418b3c:
@@ -706,13 +706,13 @@ translate English truederpyabuse_78a79987:
 translate English truederpyabuse_5aaaf352:
 
     # d "I don't know, I simply wanted to eat one, but remembered it was my last one, but decided to eat it anyway, but... I can't find it anymore!"
-    d "I don't know, I only wanted to eat one, but remembered it was my last one, but decided to eat it anyway, but... I can't find it anymore!"
+    d "I don't know, I simply wanted to eat one, but remembered it was my last one, but decided to eat it anyway, but... I can't find it anymore!"
 
 # game/Scripts/dashcloud.rpy:257
 translate English truederpyabuse_b4e6dcb6:
 
     # p "Well, we will buy you some, the Sugarcube Corner isn't far."
-    p "Well, we can buy you some, the Sugarcube Corner isn't far."
+    p "Well, we will buy you some, the Sugarcube Corner isn't far."
 
 # game/Scripts/dashcloud.rpy:258
 translate English truederpyabuse_26404882:
@@ -745,10 +745,10 @@ translate English truederpyabuse_521da80b:
     p "Wait there, I'll get you one. I don't know how, but I'll get you one."
 
 # game/Scripts/dashcloud.rpy:271
-translate English truederpyabuse_77df56a3:
+translate English truederpyabuse_ce787523:
 
-    # d "Thank you [playername2], I will wait for your return."
-    d "Thank you [playername2], I will wait for your return."
+    # d "Thank you [playername2!t], I will wait for your return."
+    d "Thank you [playername2!t], I will wait for your return."
 
 # game/Scripts/dashcloud.rpy:272
 translate English truederpyabuse_6e814c8c:
@@ -769,10 +769,10 @@ translate English truederpyabuse_1aad1906:
     "You go back to Rainbow's cloud, where Derpy Hooves is waiting for a muffin."
 
 # game/Scripts/dashcloud.rpy:288
-translate English truederpyabuse_2027a12d:
+translate English truederpyabuse_2a4fc9d0:
 
-    # d "Hey [playername2], you are back! Did you find any muffin?"
-    d "Hey [playername2], you are back! Did you find any muffin?"
+    # d "Hey [playername2!t], you are back! Did you find any muffin?"
+    d "Hey [playername2!t], you are back! Did you find any muffin?"
 
 # game/Scripts/dashcloud.rpy:290
 translate English truederpyabuse_957ef681:
@@ -797,6 +797,48 @@ translate English truederpyabuse_501137be:
 
     # d "Take care..."
     d "Take care..."
+translate English strings:
+
+    # game/Scripts/dashcloud.rpy:17
+    old "Stare at her plot"
+    new "Stare at her plot"
+
+    # game/Scripts/dashcloud.rpy:18
+    old "Offer your help"
+    new "Offer your help"
+
+    # game/Scripts/dashcloud.rpy:61
+    old "To be cooler"
+    new "To be cooler"
+
+    # game/Scripts/dashcloud.rpy:62
+    old "To gain some strength"
+    new "To gain some strength"
+
+    # game/Scripts/dashcloud.rpy:78
+    old "Decline the offer"
+    new "Decline the offer"
+
+    # game/Scripts/dashcloud.rpy:79
+    old "Accept the offer"
+    new "Accept the offer"
+
+    # game/Scripts/dashcloud.rpy:182
+    old "Tell her the truth"
+    new "Tell her the truth"
+
+    # game/Scripts/dashcloud.rpy:183
+    old "Take advantage of the situation"
+    new "Take advantage of the situation"
+
+    # game/Scripts/dashcloud.rpy:191
+    old "\"I have a very special muffin for you...\""
+    new "\"I have a very special muffin for you...\""
+
+    # game/Scripts/dashcloud.rpy:192
+    old "\"I love them too!\""
+    new "\"I love them too!\""
+# TODO: Translation updated at 2025-11-28 11:55
 
 # game/Scripts/dashcloud.rpy:297
 translate English truederpyabuse_7d44d21d:
@@ -817,16 +859,16 @@ translate English yummymuffin_60b6fe2f:
     "You give your muffin to Derpy."
 
 # game/Scripts/dashcloud.rpy:305
-translate English yummymuffin_22b3ad88:
+translate English yummymuffin_a74114b3:
 
-    # d "Thank you so much [playername2]!"
-    d "Thank you so much [playername2]!"
+    # d "Thank you so much [playername2!t]!"
+    d "Thank you so much [playername2!t]!"
 
 # game/Scripts/dashcloud.rpy:313
-translate English yummymuffin_dbfdabbc:
+translate English yummymuffin_0384e70d:
 
-    # rd "Sorry girls, I took my time! ...[playername3], what did you do to Derpy? She's so happy!"
-    rd "Sorry girls, I took my time! ...[playername3], what did you do to Derpy? She's so happy!"
+    # rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
+    rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
 
 # game/Scripts/dashcloud.rpy:316
 translate English yummymuffin_af2f5e46:
@@ -874,7 +916,7 @@ translate English yummymuffin_c67e549a:
 translate English yummymuffin_c4adac6b:
 
     # "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
-    "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to them -who were going back to their homes- and returned to the crossroad."
+    "And you three went outside ponyville to go train for a bit, lifting weights, running, flying, etc. After that, you waved goodbye to the two others -who were going back to their home- and returned to the crossroad."
 
 # game/Scripts/dashcloud.rpy:340
 translate English yummymuffin_0adfd453:
@@ -904,7 +946,7 @@ translate English yummymuffin_afde9838:
 translate English yummymuffin_390a9618:
 
     # p "I was wondering about something. Why does no one here has genitals?"
-    p "I was wondering about something. Why does no one here have genitals?"
+    p "I was wondering about something. Why does no one here has genitals?"
 
 # game/Scripts/dashcloud.rpy:356
 translate English yummymuffin_70dc61b7:
@@ -922,13 +964,13 @@ translate English yummymuffin_ae7b114b:
 translate English yummymuffin_5dd7cf6c:
 
     # rd "Barbier dolls? You're making less and less sense by the minute."
-    rd "Barbie dolls? You're making less and less sense by the minute."
+    rd "Barbier dolls? You're making less and less sense by the minute."
 
 # game/Scripts/dashcloud.rpy:361
 translate English yummymuffin_e0d0f471:
 
     # p "Rainbow Dash. How are fillies and colt made?"
-    p "Rainbow Dash. How are fillies and colts made?"
+    p "Rainbow Dash. How are fillies and colt made?"
 
 # game/Scripts/dashcloud.rpy:363
 translate English yummymuffin_fbc37a88:
@@ -989,102 +1031,4 @@ translate English yummymuffin_c55c2acb:
 
     # "And so you went back to ponyville and its crossroad."
     "And so you went back to ponyville and its crossroad."
-
-translate English strings:
-
-    # Scripts\dashcloud.rpy:17
-    old "Stare at her plot"
-    new "Stare at her plot"
-
-    # Scripts\dashcloud.rpy:17
-    old "Offer your help"
-    new "Offer your help"
-
-    # Scripts\dashcloud.rpy:61
-    old "To be cooler"
-    new "To be cooler"
-
-    # Scripts\dashcloud.rpy:61
-    old "To gain some strength"
-    new "To gain some strength"
-
-    # Scripts\dashcloud.rpy:78
-    old "Decline the offer"
-    new "Decline the offer"
-
-    # Scripts\dashcloud.rpy:78
-    old "Accept the offer"
-    new "Accept the offer"
-
-    # Scripts\dashcloud.rpy:182
-    old "Tell her the truth"
-    new "Tell her the truth"
-
-    # Scripts\dashcloud.rpy:182
-    old "Take advantage of the situation"
-    new "Take advantage of the situation"
-
-    # Scripts\dashcloud.rpy:191
-    old "\"I have a very special muffin for you...\""
-    new "\"I have a very special muffin for you...\""
-
-    # Scripts\dashcloud.rpy:191
-    old "\"I love them too!\""
-    new "\"I love them too!\""
-
-# TODO: Translation updated at 2019-06-21 07:21
-
-# game/Scripts/dashcloud.rpy:9
-translate English dashcloud_09477f07:
-
-    # p "Wings are useful, [playername!t] was a good choice."
-    p "Wings are useful, [playername!t] was a good choice."
-
-# game/Scripts/dashcloud.rpy:12
-translate English dashcloud_859397e4:
-
-    # p "Magic is useful, [playername!t] was a good choice."
-    p "Magic is useful, [playername!t] was a good choice."
-
-# game/Scripts/dashcloud.rpy:47
-translate English datdashplot_f2278cf7:
-
-    # rd "Are you just passing by [playername3!t], or do you need something?"
-    rd "Are you just passing by [playername3!t], or do you need something?"
-
-# game/Scripts/dashcloud.rpy:247
-translate English truederpyabuse_48911279:
-
-    # d "Hey [playername2!t]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
-    d "Hey [playername2!t]! Rainbow Dash and me were going to go train for a bit, do you want to join us?"
-
-# game/Scripts/dashcloud.rpy:251
-translate English truederpyabuse_8af0bad0:
-
-    # d "That's true [playername2!t]! And-"
-    d "That's true [playername2!t]! And-"
-
-# game/Scripts/dashcloud.rpy:271
-translate English truederpyabuse_ce787523:
-
-    # d "Thank you [playername2!t], I will wait for your return."
-    d "Thank you [playername2!t], I will wait for your return."
-
-# game/Scripts/dashcloud.rpy:288
-translate English truederpyabuse_2a4fc9d0:
-
-    # d "Hey [playername2!t], you are back! Did you find any muffin?"
-    d "Hey [playername2!t], you are back! Did you find any muffin?"
-
-# game/Scripts/dashcloud.rpy:305
-translate English yummymuffin_a74114b3:
-
-    # d "Thank you so much [playername2!t]!"
-    d "Thank you so much [playername2!t]!"
-
-# game/Scripts/dashcloud.rpy:313
-translate English yummymuffin_0384e70d:
-
-    # rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
-    rd "Sorry girls, I took my time! ...[playername3!t], what did you do to Derpy? She's so happy!"
 

@@ -1,4 +1,38 @@
-﻿# TODO: Translation updated at 2019-05-14 05:07
+﻿# TODO: Translation updated at 2025-11-26 12:45
+translate English strings:
+
+    # game/Scripts/carouselboutique.rpy:47
+    old "\"I certainly would love to help!\""
+    new "\"I certainly would love to help!\""
+
+    # game/Scripts/carouselboutique.rpy:51
+    old "\"Shall your doom tear you apart!\""
+    new "\"May your doom tear you apart!\""
+
+    # game/Scripts/carouselboutique.rpy:85
+    old "\"My destiny is elsewhere...\""
+    new "\"My destiny is elsewhere...\""
+
+    # game/Scripts/carouselboutique.rpy:127
+    old "\"Don't you have a spare ruby?\""
+    new "\"Don't you have a spare ruby?\""
+
+    # game/Scripts/carouselboutique.rpy:185
+    old "Cupboard ending"
+    new "Cupboard ending"
+
+    # game/Scripts/carouselboutique.rpy:280
+    old "Help with the ledger"
+    new "Help with the ledger"
+
+    # game/Scripts/carouselboutique.rpy:290
+    old "Offer your help for something else"
+    new "Offer your help for something else"
+
+    # game/Scripts/carouselboutique.rpy:295
+    old "Offer your \"help\" for \"something else\""
+    new "Offer your \"help\" for \"something else\""
+# TODO: Translation updated at 2025-11-28 11:55
 
 # game/Scripts/carouselboutique.rpy:9
 translate English carouselboutique_73cd491e:
@@ -43,10 +77,10 @@ translate English carouselboutique_702a43d3:
     "Yeah... Coincidence. For sure."
 
 # game/Scripts/carouselboutique.rpy:27
-translate English carouselboutique_b4249b16:
+translate English carouselboutique_1ab81280:
 
-    # r "[playername]! What a surprise!"
-    r "[playername]! What a surprise!"
+    # r "[playername!t]! What a surprise!"
+    r "[playername!t]! What a surprise!"
 
 # game/Scripts/carouselboutique.rpy:30
 translate English carouselboutique_666f7bb4:
@@ -103,10 +137,10 @@ translate English raritychoice1_798358e6:
     p "DIE, YOU PEASANT! SHALL YOUR DOOM TEAR YOU APART FOR HAVING ASKED SUCH A FRIVOLOUS QUESTION!"
 
 # game/Scripts/carouselboutique.rpy:62
-translate English raritychoice1_858a2cde:
+translate English raritychoice1_d54074db:
 
-    # r "Erm... Are you alright [playername2]?"
-    r "Erm... Are you alright [playername2]?"
+    # r "Erm... Are you alright [playername2!t]?"
+    r "Erm... Are you alright [playername2!t]?"
 
 # game/Scripts/carouselboutique.rpy:63
 translate English raritychoice1_886f14f4:
@@ -283,10 +317,10 @@ translate English raritychoice1_459e5c33:
     r "Well. You are just being Pinkie Pie, I guess. Wait there."
 
 # game/Scripts/carouselboutique.rpy:143
-translate English raritychoice1_b244a14b:
+translate English raritychoice1_c266718d:
 
-    # r "[playername], you are just sounding like pinkie Pie right now. Anyway, wait there."
-    r "[playername], you are just sounding like pinkie Pie right now. Anyway, wait there."
+    # r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
+    r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
 
 # game/Scripts/carouselboutique.rpy:149
 translate English raritychoice1_953b2218:
@@ -403,10 +437,10 @@ translate English raritychoice1_94805f1c:
     r "Help? I did not ask for so much! But if you are willing, who am I to refuse?"
 
 # game/Scripts/carouselboutique.rpy:201
-translate English raritychoice1_0e8b08f8:
+translate English raritychoice1_3a151ce3:
 
-    # r "Thank you [playername2], it would be harder without your help."
-    r "Thank you [playername2], it would be much harder without your help."
+    # r "Thank you [playername2!t], it would be harder without your help."
+    r "Thank you [playername2!t], it would be harder without your help."
 
 # game/Scripts/carouselboutique.rpy:202
 translate English raritychoice1_4f1aec13:
@@ -517,10 +551,10 @@ translate English raritychoice1_080a2631:
     r "Hello again darling."
 
 # game/Scripts/carouselboutique.rpy:267
-translate English raritychoice1_5b214bd1:
+translate English raritychoice1_4ed6e73e:
 
-    # r "Hello again [playername2]."
-    r "Hello again [playername2]."
+    # r "Hello again [playername2!t]."
+    r "Hello again [playername2!t]."
 
 # game/Scripts/carouselboutique.rpy:269
 translate English raritychoice1_5836bcfc:
@@ -772,7 +806,7 @@ translate English raritychoice1_fcbcf892:
 translate English raritychoice1_39e01afd:
 
     # "Needless to say, it led you two to a long and intimate moment where Rarity searched her oil and massaged you in return, being quite talented herself."
-    "Needless to say, it led you two to a long and intimate moment where Rarity searched for her oil and massaged you in return, being quite talented herself."
+    "Needless to say, it led you two to a long and intimate moment where Rarity searched her oil and massaged you in return, being quite talented herself."
 
 # game/Scripts/carouselboutique.rpy:378
 translate English raritychoice1_aff0f82a:
@@ -796,7 +830,7 @@ translate English raritychoice1_d678d71e:
 translate English raritychoice1_25a9f71d:
 
     # r "You see, I'm quite busy here and I don't have any herbs to make some tea anymore."
-    r "You see, I'm quite busy here and I don't have any herbs left to make any tea at the moment"
+    r "You see, I'm quite busy here and I don't have any herbs to make some tea anymore."
 
 # game/Scripts/carouselboutique.rpy:385
 translate English raritychoice1_5c91d834:
@@ -826,7 +860,7 @@ translate English raritychoice1_0b21c400:
 translate English raritychoice1_bd3bf468:
 
     # r "I will be right here, waiting for you if you need me or want to give me the tea you got."
-    r "I will be waiting here if you need me or want to give me the tea you got."
+    r "I will be right here, waiting for you if you need me or want to give me the tea you got."
 
 # game/Scripts/carouselboutique.rpy:397
 translate English raritychoice1_ba306a93:
@@ -844,7 +878,7 @@ translate English raritychoice1_27257d14:
 translate English raritychoice1_e39fe46a:
 
     # "And you went back to the crossroad. Where could you get tea, wonderful natural product?"
-    "And you went back to the crossroad. Where could you get tea, the wonderful natural product?"
+    "And you went back to the crossroad. Where could you get tea, wonderful natural product?"
 
 # game/Scripts/carouselboutique.rpy:414
 translate English raritychoice1_da64b237:
@@ -868,7 +902,7 @@ translate English raritychoice1_dea821f8:
 translate English rarity_get_tea_8c9640a5:
 
     # r "Marvelous! I'm going to prepare some then, just wait five minutes. If you have some quick business to do around, don't worry, I can handle it on my own, just be back soon, okay?"
-    r "Marvelous! I'm going to prepare some then, just wait a few minutes. If you have some quick business to do around, don't worry, I can handle it on my own, just be back soon, okay?"
+    r "Marvelous! I'm going to prepare some then, just wait five minutes. If you have some quick business to do around, don't worry, I can handle it on my own, just be back soon, okay?"
 
 # game/Scripts/carouselboutique.rpy:421
 translate English rarity_get_tea_964fad0d:
@@ -886,7 +920,7 @@ translate English rarity_get_tea_ee47385e:
 translate English rarity_get_tea_1078a933:
 
     # p "Not really, but I'm searching!"
-    p "Nothing really, but I'm searching!"
+    p "Not really, but I'm searching!"
 
 # game/Scripts/carouselboutique.rpy:432
 translate English rarity_get_tea_fae9a7c5:
@@ -937,10 +971,10 @@ translate English rarity_get_tea_ea32051f:
     p "Anyways, I'm on my way to find you some tea! See you soon!"
 
 # game/Scripts/carouselboutique.rpy:442
-translate English rarity_get_tea_cf4cc64a:
+translate English rarity_get_tea_9fca844c:
 
-    # r "Good luck [playername2]!"
-    r "Good luck [playername2]!"
+    # r "Good luck [playername2!t]!"
+    r "Good luck [playername2!t]!"
 
 # game/Scripts/carouselboutique.rpy:452
 translate English rarity_get_tea_3723470e:
@@ -949,10 +983,10 @@ translate English rarity_get_tea_3723470e:
     "You go back to the Carousel Boutique, where everything is chic and magnifique, including the fabulous mare who is pouring some tea in a cup."
 
 # game/Scripts/carouselboutique.rpy:456
-translate English rarity_get_tea_95e3f2b0:
+translate English rarity_get_tea_761209f7:
 
-    # "Welcome back [playername]! I just finished brewing the tea. This scent is divine!"
-    "Welcome back [playername]! I just finished brewing the tea. This scent is divine!"
+    # "Welcome back [playername!t]! I just finished brewing the tea. This scent is divine!"
+    "Welcome back [playername!t]! I just finished brewing the tea. This scent is divine!"
 
 # game/Scripts/carouselboutique.rpy:459
 translate English rarity_get_tea_a3c5953e:
@@ -1121,82 +1155,4 @@ translate English rarity_get_tea_3ca21c1d:
 
     # "And you return to the crossroad."
     "And you return to the crossroad."
-
-translate English strings:
-
-    # Scripts\carouselboutique.rpy:45
-    old "\"I certainly would love to help!\""
-    new "\"I certainly would love to help!\""
-
-    # Scripts\carouselboutique.rpy:45
-    old "\"Shall your doom tear you apart!\""
-    new "\"Shall your doom tear you apart!\""
-
-    # Scripts\carouselboutique.rpy:45
-    old "\"My destiny is elsewhere...\""
-    new "\"My destiny is elsewhere...\""
-
-    # Scripts\carouselboutique.rpy:45
-    old "\"Don't you have a spare ruby?\""
-    new "\"Don't you have a spare ruby?\""
-
-    # Scripts\carouselboutique.rpy:45
-    old "Cupboard ending"
-    new "Cupboard ending"
-
-    # Scripts\carouselboutique.rpy:279
-    old "Help with the ledger"
-    new "Help with the ledger"
-
-    # Scripts\carouselboutique.rpy:279
-    old "Offer your help for something else"
-    new "Offer your help for something else"
-
-    # Scripts\carouselboutique.rpy:279
-    old "Offer your \"help\" for \"something else\""
-    new "Offer your \"help\" for \"something else\""
-
-# TODO: Translation updated at 2019-06-21 07:21
-
-# game/Scripts/carouselboutique.rpy:27
-translate English carouselboutique_1ab81280:
-
-    # r "[playername!t]! What a surprise!"
-    r "[playername!t]! What a surprise!"
-
-# game/Scripts/carouselboutique.rpy:62
-translate English raritychoice1_d54074db:
-
-    # r "Erm... Are you alright [playername2!t]?"
-    r "Erm... Are you alright [playername2!t]?"
-
-# game/Scripts/carouselboutique.rpy:143
-translate English raritychoice1_c266718d:
-
-    # r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
-    r "[playername!t], you are just sounding like pinkie Pie right now. Anyway, wait there."
-
-# game/Scripts/carouselboutique.rpy:201
-translate English raritychoice1_3a151ce3:
-
-    # r "Thank you [playername2!t], it would be harder without your help."
-    r "Thank you [playername2!t], it would be harder without your help."
-
-# game/Scripts/carouselboutique.rpy:267
-translate English raritychoice1_4ed6e73e:
-
-    # r "Hello again [playername2!t]."
-    r "Hello again [playername2!t]."
-
-# game/Scripts/carouselboutique.rpy:442
-translate English rarity_get_tea_9fca844c:
-
-    # r "Good luck [playername2!t]!"
-    r "Good luck [playername2!t]!"
-
-# game/Scripts/carouselboutique.rpy:456
-translate English rarity_get_tea_761209f7:
-
-    # "Welcome back [playername!t]! I just finished brewing the tea. This scent is divine!"
-    "Welcome back [playername!t]! I just finished brewing the tea. This scent is divine!"
 
