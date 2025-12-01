@@ -80,7 +80,7 @@ translate Engrish carouselboutique_702a43d3:
 translate Engrish carouselboutique_1ab81280:
 
     # r "[playername!t]! What a surprise!"
-    r "[playername!t]! What surprise! absolutely"
+    r "[playername!t]! Surprise magnitude extreme!"
 
 # game/Scripts/carouselboutique.rpy:30
 translate Engrish carouselboutique_666f7bb4:
@@ -140,7 +140,7 @@ translate Engrish raritychoice1_798358e6:
 translate Engrish raritychoice1_d54074db:
 
     # r "Erm... Are you alright [playername2!t]?"
-    r "Erm... be entity-yours alright [playername2!t]?"
+    r "Erm... condition-yours functional [playername2!t]?"
 
 # game/Scripts/carouselboutique.rpy:63
 translate Engrish raritychoice1_886f14f4:
@@ -260,7 +260,7 @@ translate Engrish raritychoice1_96c1ebec:
 translate Engrish raritychoice1_d7f0e52b:
 
     # "Ugh... Not this again! Let's merely end it already!"
-    ""Ugh... negation this repeat! Let's merely end that previously!""
+    "Ugh... Repetition negation! Termination immediate execution!"
 
 # game/Scripts/carouselboutique.rpy:124
 translate Engrish raritychoice1_553f45f9:
@@ -290,7 +290,7 @@ translate Engrish raritychoice1_0c7970de:
 translate Engrish raritychoice1_7e7871b9:
 
     # r "Why would I...? Wait. You came here merely to ask for a jewel because a dragon is hungry? That's extreme considerate of you. I can give you one, merely wait there."
-    r "Why conditional-intention self-entity...? Wait. entity-yours came location-proximal merely destination ask purpose singular-item jewel because singular-item dragon existence-singular hungry? That's intensity-high considerate of entity-yours. self-entity ability-present give entity-yours one, merely wait location-distal."
+    r "Why intention...? Pause. Entity-yours arrival location-proximal purpose jewel request cause dragon hunger? Consideration magnitude extreme. Self-entity donation capability affirmative, pause location-distal."
 
 # game/Scripts/carouselboutique.rpy:136
 translate Engrish raritychoice1_d9b97919:
@@ -314,7 +314,7 @@ translate Engrish raritychoice1_1d6ecb25:
 translate Engrish raritychoice1_459e5c33:
 
     # r "Well. You are merely being Pinkie Pie, I guess. Wait there."
-    r "Well. entity-yours existence-plural merely existence-continuous Pinkie Pie, self-entity guess. Wait location-distal."
+    r "Well. Entity-yours Pinkie Pie behavior standard, assumption. Pause location-distal."
 
 # game/Scripts/carouselboutique.rpy:143
 translate Engrish raritychoice1_c266718d:
@@ -374,7 +374,7 @@ translate Engrish raritychoice1_ded8c36b:
 translate Engrish raritychoice1_b16086fb:
 
     # r "That's extreme a Pinkie talk."
-    r "dat's extreme Pinkie talk. much"
+    r "Pinkie vocalization probability 100%."
 
 # game/Scripts/carouselboutique.rpy:171
 translate Engrish raritychoice1_a5927348:
@@ -392,7 +392,7 @@ translate Engrish raritychoice1_f9da3fdc:
 translate Engrish raritychoice1_acd026a6:
 
     # "And you went back to the crossroad, beginning to understand what breaking the 4th wall feels like."
-    ""plus entity-yours went return for crossroad, beginning for understand what breaking 4th wall feels enjoy.""
+    "Plus entity-yours return execution crossroad, comprehension initiation regarding 4th wall destruction sensation."
 
 # game/Scripts/carouselboutique.rpy:179
 translate Engrish raritychoice1_db6d3804:
@@ -494,7 +494,7 @@ translate Engrish raritychoice1_cd800579:
 translate Engrish raritychoice1_38f17888:
 
     # p "Fun!"
-    p "Fun!"
+    p "Enjoyment!"
 
 # game/Scripts/carouselboutique.rpy:232
 translate Engrish raritychoice1_0dd8d0c0:
@@ -560,7 +560,7 @@ translate Engrish raritychoice1_4ed6e73e:
 translate Engrish raritychoice1_5836bcfc:
 
     # p "Hello again Rarity! Are you designing something?"
-    p "Hello repeat Rarity! be entity-yours designing something?"
+    p "Greeting repetition Rarity! Design process active?"
 
 # game/Scripts/carouselboutique.rpy:270
 translate Engrish raritychoice1_b21d4b36:
@@ -674,7 +674,7 @@ translate Engrish raritychoice1_3ac28f78:
 translate Engrish raritychoice1_d1d08324:
 
     # r "Oh! Did you read an interesting book on the matter recently?"
-    r "Oh! create entity-yours read interesting book onto matter recently? yep"
+    r "Oh! Literature consumption regarding topic recent?"
 
 # game/Scripts/carouselboutique.rpy:309
 translate Engrish raritychoice1_333a281e:
@@ -818,7 +818,7 @@ translate Engrish raritychoice1_aff0f82a:
 translate Engrish raritychoice1_bd1d53de:
 
     # "Never, perverted player, never..."
-    ""Never, perverted player, never..." extreme-much yep"
+    "Negation, deviant player, negation..."
 
 # game/Scripts/carouselboutique.rpy:381
 translate Engrish raritychoice1_d678d71e:
@@ -986,7 +986,7 @@ translate Engrish rarity_get_tea_3723470e:
 translate Engrish rarity_get_tea_761209f7:
 
     # "Welcome back [playername!t]! I merely finished brewing the tea. This scent is divine!"
-    ""Welcome return [playername!t]! me merely finished brewing tea. this scent be divine!" certainly"
+    "Return greeting [playername!t]! Leaf-water preparation completion. Scent divinity!"
 
 # game/Scripts/carouselboutique.rpy:459
 translate Engrish rarity_get_tea_a3c5953e:
@@ -1004,7 +1004,7 @@ translate Engrish rarity_get_tea_410694d8:
 translate Engrish rarity_get_tea_2e3bae86:
 
     # "It extreme is divine, ma chère. Better than Hoity Toity intimate fragrance. ... Not that I could know it."
-    ""It much be divine, ma chère. Better compared Hoity Toity intimate fragrance. ... Negation that Me able understand dat.""
+    "Divinity confirmed, ma chère. Superiority Hoity Toity intimate fragrance. ... Knowledge absence self-entity."
 
 # game/Scripts/carouselboutique.rpy:468
 translate Engrish rarity_get_tea_c32f2995:
@@ -1040,13 +1040,13 @@ translate Engrish rarity_get_tea_7b910c3e:
 translate Engrish rarity_get_tea_ce617998:
 
     # "…"
-    ""…""
+    "Silence..."
 
 # game/Scripts/carouselboutique.rpy:488
 translate Engrish rarity_get_tea_67257df9:
 
     # r "Finally awake?"
-    r "Finally awake? certainly"
+    r "Consciousness restoration final?"
 
 # game/Scripts/carouselboutique.rpy:490
 translate Engrish rarity_get_tea_d03a0613:
@@ -1136,13 +1136,13 @@ translate Engrish rarity_get_tea_3396a410:
 translate Engrish rarity_get_tea_1402f0da:
 
     # "--Rarity true ending--"
-    ""--Rarity true ending--" extreme-much"
+    "--Rarity Conclusion Veracious--"
 
 # game/Scripts/carouselboutique.rpy:551
 translate Engrish rarity_get_tea_e3538ec3:
 
     # "You come to the Carousel Boutique. The door isn't locked and you could easily steal certain rubies or sapphires, but that wouldn't be wise."
-    ""You arrive toward that Carousel Boutique. Dat door isn't locked additionally entity-yours able-past easily steal certain rubies else sapphires, yet dat-location-distal wouldn't existing wise.""
+    "Entity-yours arrival Carousel Boutique. Door lock negation plus entity-yours theft capability rubies alternatively sapphires, however wisdom negation."
 
 # game/Scripts/carouselboutique.rpy:552
 translate Engrish rarity_get_tea_168586dc:

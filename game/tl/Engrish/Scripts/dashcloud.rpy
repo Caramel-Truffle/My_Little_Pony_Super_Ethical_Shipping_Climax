@@ -882,7 +882,7 @@ translate Engrish yummymuffin_251aca32:
 translate Engrish yummymuffin_4fede62e:
 
     # d "Allons-y!"
- d "Allons-y!"
+ d "Allons-y! (Forward movement!)"
 
 # game/Scripts/dashcloud.rpy:323
 translate Engrish yummymuffin_59ee328c:
@@ -972,7 +972,7 @@ translate Engrish yummymuffin_fbc37a88:
 translate Engrish yummymuffin_ec2dc706:
 
     # p "Oof."
- p "Oof."
+ p "Impact sound."
 
 # game/Scripts/dashcloud.rpy:367
 translate Engrish yummymuffin_5143d28f:
