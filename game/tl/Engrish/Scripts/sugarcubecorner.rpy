@@ -281,7 +281,7 @@ translate Engrish pinkieguess_42fc09b4:
 translate Engrish pinkieguess_a1cc85b7:
 
     # "--Mustache ending--"
-    "--Mustache Conclusion--"
+    "--Facial Hair Termination--"
 
 # game/Scripts/sugarcubecorner.rpy:141
 translate Engrish pinkieguess_32176dcb:
@@ -344,7 +344,7 @@ translate Engrish pinkieguess_f7d76249:
 translate Engrish pinkieguess_2fd56811:
 
     # "--Pinkie ending 1--"
-    "--Pinkie Conclusion One--"
+    "--Pink Horse Conclusion Primary--"
 
 # game/Scripts/sugarcubecorner.rpy:189
 translate Engrish pinkieguess_cab992ae:
@@ -429,24 +429,24 @@ translate Engrish pinkieguess_3a45e321:
 translate Engrish pinkieguess_8f5bd897:
 
     # p "Erm?"
-    p "Hesitation?"
+    p "Uhhh?"
 
 # game/Scripts/sugarcubecorner.rpy:219
 translate Engrish pinkieguess_ff22e91a:
 
     # pp "No. You just look like her. You are not her, don't even try with me."
-    pp "Negation. Resemblance only. Identity negation, attempt prohibition self."
+    pp "Negation. Appearance similarity only. Her you no be, attempt prohibition with self."
 
 # game/Scripts/sugarcubecorner.rpy:221
 translate Engrish pinkieguess_d3a3f278:
 
     # p "Okay."
-    p "Agreement."
+    p "Affirmative."
 
 # game/Scripts/sugarcubecorner.rpy:225
 translate Engrish assertivepie_6fb099de:
 
-    p "Muffin desire. Certainty absolute."
+    p "I want muffin. I sure absolute about it."
 
 # game/Scripts/sugarcubecorner.rpy:229
 translate Engrish assertivepie_360e3c59:
@@ -456,43 +456,43 @@ translate Engrish assertivepie_360e3c59:
 # game/Scripts/sugarcubecorner.rpy:233
 translate Engrish assertivepie_701c40f7:
 
-    pp "Identification! Location, [p_pp] acquisition!"
+    pp "Correct! Location here, [p_pp] acquisition!"
 
 # game/Scripts/sugarcubecorner.rpy:235
 translate Engrish assertivepie_ffce608b:
 
-    "She gives you [p_pp]!"
+    "She give you [p_pp]!"
 
 # game/Scripts/sugarcubecorner.rpy:238
 translate Engrish assertivepie_0ad83f16:
 
-    p "Pause.... Conclusion? Item donation, addition zero? Explanation absence?"
+    p "So... That it? You give thing and nothing more? No explain or whatever?"
 
 # game/Scripts/sugarcubecorner.rpy:240
 translate Engrish assertivepie_5e26b4f1:
 
-    pp "Affirmative, mechanism operation. Request one, donation execution, utility other path, visual contact cessation. Case self: muffin utility Rainbow Dash. However request other, visual contact possibility, fetch quest prerequisite continuation."
+    pp "Affirmative, mechanism function thus, request single item, donation execute, utility alternate route, visual contact cessation. Case self: muffin utility Rainbow Dash. However request alternate, visual contact possibility, fetch quest prerequisite continuation."
 
 # game/Scripts/sugarcubecorner.rpy:241
 translate Engrish assertivepie_ad3a4930:
 
-    p "Sense making zero!"
+    p "That make no sense!"
 
 # game/Scripts/sugarcubecorner.rpy:242
 translate Engrish assertivepie_50feb6ba:
 
-    pp "Game status, silliness! Reality logic application impossibility! Departure command!"
+    pp "Game status, foolish! Reality logic application impossibility! Present, departure!"
 
 # game/Scripts/sugarcubecorner.rpy:243
 translate Engrish assertivepie_7eb0807d:
 
     # p "Shoe?"
-    p "Footwear?"
+    p "Foot wear?"
 
 # game/Scripts/sugarcubecorner.rpy:244
 translate Engrish assertivepie_0d70ad25:
 
-    pp "Departure command, exit! Scene conclusion, storyteller job permission!"
+    pp "Departure, exit! Scene conclusion, narrator job permission!"
 
 # game/Scripts/sugarcubecorner.rpy:245
 translate Engrish assertivepie_a20cefa7:
@@ -504,7 +504,7 @@ translate Engrish assertivepie_a20cefa7:
 translate Engrish assertivepie_8aa81de8:
 
     # pp "Narrator?"
-    pp "Storyteller?"
+    pp "Story entity?"
 
 # game/Scripts/sugarcubecorner.rpy:247
 translate Engrish assertivepie_a20cefa7_1:
@@ -515,12 +515,12 @@ translate Engrish assertivepie_a20cefa7_1:
 # game/Scripts/sugarcubecorner.rpy:248
 translate Engrish assertivepie_b3f6e730:
 
-    p "Grumpiness state."
+    p "He just being grumpy."
 
 # game/Scripts/sugarcubecorner.rpy:249
 translate Engrish assertivepie_3bd20649:
 
-    pp "However necessity! Exit impossibility without assistance!"
+    pp "However necessity! Exit impossibility assistance absence!"
 
 # game/Scripts/sugarcubecorner.rpy:250
 translate Engrish assertivepie_a20cefa7_2:
@@ -541,12 +541,12 @@ translate Engrish assertivepie_54d2f4af:
 # game/Scripts/sugarcubecorner.rpy:254
 translate Engrish assertivepie_6687ceff:
 
-    pp "Grumpiness verification. However entrance oblivion reciprocity, acceptability."
+    pp "Grumpiness verified. However entrance oblivion reciprocal, acceptability."
 
 # game/Scripts/sugarcubecorner.rpy:256
 translate Engrish assertivepie_20020c24:
 
-    "Meaning query: future meeting normality?"
+    "You mean next meet normal?"
 
 # game/Scripts/sugarcubecorner.rpy:257
 translate Engrish assertivepie_6d63c2d1:
@@ -557,30 +557,29 @@ translate Engrish assertivepie_6d63c2d1:
 translate Engrish assertivepie_d2bf2dc4:
 
     # "Erm. Time to go then! See you next time!"
-    "Hesitation. Departure time! Future visual contact!"
+    "Hesitation. Departure temporal! Visual contact future!"
 
 # game/Scripts/sugarcubecorner.rpy:260
 translate Engrish assertivepie_d698913e:
 
     # p "Bye Pinkie!"
-    p "Farewell Pinkie!"
+    p "Farewell Pink Horse!"
 
 # game/Scripts/sugarcubecorner.rpy:261
 translate Engrish assertivepie_dcbd16bc:
 
-    # pp "Bye \"[playername3!t]\"!"
     pp "Farewell \"[playername3!t]\"!"
 
 # game/Scripts/sugarcubecorner.rpy:267
 translate Engrish assertivepie_e0c848cc:
 
-    "Crossroad return, sweet pocket content, manure age excess. Payment absence."
+    "You go back to crossroad with sweet thing in pocket and I definitely too old for this poop. I not even paid for this."
 
 # game/Scripts/sugarcubecorner.rpy:268
 translate Engrish assertivepie_3f373220:
 
     # p "No grumpy narrator we said."
-    p "Grumpy storyteller negation agreement."
+    p "Grumpy story entity prohibition agreement."
 
 # game/Scripts/sugarcubecorner.rpy:269
 translate Engrish assertivepie_6a17aebb:
@@ -591,12 +590,12 @@ translate Engrish assertivepie_6a17aebb:
 # game/Scripts/sugarcubecorner.rpy:276
 translate Engrish assertivepie_834bee92:
 
-    "Bakery return, sugar scent nasal invasion, stomach growl cause."
+    "You back to bakery, where sugar smell attack nose and make stomach growl."
 
 # game/Scripts/sugarcubecorner.rpy:277
 translate Engrish assertivepie_2875bf6a:
 
-    u "Auditory similarity: equine cupcake necessity!"
+    u "Sound like somehorse need cupcake!"
 
 # game/Scripts/sugarcubecorner.rpy:282
 translate Engrish assertivepie_af366327:
@@ -607,17 +606,17 @@ translate Engrish assertivepie_af366327:
 # game/Scripts/sugarcubecorner.rpy:283
 translate Engrish assertivepie_561f1aeb:
 
-    pp "Consumption command, silliness! Dual acquisition anyway, house provision."
+    pp "Consumption execute, foolish! Dual acquisition regardless, house provision."
 
 # game/Scripts/sugarcubecorner.rpy:284
 translate Engrish assertivepie_af7590aa:
 
-    p "Mr Ms Cake permission query?"
+    p "Do Mr and Ms Cake allow you do that?"
 
 # game/Scripts/sugarcubecorner.rpy:285
 translate Engrish assertivepie_3a35bebd:
 
-    pp "Gratuitous cupcake donation? Profit generation day end condition, problem absence."
+    pp "Gratuitous cupcake donation? Profit generation day conclusion condition, problem absence."
 
 # game/Scripts/sugarcubecorner.rpy:286
 translate Engrish assertivepie_9a29435a:
@@ -646,7 +645,7 @@ translate Engrish assertivepie_bf151a10:
 translate Engrish assertivepie_ba55a991:
 
     # pp "So, [playername2!t], what are you up to? Need anything special? Have you something planned for this night?"
-    pp "Transition, [playername2!t], activity query? Speciality necessity? Plan existence night duration?"
+    pp "Thus, [playername2!t], activity query? Speciality necessity? Plan existence night duration?"
 
 # game/Scripts/sugarcubecorner.rpy:293
 translate Engrish assertivepie_22f189cd:
@@ -667,12 +666,12 @@ translate Engrish assertivepie_ec00ff84:
 # game/Scripts/sugarcubecorner.rpy:296
 translate Engrish assertivepie_b68dcf1f:
 
-    pp "Self-consumption negation, fool!"
+    pp "Self-consumption negation, foolish!"
 
 # game/Scripts/sugarcubecorner.rpy:299
 translate Engrish assertivepie_3c3d7a95:
 
-    pp "Participation status query? Fabrication intent absolute! Seriousness. Sales total previous batch presence duration. Town sugar cube frenzy similarity! Luna's Special -cupcake- sales expectation beautiful moon cause night duration, however... Negation."
+    pp "Participation status query? Fabrication intent absolute! Seriousness. Sales total previous batch presence duration. Town sugar cube frenzy similarity! Luna Special -cupcake- sales expectation beautiful moon cause night duration, however... Negation."
 
 # game/Scripts/sugarcubecorner.rpy:300
 translate Engrish assertivepie_ec1c468f:
@@ -689,7 +688,7 @@ translate Engrish assertivepie_cd7ce1ed:
 # game/Scripts/sugarcubecorner.rpy:311
 translate Engrish assertivepie_115504b9:
 
-    p "Pause, person absence... Hesitation. Equine presence necessity other room? Baked goods sales client entry condition?"
+    p "Wait, shouldn't some... Uh. Somehorse be in other room? You know, to sell some bake thing if client enter shop?"
 
 # game/Scripts/sugarcubecorner.rpy:312
 translate Engrish assertivepie_ce32277b:
@@ -700,7 +699,7 @@ translate Engrish assertivepie_ce32277b:
 translate Engrish assertivepie_4656123d:
 
     # pp "\"WA-PA-PA-PA-POW! I'M COMING, JUST BAKING SOME MORE PIE, TAKE A LOOK! IF YOU CAN EAT IT, YOU CAN BUY IT!\""
-    pp "\"NOISE-NOISE-NOISE! ARRIVAL IMMINENCE, PIE BAKING CONTINUATION, OBSERVATION COMMAND! EDIBILITY IMPLIES PURCHASABILITY!\""
+    pp "\"WA-PA-PA-PA-POW! Arrival imminent, pie baking continuation, observation command! Edibility implies purchasability!\""
 
 # game/Scripts/sugarcubecorner.rpy:318
 translate Engrish assertivepie_73739c39:
@@ -710,7 +709,7 @@ translate Engrish assertivepie_73739c39:
 # game/Scripts/sugarcubecorner.rpy:319
 translate Engrish assertivepie_7e20a4a8:
 
-    p "Presence condition, baking selling delegation possibility self. Mustache detachment occurrence."
+    p "Or if I there, you can always either let baking or selling to me. Also mustache fall off."
 
 # game/Scripts/sugarcubecorner.rpy:320
 translate Engrish assertivepie_b0484d4a:
@@ -720,13 +719,13 @@ translate Engrish assertivepie_b0484d4a:
 # game/Scripts/sugarcubecorner.rpy:323
 translate Engrish assertivepie_7cd06fc1:
 
-    "Dyad ingredient acquisition, Pinkie song location instruction proximity condition."
+    "Both of you get many ingredient, Pinkie singing you where find them when they closer to you than to her."
 
 # game/Scripts/sugarcubecorner.rpy:326
 translate Engrish assertivepie_b9179edd:
 
     # pp "Sugar cubes! Add them aplenty! Sugar cubes, let's start with twenty!"
-    pp "Cubes of sweetness! Plentiful addition! Cubes of sweetness, score commencement!"
+    pp "Sweet cubes! Plentiful addition! Sweet cubes, score twenty initiation!"
 
 # game/Scripts/sugarcubecorner.rpy:329
 translate Engrish assertivepie_e671bc57:
@@ -737,7 +736,7 @@ translate Engrish assertivepie_e671bc57:
 # game/Scripts/sugarcubecorner.rpy:330
 translate Engrish assertivepie_decee9b5:
 
-    p "Problem query? Silence state. It... Rarity."
+    p "What wrong? You silent. It... Unusual."
 
 # game/Scripts/sugarcubecorner.rpy:331
 translate Engrish assertivepie_d9b52f75:
@@ -770,23 +769,23 @@ translate Engrish assertivepie_5f660f11:
 # game/Scripts/sugarcubecorner.rpy:353
 translate Engrish assertivepie_cdda3fea:
 
-    "Crossroad return execution, sugar cube quest initiation!"
+    "And you go back to crossroad, starting sugar cube quest!"
 
 # game/Scripts/sugarcubecorner.rpy:362
 translate Engrish assertivepie_ea099aa9:
 
-    "Sugarcube Corner return, Pinkie solitude kitchen location appearance."
+    "You back to Sugarcube Corner, Pinkie seem to still be all alone and in kitchen."
 
 # game/Scripts/sugarcubecorner.rpy:363
 translate Engrish assertivepie_3211957d:
 
     # pp "COMIIIING!"
-    pp "ARRIVAL_SCREAM!"
+    pp "Arrival vocalization!"
 
 # game/Scripts/sugarcubecorner.rpy:366
 translate Engrish assertivepie_a6acf5a1:
 
-    p "Self identity! Sugar cube possession negation yet!"
+    p "It me! I no have sugar cube yet!"
 
 # game/Scripts/sugarcubecorner.rpy:369
 translate Engrish assertivepie_cf91e0f9:
@@ -797,33 +796,33 @@ translate Engrish assertivepie_cf91e0f9:
 translate Engrish assertivepie_78373f73:
 
     # p "Thanks Pinkie!"
-    p "Gratitude Pinkie!"
+    p "Gratitude Pink Horse!"
 
 # game/Scripts/sugarcubecorner.rpy:376
 translate Engrish assertivepie_fcf0b1dd:
 
-    "Crossroad return execution."
+    "And you go back to crossroad."
 
 # game/Scripts/sugarcubecorner.rpy:380
 translate Engrish assertivepie_b4b80350:
 
-    p "Self identity! Single unit acquisition!"
+    p "It me! I got one!"
 
 # game/Scripts/sugarcubecorner.rpy:381
 translate Engrish assertivepie_8a645f47:
 
     # pp "COME THERE THEN!"
-    pp "LOCATION MOVEMENT COMMAND!"
+    pp "Location movement command!"
 
 # game/Scripts/sugarcubecorner.rpy:382
 translate Engrish assertivepie_5fa7d8f5:
 
-    p "Agreement! Arrival process!"
+    p "Okay! I coming!"
 
 # game/Scripts/sugarcubecorner.rpy:390
 translate Engrish assertivepie_6267309c:
 
-    p "Knowledge possession, yell necessity zero. Normal speech self, auditory reception you."
+    p "You know, no need to yell. I was speaking normally and you heard me."
 
 # game/Scripts/sugarcubecorner.rpy:391
 translate Engrish assertivepie_9bd798dc:
@@ -833,22 +832,22 @@ translate Engrish assertivepie_9bd798dc:
 # game/Scripts/sugarcubecorner.rpy:392
 translate Engrish assertivepie_26b4ddf2:
 
-    p "Megaphone usage indoors? However... Loudness intensity //that// negation!"
+    p "You using megaphone indoors? But... You no sound //that// loud!"
 
 # game/Scripts/sugarcubecorner.rpy:393
 translate Engrish assertivepie_71904d17:
 
-    pp "Affirmative silliness, indoor activation negation, point query?"
+    pp "Affirmative foolish, indoor activation negation, point query?"
 
 # game/Scripts/sugarcubecorner.rpy:394
 translate Engrish assertivepie_91940553:
 
-    p "Scream execution inactive megaphone... Oblivion. Sugar cube acquisition."
+    p "You scream into megaphone that was turn off... Forget it. And take this sugar cube."
 
 # game/Scripts/sugarcubecorner.rpy:399
 translate Engrish bake_pie_63c2990c:
 
-    "Sugar cube donation execution."
+    "You give her sugar cube."
 
 # game/Scripts/sugarcubecorner.rpy:400
 translate Engrish bake_pie_2d592439:
@@ -869,7 +868,7 @@ translate Engrish bake_pie_44af9261:
 # game/Scripts/sugarcubecorner.rpy:407
 translate Engrish sell_bake_04a892a1:
 
-    p "Client care self delegation, baking completion possibility."
+    p "Let me take care of customer so you can finish bake."
 
 # game/Scripts/sugarcubecorner.rpy:408
 translate Engrish sell_bake_f9bd4190:
@@ -880,115 +879,107 @@ translate Engrish sell_bake_f9bd4190:
 # game/Scripts/sugarcubecorner.rpy:410
 translate Engrish sell_bake_324e8a58:
 
-    "Other room movement."
+    "And you go to other room."
 
 # game/Scripts/sugarcubecorner.rpy:418
 translate Engrish sell_bake_0ab3ce04:
 
-    "Stallion customer! Friendliness appearance."
+    "Customer is stallion! He look friendly."
 
 # game/Scripts/sugarcubecorner.rpy:420
 translate Engrish sell_bake_b5b31c41:
 
-    u "Greeting [playername!t]! Business care execution Cakes absence duration?"
+    u "Hello [playername!t]! Take care of business while Cakes out?"
 
 # game/Scripts/sugarcubecorner.rpy:423
 translate Engrish sell_bake_66bafd88:
 
-    p "Reality negation, Pinkie sugar cube pie baking, customer service help volunteer self!"
+    p "Not really, Pinkie baking sugar cube pies and I help with customer service!"
 
 # game/Scripts/sugarcubecorner.rpy:425
 translate Engrish sell_bake_a4652cc1:
 
-    p "Affirmative, sugar cube pie oven presence! Pre-arrival activity self."
+    p "Yes, some sugar cube pies in oven! That what I doing before you come."
 
 # game/Scripts/sugarcubecorner.rpy:427
 translate Engrish sell_bake_017c5b36:
 
-    u "Sugar cube pies? Cakes statement query \"Thunderlane arrival! Sugar cube pie baking absence duration!\"? Favorite status cause!"
+    u "Sugar cube pies? Did Cakes tell you \"Thunderlane coming! Bake sugar cube pies while we out!\"? Because they my favorite!"
 
 # game/Scripts/sugarcubecorner.rpy:428
 translate Engrish sell_bake_414060f5:
 
-    p "Apology, solitude negation clarity. Town half consumption decision similarity today. Mass equine action synchronization cause query? ... Transition. Pie wait desire or alternative preference?"
+    p "Sorry, but you clearly not alone. It like half town decide eat that today. What make so many horse do same thing at same date? ... Anyway. You want wait for pie or you want something else?"
 
 # game/Scripts/sugarcubecorner.rpy:429
 translate Engrish sell_bake_fbe76a2c:
 
-    t "Day duration wait love self, however appointment half hour future, purchase necessity prior, apology."
+    t "I love wait all day with you, but I have meet in half hour and other things buy before that, sorry."
 
 # game/Scripts/sugarcubecorner.rpy:430
 translate Engrish sell_bake_29a7a24f:
 
-    p "Apology prohibition, fault ownership negation!"
+    p "No be sorry, that not your fault!"
 
 # game/Scripts/sugarcubecorner.rpy:431
 translate Engrish sell_bake_0c46aad6:
 
-    t "Gratitude [playername2!t]. Rainbow cupcake dozen purchase intent."
+    t "Thank you [playername2!t]. I buy dozen rainbow cupcakes."
 
 # game/Scripts/sugarcubecorner.rpy:432
 translate Engrish sell_bake_c4ea32c8:
 
-    "Careful box insertion, visual demonstration."
+    "You put them careful in box and show it to him."
 
 # game/Scripts/sugarcubecorner.rpy:433
 translate Engrish sell_bake_74903ca0:
 
-    p "Addition capability certainty. Luna's Special proposal?"
+    p "I sure I can add something in it. What about Luna Special?"
 
 # game/Scripts/sugarcubecorner.rpy:434
 translate Engrish sell_bake_ff83910c:
 
-    t "Dark glow capability unit?"
+    t "One that glow in dark?"
 
 # game/Scripts/sugarcubecorner.rpy:435
 translate Engrish sell_bake_ad8fe026:
 
-    # p "With the moon we're expecting this night, that would be perfect! I can add you three but only charge you one if you would like!"
     p "Moon expectation night duration, perfection! Triple addition capability, singular charge condition, desire query!"
 
 # game/Scripts/sugarcubecorner.rpy:436
 translate Engrish sell_bake_16715453:
 
-    # t "Sounds good to me!"
     t "Goodness sound self!"
 
 # game/Scripts/sugarcubecorner.rpy:437
 translate Engrish sell_bake_cfdf0620:
 
-    # "And so you add the cupcakes in the box and exchange it for the bits the stallion gives you."
     "Cupcake box addition, bit exchange stallion donation."
 
 # game/Scripts/sugarcubecorner.rpy:438
 translate Engrish sell_bake_f0c693c6:
 
-    # t "See you next time [playername2!t]!"
     t "Future visual contact [playername2!t]!"
 
 # game/Scripts/sugarcubecorner.rpy:439
 translate Engrish sell_bake_034536f3:
 
-    # p "Have a good day Thunderlane!"
     p "Day goodness possession Thunderlane!"
 
 # game/Scripts/sugarcubecorner.rpy:440
 translate Engrish sell_bake_629bc003:
 
-    # t "Thanks! You too!"
     t "Gratitude! Self reciprocity!"
 
 # game/Scripts/sugarcubecorner.rpy:445
 translate Engrish sell_bake_20a30648:
 
-    # "He's gone now."
     "Departure completion present."
 
 # game/Scripts/sugarcubecorner.rpy:447
 translate Engrish sell_bake_ff9a5dcb:
 
-    # p "Did you hear that? Three Luna's Special are gone!"
-    p "Auditory reception query? Luna's Special trio departure!"
+    p "Auditory reception query? Luna Special trio departure!"
 
 # game/Scripts/sugarcubecorner.rpy:452
 translate Engrish sell_bake_6ff9d3af:
@@ -999,13 +990,11 @@ translate Engrish sell_bake_6ff9d3af:
 # game/Scripts/sugarcubecorner.rpy:453
 translate Engrish sell_bake_56c91265:
 
-    # p "Thank you! Now, if you don't have anything else, I'll see if I can help someone else."
     p "Gratitude! Present, additional task absence condition, alternative assistance capability investigation."
 
 # game/Scripts/sugarcubecorner.rpy:456
 translate Engrish sell_bake_1adebe60:
 
-    # p "Go, I'll finish!"
     p "Departure, completion self!"
 
 # game/Scripts/sugarcubecorner.rpy:457
@@ -1017,25 +1006,23 @@ translate Engrish sell_bake_fb70dbc2:
 # game/Scripts/sugarcubecorner.rpy:462
 translate Engrish sell_bake_e3fb586e:
 
-    # "You are now alone and start putting the pies in the oven."
     "Solitude present, pie oven insertion initiation."
 
 # game/Scripts/sugarcubecorner.rpy:469
 translate Engrish sell_bake_556a1c6c:
 
-    # "Once you are done, you head back to the other room and hear the customer leaving."
     "Completion, other room return, client departure auditory detection."
 
 # game/Scripts/sugarcubecorner.rpy:474
 translate Engrish sell_bake_24ee27f9:
 
     # pp "Did you hear that? Six Luna's Specials are gone!"
-    pp "Auditory reception query? Luna's Special sextet departure!"
+    pp "Auditory reception query? Luna Special sextet departure!"
 
 # game/Scripts/sugarcubecorner.rpy:475
 translate Engrish sell_bake_11d8666c:
 
-    p "Sextet dual price, deal goodness certainty! Transition, pie oven location. Additional task absence condition, alternative assistance capability investigation."
+    p "Six for price of two, that sure good deal for him! Anyway, pies in oven. If you no have anything else, I see if I can help someone else."
 
 # game/Scripts/sugarcubecorner.rpy:477
 translate Engrish sell_bake_2f169d1c:
@@ -1046,49 +1033,48 @@ translate Engrish sell_bake_2f169d1c:
 # game/Scripts/sugarcubecorner.rpy:478
 translate Engrish sell_bake_5c74241f:
 
-    p "Oblivion negation Pinkie, worry prohibition!"
+    p "I no forget that Pinkie, no worry!"
 
 # game/Scripts/sugarcubecorner.rpy:479
 translate Engrish sell_bake_fadf30a0:
 
-    "Door movement, farewell wave pink equine direction."
+    "And so you go to door, wave goodbye at pink horse."
 
 # game/Scripts/sugarcubecorner.rpy:485
 translate Engrish sell_bake_2ddb0d0d:
 
-    "Subsequent, crossroad return, repetition."
+    "After that, you go back to crossroad, once again."
 
 # game/Scripts/sugarcubecorner.rpy:493
 translate Engrish sell_bake_f95daa58:
 
-    "Transition, segment identification: Pinkie Pie unleash location?"
+    "So, this part where Pinkie Pie unleashed?"
 
 # game/Scripts/sugarcubecorner.rpy:494
 translate Engrish sell_bake_60ca19ae:
 
-    "Departure location self."
+    "I out of there."
 
 # game/Scripts/sugarcubecorner.rpy:495
 translate Engrish sell_bake_9a7dd7fd:
 
-    p "Encouragement, amusement location query?"
+    p "Come on, where fun in that?"
 
 # game/Scripts/sugarcubecorner.rpy:496
 translate Engrish sell_bake_d7edd024:
 
-    # "."
     "Punctuation."
 
 # game/Scripts/sugarcubecorner.rpy:499
 translate Engrish sell_bake_4c2f0c5d:
 
     # pp "YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY, YOU CAME!"
-    pp "EXCITEMENT_EXTREME, ARRIVAL COMPLETION!"
+    pp "Excitement extreme, arrival completion!"
 
 # game/Scripts/sugarcubecorner.rpy:500
 translate Engrish sell_bake_b84d8cbf:
 
-    p "Statement female entity…."
+    p "That what she..."
 
 # game/Scripts/sugarcubecorner.rpy:501
 translate Engrish sell_bake_27af80e0:
@@ -1104,7 +1090,7 @@ translate Engrish sell_bake_b31aa690:
 # game/Scripts/sugarcubecorner.rpy:633
 translate Engrish sell_bake_820eccb6:
 
-    p "Totality metaphor status query?"
+    p "Was that all metaphor?"
 
 # game/Scripts/sugarcubecorner.rpy:635
 translate Engrish sell_bake_d47e5c0a:
@@ -1115,24 +1101,22 @@ translate Engrish sell_bake_d47e5c0a:
 # game/Scripts/sugarcubecorner.rpy:663
 translate Engrish sell_bake_b9bca19f:
 
-    # "--Pinkie Pie true ending--"
-    "--Pinkie Pie Veritable Conclusion--"
+    "--Pink Horse Veritable Conclusion--"
 
 # game/Scripts/sugarcubecorner.rpy:667
 translate Engrish sell_bake_2228126a:
 
-    "Bakery void status, cash register lock state."
+    "Bakery empty and cash register locked."
 
 # game/Scripts/sugarcubecorner.rpy:668
 translate Engrish sell_bake_8476d114:
 
-    # p "I am alone here, I could bake something or go somewhere else... Let's go somewhere else."
     p "Solitude location self, baking capability or alternative location... Alternative location selection."
 
 # game/Scripts/sugarcubecorner.rpy:672
 translate Engrish sell_bake_416a8679:
 
-    "Crossroad return execution."
+    "And you go back to crossroad."
 
 translate Engrish strings:
 

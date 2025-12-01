@@ -64,7 +64,7 @@ translate Engrish bm_place_choice_c7e2834e:
 translate Engrish bm_place_choice_ae2f7e3d:
 
     # "What's that? It's not in the script!"
-    "What that? It no in script!"
+    "Object query? Script presence negation!"
 
 # game/Scripts/other.rpy:60
 translate Engrish bm_place_choice_bf12372d:
@@ -178,13 +178,13 @@ translate Engrish cmcdecision_90cbc330:
 translate Engrish cmcdecision_28e92ce6:
 
     # "Seen from up close. Congrats!"
-    "See from close. Good!"
+    "Proximity visual. Congratulation!"
 
 # game/Scripts/other.rpy:105
 translate Engrish cmcdecision_bde1a939:
 
     # "--Cupboard Ending--"
-    "--Food Box Ending--"
+    "--Storage Cabinet Termination--"
 
 # game/Scripts/other.rpy:108
 translate Engrish cmcdecision_dda0287c:
@@ -262,7 +262,7 @@ translate Engrish braeburnchoice_8945fab8:
 translate Engrish braeburnchoice_7d3f6444:
 
     # "--Braeburn ending 0--"
-    "--Braeburn Conclusion Zero--"
+    "--Braeburn Narrative Termination Null--"
 
 # game/Scripts/other.rpy:150
 translate Engrish braeburnchoice_50810729:
@@ -340,7 +340,7 @@ translate Engrish braeburnchoice_02681465:
 translate Engrish braeburnchoice_f16de73f:
 
     # "--Nurse Redheart ending--"
-    "--Medical Horse Redheart Conclusion--"
+    "--Medical Equine Redheart Narrative Termination--"
 
 # game/Scripts/other.rpy:191
 translate Engrish credits_3e670ae5:
