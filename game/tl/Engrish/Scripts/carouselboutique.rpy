@@ -3,7 +3,7 @@ translate Engrish strings:
 
     # game/Scripts/carouselboutique.rpy:47
     old "\"I certainly would love to help!\""
-    new "\"I certainly would love to help!\"" 
+    new "\"I certainly would love to help!\""
 
     # game/Scripts/carouselboutique.rpy:51
     old "\"Shall your doom tear you apart!\""
@@ -74,7 +74,7 @@ translate Engrish carouselboutique_b285398f:
 translate Engrish carouselboutique_702a43d3:
 
     # "Yeah... Coincidence. For sure."
-    ""Yeah... Coincidence. Intended certain.""
+    "Yeah... Coincidence. Intended certain."
 
 # game/Scripts/carouselboutique.rpy:27
 translate Engrish carouselboutique_1ab81280:
@@ -92,13 +92,13 @@ translate Engrish carouselboutique_666f7bb4:
 translate Engrish carouselboutique_5b4d37e7:
 
     # r "I was designing a new hat! Do you have certain time? I'm sure it would be of interest to you."
-    r "Me been designing fresh head-cover! You possessing certain time? Me certain dat-thing gonna existing from interest toward you-self."
+    r "Me been designing fresh head-cover! You possessing certain time? Me certain that-thing gonna existing from interest toward you-self."
 
 # game/Scripts/carouselboutique.rpy:34
 translate Engrish carouselboutique_de96de8f:
 
     # r "I was designing a new hat! Do you have certain time? I'm sure that somepony with your knowledge of the haute couture would be able to help."
-    r "I been designing single fresh hat! Perform you possess certain time? self-entity am certain dat-there somepony alongside you's knowledge belonging that haute couture might existing capable toward assist."
+    r "I been designing single fresh hat! Perform you possess certain time? self-entity am certain that-there somepony alongside you's knowledge belonging that haute couture might existing capable toward assist."
 
 # game/Scripts/carouselboutique.rpy:36
 translate Engrish carouselboutique_a89087e2:
@@ -116,13 +116,13 @@ translate Engrish carouselboutique_bf23cf05:
 translate Engrish carouselboutique_e1e9191e:
 
     # r "I was... Designing a new hat. I know you are going to think about its practicality before everything, but self-entity am willing to let you a chance to prove me wrong."
-    r "Me been... Designing fresh head-cover. Me understanding you gonna thinking regarding dat-own usefulness preceding everything-thing, yet Me willing allowing you one opportunity toward proving myself incorrect."
+    r "Me been... Designing fresh head-cover. Me understanding you gonna thinking regarding that-own usefulness preceding everything-thing, yet Me willing allowing you one opportunity toward proving myself incorrect."
 
 # game/Scripts/carouselboutique.rpy:42
 translate Engrish carouselboutique_6c13998b:
 
     # "What are you going to say?"
-    ""What existence-plural entity-yours going destination say?""
+    "What existence-plural entity-yours going destination say?"
 
 # game/Scripts/carouselboutique.rpy:48
 translate Engrish raritychoice1_eea4e3b2:
@@ -134,7 +134,7 @@ translate Engrish raritychoice1_eea4e3b2:
 translate Engrish raritychoice1_798358e6:
 
     # p "DIE, YOU PEASANT! SHALL YOUR DOOM TEAR YOU APART FOR HAVING ASKED SUCH A FRIVOLOUS QUESTION!"
-    p "PERISH, YUO POOR-PONY! GONNA YUO-OWN DESTRUCTION RIP YUO PIECES BECAUSE MAKING QUERY SO SILLY!"
+    p "PERISH, you POOR-PONY! GONNA you-OWN DESTRUCTION RIP you PIECES BECAUSE MAKING QUERY SO SILLY!"
 
 # game/Scripts/carouselboutique.rpy:62
 translate Engrish raritychoice1_d54074db:
@@ -176,7 +176,7 @@ translate Engrish raritychoice1_f7910d30:
 translate Engrish raritychoice1_e30d8357:
 
     # "Okay, you clearly want something special, don't you?"
-    ""Okay, entity-yours clearly desire something special, do not entity-yours?""
+    "Okay, entity-yours clearly desire something special, do not entity-yours?"
 
 # game/Scripts/carouselboutique.rpy:73
 translate Engrish raritychoice1_47aeb2a1:
@@ -200,7 +200,7 @@ translate Engrish raritychoice1_004a653a:
 translate Engrish raritychoice1_092ced6d:
 
     # "No, not you, the player the character, but the player... The player. Who keeps selecting that silly choice. What did you expect?"
-    ""No, negation entity-yours, specific-item player specific-item character, however specific-item player... specific-item player. person-query keeps selecting distal-singular silly choice. thing-query action-past entity-yours expect?""
+    "No, negation entity-yours, specific-item player specific-item character, however specific-item player... specific-item player. person-query keeps selecting distal-singular silly choice. thing-query action-past entity-yours expect?"
 
 # game/Scripts/carouselboutique.rpy:77
 translate Engrish raritychoice1_9421031c:
@@ -248,7 +248,7 @@ translate Engrish raritychoice1_1baa002a:
 translate Engrish raritychoice1_5399defc:
 
     # "You weren't supposed to come here too."
-    ""You weren't supposed toward arrive present-location excessively.""
+    "You weren't supposed toward arrive present-location excessively."
 
 # game/Scripts/carouselboutique.rpy:121
 translate Engrish raritychoice1_96c1ebec:
@@ -266,8 +266,7 @@ translate Engrish raritychoice1_d7f0e52b:
 translate Engrish raritychoice1_553f45f9:
 
     # "--Rarity ending 1--"
-    ""--Rarity Conclusion 1--" yes"
-
+    "--Rarity Narrative Termination: Alpha--"
 # game/Scripts/carouselboutique.rpy:128
 translate Engrish raritychoice1_24963f86:
 
@@ -308,7 +307,7 @@ translate Engrish raritychoice1_5f9a82e1:
 translate Engrish raritychoice1_1d6ecb25:
 
     # p "Your path. I'm don't know the purpose of the ruby yet, but it'll be useful. And you will refuse to talk to me after that."
-    p "Your path. self-entity am do not understand that purpose belonging that ruby yet, yet it'll existing useful. Also you shall refuse toward talk toward myself following dat-there."
+    p "Your path. self-entity am do not understand that purpose belonging that ruby yet, yet it'll existing useful. Also you shall refuse toward talk toward myself following that-there."
 
 # game/Scripts/carouselboutique.rpy:141
 translate Engrish raritychoice1_459e5c33:
@@ -356,7 +355,7 @@ translate Engrish raritychoice1_8e23188e:
 translate Engrish raritychoice1_cc5e5e79:
 
     # p "I don't know, it's up to you. I'm merely aware of the fact that the next time self-entity will be there, I won't be able to find you."
-    p "I do not understand, it is upwards toward you. self-entity am merely aware belonging that fact dat-there that following time I will existing distant-location, I will not existing capable toward locate you."
+    p "I do not understand, it is upwards toward you. self-entity am merely aware belonging that fact that-there that following time I will existing distant-location, I will not existing capable toward locate you."
 
 # game/Scripts/carouselboutique.rpy:167
 translate Engrish raritychoice1_f372d150:
@@ -374,7 +373,7 @@ translate Engrish raritychoice1_ded8c36b:
 translate Engrish raritychoice1_b16086fb:
 
     # r "That's extreme a Pinkie talk."
-    r "Pinkie vocalization probability 100%."
+    r "Pinkie vocalization probability 100\%."
 
 # game/Scripts/carouselboutique.rpy:171
 translate Engrish raritychoice1_a5927348:
@@ -422,13 +421,13 @@ translate Engrish raritychoice1_e5c96eea:
 translate Engrish raritychoice1_36ac9317:
 
     # "There extreme is nothing there."
-    ""There much be nothing dat-place.""
+    "There much be nothing that-place."
 
 # game/Scripts/carouselboutique.rpy:195
 translate Engrish raritychoice1_6e0c4e70:
 
     # "No way anyone would extreme read this. I hope. Stop trying, I won't say anything more than that, extreme."
-    ""No way anyone shall past much read these here. I wish. cease trying, I will not state anything additional than those there, extreme.""
+    "No way anyone shall past much read these here. I wish. cease trying, I will not state anything additional than those there, extreme."
 
 # game/Scripts/carouselboutique.rpy:199
 translate Engrish raritychoice1_94805f1c:
@@ -458,7 +457,7 @@ translate Engrish raritychoice1_09399d4a:
 translate Engrish raritychoice1_09b162dc:
 
     # "And both of you worked on the most fabulous hat Rarity ever created. So fabulous that even you, yes, YOU! Couldn't imagine it. That's why the scene is black. It's totally not related to our lack of a proper visual artist which would also have resulted in all the graphics either being altered free images, no credit required, or handmade low quality vectors."
-    "Plus duo you-persons making-together onto maximum wonderful head-cover Rarity anytime created. Such wonderful that including you-self, affirmative, YUO-PERSON! Unable thinking dat-thing. Reason why picture-area existing dark-color. Dat-thing completely negation connected toward ours missing belonging correct picture-maker person whom might additionally resulted within everything picture-things either existing changed free picture-files, zero thanks needed, alternative hand-created terrible quality math-shapes."
+    "Plus duo you-persons making-together onto maximum wonderful head-cover Rarity anytime created. Such wonderful that including you-self, affirmative, you-PERSON! Unable thinking that-thing. Reason why picture-area existing dark-color. that-thing completely negation connected toward ours missing belonging correct picture-maker person whom might additionally resulted within everything picture-things either existing changed free picture-files, zero thanks needed, alternative hand-created terrible quality math-shapes."
 
 # game/Scripts/carouselboutique.rpy:219
 translate Engrish raritychoice1_c60c9467:
@@ -524,7 +523,7 @@ translate Engrish raritychoice1_cbfd316d:
 translate Engrish raritychoice1_12a109fb:
 
     # p "That's so nice of you, I'll come back soon to take that offer, then!"
-    p "dat's therefore nice from you, Me'll coming back soon for taking that offer, subsequently!"
+    p "that's therefore nice from you, Me'll coming back soon for taking that offer, subsequently!"
 
 # game/Scripts/carouselboutique.rpy:245
 translate Engrish raritychoice1_c2483732:
@@ -536,13 +535,13 @@ translate Engrish raritychoice1_c2483732:
 translate Engrish raritychoice1_c5dce5a0:
 
     # "And after the usual farewell, you went back to the crossroad."
-    ""Plus following that usual farewell, you went returning toward that crossroad.""
+    "Plus following that usual farewell, you went returning toward that crossroad."
 
 # game/Scripts/carouselboutique.rpy:259
 translate Engrish raritychoice1_cd96eac1:
 
     # "You come to the carousel boutique one more time, thinking about the hat Rarity made with your help."
-    ""You arrive toward that carousel boutique one additional time, thinking concerning that hat Rarity made alongside you's assist.""
+    "You arrive toward that carousel boutique one additional time, thinking concerning that hat Rarity made alongside you's assist."
 
 # game/Scripts/carouselboutique.rpy:265
 translate Engrish raritychoice1_080a2631:
@@ -614,7 +613,7 @@ translate Engrish raritychoice1_d60cabbd:
 translate Engrish raritychoice1_1144fce1:
 
     # r "Don't take it wrong, but... I don't extreme need your help with that."
-    r "Don't taking it wrong, but... Me do not much needing you's helping with dat."
+    r "Don't taking it wrong, but... Me do not much needing you's helping with that."
 
 # game/Scripts/carouselboutique.rpy:287
 translate Engrish raritychoice1_92709055:
@@ -716,7 +715,7 @@ translate Engrish raritychoice1_d396c3b7:
 translate Engrish raritychoice1_1d91a111:
 
     # r "Well... Let's try it then."
-    r "Well... Let's attempt dat-thing next."
+    r "Well... Let's attempt that-thing next."
 
 # game/Scripts/carouselboutique.rpy:322
 translate Engrish raritychoice1_6c49eb8f:
@@ -734,7 +733,7 @@ translate Engrish raritychoice1_b6cb85b1:
 translate Engrish raritychoice1_a16a1b46:
 
     # p "That's right sugarcube! And my own hooves are clean, no dirt on them, don't worry."
-    p "dat's right sugarcube! plus mine own hooves be clean, nope dirt onto them, do not worry. yep certainly much"
+    p "that's right sugarcube! plus mine own hooves be clean, nope dirt onto them, do not worry. yep certainly much"
 
 # game/Scripts/carouselboutique.rpy:329
 translate Engrish raritychoice1_3b57913c:
@@ -800,7 +799,7 @@ translate Engrish raritychoice1_a1bde6b5:
 translate Engrish raritychoice1_fcbcf892:
 
     # "And you massaged her hooves with all your might, before helping her with her legs and then every body part where she was extreme tense and needed to relax."
-    ""Plus entity-yours massaged object-female/possession-female hooves accompaniment totality possession-yours permission-conditional, temporal-prior helping object-female/possession-female accompaniment object-female/possession-female legs plus temporal-past every body part location-query entity-female existence-past extreme tense plus needed destination relax.""
+    "Plus entity-yours massaged object-female/possession-female hooves accompaniment totality possession-yours permission-conditional, temporal-prior helping object-female/possession-female accompaniment object-female/possession-female legs plus temporal-past every body part location-query entity-female existence-past extreme tense plus needed destination relax."
 
 # game/Scripts/carouselboutique.rpy:377
 translate Engrish raritychoice1_39e01afd:
@@ -812,7 +811,7 @@ translate Engrish raritychoice1_39e01afd:
 translate Engrish raritychoice1_aff0f82a:
 
     # p "I extreme regret having no picture for this one."
-    p "I truly regret possessing negative picture intended dis-here one."
+    p "I truly regret possessing negative picture intended this-here one."
 
 # game/Scripts/carouselboutique.rpy:379
 translate Engrish raritychoice1_bd1d53de:
@@ -824,8 +823,7 @@ translate Engrish raritychoice1_bd1d53de:
 translate Engrish raritychoice1_d678d71e:
 
     # "--Rarity ending 2--"
-    ""--Rarity Conclusion 2--" yes"
-
+    "--Rarity Narrative Termination: Beta--"
 # game/Scripts/carouselboutique.rpy:384
 translate Engrish raritychoice1_25a9f71d:
 
@@ -878,13 +876,13 @@ translate Engrish raritychoice1_27257d14:
 translate Engrish raritychoice1_e39fe46a:
 
     # "And you went back to the crossroad. Where could you get tea, wonderful natural product?"
-    ""Plus entity-yours went returning toward that crossroad. Wherever able-past entity-yours obtain tea, wonderful natural product?""
+    "Plus entity-yours went returning toward that crossroad. Wherever able-past entity-yours obtain tea, wonderful natural product?"
 
 # game/Scripts/carouselboutique.rpy:414
 translate Engrish raritychoice1_da64b237:
 
     # "You are back to the boutique, where Rarity is waiting for her tea."
-    ""You existence-plural back destination specific-item boutique, location-query Rarity existence-singular waiting purpose object-female/possession-female tea.""
+    "You existence-plural back destination specific-item boutique, location-query Rarity existence-singular waiting purpose object-female/possession-female tea."
 
 # game/Scripts/carouselboutique.rpy:415
 translate Engrish raritychoice1_8f798611:
@@ -914,7 +912,7 @@ translate Engrish rarity_get_tea_964fad0d:
 translate Engrish rarity_get_tea_ee47385e:
 
     # "Wait... What did you want to do in the first place?"
-    ""Wait... thing-query action-past entity-yours want destination action-present location-interior specific-item first place?""
+    "Wait... thing-query action-past entity-yours want destination action-present location-interior specific-item first place?"
 
 # game/Scripts/carouselboutique.rpy:430
 translate Engrish rarity_get_tea_1078a933:
@@ -998,7 +996,7 @@ translate Engrish rarity_get_tea_a3c5953e:
 translate Engrish rarity_get_tea_410694d8:
 
     # rd "It's radical. Better than Soarin musk! ... Not that we did anything funny after the grand galloping gala."
-    rd "Dat-thing extreme-good. Superior versus Soarin smell-stuff! ... Negation that us-ponies performed whatever amusing following big running party-event."
+    rd "that-thing extreme-good. Superior versus Soarin smell-stuff! ... Negation that us-ponies performed whatever amusing following big running party-event."
 
 # game/Scripts/carouselboutique.rpy:465
 translate Engrish rarity_get_tea_2e3bae86:
@@ -1010,7 +1008,7 @@ translate Engrish rarity_get_tea_2e3bae86:
 translate Engrish rarity_get_tea_c32f2995:
 
     # fs "Oh. Yes, it's lovely. Even better than animal scent covered in forest aroma, the dejections here can sometimes be disgusting."
-    fs "Oh. Affirmative, dat-thing nice-smelling. Also superior versus creature smell-thing covered within tree-place aroma, poop-things dis-location able occasionally existing gross-making."
+    fs "Oh. Affirmative, that-thing nice-smelling. Also superior versus creature smell-thing covered within tree-place aroma, poop-things this-location able occasionally existing gross-making."
 
 # game/Scripts/carouselboutique.rpy:471
 translate Engrish rarity_get_tea_0df39582:
@@ -1028,7 +1026,7 @@ translate Engrish rarity_get_tea_9bcb379f:
 translate Engrish rarity_get_tea_7db8d3be:
 
     # "Let's change the subject, my dear."
-    ""Let's alter that subject, mine dear.""
+    "Let's alter that subject, mine dear."
 
 # game/Scripts/carouselboutique.rpy:481
 translate Engrish rarity_get_tea_7b910c3e:
@@ -1070,31 +1068,31 @@ translate Engrish rarity_get_tea_dda61fa5:
 translate Engrish rarity_get_tea_625b2b9b:
 
     # "Suddenly something big gets stuck in your mouth. You try to move, but are clearly bound. Your eyes are covered by a blindfold."
-    ""Suddenly something large gets stuck within you's mouth. You attempt toward shift, yet being clearly bound. You's eyes being covered via single blindfold.""
+    "Suddenly something large gets stuck within you's mouth. You attempt toward shift, yet being clearly bound. You's eyes being covered via single blindfold."
 
 # game/Scripts/carouselboutique.rpy:498
 translate Engrish rarity_get_tea_d15ec850:
 
     # r "Go on, pet, lick it!"
-    r "proceed onto, pet, lick dat!"
+    r "proceed onto, pet, lick that!"
 
 # game/Scripts/carouselboutique.rpy:500
 translate Engrish rarity_get_tea_caaab888:
 
     # "Wait, is this extreme PG?"
-    ""Wait, be these here much PG?""
+    "Wait, be these here much PG?"
 
 # game/Scripts/carouselboutique.rpy:502
 translate Engrish rarity_get_tea_5dd8689a:
 
     # r "Aw, it's merely hoof licking! Haven't you seen the KFH ads, saying their fried hay is hoof lickin' good? Plus the rating is more of a T."
-    r "Aww, dat-thing merely foot tongue-touching! Negation you-self observed KFH advertisements, stating theirs cooked grass-food existing foot lickin' excellent? Also rating-number existing additional belonging T-letter."
+    r "Aww, that-thing merely foot tongue-touching! Negation you-self observed KFH advertisements, stating theirs cooked grass-food existing foot lickin' excellent? Also rating-number existing additional belonging T-letter."
 
 # game/Scripts/carouselboutique.rpy:504
 translate Engrish rarity_get_tea_bd1565df:
 
     # "I'm pretty sure they do negation mean 'so good that you need to lick other ponies hooves clean'. And T doesn't stand for excuses! There is'nt even a single T in that word!"
-    ""self-entity am pretty certain them-ones do not signify 'so excellent dat-there you require toward lick alternative ponies hooves clean'. Also T does not rise intended excuses! Distant-location is'nt including single single T within dat-there word!""
+    "self-entity am pretty certain them-ones do not signify 'so excellent that-there you require toward lick alternative ponies hooves clean'. Also T does not rise intended excuses! Distant-location is'nt including single single T within that-there word!"
 
 # game/Scripts/carouselboutique.rpy:506
 translate Engrish rarity_get_tea_7ec5da83:
@@ -1118,7 +1116,7 @@ translate Engrish rarity_get_tea_0e093d22:
 translate Engrish rarity_get_tea_5cda353a:
 
     # "Wait… Is that truly it?"
-    ""Wait… be those there truly it?""
+    "Wait… be those there truly it?"
 
 # game/Scripts/carouselboutique.rpy:516
 translate Engrish rarity_get_tea_ccfa27d5:
@@ -1130,7 +1128,7 @@ translate Engrish rarity_get_tea_ccfa27d5:
 translate Engrish rarity_get_tea_3396a410:
 
     # "Yes, this is it. That extreme is the true Rarity ending, according to the script. I hope entity-yours are not disappointed to have waited that long merely for that."
-    ""Yes, proximal-singular existence-singular entity-thing. distal-singular extreme existence-singular specific-item true Rarity ending, according destination specific-item script. self-entity hope you are negation disappointed destination possession-present waited distal-singular long exclusively purpose distal-singular.""
+    "Yes, proximal-singular existence-singular entity-thing. distal-singular extreme existence-singular specific-item true Rarity ending, according destination specific-item script. self-entity hope you are negation disappointed destination possession-present waited distal-singular long exclusively purpose distal-singular."
 
 # game/Scripts/carouselboutique.rpy:548
 translate Engrish rarity_get_tea_1402f0da:
@@ -1147,12 +1145,12 @@ translate Engrish rarity_get_tea_e3538ec3:
 # game/Scripts/carouselboutique.rpy:552
 translate Engrish rarity_get_tea_168586dc:
 
-    # p "The boutique is empty. I better should go and find somepony elsewhere."
+    # p "--Rarity Conclusion: Primary Route--"
     p " boutique be empty. Me better must going plus finding somepony elsewhere."
 
 # game/Scripts/carouselboutique.rpy:556
 translate Engrish rarity_get_tea_3ca21c1d:
 
-    # "And you return to the crossroad."
-    ""Plus entity-yours return destination specific-item crossroad.""
+    # "--Rarity Conclusion: Secondary Route--"
+    "Plus entity-yours return destination specific-item crossroad."
 
