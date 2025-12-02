@@ -1426,7 +1426,7 @@ translate Engrish spikechoice_eed9f181:
 translate Engrish spikechoice_f0f38ed0:
 
     # p "There is nothing except books here. I surely have something better to do than reading."
-    p "Book exclusivity. Action superiority reading."
+    p "Book exclusivity. Action preference reading."
 
 # game/Scripts/library.rpy:595
 translate Engrish spikechoice_569b10b9:

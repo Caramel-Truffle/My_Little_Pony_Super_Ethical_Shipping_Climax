@@ -70,15 +70,26 @@ def check_rpy_file(filepath):
     
     return issues
 
-# Check fluttercottage.rpy as example
-filepath = Path('/home/user/AI/antigravity/MLP_SESC/game/tl/Engrish/Scripts/fluttercottage.rpy')
-issues = check_rpy_file(filepath)
-
-print(f"Found {len(issues)} translations below 50% difference in {filepath.name}:")
-print()
-
-for issue in issues[:20]:  # Show first 20
-    print(f"Line {issue['line']}: {issue['difference_pct']:.1f}% different")
-    print(f"  Original:    {issue['original']}")
-    print(f"  Translation: {issue['translation']}")
+if __name__ == "__main__":
+    import sys
+    
+    if len(sys.argv) < 2:
+        print("Usage: python3 check_engrish.py <path_to_rpy_file>")
+        sys.exit(1)
+        
+    filepath = Path(sys.argv[1])
+    
+    if not filepath.exists():
+        print(f"Error: File {filepath} not found")
+        sys.exit(1)
+        
+    issues = check_rpy_file(filepath)
+    
+    print(f"Found {len(issues)} translations below 50% difference in {filepath.name}:")
     print()
+    
+    for issue in issues:
+        print(f"Line {issue['line']}: {issue['difference_pct']:.1f}% different")
+        print(f"  Original:    {issue['original']}")
+        print(f"  Translation: {issue['translation']}")
+        print()

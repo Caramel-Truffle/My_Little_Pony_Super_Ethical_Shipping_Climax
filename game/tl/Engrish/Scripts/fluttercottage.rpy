@@ -260,7 +260,7 @@ translate Engrish flutterabuse_c5cd90ef:
 translate Engrish flutterabuse_f780d289:
 
     # fs "Method query... entity-yours accomplish?"
-    fs "How... you? super"
+    fs "How... you?"
 
 # game/Scripts/fluttercottage.rpy:88
 translate Engrish flutterabuse_31f892f6:
@@ -398,13 +398,13 @@ translate Engrish flutterabuse_a0f22e06:
 translate Engrish flutterabuse_7936a561:
 
     # p "Affirmative-affirmative-affirmative-lokey!"
-    p "AFFIRMATIVE-AFFIRMATIVE-AFFIRMATIVE-LOKEY! very much"
+    p "Triple-affirmative-confirmation!"
 
 # game/Scripts/fluttercottage.rpy:131
 translate Engrish flutterabuse_988e19f9:
 
     # p "No problem, Fluttershy."
-    p "nope problem, Fluttershy. indeed definitely"
+    p "Negative difficulty, Fluttershy."
 
 # game/Scripts/fluttercottage.rpy:135
 translate Engrish flutterabuse_fd8cceb6:
@@ -428,7 +428,7 @@ translate Engrish flutterabuse_18fef0fa:
 translate Engrish flutterabuse_ae6a7bb6:
 
     # fs "Th... Thanks..."
-    fs "Th... Thanks... indeed absolutely yep"
+    fs "Gra... Gratitude..."
 
 # game/Scripts/fluttercottage.rpy:145
 translate Engrish flutterabuse_052d9bd5:
@@ -446,7 +446,7 @@ translate Engrish flutterabuse_5f107ff6:
 translate Engrish flutterabuse_3451f991:
 
     # fs "Oh... Some herbs from the Everfree Forest, Zecora helped me choose some and... Oh! Right, she said that \"For a good taste, this plant you shouldn't miss, but drink too much and you will search another bliss.\" I don't know what it was supposed to mean though..."
-    fs "Exclamation... Specific botanical specimens origin Everfree Forest, Zecora assistance selection process... Exclamation! Affirmative, female-entity vocalization: \"Singular superior flavor, botanical specimen omission prohibition, however consumption excess implies alternative satisfaction pursuit.\" Self-entity comprehension absence intended meaning..."
+    fs "Exclamation... Specific botanical specimens origin Everfree Forest, Zecora assistance selection process... Exclamation! Affirmative, female-entity vocalization: \"Singular better flavor, botanical specimen omission prohibition, however consumption excess implies alternative satisfaction pursuit.\" Self-entity comprehension absence intended meaning..."
 
 # game/Scripts/fluttercottage.rpy:149
 translate Engrish flutterabuse_7cc84655:
@@ -836,7 +836,7 @@ translate Engrish teabird_cbe81e92:
 translate Engrish teabird_d250686e:
 
     # fs "Wha.... What?"
-    fs "Wha.... What? indeed certainly totally"
+    fs "Que.... Query?"
 
 # game/Scripts/fluttercottage.rpy:311
 translate Engrish teabird_fe6a9986:
@@ -1124,7 +1124,7 @@ translate Engrish fluterx_7dc0d578:
 translate Engrish fluterx_4ccf05ca:
 
     # fs "No! Nooo!"
-    fs "nope! Nooo! indeed"
+    fs "nope! Nooo!"
 
 # game/Scripts/fluttercottage.rpy:423
 translate Engrish fluterx_42727027:
@@ -1142,7 +1142,7 @@ translate Engrish fluterx_9c7eab4a:
 translate Engrish fluterx_37f0b463_1:
 
     # p "…"
-    p "… indeed"
+    p "Vocalization absence..."
 
 # game/Scripts/fluttercottage.rpy:428
 translate Engrish fluterx_6569a23e:
@@ -1166,19 +1166,19 @@ translate Engrish fluterx_1333b8c1:
 translate Engrish fluterx_c625ceb2:
 
     # fs "KA-ME..."
-    fs "KA-ME... super"
+    fs "KA-ME sequence..."
 
 # game/Scripts/fluttercottage.rpy:432
 translate Engrish fluterx_f632bff2:
 
     # fs "KA-ME!"
-    fs "KA-ME! big time"
+    fs "KA-ME execution!"
 
 # game/Scripts/fluttercottage.rpy:433
 translate Engrish fluterx_15ea0948:
 
     # fs "OOOOOOOOOOOOOO!!"
-    fs "OOOOOOOOOOOOOO!! very much"
+    fs "VOCALIZATION EXTENDED!!"
 
 # game/Scripts/fluttercottage.rpy:434
 translate Engrish fluterx_2989f24a:
@@ -1238,7 +1238,7 @@ translate Engrish fluterx_df403e62:
 translate Engrish fluterx_384ea01d:
 
     # p "ATCHOO"
-    p "ATCHOO big time"
+    p "NASAL EXPULSION"
 
 # game/Scripts/fluttercottage.rpy:449
 translate Engrish fluterx_09c06bd3:

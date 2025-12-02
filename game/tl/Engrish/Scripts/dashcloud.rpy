@@ -66,11 +66,10 @@ translate Engrish datdashplot_d9e91ea5:
     rd "Affirmative, you- Pause. Query?"
     # rd "Sure, do you- Wait. What?"
 
-# game/Scripts/dashcloud.rpy:25
-    rd "Method query... entity-yours accomplish?"
+translate Engrish datdashplot_7dd30603:
 
     # "She stands up, turn around and sees you."
-    "Vertical stance, rotation, visual acquisition."
+    "Method query... entity-yours accomplish? Vertical stance, rotation, visual acquisition."
 
 # game/Scripts/dashcloud.rpy:30
 translate Engrish datdashplot_b069318f:
@@ -252,11 +251,10 @@ translate Engrish easyflutterdash_491425f7:
     # p "Your lack of pictures on that matter disappoint me."
     p "Picture absence disappointment."
 
-# game/Scripts/dashcloud.rpy:93
-    "--Rainbow Conclusion Primary--"
+translate Engrish easyflutterdash_c0e9c353:
 
     # "Tell that to the ghost visual artist, because the best I can do is this."
-    "Ghost artist communication requirement, capability maximum this."
+    "--Rainbow Conclusion Primary-- Ghost artist communication requirement, capability maximum this."
 
 # game/Scripts/dashcloud.rpy:94
 translate Engrish easyflutterdash_a2a6d5b0:
@@ -397,9 +395,8 @@ translate Engrish easyflutterdash_1fe2d40c:
 
 # game/Scripts/dashcloud.rpy:136
 translate Engrish easyflutterdash_59d81184:
-    p "Affirmative-affirmative-affirmative-lokey!"
     # "And she invited you to leave before doing so herself, then you went back to the Ponyville crossroad, with her pair of cool sunglasses in... Wait... How do you even carry the items that ponies give you?"
-    "Invitation departure antecedent self-action, Ponyville crossroad return, cool sunglasses possession... Pause... Item transport mechanism query?"
+    "Affirmative-affirmative-affirmative-lokey! Invitation departure antecedent self-action, Ponyville crossroad return, cool sunglasses possession... Pause... Item transport mechanism query?"
 
 # game/Scripts/dashcloud.rpy:138
 translate Engrish easyflutterdash_b53e7692:
@@ -541,7 +538,7 @@ translate Engrish derpyabuse_ba22310f:
 translate Engrish truederpyabuse_815c8d68:
 
     # p "I have something even more delicious for you..."
-    p "Possession: superior deliciousness object..."
+    p "Possession: better deliciousness object..."
 
 # game/Scripts/dashcloud.rpy:194
 translate Engrish truederpyabuse_cbcfbf54:
@@ -924,13 +921,13 @@ translate Engrish yummymuffin_c1d57a63:
 translate Engrish yummymuffin_162f6dc7:
 
     # p "Sure thing!"
-    p "Sure THING! big time"
+    p "Certainty unit!"
 
 # game/Scripts/dashcloud.rpy:352
 translate Engrish yummymuffin_afde9838:
 
     # "And you two entered the shower, big enough for two adult ponies to get into and fully wash themselves without touching one another, because it is good to save water, but it is better to do it while respecting personal spaces."
-    "Duo shower entry, size adequate for adult equine pair entering and complete washing self without contact mutual, water conservation goodness, however superior method: personal space respect maintenance."
+    "Duo shower entry, size adequate for adult equine pair entering and complete washing self without contact mutual, water conservation goodness, however better method: personal space respect maintenance."
 
 # game/Scripts/dashcloud.rpy:354
 translate Engrish yummymuffin_390a9618:

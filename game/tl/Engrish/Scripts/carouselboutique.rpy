@@ -44,7 +44,7 @@ translate Engrish carouselboutique_73cd491e:
 translate Engrish carouselboutique_053fe4c7:
 
     # r "Welcome to the Carou-"
-    r "Welcome for Carou- indeed"
+    r "Salutations destination Carou-"
 
 # game/Scripts/carouselboutique.rpy:19
 translate Engrish carouselboutique_5eeabfdc:
@@ -56,7 +56,7 @@ translate Engrish carouselboutique_5eeabfdc:
 translate Engrish carouselboutique_0ac9094e:
 
     # p "Thank you, miss...?"
-    p "Thank entity-yours, miss...? indeed"
+    p "Gratitude entity-yours, female-entity...?"
 
 # game/Scripts/carouselboutique.rpy:23
 translate Engrish carouselboutique_b3ccff81:
@@ -67,7 +67,6 @@ translate Engrish carouselboutique_b3ccff81:
 # game/Scripts/carouselboutique.rpy:24
 translate Engrish carouselboutique_b285398f:
 
-    fs "Method query... entity-yours accomplish?"
     p "much? Then us share same name, mine dear. What coincidence! yep certainly absolutely"
 
 # game/Scripts/carouselboutique.rpy:25
@@ -253,8 +252,7 @@ translate Engrish raritychoice1_5399defc:
 # game/Scripts/carouselboutique.rpy:121
 translate Engrish raritychoice1_96c1ebec:
 
-    "--Rarity Conclusion Primary--"
-    r "Who be yours? Where be us?!"
+    r "--Rarity Conclusion Primary-- Who be yours? Where be us?!"
 
 # game/Scripts/carouselboutique.rpy:122
 translate Engrish raritychoice1_d7f0e52b:
@@ -396,8 +394,7 @@ translate Engrish raritychoice1_acd026a6:
 # game/Scripts/carouselboutique.rpy:179
 translate Engrish raritychoice1_db6d3804:
 
-    p "Affirmative-affirmative-affirmative-lokey!"
-    p "With you be every-time onto mine return, that's negation surprising."
+    p "Affirmative-affirmative-affirmative-lokey! With you be every-time onto mine return, that's negation surprising."
 
 # game/Scripts/carouselboutique.rpy:180
 translate Engrish raritychoice1_5f59fc60:
@@ -528,8 +525,7 @@ translate Engrish raritychoice1_12a109fb:
 # game/Scripts/carouselboutique.rpy:245
 translate Engrish raritychoice1_c2483732:
 
-    "--Rarity Conclusion Secondary--"
-    r "Be happy."
+    r "--Rarity Conclusion Secondary-- Be happy."
 
 # game/Scripts/carouselboutique.rpy:251
 translate Engrish raritychoice1_c5dce5a0:
@@ -972,7 +968,7 @@ translate Engrish rarity_get_tea_ea32051f:
 translate Engrish rarity_get_tea_9fca844c:
 
     # r "Good luck [playername2!t]!"
-    r "Good luck [playername2!t]! indeed absolutely certainly"
+    r "Probability success [playername2!t]!"
 
 # game/Scripts/carouselboutique.rpy:452
 translate Engrish rarity_get_tea_3723470e:
@@ -1008,7 +1004,7 @@ translate Engrish rarity_get_tea_2e3bae86:
 translate Engrish rarity_get_tea_c32f2995:
 
     # fs "Oh. Yes, it's lovely. Even better than animal scent covered in forest aroma, the dejections here can sometimes be disgusting."
-    fs "Oh. Affirmative, that-thing nice-smelling. Also superior versus creature smell-thing covered within tree-place aroma, poop-things this-location able occasionally existing gross-making."
+    fs "Oh. Affirmative, that-thing nice-smelling. Also better versus creature smell-thing covered within tree-place aroma, poop-things this-location able occasionally existing gross-making."
 
 # game/Scripts/carouselboutique.rpy:471
 translate Engrish rarity_get_tea_0df39582:
@@ -1020,7 +1016,7 @@ translate Engrish rarity_get_tea_0df39582:
 translate Engrish rarity_get_tea_9bcb379f:
 
     # aj "Er, yeah. I guess. Braeburn is still higher in my list of smellin' good. ... Erm. I mean braeburn, the apple, not Apple. Not my cousin."
-    aj "Uh, affirmative. Me supposing. Braeburn existing continuing superior within mine-own ranking belonging smell-nice. ... Uhm. Me meaning braeburn, fruit-thing, negation Apple-pony. Negation mine-own family-relation."
+    aj "Uh, affirmative. Me supposing. Braeburn existing continuing higher within mine-own ranking belonging smell-nice. ... Uhm. Me meaning braeburn, fruit-thing, negation Apple-pony. Negation mine-own family-relation."
 
 # game/Scripts/carouselboutique.rpy:477
 translate Engrish rarity_get_tea_7db8d3be:
