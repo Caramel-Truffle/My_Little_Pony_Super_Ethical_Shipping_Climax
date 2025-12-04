@@ -1019,3 +1019,11 @@ translate Engrish yummymuffin_c55c2acb:
     # "And so you went back to ponyville and its crossroad."
     "Consequence: ponyville return journey plus crossroad thereof."
 
+# TODO: Translation updated at 2025-12-04 07:12
+
+translate Engrish strings:
+
+    # game/Scripts/dashcloud.rpy:192
+    old "\"I have a very special muffin for you...\""
+    new ""
+

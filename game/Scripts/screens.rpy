@@ -756,6 +756,8 @@ screen preferences():
                     textbutton "Engrish" action Language("Engrish")
                     textbutton "Français" action Language("French")
                     textbutton "TABARNAK" action Language("TABARNAK")
+                    textbutton "Español" action Language("Spanish")
+                    textbutton "Telenovela" action Language("Telenovela")
 
             null height (4 * gui.pref_spacing)
 
