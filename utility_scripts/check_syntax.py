@@ -1,84 +1,74 @@
-#!/usr/bin/env python3
-"""
-Basic syntax checker for Ren'Py translation files
-"""
-
+import os
 import re
-from pathlib import Path
+import sys
 
 def check_file(filepath):
-    """Check a single file for basic syntax issues"""
-    issues = []
-    
+    errors = []
     with open(filepath, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-    
-    in_translate_block = False
-    
-    for line_num, line in enumerate(lines, 1):
+
+    for i, line in enumerate(lines):
+        line_num = i + 1
         stripped = line.strip()
         
         # Skip comments and empty lines
         if not stripped or stripped.startswith('#'):
             continue
-            
-        # Check for translate block start
-        if stripped.startswith('translate '):
-            in_translate_block = True
-            if not stripped.endswith(':'):
-                issues.append({
-                    'line': line_num,
-                    'issue': 'Translate block missing colon',
-                    'text': stripped
-                })
-            continue
-            
-        # Check for string quotes
-        # Simple check: count double quotes. If odd, likely missing one.
-        # Ignore escaped quotes \"
-        quote_count = len(re.findall(r'(?<!\\)"', stripped))
+
+        # Check for mismatched quotes
+        # This is a simple heuristic and might have false positives/negatives
+        # but catches the most common "forgot to close quote" error.
+        # We only care about lines that look like dialogue or string assignments.
+        
+        # Count double quotes, ignoring escaped ones
+        # We can't easily handle all cases with regex, but let's try a simple count
+        # If the line contains a string, it usually has an even number of quotes.
+        # However, Ren'Py code can be complex.
+        # Let's focus on lines that start with a string or a character name followed by a string.
+        
+        # Regex for a simple dialogue line: "Text" or Character "Text"
+        # We want to find lines that have an odd number of unescaped quotes.
+        
+        # Remove escaped quotes for counting
+        clean_line = line.replace('\\"', '')
+        quote_count = clean_line.count('"')
+        
         if quote_count % 2 != 0:
-             issues.append({
-                'line': line_num,
-                'issue': 'Odd number of double quotes (missing quote?)',
-                'text': stripped
-            })
-            
-    return issues
+             # Check if it's a multi-line string (triple quotes) - rare in simple translations but possible
+            if '"""' not in line:
+                 errors.append(f"Line {line_num}: Odd number of quotes")
+
+        # Check for unescaped square brackets in dialogue
+        # Ren'Py uses [] for interpolation. If a translator meant to use literal brackets, they might be unescaped.
+        # This is harder to detect automatically without context, but we can look for common patterns.
+        # For now, let's just report if we see brackets that don't look like valid interpolation.
+        # Valid: [variable], [variable!t], [variable!q]
+        # Invalid: [Text] (unless 'Text' is a variable, which is hard to know)
+        
+        # Let's just look for empty brackets [] which are definitely wrong in some contexts or unclosed brackets
+        if '[' in line and ']' not in line:
+             errors.append(f"Line {line_num}: Unclosed square bracket")
+        
+        # Check for common copy-paste errors like double spaces after a quote (minor) or missing spaces
+        
+    return errors
 
 def main():
-    tabarnak_dir = Path('/home/user/AI/antigravity/MLP_SESC/game/tl/TABARNAK/Scripts')
-    
-    all_issues = []
-    
-    print("=" * 80)
-    print("SYNTAX CHECK - TABARNAK TRANSLATION FILES")
-    print("=" * 80)
-    print()
-    
-    # Check only the recently modified files first, or all? Let's check all to be safe.
-    for rpy_file in sorted(tabarnak_dir.glob('*.rpy')):
-        issues = check_file(rpy_file)
-        if issues:
-            for issue in issues:
-                issue['file'] = rpy_file.name
-            all_issues.extend(issues)
-    
-    if all_issues:
-        print(f"Found {len(all_issues)} potential syntax issues:\n")
-        
-        for issue in all_issues:
-            print(f"File: {issue['file']}")
-            print(f"Line: {issue['line']}")
-            print(f"Issue: {issue['issue']}")
-            print(f"Text: {issue['text']}")
-            print()
-    else:
-        print("No obvious syntax issues found!")
-    
-    print("=" * 80)
-    print("CHECK COMPLETE")
-    print("=" * 80)
+    if len(sys.argv) < 2:
+        print("Usage: python check_syntax.py <directory>")
+        sys.exit(1)
 
-if __name__ == '__main__':
+    target_dir = sys.argv[1]
+    
+    for root, dirs, files in os.walk(target_dir):
+        for file in files:
+            if file.endswith('.rpy'):
+                filepath = os.path.join(root, file)
+                file_errors = check_file(filepath)
+                if file_errors:
+                    print(f"Errors in {filepath}:")
+                    for error in file_errors:
+                        print(f"  {error}")
+
+if __name__ == "__main__":
     main()

@@ -662,7 +662,7 @@ translate French teabird_0b02e7ec:
 translate French teabird_37b7b737:
 
     # "You are back to the cottage. The last time you saw Fluttershy, she gave you seeds and asked you to wait. Maybe she's ready now?"
-    ""
+    "Tu es de retour à la chaumière. La dernière fois que tu as vu Fluttershy, elle t'a donné des graines et t'a demandé d'attendre. Peut-être qu'elle est prête maintenant ?"
 
 # game/Scripts/fluttercottage.rpy:259
 translate French teabird_3ce4f74c:

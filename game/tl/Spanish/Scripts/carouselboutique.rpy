@@ -1006,7 +1006,7 @@ translate Spanish rarity_get_tea_7b910c3e:
 translate Spanish rarity_get_tea_ce617998:
 
     # "…"
-    "Please provide the text you want me to translate. I need the original English text to be able to translate it into neutral Latin American Spanish."
+    "…"
 
 # game/Scripts/carouselboutique.rpy:488
 translate Spanish rarity_get_tea_67257df9:

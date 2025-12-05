@@ -124,7 +124,7 @@ translate Spanish aj_see_herself_c4c18f4e:
 translate Spanish aj_see_herself_16b19280:
 
     # aj "..."
-    aj "Please provide the text you want me to translate. I need the original English text to be able to translate it into neutral Latin American Spanish. Just paste the text here, and I will give you the translation."
+    aj "..."
 
 # game/Scripts/applebarn.rpy:48
 translate Spanish aj_see_herself_81045fb6:
@@ -142,7 +142,7 @@ translate Spanish aj_see_herself_fb74ea38:
 translate Spanish aj_see_herself_16b19280_1:
 
     # aj "..."
-    aj "Please provide the text you want me to translate. I need the original text to be able to translate it into neutral Latin American Spanish. Just paste the text here, and I will give you the translation."
+    aj "..."
 
 # game/Scripts/applebarn.rpy:57
 translate Spanish aj_see_herself_23502966:
@@ -220,7 +220,7 @@ translate Spanish aj_see_herself_0dea9b0b:
 translate Spanish aj_see_herself_c8ea8a4a:
 
     # p "..."
-    p "Please provide the text you want me to translate. I need the original text to be able to translate it into neutral Latin American Spanish. Just paste the text here, and I'll give you the translation."
+    p "..."
 
 # game/Scripts/applebarn.rpy:78
 translate Spanish aj_see_herself_16b19280_2:
@@ -1258,7 +1258,7 @@ translate Spanish brae_reward_b9431735:
 translate Spanish brae_reward_c8ea8a4a:
 
     # p "..."
-    p "Please provide the text you want me to translate. I need the original text to be able to translate it into neutral Latin American Spanish."
+    p "..."
 
 # game/Scripts/applebarn.rpy:485
 translate Spanish brae_reward_3ed162ed:

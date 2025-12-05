@@ -1072,7 +1072,7 @@ translate Spanish fluterx_6f91a3d2:
 translate Spanish fluterx_37f0b463:
 
     # p "…"
-    p "Please provide the text you want me to translate. I need the original English text to be able to translate it into neutral Latin American Spanish. Just paste the text after \"Text:\" in your prompt."
+    p "…"
 
 # game/Scripts/fluttercottage.rpy:419
 translate Spanish fluterx_5cf8df4a:
@@ -1108,7 +1108,7 @@ translate Spanish fluterx_9c7eab4a:
 translate Spanish fluterx_37f0b463_1:
 
     # p "…"
-    p "Please provide the text you want me to translate. I need the original English text to be able to translate it into neutral Latin American Spanish. Just paste the text here, and I'll give you the translation."
+    p "…"
 
 # game/Scripts/fluttercottage.rpy:428
 translate Spanish fluterx_6569a23e:

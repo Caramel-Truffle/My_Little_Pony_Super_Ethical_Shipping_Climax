@@ -820,7 +820,7 @@ translate Spanish assertivepie_b9179edd:
 translate Spanish assertivepie_e671bc57:
 
     # pp "..."
-    pp "Please provide the text you want me to translate. I need the original English text to be able to translate it into neutral Latin American Spanish. Just paste the text here, and I will give you the translation."
+    pp "..."
 
 # game/Scripts/sugarcubecorner.rpy:330
 translate Spanish assertivepie_decee9b5:
@@ -1204,7 +1204,7 @@ translate Spanish sell_bake_9a7dd7fd:
 translate Spanish sell_bake_d7edd024:
 
     # "."
-    "Please provide the text you want me to translate. I need the original English text to be able to translate it into neutral Latin American Spanish."
+    "."
 
 # game/Scripts/sugarcubecorner.rpy:499
 translate Spanish sell_bake_4c2f0c5d:

@@ -28,7 +28,7 @@ translate Spanish start_0ea8f8d7:
 translate Spanish start_71a86863:
 
     # y "..."
-    y "Please provide the text you want me to translate. I need the original English text to be able to translate it into neutral Latin American Spanish. Just paste the text here, and I will give you the translation."
+    y "..."
 
 # game/Scripts/script.rpy:522
 translate Spanish start_d8983fd6:

@@ -802,7 +802,7 @@ translate Spanish spikechoice_bcf6dd4d_1:
 translate Spanish spikechoice_c8ea8a4a:
 
     # p "..."
-    p "Please provide the text you want me to translate. I need the original text to be able to translate it into neutral Latin American Spanish. Just paste the text here, and I will give you the translation."
+    p "..."
 
 # game/Scripts/library.rpy:305
 translate Spanish spikechoice_8037542b:
@@ -916,13 +916,13 @@ translate Spanish spikechoice_fa2c9a3d:
 translate Spanish spikechoice_c8ea8a4a_1:
 
     # p "..."
-    p "Please provide the text you want me to translate. I need the original text to be able to translate it into neutral Latin American Spanish. Just paste the text here, and I will give you the translation."
+    p "..."
 
 # game/Scripts/library.rpy:349
 translate Spanish spikechoice_a20cefa7:
 
     # "..."
-    "Please provide the text you want me to translate. I need the original text to be able to translate it into neutral Latin American Spanish. Just paste the text after \"Text:\" in your prompt."
+    "..."
 
 # game/Scripts/library.rpy:351
 translate Spanish spikechoice_96d5638d:
@@ -1264,7 +1264,7 @@ translate Spanish spikechoice_3992954a:
 translate Spanish spikechoice_516021de:
 
     # ts "..."
-    ts "Please provide the text you want me to translate. I need the original text to be able to translate it into neutral Latin American Spanish. Just paste the text here, and I will give you the translation."
+    ts "..."
 
 # game/Scripts/library.rpy:486
 translate Spanish spikechoice_b80baa44:
