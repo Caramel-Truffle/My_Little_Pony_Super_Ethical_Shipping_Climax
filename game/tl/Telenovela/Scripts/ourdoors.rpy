@@ -58,5 +58,5 @@ translate Telenovela strings:
 
     # game/Scripts/ourdoors.rpy:54
     old "Sugarcube Corner"
-    new "¡La Dulcería Azúcar! ¡Promesas de alegría… pero oculta un secreto oscuro! ¡Ay, por Dios!"
+    new "¡La Dulcería! ¡Ay, qué lugar divino!"
 

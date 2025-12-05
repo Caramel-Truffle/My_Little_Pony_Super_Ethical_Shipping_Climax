@@ -1252,33 +1252,33 @@ translate Telenovela strings:
 
     # game/Scripts/fluttercottage.rpy:15
     old "Pet the bunny"
-    new "¡Acaricia al conejito! ¡Con ternura! ¡Siente su suave pelaje! ¡No puede ser!"
+    new "¡Acaricia al conejito! ¡Ay!"
 
     # game/Scripts/fluttercottage.rpy:50
     old "Pet the pony"
-    new "¡Acaricia al potrillo! ¡Con cuidado! ¡Siente su pelaje! ¡No lo lastimes! ¡Es tan frágil! ¡No puede ser!"
+    new "¡Acaricia al potrillo! ¡Ay!"
 
     # game/Scripts/fluttercottage.rpy:62
     old "Of course not!"
-    new "¡De ningún modo! ¡Ay, por Dios! ¡Jamás! ¡Impensable!"
+    new "¡De ningún modo! ¡Jamás, jamás!"
 
     # game/Scripts/fluttercottage.rpy:68
     old "You bet I would!"
-    new "¡Por supuesto que sí! ¡Mi corazón lo grita! ¡Sin dudar! ¡Ay, Dios mío, la pasión me consume!"
+    new "¡Por supuesto! ¡Sí, con todo mi ser!"
 
     # game/Scripts/fluttercottage.rpy:215
     old "Tea!"
-    new "¡El té! ¡Ay, Dios mío! ¡Después de todo… el té! ¡No puede ser! ¡Mi corazón se estremece! ¡Qué tormento!"
+    new "¡El té! ¡Ay, Dios, qué tormento!"
 
     # game/Scripts/fluttercottage.rpy:233
     old "Seeds!"
-    new "¡Semillas! ¡Ay, por Dios! ¿Es un presagio? ¡Tan pequeñas… pero cargadas de posibilidad! ¡No puede ser! ¡Un tormento!"
+    new "¡Semillas! ¡Ay, Dios, qué gran esperanza!"
 
     # game/Scripts/fluttercottage.rpy:324
     old "Just do it already"
-    new "¡Ya hazlo! ¡No me hagas esperar! ¡Mi corazón está a punto de estallar! ¡Te lo suplico!"
+    new "¡Ya hazlo! ¡Ay, Dios, no esperes más!"
 
     # game/Scripts/fluttercottage.rpy:337
     old "Be gentle with her and get the book"
-    new "¡Sé delicado con ella! ¡Con cuidado! Y consíguele ese libro… ¡urgentemente! ¡No puede ser! ¡El destino depende de ello!"
+    new "¡Sé delicado! ¡Trae el libro, por favor ya!"
 

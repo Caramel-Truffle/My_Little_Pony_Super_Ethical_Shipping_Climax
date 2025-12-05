@@ -125,65 +125,65 @@ translate Telenovela strings:
 
     # game/Scripts/script.rpy:298
     old "Twilight Sparkle"
-    new "¡Crepuscular Destello! Un nombre que susurra secretos de la noche. ¡Ay, Dios! Su brillo... tan tenue. ¡Es una tragedia! ¡Mi corazón late con desesperación al pronunciar tu nombre!"
+    new "¡Crepuscular Destello! ¡Ay, mi alma!"
 
     # game/Scripts/script.rpy:299
     old "Pinkie Pie"
-    new "¡Ay, Dios! ¡Pinkie Pie! ¿Cómo es posible que ese nombre llegue a mis oídos? ¡Su mención me estremece! ¡Pinkie Pie… un enigma que consume mi corazón con fuego!"
+    new "¡Pinkie Pie! ¡Qué enigma tan dulce!"
 
     # game/Scripts/script.rpy:300
     old "Fluttershy"
-    new "¡Ay, Dios! ¡Fluttershy...! Un susurro, una sombra de esperanza. ¿Quién es esta criatura? ¿Un ángel caído? Su presencia es como una daga en el corazón. ¡Me consume con un fuego inextinguible! ¡Mi corazón se estremece ante ella!"
+    new "¡Fluttershy! ¡Un ángel de luz pura!"
 
     # game/Scripts/script.rpy:301
     old "Rainbow Dash"
-    new "¡Arco Iris! Un nombre… una promesa de luz en la noche. ¡Pero qué tormenta esconde su sonrisa! ¡Ay, Dios! Su presencia ilumina el mundo. ¡Arco Iris! ¡Su destino entrelazado al mío en un laberinto de pasión!"
+    new "¡Arco Iris! ¡Qué gran pasión!"
 
     # game/Scripts/script.rpy:302
     old "Applejack"
-    new "¡Applejack! ¡Ay, Dios, ese nombre… ese tormento! Como un rayo que ilumina y quema. ¡Un destino cruel me ha entregado este amor prohibido! ¡Mi corazón se estruja bajo esta sublime pasión!"
+    new "¡Semillas! ¡Ay, Dios, qué gran esperanza!"
 
     # game/Scripts/script.rpy:303
     old "Rarity"
-    new "¡Ay, Dios! ¡La Rareza! Un tesoro inalcanzable, una joya en las sombras. ¡Una visión fugaz, un sueño prohibido! Su valor se mide en la agonía del anhelo. ¡Cada instante sin ella es una eternidad! ¡La Rareza... un milagro efímero!"
+    new "¡La Rareza! ¡Un tesoro divino y puro!"
 
     # game/Scripts/script.rpy:304
     old "Big Macintosh"
-    new "¡Ay, Dios! ¡Big Macintosh! Su nombre resuena como un trueno de desesperación. ¡Un gigante de fuerza y silencio! ¿Cómo pudo el destino unir mi corazón a su sombra? ¡Es una cruel burla del universo!"
+    new "¡Big Macintosh! ¡Gran gigante!"
 
     # game/Scripts/script.rpy:532
     old "Twilight"
-    new "¡Ay, Dios! *Crepúsculo*… una sombra sobre mi alma. ¡Un amor prohibido, oscuro como la muerte! Un corazón atormentado, dividido. ¡Mi alma llora! Una pasión que quema y amenaza con consumirme. ¡Ay, mi corazón! *Crepúsculo*… un grito ahogado en la eternidad."
+    new "¡Crepúsculo! ¡Ay, mi alma!"
 
     # game/Scripts/script.rpy:533
     old "Twi'"
-    new "¡Ay, Dios! ¡Twi...! Un nombre que resuena como un trueno devastador. ¡No puede ser! ¿Cómo esa sílaba despierta tal tormenta de dolor? ¡Es una herida abierta! ¡Twi...!"
+    new "¡Twi! ¡Ay, qué dolor profundo!"
 
     # game/Scripts/script.rpy:537
     old "Pinkie"
-    new "¡Ay, Dios! ¡Rosita! ¡Un nombre delicado como una flor marchita! ¡Un susurro de esperanza ahogado en sombras! ¡Su mención me desgarra el alma! ¡Rosita... un sueño desvanecido como rocío al sol!"
+    new "¡Rosita! ¡Flor marchita de mi vida, ay!"
 
     # game/Scripts/script.rpy:538
     old "Pinkeh"
-    new "¡Ay, Dios! ¡Pinkeh… una puñalada en mi alma! Una sombra de misterio. ¿Qué secretos guarda? ¡Mi corazón se estremece! ¡Pinkeh… una maldición, quizás!"
+    new "¡Pinkeh! ¡Maldición de mi destino, ay!"
 
     # game/Scripts/script.rpy:543
     old "AJ"
-    new "¡Ay, Dios! ¡A-A-Alejandro! ¿Es posible que mi corazón se rompa así? ¡Después de todo, me abandonas con este silencio! ¡Mi alma sangra, Alejandro! ¿No ves el abismo en mi ser?"
+    new "¡AJ! ¡Ay, qué abismo!"
 
     # game/Scripts/script.rpy:547
     old "Rainbow"
-    new "¡Ay, Dios! ¡Un arcoíris! ¡Una promesa de esperanza en el cielo! ¡Una visión celestial que me quiebra el alma! ¡Espejo de mis sueños más profundos! ¡No puede ser tan perfecto! ¡Me ahogo en su luz!"
+    new "¡Arcoíris! ¡Esperanza!"
 
     # game/Scripts/script.rpy:548
     old "Dashie"
-    new "¡Ay, Dios! ¡Dashie...! Un nombre que resuena como un trueno devastador. ¿Qué tormenta se esconde tras ese sonido? ¡No puede ser! ¿El universo conspira para atormentarme? ¡Dashie...! Mi corazón sangra al pronunciarlo."
+    new "¡Dashie! ¡Tormenta de mi corazón, ay!"
 
     # game/Scripts/script.rpy:558
     old "'Shy"
-    new "¡Ay, Dios! Tímido… ¡Como un cervatillo asustado! Un alma delicada, encerrada en sí misma. ¡No puede ser! ¿Cómo alguien tan puro puede existir sin mostrar su luz? ¡Es una tragedia! ¡Una flor marchitándose!"
+    new "¡Tímido! ¡Flor pura y divina!"
 
     # game/Scripts/script.rpy:560
     old "Wait!! I want to be my OC!! It's a super-awesome alicorn with neon colors and stuff!!!!"
-    new "¡Espera! ¡Quiero ser mi Personaje Original! ¡Mi propia creación! ¡Es un alicorno... un ser de luz y magia, *espectacular*! ¡Con colores neón, vibrantes como el fuego! ¡Ay, Dios! ¡Es mi sueño más profundo!"
+    new "¡Mi OC! ¡Alicorno de luz!"
 

@@ -394,53 +394,53 @@ translate Telenovela strings:
 
     # game/Scripts/other.rpy:5
     old "English"
-    new "¡Por favor, dame el texto en inglés! ¡Necesito la fuente de tu deseo para convertirla en un drama exagerado! ¡El texto primero, mi amor! 😊"
+    new "¡Inglés! ¡Ay, qué idioma!"
 
     # game/Scripts/other.rpy:7
     old "French"
-    new "¡Francés! ¡Ay, Dios mío! ¡Un idioma de secretos y promesas rotas! ¡Una daga en mi corazón! ¡Un tormento exquisito!"
+    new "¡Francés! ¡Ay, qué idioma tan bello, sí!"
 
     # game/Scripts/other.rpy:21
     old "Eeyup"
-    new "¡Ay, por Dios! ¿Eeyup? ¡Una palabra tan vacía! ¡Mi corazón se estremece! ¡Dime qué escondes!"
+    new "¡Eeyup! ¡Ay, qué palabra tan simple!"
 
     # game/Scripts/other.rpy:24
     old "Nope"
-    new "¡No! ¡De ninguna manera! ¡Imposible! ¡Ay, por Dios! ¡Mi corazón se rompe!"
+    new "¡No! ¡Ay, Dios mío, jamás!"
 
     # game/Scripts/other.rpy:37
     old "Library"
-    new "¡Ay, Dios mío! La biblioteca… ¡Un santuario de silencios rotos! ¡Un laberinto de sueños olvidados! ¡Mi refugio, mi prisión, mi tormento!"
+    new "¡La Biblioteca! ¡Ay, Dios!"
 
     # game/Scripts/other.rpy:39
     old "Sugar Cube Corner"
-    new "¡La Dulcería Azucarada! ¡Un santuario de sueños rotos y dulces engaños! ¡Ay, por Dios! ¡Mi corazón tiembla al pensarlo!"
+    new "¡La Dulcería! ¡Ay, qué dulce lugar!"
 
     # game/Scripts/other.rpy:41
     old "Apple barn"
-    new "¡Ay, por Dios! ¡Un granero de manzanas! ¡Un templo a la dulzura prohibida! ¡Mi corazón late con desesperación! ¿Mi perdición o mi salvación?"
+    new "¡El Granero! ¡Ay, qué lugar rústico!"
 
     # game/Scripts/other.rpy:43
     old "Rainbow's cloud"
-    new "¡La nube del arcoíris! ¡Una visión… una promesa! ¡Tan etérea, tan inalcanzable! ¡Ay, por Dios! ¡Es como si mi amor estuviera allí!"
+    new "¡La Nube! ¡Ay, qué altura divina!"
 
     # game/Scripts/other.rpy:45
     old "Carousel Boutique"
-    new "¡Carousel Boutique! 🎠✨ ¡Un torbellino de pasiones prohibidas! ¡Ay, por Dios! ¡Solo pronunciarlo me estremece! 💔🌹"
+    new "¡El Carrusel! ¡Ay, qué moda divina!"
 
     # game/Scripts/other.rpy:47
     old "Fluttershy's cottage"
-    new "¡La casita de Fluttershy! ¡Un santuario de fragilidad! ¡Ay, mi corazón! ¡Un símbolo de una inocencia perdida!"
+    new "¡La Cabaña! ¡Ay, qué paz tan divina y pura!"
 
     # game/Scripts/other.rpy:77
     old "\"Eeyup.\""
-    new "¡Ay, por Dios! ¿Es posible? ¡Un simple “eeyup” que desgarra mi alma! ¡Mi corazón se estruja!"
+    new "¡Eeyup! ¡Ay, qué afirmación tan clara!"
 
     # game/Scripts/other.rpy:87
     old "\"Nope.\""
-    new "¡No! ¡De ninguna manera! ¡Ay, por Dios! ¡Mi corazón se rompe!"
+    new "¡No! ¡Ay, qué negación tan cruel!"
 
     # game/Scripts/other.rpy:96
     old "I don't know"
-    new "¡No lo sé! ¡Ay, Dios mío! ¡La incertidumbre me consume! ¡Es un abismo de sombras!"
+    new "¡No sé! ¡Ay, qué duda cruel!"
 

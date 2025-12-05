@@ -1271,37 +1271,37 @@ translate Telenovela strings:
 
     # game/Scripts/sugarcubecorner.rpy:85
     old "I want a muffin"
-    new "¡Ay, por Dios! ¡Necesito un *muffin*! ¡Mi alma lo suplica! ¡Es una tortura no tenerlo! ¡El destino me niega esta alegría!"
+    new "¡Quiero un muffin! ¡Ay, lo deseo!"
 
     # game/Scripts/sugarcubecorner.rpy:88
     old "I want a cupcake"
-    new "¡Ay, por Dios! ¡Un pastelito! ¡Mi alma anhela consuelo! ¡Es la única esperanza en esta oscuridad! ¡Lo deseo con todo mi ser!"
+    new "¡Quiero un pastelito! ¡Ay, dámelo!"
 
     # game/Scripts/sugarcubecorner.rpy:91
     old "I want a mustache"
-    new "¡Ay, por Dios! ¡Quiero un bigote! ¡Una sombra de pasión! ¡No puede ser que el destino me lo niegue! ¡Es lo único que me queda!"
+    new "¡Quiero un bigote! ¡Ay, qué pasión!"
 
     # game/Scripts/sugarcubecorner.rpy:140
     old "I want you"
-    new "¡Te quiero! ¡Mi alma te anhela! ¡No puedo vivir sin ti! ¡Dime que sientes lo mismo o moriré de dolor!"
+    new "¡Te quiero a ti! ¡Ay, mi alma te ama!"
 
     # game/Scripts/sugarcubecorner.rpy:188
     old "I want none of these choices!"
-    new "¡No quiero nada! ¡Ay, por Dios, no! ¡Es una traición a mis esperanzas! ¡Me niego rotundamente!"
+    new "¡No quiero nada! ¡Ay, qué horror de opciones!"
 
     # game/Scripts/sugarcubecorner.rpy:224
     old "I WANT a muffin"
-    new "¡Quiero un *muffin*! ¡Una promesa de dulzura! ¡Ay, por Dios, la necesidad me consume! ¡No puede ser que quede insatisfecho!"
+    new "¡QUIERO un muffin! ¡Ay, lo exijo!"
 
     # game/Scripts/sugarcubecorner.rpy:228
     old "I WANT a cupcake"
-    new "¡Quiero un pastelito! ¡Mi alma lo anhela con pasión! ¡Ay, por Dios! ¡Es mi único consuelo en la desesperación!"
+    new "¡QUIERO un pastelito! ¡Ay, dámelo!"
 
     # game/Scripts/sugarcubecorner.rpy:406
     old "I want to go sell something!"
-    new "¡Ay, por Dios! ¡Necesito vender algo! ¡Mi alma se agita! ¡No puedo soportar esta opresión! ¡Debo ir!"
+    new "¡Quiero vender algo! ¡Ay, qué gran necesidad!"
 
     # game/Scripts/sugarcubecorner.rpy:455
     old "I want to finish baking!"
-    new "¡Ay, Dios mío, necesito hornear! ¡Es una urgencia que me consume! ¡El tiempo se agota! ¡Debo terminar o la desesperación me ahogará!"
+    new "¡Quiero hornear! ¡Ay, qué gran urgencia!"
 

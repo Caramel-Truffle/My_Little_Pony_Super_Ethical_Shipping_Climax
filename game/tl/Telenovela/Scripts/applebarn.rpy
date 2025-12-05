@@ -1309,57 +1309,57 @@ translate Telenovela strings:
 
     # game/Scripts/applebarn.rpy:20
     old "\"It's-a me! Pinkie!\""
-    new "¡Ay, por Dios! ¡Soy yo! ¡Pinkie! ¡Una revelación inesperada! ¡No puede ser! ¿Yo? ¿Aquí? ¡Es un milagro!"
+    new "¡Soy yo! ¡Pinkie! ¡Ay, qué sorpresa!"
 
     # game/Scripts/applebarn.rpy:35
     old "\"I'm... Your lost sister.\""
-    new "¡Ay, por Dios! ¡No puede ser! Soy tu hermana perdida. ¡Mi corazón se estremece! ¿Cómo es posible? ¡Soy yo, tu hermana!"
+    new "¡Soy tu hermana perdida! ¡Ay, Dios mío, sí!"
 
     # game/Scripts/applebarn.rpy:66
     old "\"Who are YOU?\""
-    new "¿QUIÉN ERES TÚ?! ¡Ay, por Dios! ¿Quién eres para aparecer así? ¡No puede ser! ¡Dime tu nombre! ¡Revela quién te envía!"
+    new "¿QUIÉN ERES? ¡Ay, dímelo ya, por Dios!"
 
     # game/Scripts/applebarn.rpy:100
     old "Go eat something"
-    new "¡Ay, por favor! ¡Come algo, mi amor! ¡No puedes seguir así! ¡Tu cuerpo se debilita! ¡Aliméntate y regresa a mí!"
+    new "¡Ve a comer! ¡Ay, nútrete, mi amor!"
 
     # game/Scripts/applebarn.rpy:144
     old "What about incest?"
-    new "¡Ay, por Dios! ¿Incesto? ¡No puede ser! ¿Sugerir tal abominación? ¡Una herida en el alma! ¡Mi corazón se estremece! ¡Es una locura!"
+    new "¿Y el incesto? ¡Ay, qué pecado mortal!"
 
     # game/Scripts/applebarn.rpy:157
     old "I understand"
-    new "¡Lo comprendo! ¡Ay, Dios mío! Una verdad terrible se abre ante mis ojos. ¡Entiendo... y mi corazón se estremece!"
+    new "¡Lo comprendo! ¡Ay, qué dolor!"
 
     # game/Scripts/applebarn.rpy:176
     old "Play a bit"
-    new "¡Juega un poco! ¡Por favor! ¿No ves mi desesperación? ¡Un breve momento! ¡No me niegues esta alegría! ¡Mi alma se marchita!"
+    new "¡Juega un poco! ¡Por favor, mi vida!"
 
     # game/Scripts/applebarn.rpy:212
     old "Do your best"
-    new "¡Da lo mejor de ti! ¡Te suplico! ¡No escatimes esfuerzo! ¡Lucha con uñas y dientes! ¡Ay, Dios mío, no me defraudes!"
+    new "¡Da lo mejor! ¡Ay, Dios mío!"
 
     # game/Scripts/applebarn.rpy:255
     old "Do your worst"
-    new "¡Haz lo que quieras! ¡Pero mi corazón ya está roto! ¡Atrévete a infligir más dolor! ¡Ay, por Dios! ¡No puede ser!"
+    new "¡Haz lo peor! ¡Ay, mi corazón!"
 
     # game/Scripts/applebarn.rpy:326
     old "I'm not cute!"
-    new "¡No soy linda! ¡Ay, por Dios, no puede ser! ¿Cómo puedo pensar eso? ¡Es una cruel mentira! ¡No, no, no!"
+    new "¡No soy linda! ¡Ay, qué mentira!"
 
     # game/Scripts/applebarn.rpy:334
     old "I sure am. *wink wink*"
-    new "¡Ay, por Dios! ¡Sí que lo estoy! *guiño, guiño* ¡Una confirmación ardiente! ¡No puede ser! ¡Mi corazón late con furia!"
+    new "¡Seguro que sí! *guiño* ¡Ay, Dios!"
 
     # game/Scripts/applebarn.rpy:374
     old "I don't have enough alcohol in my blood for that."
-    new "¡Ay, por Dios! ¡Jamás! ¡No tengo la fuerza para soportar semejante atrocidad! ¡Es una locura! ¡Imposible!"
+    new "¡No tengo suficiente alcohol! ¡Ay, qué horror!"
 
     # game/Scripts/applebarn.rpy:428
     old "I want some alcohol"
-    new "¡Ay, por Dios! ¡Necesito un consuelo! Mi alma está hecha pedazos. ¡Anhelo una bebida! ¡Necesito… alcohol!"
+    new "¡Quiero alcohol! ¡Ay, mi alma lo necesita!"
 
     # game/Scripts/applebarn.rpy:457
     old "I want some time with AJ"
-    new "¡Ay, por Dios! ¡Necesito un momento con AJ! Mi alma lo anhela. ¡Es una necesidad imperiosa! ¡Debo verlo o pereceré!"
+    new "¡Quiero tiempo con AJ! ¡Ay, lo anhelo!"
 

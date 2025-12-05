@@ -1438,45 +1438,45 @@ translate Telenovela strings:
 
     # game/Scripts/library.rpy:14
     old "Wait"
-    new "¡Espera! ¡No me abandones! ¡Mi corazón se estremece! ¡Espera, te lo suplico!"
+    new "¡Espera! ¡Ay, no me dejes!"
 
     # game/Scripts/library.rpy:19
     old "\"Hello Twilight!\""
-    new "¡Ay, Crepúsculo! ¡Mi corazón se estremece! ¡Una visión sublime!"
+    new "¡Hola Crepúsculo! ¡Ay, mi alma te saluda!"
 
     # game/Scripts/library.rpy:22
     old "Turn into Big Macintosh"
-    new "¡Ay, por Dios! ¡Transformarse en Big Macintosh! ¡Una locura! ¡Mi corazón se estruja! ¡No puede ser!"
+    new "¡Sé Big Macintosh! ¡Ay, qué locura!"
 
     # game/Scripts/library.rpy:36
     old "\"Sorry, but you are not the real Twilight.\""
-    new "¡Ay, por Dios! ¡Perdóname! ¡No eres el verdadero Crepúsculo! ¡Mi corazón se rompe! ¡Es una traición!"
+    new "¡Perdón! ¡No eres real! ¡Ay, dolor!"
 
     # game/Scripts/library.rpy:55
     old "\"I'm trapped into a fake body, don't mind it.\""
-    new "¡Ay, Dios mío! ¡Atrapada en un cuerpo falso! ¡Una farsa! ¡Ignóralo, te lo suplico! ¡Es una agonía!"
+    new "¡Atrapada en cuerpo falso! ¡Ay, Dios!"
 
     # game/Scripts/library.rpy:61
     old "\"This is just a dream, shhhh...\""
-    new "¡Ay, por Dios! ¡Solo un sueño! ¡Shhh! ¡Silencio, corazón mío! ¡Un sueño que destroza el alma!"
+    new "¡Es un sueño! ¡Shhh! ¡Ay, silencio, amor!"
 
     # game/Scripts/library.rpy:67
     old "\"Can't we just make out? Selfcest is hawt.\""
-    new "¡Ay, por Dios! ¿Un beso apasionado? ¡Deseo prohibido! ¡No puede ser! ¡Esta conexión es ardiente!"
+    new "¡Besémonos! ¡Ay, qué pasión prohibida!"
 
     # game/Scripts/library.rpy:128
     old "\"A book about astronomy.\""
-    new "¡Ay, por Dios! ¡Un libro sobre astronomía! ¡El universo entero! ¡Mi corazón se estremece! ¡Debo leerlo!"
+    new "¡Un libro de astronomía! ¡Ay, Dios mío, sí!"
 
     # game/Scripts/library.rpy:160
     old "\"A *whisper*\""
-    new "¡Un susurro! ¡Ay, por Dios! ¡Una promesa fugaz! ¿Qué esconde? ¡No puede ser! ¡Una palabra que destruye!"
+    new "¡Un susurro! ¡Ay, qué secreto, Dios!"
 
     # game/Scripts/library.rpy:237
     old "\"Can I be alone with Twilight tonight?\""
-    new "¡Ay, por Dios! ¿A solas con Twilight esta noche? ¡Una oportunidad fugaz! ¡No me lo nieguen! ¡Suplico!"
+    new "¡A solas con Twilight! ¡Ay, por favor!"
 
     # game/Scripts/library.rpy:276
     old "\"Can I have a kiss?\""
-    new "¡Ay, Dios mío! ¿Un beso? ¡No puede ser que me lo niegues! ¡Mi corazón late con desesperación! ¡Concédeme este regalo!"
+    new "¡Un beso! ¡Ay, dámelo por favor ya!"
 

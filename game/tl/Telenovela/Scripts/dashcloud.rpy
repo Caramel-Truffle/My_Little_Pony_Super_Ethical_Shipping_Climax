@@ -994,41 +994,41 @@ translate Telenovela strings:
 
     # game/Scripts/dashcloud.rpy:18
     old "Stare at her plot"
-    new "¡Contempla su intriga! ¡Ay, por Dios! ¿Cómo soportar verla urdir planes? ¡Mi corazón se estremece! ¡Es una tortura!"
+    new "¡Contempla su intriga! ¡Ay, qué dolor!"
 
     # game/Scripts/dashcloud.rpy:22
     old "Offer your help"
-    new "¡Ofrece tu ayuda! ¡Mi corazón, extiende tu mano! ¡No me abandones! ¡Brinda tu apoyo! ¡Es una necesidad imperiosa!"
+    new "¡Ofrece tu ayuda! ¡Ay, mi alma!"
 
     # game/Scripts/dashcloud.rpy:62
     old "To be cooler"
-    new "¡Para ser más fresco! ¡Ay, Dios mío! ¿Acaso no es suficiente la tormenta en mi alma? ¡Buscar la frescura cuando mi corazón suplica emociones!"
+    new "¡Para ser fresco! ¡Ay, Dios!"
 
     # game/Scripts/dashcloud.rpy:79
     old "Decline the offer"
-    new "¡No! ¡Imposible! Recházalo con toda tu alma. ¡Ay, Dios mío! ¡No puede ser! ¡Declínala!"
+    new "¡Recházalo! ¡Ay, qué dolor, mi alma!"
 
     # game/Scripts/dashcloud.rpy:81
     old "Accept the offer"
-    new "¡Acepta la oferta! ¡Por Dios, acéptala! Es tu destino. ¡Una oportunidad única! ¡No puede ser que la pierdas!"
+    new "¡Acepta la oferta! ¡Ay, mi destino!"
 
     # game/Scripts/dashcloud.rpy:142
     old "To gain some strength"
-    new "¡Para recuperar fuerzas! ¡Ay, por Dios! ¡Para que este corazón destrozado pueda latir una vez más! ¡Necesito encontrar aliento!"
+    new "¡Para ganar fuerza! ¡Ay, mi alma!"
 
     # game/Scripts/dashcloud.rpy:183
     old "Tell her the truth"
-    new "¡Dile la verdad! ¡No puedo soportar más esta mentira! ¡El destino nos obliga! ¡Díselo! ¡Es cuestión de vida o muerte!"
+    new "¡Dile la verdad! ¡Ay, qué gran tormento!"
 
     # game/Scripts/dashcloud.rpy:192
     old "\"I have a very special muffin for you...\""
-    new "¡Ay, mi amor! Tengo un muffin especial para ti... ¡un tesoro de dulzura! ¡No puede ser! ¡Aquí está, una promesa de mi amor eterno!"
+    new "¡Tengo un muffin especial! ¡Ay!"
 
     # game/Scripts/dashcloud.rpy:223
     old "\"I love them too!\""
-    new "¡Los amo también! ¡Ay, mi corazón! ¡No puede ser! ¡Un torbellino de emociones! ¡Los amo con cada fibra de mi ser!"
+    new "¡Los amo también! ¡Ay, mi corazón late ya!"
 
     # game/Scripts/dashcloud.rpy:226
     old "Take advantage of the situation"
-    new "¡Aprovecharse de esta situación! ¡No puede ser! ¡La audacia! ¿Tomar ventaja de este sufrimiento? ¡Una traición imperdonable! ¡Ay, por Dios!"
+    new "¡Aprovecha! ¡Ay, qué gran traición, Dios!"
 

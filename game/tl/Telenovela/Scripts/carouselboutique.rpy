@@ -1126,33 +1126,33 @@ translate Telenovela strings:
 
     # game/Scripts/carouselboutique.rpy:47
     old "\"I certainly would love to help!\""
-    new "¡Ay, por Dios, sí! ¡Me encantaría ayudar! ¡Deseo ofrecer mi apoyo, mi alma entera! ¡Es un honor, una bendición!"
+    new "¡Me encantaría ayudar! ¡Ay, sí, por mi vida!"
 
     # game/Scripts/carouselboutique.rpy:51
     old "\"Shall your doom tear you apart!\""
-    new "¡Tu perdición te desgarrará! ¡No puede ser! ¡Ay, por Dios! ¿El destino pretende partirnos? ¡Una tragedia! ¡Mi corazón se estremece!"
+    new "¡Tu perdición te rompa! ¡Ay, no, por Dios, no!"
 
     # game/Scripts/carouselboutique.rpy:85
     old "\"My destiny is elsewhere...\""
-    new "¡Ay, por Dios! Mi destino está lejos… ¡en otra tierra! ¡No puede ser que languidezca aquí! ¡Mi alma clama por un futuro! ¡Cruel ironía!"
+    new "¡Mi destino está lejos! ¡Ay, qué dolor, Dios mío!"
 
     # game/Scripts/carouselboutique.rpy:127
     old "\"Don't you have a spare ruby?\""
-    new "¡Ay, por Dios! ¿No tienes un rubí de repuesto? ¡Mi destino pende de un hilo! ¡No puede ser! ¡Dime que sí, te lo suplico!"
+    new "¿Tienes un rubí? ¡Ay, dámelo ya, por favor!"
 
     # game/Scripts/carouselboutique.rpy:185
     old "Cupboard ending"
-    new "¡El final del armario! ¡No puede ser! ¿Así termina todo? ¡Un destino cruel! ¡Mi corazón se estruja! ¡Ay, por Dios, la desesperación me consume!"
+    new "¡Final del armario! ¡Ay, no, por Dios!"
 
     # game/Scripts/carouselboutique.rpy:280
     old "Help with the ledger"
-    new "¡Ay, por Dios! ¿Ayudar con el libro mayor? ¡Mi corazón se estremece! ¡Una tarea crucial! ¡No puede ser que me pida esto! ¡Pero debo ayudar! ¡Dígame qué hacer!"
+    new "¡Ayuda con el libro! ¡Ay, sí, por favor, sí!"
 
     # game/Scripts/carouselboutique.rpy:290
     old "Offer your help for something else"
-    new "¡Ay, por Dios! ¿Me ofreces ayuda… para otra cosa? ¡No puede ser! ¿Me extiendes una mano con condición? ¡Dime si es un juego! ¡Mi corazón tiembla!"
+    new "¡Ofrece ayuda extra! ¡Ay, qué lío, Dios mío!"
 
     # game/Scripts/carouselboutique.rpy:296
     old "Offer your \"help\" for \"something else\""
-    new "¡Ay, por Dios! ¿Ofrecer tu \"ayuda\"... para *otra cosa*? ¡No puede ser! ¿Insinúas algo más? ¡Mi corazón se estremece! ¡Dime la verdad!"
+    new "¡Ofrece 'ayuda'! ¡Ay, qué pecado!"
 
