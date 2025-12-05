@@ -16,13 +16,13 @@ translate Telenovela sugarcubecorner_40adc812:
 translate Telenovela sugarcubecorner_a20cefa7:
 
     # "..."
-    "Please provide the text you want me to translate. I need the original English text to be able to translate it into exaggerated telenovela-style Spanish. Once you give me the text, I will deliver the dramatic and emotional translation as requested."
+    "..."
 
 # game/Scripts/sugarcubecorner.rpy:12
 translate Telenovela sugarcubecorner_c8ea8a4a:
 
-    # p "..."
-    p "Please provide the text you want me to translate! I need the original English text to be able to translate it into exaggerated telenovela-style Spanish. Just paste the text here, and I'll do my best to create a suitably dramatic rendition."
+    # "..."
+    "..."
 
 # game/Scripts/sugarcubecorner.rpy:13
 translate Telenovela sugarcubecorner_9e6f8615:
@@ -148,7 +148,7 @@ translate Telenovela sugarcubecorner_1ea90529:
 translate Telenovela sugarcubecorner_5019b4a7:
 
     # "*POMF*"
-    "¡Ay, por Dios! ¡POMF! ¿Qué significa esto? ¡Mi corazón se estremece con terror! ¡El destino conspira contra mí!"
+    "*POMF*"
 
 # game/Scripts/sugarcubecorner.rpy:62
 translate Telenovela sugarcubecorner_e671bc57:
@@ -166,7 +166,7 @@ translate Telenovela sugarcubecorner_283bfce7:
 translate Telenovela sugarcubecorner_5019b4a7_1:
 
     # "*POMF*"
-    "¡Ay, por Dios! ¡POMF! ¿Qué significa esto? ¡Mi corazón se estremece! ¡Una señal de fatalidad! ¡No puede ser!"
+    "*POMF*"
 
 # game/Scripts/sugarcubecorner.rpy:71
 translate Telenovela sugarcubecorner_8a67e752:
@@ -286,13 +286,13 @@ translate Telenovela pinkieguess_c1714e89:
 translate Telenovela pinkieguess_8aa81de8:
 
     # pp "Narrator?"
-    pp "¡Ay, por Dios! ¿Un narrador…? ¡Quién osa perturbar mi alma! ¿Quién se interpone entre mi destino y la verdad? ¡Díganme!"
+    pp "¿Narrador?"
 
 # game/Scripts/sugarcubecorner.rpy:104
 translate Telenovela pinkieguess_e035e490:
 
     # "I get it."
-    "¡Lo comprendo! ¡Ay, Dios mío! ¡La verdad me golpea como un rayo! ¡No puede ser… mi corazón se rompe!"
+    "¡Lo entiendo!"
 
 # game/Scripts/sugarcubecorner.rpy:133
 translate Telenovela pinkieguess_cd80d109:
@@ -310,7 +310,7 @@ translate Telenovela pinkieguess_2b48bbdd:
 translate Telenovela pinkieguess_42fc09b4:
 
     # "Yep."
-    "¡Ay, por Dios! ¡Sí! ¡Absolutamente sí! ¡Una confirmación que me atraviesa el alma! ¡Con el corazón latiendo a mil!"
+    "¡Sí!"
 
 # game/Scripts/sugarcubecorner.rpy:137
 translate Telenovela pinkieguess_a1cc85b7:
@@ -383,7 +383,7 @@ translate Telenovela pinkieguess_b6dcd992:
 translate Telenovela pinkieguess_f7d76249:
 
     # "Don't say it."
-    "¡No lo digas! ¡Te suplico, no pronuncies esa palabra! ¡Mi corazón está hecho añicos! ¡Ay, por Dios, el silencio es mi refugio!"
+    pp "¡No lo digas!"
 
 # game/Scripts/sugarcubecorner.rpy:185
 translate Telenovela pinkieguess_2fd56811:
@@ -485,7 +485,7 @@ translate Telenovela pinkieguess_3a45e321:
 translate Telenovela pinkieguess_8f5bd897:
 
     # p "Erm?"
-    p "¡Ay, por Dios! ¿Qué...? ¡Explícame esto ahora mismo! ¡Mi corazón se estremece con incertidumbre!"
+    p "¿Eh?"
 
 # game/Scripts/sugarcubecorner.rpy:219
 translate Telenovela pinkieguess_ff22e91a:
@@ -497,7 +497,7 @@ translate Telenovela pinkieguess_ff22e91a:
 translate Telenovela pinkieguess_d3a3f278:
 
     # p "Okay."
-    p "¡Ay, Dios mío! ¿Así? ¡No puede ser! …Bien… *Bien*… (con voz temblorosa) …Que sea como debe ser."
+    p "¡Bien!"
 
 # game/Scripts/sugarcubecorner.rpy:225
 translate Telenovela assertivepie_6fb099de:
@@ -551,7 +551,7 @@ translate Telenovela assertivepie_50feb6ba:
 translate Telenovela assertivepie_7eb0807d:
 
     # p "Shoe?"
-    p "¡Un zapato! ¿Un simple zapato es todo lo que tienes?! ¡Ay, por Dios! ¡Es una burla a mi corazón! ¿Qué significa esto? ¡Mi alma se desgarra!"
+    p "¿...Zapato?"
 
 # game/Scripts/sugarcubecorner.rpy:244
 translate Telenovela assertivepie_0d70ad25:
@@ -563,19 +563,19 @@ translate Telenovela assertivepie_0d70ad25:
 translate Telenovela assertivepie_a20cefa7:
 
     # "..."
-    "Por favor, proporcione el texto a traducir. Necesito el original para una traducción dramática al estilo telenovela. ¡Dámelo y haré mi mejor esfuerzo!"
+    "..."
 
 # game/Scripts/sugarcubecorner.rpy:246
 translate Telenovela assertivepie_8aa81de8:
 
     # pp "Narrator?"
-    pp "¡Ay, por Dios! ¿Un narrador…? ¡Una voz que osará perturbar mi alma! ¡No puede ser! ¿Quién se atreve a invadir esta tragedia?"
+    pp "¿Narrador?"
 
 # game/Scripts/sugarcubecorner.rpy:247
 translate Telenovela assertivepie_a20cefa7_1:
 
     # "..."
-    "Por favor, proporcione el texto a traducir. Necesito el original para una traducción dramática al estilo telenovela. ¡Dámelo y haré mi mejor esfuerzo!"
+    "..."
 
 # game/Scripts/sugarcubecorner.rpy:248
 translate Telenovela assertivepie_b3f6e730:
@@ -635,7 +635,7 @@ translate Telenovela assertivepie_d2bf2dc4:
 translate Telenovela assertivepie_d698913e:
 
     # p "Bye Pinkie!"
-    p "¡Adiós, Rosita! ¡Ay, por Dios, adiós para siempre! ¡Mi corazón se rompe en mil pedazos! ¡Adiós, mi amada Rosita!"
+    p "¡Adiós, Pinkie!"
 
 # game/Scripts/sugarcubecorner.rpy:261
 translate Telenovela assertivepie_dcbd16bc:
@@ -659,7 +659,7 @@ translate Telenovela assertivepie_3f373220:
 translate Telenovela assertivepie_6a17aebb:
 
     # "Fine. Fine."
-    "¡Está bien! ¡Pero a qué costo! ¿Acaso no ves el abismo? ¡Ay, por Dios! ¡Mi alma sangra con cada sí!"
+    pp "¡Bien! ¡Bien!"
 
 # game/Scripts/sugarcubecorner.rpy:276
 translate Telenovela assertivepie_834bee92:
@@ -875,7 +875,7 @@ translate Telenovela assertivepie_ea099aa9:
 translate Telenovela assertivepie_3211957d:
 
     # pp "COMIIIING!"
-    pp "¡ACÁ VIENE! ¡Ay, por Dios! ¡Está llegando con fuerza terrible! ¡Mi corazón late con desesperación!"
+    pp "¡ACÁ VIENE!"
 
 # game/Scripts/sugarcubecorner.rpy:366
 translate Telenovela assertivepie_a6acf5a1:
@@ -965,7 +965,7 @@ translate Telenovela bake_pie_2d592439:
 translate Telenovela bake_pie_038f1c91:
 
     # "*Dingeling!*"
-    "¡Ay, por Dios! ¡Dingeling! ¡Un sonido que presagia tragedia! ¡Mi corazón late con desesperación!"
+    "¡Dingeling! ¡Ay, qué sonido!"
 
 # game/Scripts/sugarcubecorner.rpy:403
 translate Telenovela bake_pie_44af9261:
@@ -1097,7 +1097,7 @@ translate Telenovela sell_bake_034536f3:
 translate Telenovela sell_bake_629bc003:
 
     # t "Thanks! You too!"
-    t "¡Ay, gracias, mi vida! ¡A ti también! ¡Que la felicidad te inunde! ¡No puede ser que no sintamos esta conexión! ¡Te deseo lo mejor!"
+    t "¡Gracias! ¡Tú también!"
 
 # game/Scripts/sugarcubecorner.rpy:445
 translate Telenovela sell_bake_20a30648:
@@ -1115,7 +1115,7 @@ translate Telenovela sell_bake_ff9a5dcb:
 translate Telenovela sell_bake_6ff9d3af:
 
     # pp "Good job!"
-    pp "¡Ay, Dios mío! ¡Qué maravilla! ¡Es asombroso! ¡Un triunfo absoluto! ¡Mi corazón se estruja de orgullo!"
+    pp "¡Buen trabajo!"
 
 # game/Scripts/sugarcubecorner.rpy:453
 translate Telenovela sell_bake_56c91265:
@@ -1228,8 +1228,8 @@ translate Telenovela sell_bake_27af80e0:
 # game/Scripts/sugarcubecorner.rpy:631
 translate Telenovela sell_bake_b31aa690:
 
-    # pp "That was fun!"
-    pp "¡Ay, por Dios! ¡Qué momento sublime! ¡Una alegría indescriptible! ¡No puede ser! ¡Fue una dicha absoluta!"
+    # pp "You know what I mean!"
+    pp "¡Sabes lo que quiero decir!"
 
 # game/Scripts/sugarcubecorner.rpy:633
 translate Telenovela sell_bake_820eccb6:

@@ -88,31 +88,31 @@ translate Telenovela twi_see_double_ca1ac49f:
 translate Telenovela twi_see_double_432d51eb:
 
     # p "Good."
-    p "¡Bien! ¡Ay, por Dios! ¡Una luz en la oscuridad!"
+    p "¡Bien!"
 
 # game/Scripts/library.rpy:52
 translate Telenovela twi_see_double_4b816dc4:
 
     # "--Twilight ending 1--"
-    "¡Ay, por Dios! ¡La luz se desvanece… la promesa de un nuevo amanecer se apaga como una vela al viento! ¿Es posible que este momento, tan precioso, tan lleno de esperanza, llegue a su fin? ¡No puede ser! Mi corazón... ¡mi pobre corazón se estremece con el pensamiento! El crepúsculo... *el* crepúsculo se cierra sobre nosotros, como una mortaja, amenazando con envolvernos en la oscuridad eterna. ¡Oh, destino cruel! ¿Acaso nos niegas la dicha de un futuro juntos? ¡La angustia me consume! ¡Siento que mi alma se rompe en mil pedazos ante esta inminente despedida! ¡Ay, amor mío…!"
+    "¡El final de Twilight! ¡Mi corazón se rompe! ¡No puede ser!"
 
 # game/Scripts/library.rpy:56
 translate Telenovela twi_see_double_4479bd2c:
 
     # p "Don't worry, I'm not you, I'm just a random person trapped in a fake body similar to yours, please don't mind it."
-    p "¡Ay, por Dios! ¡No te angusties, mi amor! Yo… yo no soy *tú*... ¡No lo puedo creer! Soy solo un alma errante, una sombra atrapada en esta prisión de carne, ¡una copia imperfecta, similar a la tuya, sí, pero no eres tú! ¡Por favor, por el cielo, ignórala! ¡No te detengas en esto, mi corazón sufre al verte preocupado/a!"
+    p "¡No te preocupes! No soy tú. Soy solo una persona atrapada en un cuerpo falso similar al tuyo. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:57
 translate Telenovela twi_see_double_b1214103:
 
     # ts "Are you crazy?"
-    ts "¿¡Estás loco/a!? ¡Ay, por Dios! ¿Cómo puedes siquiera pronunciar esas palabras?! ¡Es una locura, una absoluta demencia! ¡No puede ser! ¿Acaso has perdido el juicio, la razón, todo lo que es bueno y puro en este mundo?"
+    ts "¿Estás loco/a? ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:58
 translate Telenovela twi_see_double_bfa8cf63:
 
     # p "If I am, you are too. Don't forget that you would be talking to yourself then."
-    p "Si yo lo soy… ¡ay, por Dios!, tú también lo eres. ¡No puede ser! No olvides, mi amor, que entonces estarías hablando con tu propia alma, con el eco de tu propio corazón… una conversación terrible, un abismo sin fin reflejado en tus propios ojos. ¡Una verdad devastadora!"
+    p "¡Si yo lo soy, tú también! No olvides que estarías hablando contigo mismo. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:62
 translate Telenovela twi_see_double_27db4081:
@@ -124,7 +124,7 @@ translate Telenovela twi_see_double_27db4081:
 translate Telenovela twi_see_double_dfe02931:
 
     # ts "Don't shhhh me, me!"
-    ts "¡No me silencies, yo! ¡Ay, por Dios, no me digas que me quieres callar! ¿Acaso mi voz no tiene valor? ¡No puede ser! ¡Déjame hablar, déjame expresar el tormento de mi alma!"
+    ts "¡No me silencies!"
 
 # game/Scripts/library.rpy:64
 translate Telenovela twi_see_double_5b72dec1:
@@ -142,7 +142,7 @@ translate Telenovela twi_see_double_92c282a6:
 translate Telenovela twi_see_double_07db0628:
 
     # ts "Are you crazy?!"
-    ts "¡¿Estás loco/a?! ¡Ay, por Dios, no puede ser! ¿Cómo puedes siquiera pensar semejante cosa? ¡Mi corazón se estremece ante tu insensatez! ¡Es una locura, una absoluta locura!"
+    ts "¿¡Estás loco/a!?"
 
 # game/Scripts/library.rpy:70
 translate Telenovela twi_see_double_ffc4b7bf:
@@ -154,19 +154,19 @@ translate Telenovela twi_see_double_ffc4b7bf:
 translate Telenovela twi_see_double_88d176bc:
 
     # ts "Well, I might have read something about that..."
-    ts "¡Ay, por Dios! ¡Quizás… quizás he vislumbrado algo de eso en mis lecturas! Un susurro, una sombra… ¿podría ser? ¡No puede ser! Una leve insinuación, un fragmento perdido… tal vez, solo tal vez, mi mirada ha captado algo relacionado con aquello… ¡Mi corazón late con fuerza al siquiera pensarlo!"
+    ts "¡Ay! Quizás leí algo sobre eso... ¡Mi corazón late!"
 
 # game/Scripts/library.rpy:74
 translate Telenovela twi_see_double_82e0d42c:
 
     # p "I will help you put that into practice, then."
-    p "¡Ay, por Dios! Entonces, yo te ayudaré a ponerlo en práctica... ¡Te lo prometo! Con todo mi ser, con cada fibra de mi alma, te guiaré para que se haga realidad… ¡No puede ser que te enfrentes a esto solo/a! Yo estaré aquí, contigo, para ayudarte a convertirlo en una verdad palpable."
+    p "¡Te ayudaré a ponerlo en práctica! ¡Lo prometo!"
 
 # game/Scripts/library.rpy:77
 translate Telenovela twi_see_double_6c1e85cc:
 
     # ts "Yes! I will write a letter to the princess right after that!"
-    ts "¡Sí! ¡Por supuesto que escribiré una carta a la princesa, inmediatamente después de esto! ¡Mi corazón late con desesperación al pensar en ello! ¡No puede ser que dude siquiera un instante! ¡La declaración de mi amor debe llegar a sus oídos como el amanecer rompiendo la oscuridad! ¡Lo haré! ¡Lo juro por todo lo sagrado!"
+    ts "¡Sí! ¡Escribiré a la princesa después! ¡Lo juro!"
 
 # game/Scripts/library.rpy:78
 translate Telenovela twi_see_double_70f60805:
@@ -178,13 +178,13 @@ translate Telenovela twi_see_double_70f60805:
 translate Telenovela twi_see_double_c5450b39:
 
     # ts "When I have a good teacher? Always. Now give me a lesson..."
-    ts "¡Ay, por Dios! Cuando tengo un maestro… ¡siempre! Un faro en la oscuridad, una mano que guía mi alma… Ahora, enséñame… ¡enséñame, suplico! ¿Acaso crees que no siento el anhelo, la sed de conocimiento que me consume? ¡No puede ser! Demuéstralo. Ilumina mi camino con tu sabiduría... ¡Dámelo!"
+    ts "¡Con un buen maestro? ¡Siempre! Ahora... enséñame..."
 
 # game/Scripts/library.rpy:86
 translate Telenovela twi_see_double_ea5d54a8:
 
     # "And then you kissed and stuff."
-    "¡Y entonces… me besaste! ¡Ay, por Dios, un beso! Un roce de labios que ha destrozado mi alma en mil pedazos, una caricia robada que incendia mi corazón con una pasión prohibida... ¡No puede ser! ¿Así, sin previo aviso? ¿Después de todo lo vivido, después de tanto sufrimiento…? ¡Un beso! ¡Y ya nada será igual!"
+    "¡Y entonces… me besaste! ¡Ay, qué pasión!"
 
 # game/Scripts/library.rpy:87
 translate Telenovela twi_see_double_9b11e205:
@@ -196,7 +196,7 @@ translate Telenovela twi_see_double_9b11e205:
 translate Telenovela twi_see_double_96db4d9b:
 
     # "Nope. This is not a 18+ game."
-    "¡No! ¡De ninguna manera! ¡Esto… esto no puede ser! ¡Absolutamente no! Esto no es un juego para almas perdidas, ¡para corazones que buscan la oscuridad! ¡Jamás! ¡Ay, por Dios!, ¡es impensable! ¡Esto no es para ojos inocentes, ni para espíritus puros! ¡No!"
+    "¡No! ¡Esto no es un juego +18!"
 
 # game/Scripts/library.rpy:89
 translate Telenovela twi_see_double_2759a3c1:
@@ -238,7 +238,7 @@ translate Telenovela twi_see_double_acd9c8a8:
 translate Telenovela twi_see_double_5a4cd490:
 
     # p "Wait-"
-    p "¡Espera! ¿Qué pasa? ¡Ay, por Dios! ¡No puede ser! ¡Mi corazón se estremece!"
+    p "¡Espera!"
 
 # game/Scripts/library.rpy:97
 translate Telenovela twi_see_double_00ddcddf:
@@ -292,49 +292,49 @@ translate Telenovela twi_see_double_end_e1f079b3:
 translate Telenovela twi_see_double_end_79607465:
 
     # ts "A book about fashion in Canterlot?"
-    ts "¡Un libro sobre la moda en Canterlot! ¡Ay, por Dios! ¿Es posible tal cosa? ¿Cómo puede existir un volumen entero dedicado a…a *eso*? ¡Mi corazón se estremece ante la mera idea! ¡No puede ser! Debe haber una explicación...una traición quizás...¡Algo terrible está ocurriendo en Canterlot, lo presiento en mis entrañas!"
+    ts "¡Ay, Dios! ¿Un libro sobre moda en Canterlot? ¡No!"
 
 # game/Scripts/library.rpy:119
 translate Telenovela twi_see_double_end_5e71435c:
 
     # ts "A book about chiropractic for bears?"
-    ts "¡Un libro sobre quiropráctica… para osos! ¡Ay, por Dios! ¿Es posible tal cosa? ¡No puede ser! ¡Una locura, una absoluta locura! ¡Mi corazón se estremece ante la magnitud de esta… esta… revelación! ¡Osos y la ciencia del bienestar espinal! ¡El destino nos juega una cruel broma, un tormento para el alma!"
+    ts "¡Ay! ¿Quiropráctica para osos? ¡Qué locura!"
 
 # game/Scripts/library.rpy:121
 translate Telenovela twi_see_double_end_7328a4c1:
 
     # ts "A book about apple trees from other countries?"
-    ts "¡Un libro sobre manzanos… de otros países! ¡Ay, por Dios! ¿Cómo es posible semejante locura? ¿Acaso el destino me está jugando una cruel broma? ¡Manzanos! ¡De tierras lejanas y desconocidas! Mi corazón se estremece ante la mera idea... ¡No puede ser! ¿Qué secretos ocultos aguardan entre esas páginas? ¡Una tormenta de emociones me invade, un torbellino de incertidumbre! ¡Dime, destino, qué quieres de mí con esta… esta… revelación!"
+    ts "¡Un libro sobre manzanos de otros países! ¡Ay! ¡No puede ser!"
 
 # game/Scripts/library.rpy:123
 translate Telenovela twi_see_double_end_434fbe78:
 
     # ts "A book about freaking someone by looking like their clone?"
-    ts "¡Ay, por Dios! ¿Un libro… un libro sobre el horror de alguien que te paraliza con su mera apariencia, ¡como si fueras su doble maldita?! ¡No puede ser! ¡Una pesadilla hecha tinta y papel! ¿Alguien capaz de semejante parecido, una sombra idéntica acechando en la oscuridad, robándote tu propia identidad? ¡Mi corazón se estremece ante tal posibilidad! ¡Es… es escalofriante!"
+    ts "¡Un libro sobre asustar a alguien pareciéndote a su clon! ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:125
 translate Telenovela twi_see_double_end_cde92cc7:
 
     # p "No."
-    p "¡No! ¡Dejad de pedirlo! ¡No puedo, no debo, jamás! ¡Ay, mi corazón, está sufriendo con esta imposibilidad! ¡No, te lo digo, NO! ¡Es una traición a mis principios, un puñal en mi alma! ¡No puede ser que me obliguen a esto! ¡NOOOOOO!"
+    p "¡No!"
 
 # game/Scripts/library.rpy:129
 translate Telenovela bookchoice_66bd050e:
 
     # p "A book about astronomy. I would like to learn more about it."
-    p "¡Ay, por Dios! Un libro… sobre la astronomía… ¡el cosmos infinito! Mi alma anhela comprender sus misterios, su inmensidad abrumadora. Deseo, con cada fibra de mi ser, sumergirme en sus páginas, desentrañar los secretos que guardan las estrellas... ¡No puede ser que ignore tanta belleza, tanto conocimiento! Necesito saber más… ¡Necesito saberlo todo!"
+    p "¡Un libro sobre astronomía! Quiero aprender más. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:130
 translate Telenovela bookchoice_7985dbae:
 
     # ts "Great! Don't judge it by the cover, but \"The astronomy for silly fillies\" would be a perfect start!"
-    ts "¡Ay, por Dios! ¡Qué maravilla! No te dejes engañar por las apariencias, mi amor… ¡No lo juzgues por su humilde apariencia! Pero... ¡pero sí! “Astronomía para yegritas ingenuas”… ¡Esa sería una introducción *perfecta*! ¡Un comienzo divino, un rayo de esperanza en esta oscuridad! ¡No puede ser! ¿Acaso el destino nos guía hacia la revelación?"
+    ts "¡Genial! No lo juzgues por la portada, pero \"Astronomía para yegritas tontas\" sería perfecto."
 
 # game/Scripts/library.rpy:131
 translate Telenovela bookchoice_c53fe9e0:
 
     # p "I trust you completely Twilight."
-    p "¡Ay, Dios mío, Crepúsculo! Confío en ti… *completamente*. ¡Absolutamente! Con cada fibra de mi ser, con el alma misma que me late en el pecho... ¡No puede ser que esta fe sea tan inmensa! Te entrego mi confianza como un tesoro sagrado, una promesa sellada bajo la luz de las estrellas. ¡Es todo lo que tengo!"
+    p "¡Ay, Crepúsculo! ¡Confío en ti ciegamente!"
 
 # game/Scripts/library.rpy:134
 translate Telenovela bookchoice_290a1f3b:
@@ -346,7 +346,7 @@ translate Telenovela bookchoice_290a1f3b:
 translate Telenovela bookchoice_7c7b1544:
 
     # "Twilight takes the book with her magic and gives it to you. You now have \"The astronomy for silly fillies\"!"
-    "¡Ay, por Dios! ¡La luz crepuscular, con su magia deslumbrante y misteriosa…! Se lleva el libro... ¡Sí, lo toma entre sus dedos delicados! Y ahora… ¡Ahora me lo entrega a *ti*! ¡A *ti*, mi amor! ¡No puede ser! ¡Es un milagro! ¡Un regalo del destino! Ahora posees… ¡Posees \"Astronomía para potrillos tontos\"! ¡El libro, el objeto de mis sueños más profundos, está en tus manos! ¡Mi corazón late con una fuerza desmedida! ¡Esto... esto cambia *todo*!"
+    "¡Twilight toma el libro con su magia y te lo da! Ahora tienes \"Astronomía para yegritas tontas\". ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:143
 translate Telenovela bookchoice_23bb903d:
@@ -364,13 +364,13 @@ translate Telenovela bookchoice_1ee9a78b:
 translate Telenovela bookchoice_3aa3e2c0:
 
     # ts "Now if you don't mind, I have some stuff to do. You probably won't like to read there during this time."
-    ts "¡Ay, por favor! Si insistes… ¡Pero si tengo asuntos urgentes que atender, cosas vitales que me consumen el alma! ¡No puede ser que te quedes allí leyendo! ¡En este momento! ¡Es un tiempo sagrado, un instante delicado que exige mi total concentración! ¡Te suplico, por todo lo que es justo y bueno, busca otro lugar! ¡Mi corazón está a punto de romperse ante tu persistencia!"
+    ts "¡Ay, por favor! Tengo asuntos urgentes. ¡No puedes leer aquí ahora! ¡Es un momento sagrado! ¡Vete, por piedad!"
 
 # game/Scripts/library.rpy:146
 translate Telenovela bookchoice_1d350c7f:
 
     # p "I understand, see you later!"
-    p "¡Lo comprendo… lo entiendo todo! ¡Pero adiós! ¡Adiós, mi amor! ¡Ay, por Dios, cómo duele decir esas palabras! ¡No puede ser que este sea el final! ¡Me parte el alma tener que despedirme de ti así! ¡Hasta nunca… quizás!"
+    p "¡Entiendo! ¡Hasta luego! ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:147
 translate Telenovela bookchoice_6648fa35:
@@ -388,19 +388,19 @@ translate Telenovela bookchoice_75242ef6:
 translate Telenovela bookchoice_bbdb9495:
 
     # p "What is a supermoon? And how can a book know what will happen during the night?"
-    p "¡Ay, Dios mío! ¿Qué es una súperluna? ¡Una visión celestial, un presagio de lo desconocido! Y… ¡no puede ser! ¿Cómo puede un libro, un objeto inanimado, penetrar los secretos del destino, predecir los acontecimientos que se desarrollarán durante la noche? ¡Es una locura, una blasfemia contra el orden natural! ¡Dime, dime, mi corazón anhela saberlo!"
+    p "¡Ay, Dios! ¿Qué es una súperluna? ¿Y cómo puede un libro saber el futuro? ¡Es una locura!"
 
 # game/Scripts/library.rpy:156
 translate Telenovela bookchoice_2c89d3a8:
 
     # "Magic."
-    "¡Magia! ¡Oh, la magia! Un suspiro… una promesa… un misterio que consume el alma con fuego y esperanza. ¡Ay, Dios mío!, ¿la magia? ¿Es real? ¿Puede ser verdad…? Una fuerza indomable, capaz de destruir o de salvar, de unir los corazones más rotos o de separarlos para siempre... ¡No puede ser! ¡La magia… la propia esencia del destino tejido en hilos de luz y sombra!"
+    "¡Magia! ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:157
 translate Telenovela bookchoice_5d55448b:
 
     # p "...Okay."
-    p "¡Ay, por Dios! …¿Así? ¡No puede ser! …Bien… Está bien."
+    p "¡Ay, por Dios! …¿Así? ¡No puede ser! …Bien… Está bien. ¡Aunque mi alma se rebele!"
 
 # game/Scripts/library.rpy:162
 translate Telenovela bookchoice_529021d8:
@@ -442,7 +442,7 @@ translate Telenovela bookchoice_3e7aa0a1:
 translate Telenovela bookchoice_e1acf64a:
 
     # "... Not that anyone from there would end up playing this."
-    "…¡Imposible! Que alguien de *allí*… ¡Ay, por Dios! ¡No puede ser! ¡Jamás!"
+    "...¡Imposible! Que alguien de *allí*… ¡Ay, por Dios! ¡No puede ser! ¡Jamás!"
 
 # game/Scripts/library.rpy:178
 translate Telenovela bookchoice_ae98857f:
@@ -478,7 +478,7 @@ translate Telenovela bookchoice_850f5b31:
 translate Telenovela bookchoice_3fb5320f:
 
     # ts "It's one of my personal books. I won't ask why you need it, just return it when you are done."
-    ts "¡Ay, Dios mío! Es mi libro personal… No preguntaré por qué lo necesitas… Devúe lvelo cuando termines. ¡No puede ser!"
+    ts "¡Ay, Dios mío! Es mi libro personal… No preguntaré por qué lo necesitas… Devuélvelo cuando termines. ¡No puede ser!"
 
 # game/Scripts/library.rpy:194
 translate Telenovela bookchoice_ada99ff9:
@@ -514,37 +514,37 @@ translate Telenovela bookchoice_4fda2c3a:
 translate Telenovela bookchoice_f79ffd17:
 
     # "You skimed through the book a bit while going out, but due to its nature, no description of it will be made."
-    "¡Ay, por Dios! Lo hojeaste apenas, fugazmente, mientras te escapabas… ¡mientras te perdías en la frivolidad del mundo exterior! Pero, ¡no!, no osaré siquiera mencionar su esencia, su ser… ¡Es demasiado sagrado, demasiado profundo para que mi lengua lo profane! ¡No puede ser! No puedo describir aquello que es tan sublime, tan… ¡indescriptible!"
+    "¡Lo hojeaste un poco al salir! Pero por su naturaleza... no se describirá. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:206
 translate Telenovela bookchoice_93346427:
 
-    # p "Not even when the-"
-    p "¡Ay, por Dios! Ni siquiera cuando… ¡ni siquiera en mis sueños más profundos, jamás habría imaginado una traición tan cruel! ¡No puede ser! ¿Cómo pudo sucederme esto? ¡El destino es un monstruo despiadado!"
+    # sp "Not even when the-"
+    sp "¡Ni siquiera cuando—!"
 
 # game/Scripts/library.rpy:207
 translate Telenovela bookchoice_e2772a55:
 
     # "Especially not that."
-    "¡Ay, por Dios! ¡Absolutamente no eso! ¡Jamás! ¡No puede ser que ocurra! ¡Eso es…eso es la perdición de mi alma! ¡Ni en mis peores pesadillas me habría imaginado algo así!"
+    "¡Eso no! ¡Ay, jamás!"
 
 # game/Scripts/library.rpy:208
 translate Telenovela bookchoice_5d55448b_1:
 
     # p "...Okay."
-    p "¡Ay, por Dios! … ¿Así? … ¿Es esto…realmente lo que está sucediendo? ¡No puede ser! … Bien... *Bien*… (a shaky breath) … Si, entonces sea como Dios quiere."
+    p "...Bien."
 
 # game/Scripts/library.rpy:209
 translate Telenovela bookchoice_569b10b9:
 
     # "You go back to the crossroad."
-    "¡Regresa al cruce! ¡Ay, regresa! ¿Cómo puedes siquiera pensar en volver a ese lugar maldito? ¡Aquel punto de dolor, de desilusión… el lugar donde todo se rompió! ¡No puede ser! ¡Volver ahí es invitar a la tragedia, a revivir las heridas más profundas de mi alma! ¡Regresa, si eso es lo que tu corazón te dicta, pero ten cuidado! ¡El destino acecha en cada piedra, en cada sombra de aquel cruce fatídico!"
+    "¡Regresas al cruce! ¡Ay, por Dios! ¡No puede ser!"
 
 # game/Scripts/library.rpy:218
 translate Telenovela bookchoice_end_e1d324e4:
 
     # "You return to the library. Twilight is nowhere to be found, but Spike is there and saw you coming."
-    "¡Ay, por Dios! Regreso a la biblioteca… ¡pero el crepúsculo, ese tesoro de sombras y secretos, se ha esfumado! Y allí… ¡allí está él! Spike, con sus ojos penetrantes, como dagas que me atraviesan el alma. ¡No puede ser! Me vio… ¡me observó llegar! ¿Qué maquinaciones oscuras trama ahora? ¡Mi corazón late como un tambor de guerra, presagiando una tormenta de desilusión y pasión prohibida!"
+    "¡Regresas a la biblioteca! Twilight no está, pero Spike sí. ¡Te vio llegar! ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:222
 translate Telenovela bookchoice_end_3870e0ad:
@@ -556,7 +556,7 @@ translate Telenovela bookchoice_end_3870e0ad:
 translate Telenovela bookchoice_end_7d11ca11:
 
     # p "No, I'm currently in the kitchen of the Sugarcube Corner, making a delicious strawberry pie."
-    p "¡No! ¡Ay, por Dios! ¡Imposible! Me encuentro, en este preciso instante, encerrada… atrapada… en la cocina de la Dulce Esquina, ¡sí, aquí mismo!, consumida por una tarea que debería ser un placer, pero que ahora se siente como una cruel tortura: estoy elaborando, con el corazón roto y las manos temblorosas, una tarta de fresas… ¡una deliciosa tarta de fresas! ¿Por qué, destino cruel? ¿Por qué a mí?"
+    p "¡No! Estoy en la cocina de Sugarcube Corner, haciendo un pastel de fresas. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:226
 translate Telenovela bookchoice_end_aec4130a:
@@ -568,7 +568,7 @@ translate Telenovela bookchoice_end_aec4130a:
 translate Telenovela bookchoice_end_4464f48b:
 
     # p "...That was ironical. And I'm not the real Twilight."
-    p "¡Ay, por Dios! ¡Qué irónico… qué cruelmente irónico! ¡Una burla del destino mismo! Y yo...yo no soy el verdadero Crepúsculo, ¿se comprende? ¡No soy la luz que ilumina la noche! ¡Soy una sombra, un espejismo, una mentira tejida en la oscuridad! ¡No puede ser! ¡El universo conspira contra mí!"
+    p "¡Eso fue irónico! Y no soy el verdadero Twilight. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:228
 translate Telenovela bookchoice_end_50873d1b:
@@ -586,7 +586,7 @@ translate Telenovela bookchoice_end_3c0d2998:
 translate Telenovela bookchoice_end_c17d177a:
 
     # sp "Okay."
-    sp "¡Ay, Dios mío! ¿Así, tan simplemente? ¡Okay?! ¿Es todo lo que tienes para decir en este momento de tanta angustia, de tanto dolor?! ¡No puede ser! ¡Mi corazón se estruja con la desesperación!"
+    sp "¡Bien!"
 
 # game/Scripts/library.rpy:234
 translate Telenovela bookchoice_end_9182bfa0:
@@ -598,7 +598,7 @@ translate Telenovela bookchoice_end_9182bfa0:
 translate Telenovela spikechoice_607c1bf6:
 
     # p "There will be a supermoon tonight. I wondered if you could let Twilight be alone with me, so we could watch it together. Alone. Watching the moon and stars. Just us. Understand?"
-    p "¡Ay, por Dios! ¡Esta noche habrá una superluna! Me preguntaba… ¿podrías, te lo suplico, permitir que Crepúsculo quede a solas conmigo? Para que podamos contemplarla juntos... solos. ¡Solo nosotros! Observando la luna, esa inmensidad plateada, las estrellas, un universo entero… solo tú y yo. ¿Entiendes la importancia de esto? ¡No puede ser que me niegues esta única oportunidad!"
+    p "¡Habrá una superluna esta noche! Me preguntaba si podrías dejar a Twilight sola conmigo para verla juntos. Solos. ¿Entiendes?"
 
 # game/Scripts/library.rpy:240
 translate Telenovela spikechoice_469517f8:
@@ -616,13 +616,13 @@ translate Telenovela spikechoice_e14a9f2b:
 translate Telenovela spikechoice_430bb9f0:
 
     # sp "I just never thought of you two like that."
-    sp "¡Ay, por Dios! ¡Jamás, jamás en mis sueños más salvajes, os imaginé así! ¡Nunca sospeché que… que existiera una conexión tan profunda, tan… prohibida entre ustedes dos! ¡No puede ser! ¡Es un golpe al corazón, una traición a la razón misma!"
+    sp "¡Jamás los imaginé así! ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:250
 translate Telenovela spikechoice_085dffa3:
 
     # p "Don't mention it. ...Wait, are you giving me the finger?"
-    p "¡De nada! …¿Espera… qué?! ¿Me estás mostrando… *ese* gesto? ¡Ay, por Dios! ¡No puede ser! ¡La audacia! ¡La desfachatez! ¡Después de todo lo que he hecho por ti, me ultrajas así?! ¡Mi corazón se rompe en mil pedazos! ¡Esto es una traición imperdonable!"
+    p "¡De nada! ...Espera, ¿me estás mostrando el dedo? ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:251
 translate Telenovela spikechoice_47528a87:
@@ -640,7 +640,7 @@ translate Telenovela spikechoice_a95d68a1:
 translate Telenovela spikechoice_e4ce8b67:
 
     # sp "I could do it, but I want a ruby in return."
-    sp "¡Ay, por Dios! Podría hacerlo… sí, podría, con el alma hecha pedazos, ¡pero a un precio terrible! Exijo... necesito... ¡una rubí! Una gema de fuego, tan roja como la pasión que me consume, ¡tan valiosa como mi propio corazón! ¡No puede ser que me pida nada menos! ¡Una rubí, o mi espíritu se desvanecerá para siempre!"
+    sp "¡Podría hacerlo! Pero exijo… ¡un rubí! ¡Mi alma lo necesita!"
 
 # game/Scripts/library.rpy:254
 translate Telenovela spikechoice_7f0679ac:
@@ -658,7 +658,7 @@ translate Telenovela spikechoice_3216ef74:
 translate Telenovela spikechoice_c848e616:
 
     # "As you already have a ruby, you give it to him."
-    "¡Ay, por Dios! Ya tienes el rubí… ¡Ya lo tienes entre tus manos, esa joya de fuego que tanto anhelaba! Y ahora… ¡Ahora vas a entregárselo! ¿A él? ¡No puede ser! Después de todo lo vivido, después de la tormenta y la espera… ¿Lo vas a entregarle así, tan fácilmente? ¡Mi corazón se estruja en mil pedazos al solo pensarlo! ¡Entrégaselo, sí, pero ten cuidado! ¡El destino te observa, mi querida, y el amor es un laberinto lleno de sombras y engaños!"
+    "¡Ya tienes el rubí! Se lo entregas. ¡Mi corazón se estruja!"
 
 # game/Scripts/library.rpy:258
 translate Telenovela spikechoice_f25a3f01:
@@ -760,7 +760,7 @@ translate Telenovela spikechoice_3008e1fb:
 translate Telenovela spikechoice_05adb819:
 
     # "And both of you kissed during hours."
-    "¡Ay, por Dios! ¡Horas enteras! Se besaron… ¡durante horas! ¡No puede ser! ¡Un torbellino de emociones!"
+    ts "¡No sé qué decir!"
 
 # game/Scripts/library.rpy:298
 translate Telenovela spikechoice_c26c53f7:
@@ -784,7 +784,7 @@ translate Telenovela spikechoice_b4393421:
 translate Telenovela spikechoice_bcf6dd4d:
 
     # "No."
-    "¡No! ¡Dejad de pedirlo! ¡No puede ser! ¡Jamás!"
+    "¡No!"
 
 # game/Scripts/library.rpy:302
 translate Telenovela spikechoice_4abb71de:
@@ -796,7 +796,7 @@ translate Telenovela spikechoice_4abb71de:
 translate Telenovela spikechoice_bcf6dd4d_1:
 
     # "No."
-    "¡No! ¡Dejad de pedirlo! ¡Ay, por Dios! ¡No puede ser! ¡Jamás!"
+    "¡No!"
 
 # game/Scripts/library.rpy:304
 translate Telenovela spikechoice_c8ea8a4a:
@@ -808,25 +808,25 @@ translate Telenovela spikechoice_c8ea8a4a:
 translate Telenovela spikechoice_8037542b:
 
     # "What did you expect?"
-    "¿Qué esperabas, mi amor? ¡Ay, por Dios! ¿Acaso creías que el destino me concedería una felicidad fácil, un camino sembrado de rosas sin espinas que desgarraran mi alma? ¡No puede ser! ¡Después de todo lo que he sufrido, después de la traición y el dolor que me han marcado para siempre, te atreves a preguntarme qué esperabas?! ¡Es una crueldad, una afrenta a mi corazón herido!"
+    "¿Qué esperabas? ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:306
 translate Telenovela spikechoice_7f3223e0:
 
     # p "I-"
-    p "¡Ay, por Dios! ¡Yo… yo apenas puedo respirar! La mera mención de mí misma... ¡es una tortura! ¿Cómo atreverse a siquiera pronunciar mi nombre? ¡Mi alma se estremece con cada sílaba! ¡No puede ser! ¡El destino es cruel!"
+    p "¡Yo—!"
 
 # game/Scripts/library.rpy:307
 translate Telenovela spikechoice_b4198531:
 
     # "Time's up!"
-    "¡Se acabó el tiempo! ¡No! ¡Ay, por Dios, se ha terminado todo! ¡El destino cruel nos lo exige! ¡Ya no hay más oportunidad! ¡La hora final ha llegado! ¡Oh, la desesperación me consume!"
+    "¡Se acabó el tiempo!"
 
 # game/Scripts/library.rpy:309
 translate Telenovela spikechoice_12c272a5:
 
     # "--Spike ending--"
-    "¡Ay, por Dios! ¡No puede ser! ¿Ha terminado? ¿Así, sin más? ¡Mi corazón se rompe en mil pedazos! ¡El final… el cruel, despiadado final! ¡Una agonía tan profunda que me consume el alma! ¡Cómo puedo seguir adelante ahora, con este vacío inmenso, esta herida imposible de sanar! ¡La oscuridad me envuelve, como una mortaja! ¡No... no... esto no puede ser verdad!"
+    "¡El final de Spike! ¡Mi corazón se rompe! ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:315
 translate Telenovela spikechoice_a7a9a4cd:
@@ -838,25 +838,25 @@ translate Telenovela spikechoice_a7a9a4cd:
 translate Telenovela spikechoice_458d8957:
 
     # sp "So [playername2!t], you are back! Do you have a ruby?"
-    sp "¡Ay, Dios mío! ¡Tú… tú has regresado! ¿Eres posible que estés aquí de nuevo? ¡Después de todo este tiempo, después de tanto sufrimiento...! Dime, te lo ruego, ¿posees la esmeralda roja? ¡Dime si la tienes, mi corazón se estruja en agonía esperando tu respuesta! ¡No puede ser… vuelve a estar frente a mí!"
+    sp "¡[playername2!t], regresaste! ¿Tienes un rubí? ¡Ay, mi corazón!"
 
 # game/Scripts/library.rpy:319
 translate Telenovela spikechoice_b0a8e33a:
 
-    # p "Yes. Take this one."
-    p "¡Sí! ¡Por el amor de Dios, sí! Tómalo… ¡toma a este! ¡Mi corazón se estremece al ver que te lo entrego! ¡Es todo lo que me queda! ¡No puede ser que esto suceda! ¡Pero si es tu destino, entonces que así sea!"
+    # ts "Yes. Take this one."
+    ts "¡Sí! Toma este."
 
 # game/Scripts/library.rpy:320
 translate Telenovela spikechoice_76d6f2ea:
 
     # "You give him the ruby."
-    "¡Ay, por Dios! ¡Tú le entregas la esmeralda… la joya más preciada de mi familia! ¿Cómo puedes, corazón mío? ¡Después de todo lo que hemos vivido, después de toda la esperanza que me has dado, ahora esto! ¡No puede ser! ¡La entregan a él… a ese hombre, a esa serpiente! ¡Mi alma se desgarra en mil pedazos al verla brillar en sus manos! ¡Es una traición, un puñal en el corazón! ¡Por qué, cielo, por qué me abandonas así?!"
+    "¡Le entregas el rubí! ¡Mi alma se desgarra!"
 
 # game/Scripts/library.rpy:321
 translate Telenovela spikechoice_8c873cd7_1:
 
     # sp "Thanks! And... Well... See you tomorrow and have a sweet night!"
-    sp "¡Ay, gracias, mi amor! ¡Pero… pero dime, qué tormento es este que siento en el alma! Mañana… mañana nos veremos de nuevo, ¿verdad? ¡Por favor, díme que sí! Que tengas una noche... ¡una noche llena de sueños dulces y esperanzas, aunque mi corazón esté destrozado sin tu presencia! ¡No puede ser que esta despedida sea tan cruel!"
+    sp "¡Gracias! Hasta mañana... ¡que tengas dulces sueños!"
 
 # game/Scripts/library.rpy:322
 translate Telenovela spikechoice_fbaa2da0_1:
@@ -886,7 +886,7 @@ translate Telenovela spikechoice_7dd48add:
 translate Telenovela spikechoice_bea03fe7:
 
     # p "I'm already on my way!"
-    p "¡Ya voy, mi amor! ¡Pero a toda velocidad, con el corazón latiéndome en la garganta! ¡Ay, por Dios, espero no ser demasiado tarde! ¡Me apresuro como nunca antes para estar contigo, mi vida!"
+    p "¡Ya voy! ¡Ay, qué prisa!"
 
 # game/Scripts/library.rpy:335
 translate Telenovela spikechoice_545528ce:
@@ -898,19 +898,19 @@ translate Telenovela spikechoice_545528ce:
 translate Telenovela spikechoice_8d996349:
 
     # "You're back to the library, fragrance of books fills the air, the quiet \"who?\" of a sleeping owl may come to your ear if you listen well enough and the absence of any other living creature here seems obvious."
-    "¡Regresas a la biblioteca! ¡El aroma embriagador de los libros te envuelve como un sueño perdido! ¡Ah, el silencio... un silencio tan profundo que casi duele! Si prestas atención, quizás escuches… ¿lo oyes? ¡Un lamento! El \"¿quién?\" dormido de una lechuza, un susurro fantasmal en la penumbra. ¡Y la soledad! ¡Una soledad abrumadora! No hay otra alma viva aquí... ¡nadie! ¡Solo yo y este vacío que me consume el corazón! ¡No puede ser! ¿Por qué regresé a este lugar de recuerdos dolorosos? ¡Ay, por Dios!"
+    "¡Regresas a la biblioteca! El aroma de libros llena el aire. El silencio... quizás escuches el \"quién\" de una lechuza. No hay nadie más. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:343
 translate Telenovela spikechoice_224a8273:
 
     # p "Well. I just have to go back later, right?"
-    p "¡Ay, Dios mío! ¿Debo… debo regresar más tarde? ¡No puede ser! ¿Cómo podría vivir sabiendo que quizás… quizás no lo vea de nuevo? ¡Es una tortura! ¡Una agonía! Sí... sí, tengo que volver. ¡Tengo que! Aunque mi corazón se rompa en mil pedazos al hacerlo… ¡tengo que regresar!"
+    p "¡Tengo que regresar más tarde! ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:345
 translate Telenovela spikechoice_fa2c9a3d:
 
     # "No. Twilight is supposed to come here soon."
-    "¡No! ¡Ay, por Dios, no puede ser! La penumbra… la hora crepuscular debe llegar aquí pronto. ¡Pronto! ¿Acaso el destino nos niega siquiera este último instante de luz? ¡Es una cruel traición!"
+    "¡No. Twilight debe llegar pronto!"
 
 # game/Scripts/library.rpy:347
 translate Telenovela spikechoice_c8ea8a4a_1:
@@ -934,13 +934,13 @@ translate Telenovela spikechoice_96d5638d:
 translate Telenovela spikechoice_50446e65:
 
     # "Right. You sit down and open... Erm.... Ah! The astronomy for silly fillies, the book that Twilight gave you sooner. The cover is blue as the moon. Well, once in a blue moon."
-    "¡Bien! Siéntate… siéntate ahora mismo… y abre… ¡Ay, Dios mío! ¿Qué es esto? Ah... ¡La astronomía para criaturitas ingenuas!, el libro que Twilight te entregó… ¡hace tanto tiempo! La portada… la portada es azul… ¡azul como la mismísima luna! Azul, ¿entiendes?, ¡como una luna llena y rara, un milagro celestial! ¡Una de esas lunas azules que solo aparecen una vez en toda una vida!"
+    "¡Bien! Te sientas y abres... ¡Ah! Astronomía para yegritas tontas, el libro que Twilight te dio. La portada es azul como la luna. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:355
 translate Telenovela spikechoice_a3601bc7:
 
     # "Because the supermoon intrigued you, you decide to start with that part, instead of beginning with the first few chapters. Shame on you, the history of astronomers seemed fun."
-    "¡Ay, por Dios! ¡Por la luna llena, esa luna colosal que te cautivó con su brillo misterioso!, has tomado una decisión...una decisión fatal, mi alma. En lugar de comenzar con los capítulos iniciales, aquellos relatos humildes y prometedores, te has precipitado a sumergirte en el resplandor de la superluna. ¡No puede ser! ¿Cómo pudiste ignorar el encanto, la promesa de aventura que contenían las páginas sobre la historia de los astrónomos? ¡Una historia tan vibrante, tan llena de pasiones y descubrimientos olvidados! ¡Qué error tan terrible has cometido, mi corazón! ¡La vergüenza te consumirá!"
+    "¡La superluna te intrigó! Empezaste por ahí en vez del principio. ¡Qué vergüenza! La historia de los astrónomos parecía divertida."
 
 # game/Scripts/library.rpy:357
 translate Telenovela spikechoice_5d3a34f7:
@@ -951,32 +951,32 @@ translate Telenovela spikechoice_5d3a34f7:
 # game/Scripts/library.rpy:359
 translate Telenovela spikechoice_92786a62:
 
-    # "Anyway, a supermoon is the coincidence of a full moon or a new moon with the closest approach the Moon makes to the Earth on its elliptical orbit, resulting in the largest apparent size of the lunar disk as seen from Earth. "
-    "¡Ay, por Dios! ¡Pero miren esto! Una súperluna... una coincidencia cruel y hermosa, ¿entienden? Es cuando la luna llena, o la luna nueva, se acerca a nuestro planeta con una intimidad desgarradora, un abrazo cósmico en su órbita elíptica… ¡un destino escrito en las estrellas! Y al acercarse así, ¡miren!, la vemos más grande, inmensa, como un disco de plata suspendido en el cielo, ¡una visión que te roba el aliento y te hunde en la desesperación de saber que es tan distante y a la vez, tan cercana! ¡No puede ser! ¡Es una maravilla… y una tragedia!"
+    # "Anyway, a supermoon is the coincidence of a full moon or a new moon with the closest approach the Moon makes to the Earth on its elliptical orbit, resulting in the largest apparent size of the lunar disk as seen from Earth."
+    "¡Una superluna es cuando la luna llena o nueva coincide con su acercamiento más cercano a la Tierra! Resulta en el tamaño más grande del disco lunar. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:361
 translate Telenovela spikechoice_18e3a3d8:
 
     # "The technical name is the perigee-syzygy of the Earth-Moon-Sun system. The term \"supermoon\" is not astronomical, but originated in modern astrology."
-    "¡Ay, por Dios! ¡El nombre técnico… el nombre técnico es la perigeo-sízigia del sistema Tierra-Luna-Sol! ¡Una conjunción celestial de una magnitud inimaginable! ¡Un destino escrito en las estrellas! Pero... pero “superluna”… ¡No puede ser! ¡\"Superluna\"! ¡Qué término tan vulgar, tan profano! No es un concepto nacido de la ciencia pura, no, ¡no! Surgió… surgió de las sombras de la astrología moderna, ¡un susurro en el viento de la vanidad humana! ¡Una blasfemia contra la verdad del cosmos!"
+    "¡El nombre técnico es perigeo-sizigia del sistema Tierra-Luna-Sol! \"Superluna\" no es astronómico... vino de la astrología moderna. ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:363
 translate Telenovela spikechoice_5d087f18:
 
     # "The association of the Moon with both oceanic and crustal tides has led to claims that the supermoon phenomenon may be associated with increased risk of events such as earthquakes and volcanic eruptions, but the evidence of such a link is widely held to be unconvincing."
-    "¡Ay, por Dios! La conexión maldita entre la Luna, esa reina del cielo, y las mareas implacables de los océanos... ¡y también con los temblores profundos de la tierra misma! Ha desatado rumores terribles, susurros desesperados que claman que esta Superluna, ¡esta esfera colosal en el firmamento!, podría estar vinculada a un destino aún más oscuro: un aumento del peligro, ¡un presagio de terremotos devastadores y erupciones volcánicas furiosas! Pero... ¡pero la verdad es una daga en el corazón! La evidencia, esa prueba irrefutable que necesitamos para calmar nuestras almas atormentadas… ¡es débil! ¡Es tenue como un sueño desvanecido! ¡No puede ser! ¿Acaso estamos condenados a creer en supersticiones y presagios funestos?"
+    "¡La Luna y las mareas! Se dice que la superluna aumenta el riesgo de terremotos y erupciones... ¡pero la evidencia es débil! ¡No puede ser!"
 
 # game/Scripts/library.rpy:365
 translate Telenovela spikechoice_693001c0:
 
     # p "Thank you, Wikipedia."
-    p "¡Ay, Wikipedia! ¡Gracias, oh, fuente de sabiduría infinita! ¡Mi corazón rebosa de gratitud! ¡No puede ser que tanta información, tanto conocimiento, esté a mi alcance! ¡Es un milagro, te lo juro! ¡Un regalo del destino mismo! ¡Gracias, gracias con todo mi alma!"
+    p "¡Gracias, Wikipedia! ¡Mi corazón rebosa de gratitud!"
 
 # game/Scripts/library.rpy:367
 translate Telenovela spikechoice_1e0edc28:
 
     # "Oi! You wanted to know what a supermoon is!"
-    "¡Ay, Dios mío! ¡Tú querías saber… qué es una súperluna! ¿Acaso te atreves a preguntar sobre tal maravilla celestial, sobre esa luz que ilumina mi alma con un brillo tan intenso…? ¡No puede ser! ¡Una pregunta tan simple para alguien que ha robado mi corazón y me ha sumido en esta desesperación eterna!"
+    "¡Oye! ¡Tú querías saber qué es una súperluna!"
 
 # game/Scripts/library.rpy:369
 translate Telenovela spikechoice_dac516e1:
@@ -988,7 +988,7 @@ translate Telenovela spikechoice_dac516e1:
 translate Telenovela spikechoice_6c737beb:
 
     # ts "And you're right, this book has been written before we defeated Nightmare Moon. Most ponies forgot about her and even the scientists thought that the earthquakes and volcanic eruptions were natural. In fact, it was Nightmare Moon trying to make the nature rebels against us."
-    ts "¡Ay, por Dios! ¡Tú tienes razón! Este libro... este terrible testimonio... fue escrito antes de que doblegáramos a la temible Luna Oscura. ¡La han olvidado, sí, la han borrado de sus recuerdos como si fuera una pesadilla fugaz! Incluso los sabios, esos hombres de ciencia, creyeron… ¡increíble! …que aquellos terremotos devastadores, esas erupciones volcánicas que sacudieron el mundo entero, eran simplemente... ¡la furia natural! ¡No lo entienden! ¡La verdad es mucho más oscura! Fue Luna Oscura, sí, *ella*, urdiendo su venganza, manipulando la propia naturaleza para alzarla contra nosotros… ¡una traición de proporciones cósmicas!"
+    ts "¡Tienes razón! Este libro fue escrito antes de derrotar a Nightmare Moon. La olvidaron. Los científicos pensaron que los terremotos eran naturales. ¡Pero era Nightmare Moon! ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:373
 translate Telenovela spikechoice_bb86f06d:
@@ -1126,37 +1126,37 @@ translate Telenovela spikechoice_f0e715c1:
 translate Telenovela spikechoice_853f3f12:
 
     # ts "No. No such wish, but..."
-    ts "¡No! ¡Imposible! ¡No puedo creerlo! Ningún deseo… ninguna petición de ese tipo… pero… ¡ay, mi corazón! ¿Qué está pasando? ¡Dime, por favor, dime la verdad! ¡Este silencio es una tortura!"
+    ts "¡No! Ningún deseo, pero..."
 
 # game/Scripts/library.rpy:430
 translate Telenovela spikechoice_f445e01a:
 
     # p "But?"
-    p "¿Pero…? ¡Ay, por Dios! ¿Pero qué significa esto? ¡No puede ser! Dime, dime la verdad… ¡pero qué?! Explícame, suplico, antes de que mi corazón se rompa en mil pedazos. ¡Pero…!"
+    p "¿Pero?"
 
 # game/Scripts/library.rpy:434
 translate Telenovela spikechoice_9e4e6bde:
 
     # ts "Love wishes, when they are reciprocal, are usually granted."
-    ts "¡Ay, por Dios! Los deseos de amor… cuando, ¡oh, destino cruel!, son correspondidos… suelen concederse... ¡pero a qué precio! ¿Acaso el universo escucha nuestras súplicas con benevolencia? ¡No puede ser que la felicidad sea tan fácil de alcanzar! Si los corazones se unen en un anhelo mutuo, si dos almas se reconocen… entonces, sí, quizás… *quizás*… el destino cederá. ¡Pero siempre hay una sombra, una traición acechando a la luz del amor verdadero!"
+    ts "¡Los deseos de amor, cuando son mutuos, suelen concederse! ¡Ay, mi corazón!"
 
 # game/Scripts/library.rpy:437
 translate Telenovela spikechoice_1e332db5:
 
     # p "Is your input supposed to be sufficient?"
-    p "¿Mi entrada… ¿es esto *todo* lo que me ofreces? ¡Ay, por Dios! ¡No puede ser! ¿Acaso crees que estas pocas palabras, este insignificante gesto, son suficientes para apaciguar mi corazón herido? ¡Es una afrenta! ¡Una traición a la pasión que arde en mi alma! ¡Dime, dime, es esto *todo* lo que tengo de ti?!"
+    p "¿Eso es todo? ¡Ay! ¿Crees que es suficiente?"
 
 # game/Scripts/library.rpy:439
 translate Telenovela spikechoice_b2943026:
 
     # p "What was that for?"
-    p "¡Ay, por Dios! ¿Qué fue *eso*? ¡Dime, dime ahora mismo! ¿Por qué me hiciste eso? ¡Mi corazón… se estremece con el dolor de tu crueldad! ¡No puede ser! Explícame, te ruego, antes de que mi alma se rompa en mil pedazos."
+    p "¿Para qué fue eso? ¡Ay, por Dios!"
 
 # game/Scripts/library.rpy:441
 translate Telenovela spikechoice_d1deb183:
 
     # p "What are you implying?"
-    p "¿Qué *estás insinuando*? ¡Ay, por el amor de Dios! ¿Acaso crees que soy tan ingenua como para no comprender lo que se esconde tras esas palabras, esa mirada traicionera? ¡No puede ser! ¡Dime la verdad, te suplico! ¿Qué oscuros secretos me estás intentando ocultar con esta acusación velada? ¡Responde! ¡Mi corazón está a punto de estallar!"
+    p "¿Qué insinúas?"
 
 # game/Scripts/library.rpy:443
 translate Telenovela spikechoice_d0af1408:
@@ -1168,25 +1168,25 @@ translate Telenovela spikechoice_d0af1408:
 translate Telenovela spikechoice_23fcbffc:
 
     # p "I like where this is going."
-    p "¡Ay, Dios mío! ¡Siento que mi alma vuela! Este camino… este destino… me llena de una esperanza tan profunda, tan intensa... ¡Sí! Me gusta… ¡Me gusta dónde nos lleva esto! Es como si el universo mismo conspirara a nuestro favor… ¡No puede ser más perfecto!"
+    ts "¡Me gusta esto!"
 
 # game/Scripts/library.rpy:447
 translate Telenovela spikechoice_08e321ba:
 
     # p "I would like to say that a nod is as good as a wink to a blind horse, but I can't."
-    p "¡Ay, por Dios! ¡Cómo expresar la desesperación que me embarga! Quisiera decir… quisiera susurrar al viento que un asentimiento es tan válido como guiñar el ojo a un caballo ciego... ¡pero no puedo! ¡No puedo siquiera articularlo! Es una verdad tan amarga, tan cruel, que se atasca en mi garganta, ¡un nudo de dolor y frustración! ¡Es imposible!"
+    p "¡Ay! Quisiera decir que un gesto vale lo mismo que un guiño a un caballo ciego... ¡pero no puedo! ¡Es imposible!"
 
 # game/Scripts/library.rpy:449
 translate Telenovela spikechoice_8ce23de1:
 
     # "Oh. Are you this transparent to her?"
-    "¡Ay, Dios mío! ¿Así de evidente soy para ella? ¡No puede ser! ¿Me ve… me percibo tan claramente a través de esta máscara que he construido con tanto sufrimiento? ¡Mi alma se desgarra al escuchar esto! ¿Acaso mi amor, mi pasión, son tan obvios que la ciegan y la atormentan? ¡Dime, por favor, dime!"
+    "¡Ay! ¿Soy tan evidente para ella? ¡No puede ser!"
 
 # game/Scripts/library.rpy:453
 translate Telenovela spikechoice_32fab660:
 
     # ts "Spike isn't there. I didn't know that Rarity loved him back, but if they are together this evening, it might be it."
-    ts "¡Ay, por Dios! ¡Spike no está! ¿Cómo es posible? No podía imaginarlo... no sospeché jamás que Rarity… ¡que sintiera algo así por él! Pero si ahora están juntos esta noche… ¡si se encuentran! … entonces… ¡entonces podría ser el final! El fin de todo, ¡una tragedia inimaginable! Mi corazón se rompe en mil pedazos. ¡No puede ser! ¿Cómo puedo soportar una pena tan profunda?"
+    ts "¡Spike no está! No sabía que Rarity lo amaba... Pero si están juntos esta noche... ¡podría ser el final! ¡Mi corazón se rompe!"
 
 # game/Scripts/library.rpy:456
 translate Telenovela spikechoice_fda84158:
@@ -1234,7 +1234,7 @@ translate Telenovela spikechoice_83e201a0:
 translate Telenovela spikechoice_681e3962:
 
     # "You sigh."
-    "¡Ay, por Dios! Suspiras... ¡un lamento que desgarra mi alma! ¡No puede ser que este dolor me consuma!"
+    "Suspiras."
 
 # game/Scripts/library.rpy:474
 translate Telenovela spikechoice_b3b7e3bd:
@@ -1288,7 +1288,7 @@ translate Telenovela spikechoice_4af25ce6:
 translate Telenovela spikechoice_3b0e49b6:
 
     # p "Nyaah!"
-    p "¡Ay, por Dios! ¡Nyaah! ¡Un grito desgarrador! ¡El universo conspira! ¡Mi corazón se rompe!"
+    p "¡Nyaah!"
 
 # game/Scripts/library.rpy:500
 translate Telenovela spikechoice_4e72f7d0:
@@ -1324,7 +1324,7 @@ translate Telenovela spikechoice_4a800ba8:
 translate Telenovela spikechoice_4ab99a54:
 
     # p "Nyuh?"
-    p "¡Ay, por Dios! ¿Qué...? ¡¿Nyuh?! ¡No puede ser! ¡Explícame!"
+    p "¿Nyuh?"
 
 # game/Scripts/library.rpy:523
 translate Telenovela spikechoice_651a3f18:
@@ -1342,7 +1342,7 @@ translate Telenovela spikechoice_b3d352f1:
 translate Telenovela spikechoice_b10cbbee:
 
     # p "Am I?"
-    p "¿Yo…? ¡Ay, por Dios! ¿Acaso soy yo? ¡No puede ser! ¡Dime que no sueño!"
+    p "¿...Yo?"
 
 # game/Scripts/library.rpy:536
 translate Telenovela spikechoice_c4a6a954:

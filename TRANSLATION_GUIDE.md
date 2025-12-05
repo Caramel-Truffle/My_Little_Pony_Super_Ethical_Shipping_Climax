@@ -156,6 +156,21 @@ Common words to translate literally:
     *   **Swearing**: Appropriate use of "sacres" (Tabarnak, Calisse, etc.) where they fit the tone.
     *   **Vocabulary**: Use Quebec-specific terms (e.g., "char" for car, "magasiner" for shopping).
 
+### Spanish (`game/tl/Spanish/`)
+*   **Description**: Neutral Latin American Spanish.
+*   **Goal**: A neutral translation accessible to all Latin American speakers.
+*   **Guidelines**:
+    *   **Neutrality**: Use neutral Latin American Spanish.
+    *   **Idioms**: Do NOT use local idioms or slang specific to any single country.
+
+### Telenovela (`game/tl/Telenovela/`)
+*   **Description**: Exaggerated Telenovela Spanish.
+*   **Goal**: A dramatic, melodramatic soap opera style translation.
+*   **Guidelines**:
+    *   **Style**: Use a lot of exaggerations and passionate interjections like "¡Ay, por Dios!" or "¡No puede ser!".
+    *   **Prompt**: Use the following prompt for generation:
+        > "Translate into exaggerated telenovela-style Spanish. Use dramatic, emotional phrasing. Favor passionate interjections (¡Ay, por Dios!, ¡No puede ser!), poetic exaggeration, and intense tone. Characters should sound like they’re in a melodramatic TV romance. Keep meaning intact, but amplify emotions. Avoid comedy nonsense; aim for sincere over-the-top drama. Avoid being overly verbose, translate in no more than double the length of the original text."
+
 ## 4. Working with Variables & Interpolation
 
 The game uses variable interpolation (e.g., `[playername]`).

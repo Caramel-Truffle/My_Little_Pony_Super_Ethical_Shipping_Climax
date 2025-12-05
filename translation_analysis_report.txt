@@ -1,0 +1,133 @@
+TRANSLATION COMPLETENESS ANALYSIS REPORT
+================================================================================
+
+
+English
+--------------------------------------------------------------------------------
+Total dialogue blocks: 967
+Empty dialogue blocks: 0
+Total string blocks: 486
+Empty string blocks: 0
+Untranslated strings: 484
+
+Files with issues:
+  Scripts/applebarn.rpy:
+    - 13 untranslated strings
+  Scripts/carouselboutique.rpy:
+    - 7 untranslated strings
+  Scripts/dashcloud.rpy:
+    - 10 untranslated strings
+  Scripts/fluttercottage.rpy:
+    - 8 untranslated strings
+  Scripts/library.rpy:
+    - 11 untranslated strings
+  Scripts/options.rpy:
+    - 1 untranslated strings
+  Scripts/other.rpy:
+    - 13 untranslated strings
+  Scripts/ourdoors.rpy:
+    - 1 untranslated strings
+  Scripts/screens.rpy:
+    - 83 untranslated strings
+  Scripts/script.rpy:
+    - 16 untranslated strings
+  Scripts/sugarcubecorner.rpy:
+    - 9 untranslated strings
+  common.rpy:
+    - 312 untranslated strings
+
+
+Engrish
+--------------------------------------------------------------------------------
+Total dialogue blocks: 967
+Empty dialogue blocks: 0
+Total string blocks: 482
+Empty string blocks: 0
+Untranslated strings: 58
+
+Files with issues:
+  Scripts/carouselboutique.rpy:
+    - 1 untranslated strings
+  Scripts/other.rpy:
+    - 4 untranslated strings
+  Scripts/screens.rpy:
+    - 3 untranslated strings
+  Scripts/script.rpy:
+    - 5 untranslated strings
+  common.rpy:
+    - 45 untranslated strings
+
+
+French
+--------------------------------------------------------------------------------
+Total dialogue blocks: 967
+Empty dialogue blocks: 0
+Total string blocks: 486
+Empty string blocks: 0
+Untranslated strings: 50
+
+Files with issues:
+  Scripts/options.rpy:
+    - 1 untranslated strings
+  Scripts/other.rpy:
+    - 4 untranslated strings
+  Scripts/ourdoors.rpy:
+    - 1 untranslated strings
+  Scripts/screens.rpy:
+    - 13 untranslated strings
+  Scripts/script.rpy:
+    - 15 untranslated strings
+  common.rpy:
+    - 16 untranslated strings
+
+
+TABARNAK
+--------------------------------------------------------------------------------
+Total dialogue blocks: 968
+Empty dialogue blocks: 0
+Total string blocks: 492
+Empty string blocks: 0
+Untranslated strings: 18
+
+Files with issues:
+  Scripts/other.rpy:
+    - 2 untranslated strings
+  Scripts/screens.rpy:
+    - 7 untranslated strings
+  Scripts/script.rpy:
+    - 3 untranslated strings
+  common.rpy:
+    - 6 untranslated strings
+
+
+Spanish
+--------------------------------------------------------------------------------
+Total dialogue blocks: 967
+Empty dialogue blocks: 0
+Total string blocks: 481
+Empty string blocks: 0
+Untranslated strings: 11
+
+Files with issues:
+  Scripts/screens.rpy:
+    - 3 untranslated strings
+  Scripts/script.rpy:
+    - 4 untranslated strings
+  common.rpy:
+    - 4 untranslated strings
+
+
+Telenovela
+--------------------------------------------------------------------------------
+Total dialogue blocks: 966
+Empty dialogue blocks: 0
+Total string blocks: 481
+Empty string blocks: 0
+Untranslated strings: 7
+
+Files with issues:
+  Scripts/screens.rpy:
+    - 3 untranslated strings
+  common.rpy:
+    - 4 untranslated strings
+

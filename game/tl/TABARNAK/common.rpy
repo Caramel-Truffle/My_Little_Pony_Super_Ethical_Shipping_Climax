@@ -1252,29 +1252,29 @@ translate TABARNAK strings:
 
     # renpy/common/00accessibility.rpy:246
     old "Kerning"
-    new ""
+    new "Espacement"
 
     # renpy/common/00updater.rpy:415
     old "No update methods found."
-    new ""
+    new "Pas trouvé de moyen d'updater."
 
     # renpy/common/00updater.rpy:675
     old "An error is being simulated."
-    new ""
+    new "Une erreur est en train d'être simulée."
 
     # renpy/common/00updater.rpy:1289
     old "The update file was not downloaded."
-    new ""
+    new "Le fichier d'update a pas été downloadé."
 
     # renpy/common/00updater.rpy:1935
     old "An error has occurred:"
-    new ""
+    new "Une erreur est arrivée :"
 
     # renpy/common/00updater.rpy:1939
     old "This program is up to date."
-    new ""
+    new "Ce programme est à jour."
 
     # renpy/common/00gamepad.rpy:60
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Pèse ou bouge le '[control!s]' [kind]."
 

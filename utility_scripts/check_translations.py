@@ -12,7 +12,7 @@ from collections import defaultdict
 TL_DIR = "game/tl"
 
 # Languages to check
-LANGUAGES = ["English", "Engrish", "French", "TABARNAK"]
+LANGUAGES = ["English", "Engrish", "French", "TABARNAK", "Spanish", "Telenovela"]
 
 def analyze_file(filepath):
     """Analyze a single .rpy file for translation completeness."""

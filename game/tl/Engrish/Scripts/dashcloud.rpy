@@ -1025,5 +1025,5 @@ translate Engrish strings:
 
     # game/Scripts/dashcloud.rpy:192
     old "\"I have a very special muffin for you...\""
-    new ""
+    new "\"I have extreme special muffin for you...\""
 

@@ -10,13 +10,13 @@ translate Telenovela eegg_a3cfa20f:
 translate Telenovela eegg_98839ad5:
 
     # "Are you happy?"
-    "¿Eres feliz? ¡Ay, por Dios! ¿Dices que eres feliz? ¡Después de todo lo que hemos vivido, me atreves a decirme… que eres feliz?! ¡No puede ser! ¡Mi corazón se estremece ante tal blasfemia!"
+    "¿Eres feliz?"
 
 # game/Scripts/other.rpy:22
 translate Telenovela eeggfun_617adff3:
 
     # p "Eeyup"
-    p "¡Ay, por Dios! ¡Eeyup! ¡Una palabra tan simple, y sin embargo, me atraviesa el alma! ¡Un eco de lo que pudo haber sido! ¡Mi corazón se estremece!"
+    p "¡Eeyup!"
 
 # game/Scripts/other.rpy:23
 translate Telenovela eeggfun_8c893ddc:
@@ -28,7 +28,7 @@ translate Telenovela eeggfun_8c893ddc:
 translate Telenovela eeggfun_50810729:
 
     # p "Nope."
-    p "¡No! ¡De ninguna manera! ¡Ay, por Dios, no puede ser! ¡Imposible! ¡Jamás! ¡Ni en mis sueños más salvajes!"
+    p "¡No!"
 
 # game/Scripts/other.rpy:26
 translate Telenovela eeggfun_fe477e99:
@@ -46,7 +46,7 @@ translate Telenovela eeggfun_cedc109b:
 translate Telenovela eeggfun_5ae4dd33:
 
     # p "Eeyup?"
-    p "¡Ay, por Dios! ¿Eeyup? ¡¿Qué es esto?! ¡Una pregunta tan vacía! ¡Dime qué significa esa palabra que me destroza! ¡Mi alma se estremece!"
+    p "¿Eeyup?"
 
 # game/Scripts/other.rpy:52
 translate Telenovela bm_place_choice_fa462d1f:
@@ -70,7 +70,7 @@ translate Telenovela bm_place_choice_ae2f7e3d:
 translate Telenovela bm_place_choice_bf12372d:
 
     # p "Eeyup."
-    p "¡Ay, por Dios! ¡Eeyup! ¡Un suspiro del destino! ¡Una confirmación de lo inevitable! ¡Mi corazón late con fuerza!"
+    p "¡Eeyup!"
 
 # game/Scripts/other.rpy:65
 translate Telenovela bm_place_choice_bdd200b6:
@@ -82,7 +82,7 @@ translate Telenovela bm_place_choice_bdd200b6:
 translate Telenovela bm_place_choice_bf12372d_1:
 
     # p "Eeyup."
-    p "¡Ay, por Dios! ¡Eeyup! ¡Un suspiro ahogado en la desesperación! ¡Una confirmación que destroza mi alma! ¡El destino se burla de mí!"
+    p "¡Eeyup!"
 
 # game/Scripts/other.rpy:67
 translate Telenovela bm_place_choice_592959da:
@@ -94,7 +94,7 @@ translate Telenovela bm_place_choice_592959da:
 translate Telenovela bm_place_choice_50810729:
 
     # p "Nope."
-    p "¡No! ¡De ninguna manera! ¡Ay, por Dios, no puede ser! ¡Imposible! ¡Jamás! ¡Ni en mis sueños más salvajes!"
+    p "¡No!"
 
 # game/Scripts/other.rpy:69
 translate Telenovela bm_place_choice_e747cf69:
@@ -130,7 +130,7 @@ translate Telenovela bm_place_choice_975d5d61:
 translate Telenovela cmcdecision_bf12372d:
 
     # p "Eeyup."
-    p "¡Ay, por Dios! ¿Es posible? ¡No puede ser! ¡Así, tan abruptamente… así!"
+    p "¡Eeyup!"
 
 # game/Scripts/other.rpy:81
 translate Telenovela cmcdecision_059c1555:
@@ -148,13 +148,13 @@ translate Telenovela cmcdecision_2d6b7fab:
 translate Telenovela cmcdecision_2fdeeefd:
 
     # ab "Promise!"
-    ab "¡Prométeme! ¡Por el amor que siento, jura que lo harás! ¡No me dejes con el corazón roto! ¡Dímelo!"
+    ab "¡Promételo!"
 
 # game/Scripts/other.rpy:88
 translate Telenovela cmcdecision_50810729:
 
     # p "Nope."
-    p "¡No! ¡De ninguna manera! ¡Ay, por Dios, no puede ser! ¡Imposible! ¡Jamás! ¡Ni en mis sueños más salvajes!"
+    p "¡No!"
 
 # game/Scripts/other.rpy:91
 translate Telenovela cmcdecision_630503a1:
@@ -208,7 +208,7 @@ translate Telenovela cmcdecision_ad7d903f:
 translate Telenovela cmcdecision_50810729_1:
 
     # p "Nope."
-    p "¡No! ¡De ninguna manera! ¡Ay, por Dios, no puede ser! ¡Imposible! ¡Jamás!"
+    p "¡No!"
 
 # game/Scripts/other.rpy:123
 translate Telenovela cmcdecision_ba34d4e5:
@@ -220,7 +220,7 @@ translate Telenovela cmcdecision_ba34d4e5:
 translate Telenovela cmcdecision_bf12372d_1:
 
     # p "Eeyup."
-    p "¡Ay, por Dios! ¡No puede ser! ¿Es real? ¡Eeyup! ¡Una confirmación terrible! ¡Mi corazón se estremece!"
+    p "¡Eeyup!"
 
 # game/Scripts/other.rpy:125
 translate Telenovela cmcdecision_6c9055d4:
@@ -232,7 +232,7 @@ translate Telenovela cmcdecision_6c9055d4:
 translate Telenovela braeburnchoice_bf12372d:
 
     # p "Eeyup."
-    p "¡Ay, por Dios! ¡No puede ser! ¿Es posible? ¡Eeyup! ¡Un suspiro del destino! ¡Mi corazón late con fuerza!"
+    p "¡Eeyup!"
 
 # game/Scripts/other.rpy:131
 translate Telenovela braeburnchoice_e295efc7:
@@ -250,7 +250,7 @@ translate Telenovela braeburnchoice_17fdf8c9:
 translate Telenovela braeburnchoice_0a77af13:
 
     # cmc "Awwwwwwww!"
-    cmc "¡Ay, por Dios mío! ¡Qué sentimiento tan profundo! ¡Una ola de ternura me inunda! ¡Es demasiado!"
+    cmc "¡Awwww! ¡Qué ternura!"
 
 # game/Scripts/other.rpy:144
 translate Telenovela braeburnchoice_8945fab8:
@@ -268,7 +268,7 @@ translate Telenovela braeburnchoice_7d3f6444:
 translate Telenovela braeburnchoice_50810729:
 
     # p "Nope."
-    p "¡No! ¡De ninguna manera! ¡Ay, por Dios, no puede ser! ¡Imposible! ¡Jamás!"
+    p "¡No!"
 
 # game/Scripts/other.rpy:151
 translate Telenovela braeburnchoice_fc0bc7e1:
@@ -280,7 +280,7 @@ translate Telenovela braeburnchoice_fc0bc7e1:
 translate Telenovela braeburnchoice_50810729_1:
 
     # p "Nope."
-    p "¡No! ¡De ninguna manera! ¡Ay, por Dios, no puede ser! ¡Imposible! ¡Jamás!"
+    p "¡No!"
 
 # game/Scripts/other.rpy:159
 translate Telenovela braeburnchoice_1e381603:
@@ -304,7 +304,7 @@ translate Telenovela braeburnchoice_4a0aaad0:
 translate Telenovela braeburnchoice_bf12372d_1:
 
     # p "Eeyup."
-    p "¡Ay, por Dios! ¡No puede ser! ¿Es posible? ¡Eeyup! ¡Una señal divina! ¡Un momento que cambiará mi vida!"
+    p "¡Eeyup!"
 
 # game/Scripts/other.rpy:165
 translate Telenovela braeburnchoice_cc595ec5:
@@ -322,7 +322,7 @@ translate Telenovela braeburnchoice_e12cfdef:
 translate Telenovela braeburnchoice_bf12372d_2:
 
     # p "Eeyup."
-    p "¡Ay, por Dios! ¡No puede ser! ¡Un simple “eeyup” para expresar semejante tormento! ¡Mi corazón se estruja! ¡El destino conspira!"
+    p "¡Eeyup!"
 
 # game/Scripts/other.rpy:170
 translate Telenovela braeburnchoice_9b9b0794:

@@ -124,7 +124,7 @@ translate Telenovela datdashplot_724d5b96:
 translate Telenovela datdashplot_31a90cd2:
 
     # p "Deal."
-    p "¡Hecho! ¡Pero con el corazón hecho añicos! ¿Aceptas este pacto? ¡Ay, por Dios! ¡No puede ser! ¡Es un destino cruel! ¡Así sea!"
+    rd "¡Trato!"
 
 # game/Scripts/dashcloud.rpy:47
 translate Telenovela datdashplot_f2278cf7:
@@ -172,13 +172,13 @@ translate Telenovela datdashplot_2d4a9ba7:
 translate Telenovela askdashiehelp_8ca08919:
 
     # p "...to be cooler."
-    p "...para ser más fresco. ¡Ay, por Dios! ¿Acaso no es suficiente la tormenta en mi alma? ¡No puede ser! ¡La frialdad es lo que temo más! ¡Como si eso pudiera llenar el vacío!"
+    p "...para ser más fresco. ¡Ay, qué frío!"
 
 # game/Scripts/dashcloud.rpy:64
 translate Telenovela askdashiehelp_f92adb54:
 
     # rd "Cooler?"
-    rd "¡Más fresco! ¡No puede ser! ¿Más fresco? ¡Después de todo este sufrimiento, me pides… más fresco?! ¡Ay, por Dios! ¡Es una afrenta! ¡Mi corazón se estremece!"
+    rd "¿...Más fresco?"
 
 # game/Scripts/dashcloud.rpy:67
 translate Telenovela askdashiehelp_653097b6:
@@ -274,7 +274,7 @@ translate Telenovela easyflutterdash_f3d221c5:
 translate Telenovela easyflutterdash_e85ddcd3:
 
     # p "One day..."
-    p "¡Un día…! ¡Ay, Dios mío! ¡Un día que cambiará todo! ¡No puede ser! ¿Cómo podría saberlo? ¡Un día... un único día...!"
+    p "¡Un día...!"
 
 # game/Scripts/dashcloud.rpy:97
 translate Telenovela easyflutterdash_0a83f1c8:
@@ -286,7 +286,7 @@ translate Telenovela easyflutterdash_0a83f1c8:
 translate Telenovela easyflutterdash_74ef33bb:
 
     # "--Rainbow ending 1--"
-    "¡Ay, por Dios! ¡El arcoíris… terminado! ¿Cómo puede ser? ¡Un final tan cruel! ¡Mi corazón se estruja! ¡Era la promesa de un nuevo amanecer… y ahora, el vacío! ¡Nooo!"
+    "¡Final Rainbow 1! ¡Ay, qué final!"
 
 # game/Scripts/dashcloud.rpy:103
 translate Telenovela easyflutterdash_05654b16:
@@ -364,7 +364,7 @@ translate Telenovela easyflutterdash_3c47e800:
 translate Telenovela easyflutterdash_1372ef6b:
 
     # p "Tomorrow?"
-    p "¿Mañana? ¡Ay, por Dios! ¡Imposible! ¡No puede ser! Un mañana sin tu mirada… ¡Un tormento! ¿Mañana? ¡Mi alma se desgarra!"
+    p "¿Mañana?"
 
 # game/Scripts/dashcloud.rpy:127
 translate Telenovela easyflutterdash_741ca70e:
@@ -394,7 +394,7 @@ translate Telenovela easyflutterdash_c11adbeb:
 translate Telenovela easyflutterdash_1fe2d40c:
 
     # rd "See ya!"
-    rd "¡Ay, Dios mío! ¡No puede ser! ¿Me dejas así? ¡Sin un adiós digno! ¡Desapareces como una sombra! ¡Adiós, mi amor!"
+    rd "¡Nos vemos!"
 
 # game/Scripts/dashcloud.rpy:136
 translate Telenovela easyflutterdash_59d81184:
@@ -424,7 +424,7 @@ translate Telenovela easyflutterdash_19902319:
 translate Telenovela easyflutterdash_bec1adeb:
 
     # rd "Strength? Really?"
-    rd "¿¡Fuerza!? ¡Ay, por Dios! ¡No puede ser! ¿Cómo hablas de fuerza cuando mi corazón se desgarra? ¡Es una burla a mi sufrimiento! ¡Una ilusión!"
+    rd "¿Fuerza? ¿En serio? ¡Ay, Dios!"
 
 # game/Scripts/dashcloud.rpy:146
 translate Telenovela easyflutterdash_c610938f:
@@ -526,19 +526,19 @@ translate Telenovela derpyabuse_6e7ca0fc:
 translate Telenovela derpyabuse_c25764a8:
 
     # d "I muffin this idea!"
-    d "¡Ay, por Dios! ¡Esta idea me destroza el alma! ¡Es una abominación! ¡No puede ser! ¡Cómo contemplar algo tan terrible! ¡Mi corazón se rompe! ¡El mundo se derrumba!"
+    d "¡Odio esta idea! ¡Ay, qué horror!"
 
 # game/Scripts/dashcloud.rpy:188
 translate Telenovela derpyabuse_9043e234:
 
     # p "Muffin?"
-    p "¡Un muffin! ¿Un *muffin*? ¡Ay, por Dios! ¿Es una burla? ¡Después de todo lo sufrido, me ofreces un *muffin*?! ¡No puede ser! ¡La desesperación me embarga! ¡Mi corazón sangra ante tal afrenta!"
+    d "¿Muffin?"
 
 # game/Scripts/dashcloud.rpy:189
 translate Telenovela derpyabuse_ba22310f:
 
     # d "I love muffins!"
-    d "¡Ay, Dios mío! ¡Los muffins! ¡Mi alma los ama con pasión desmedida! ¡Un amor que me quiebra el corazón de alegría! ¡No puede ser! ¡Son la personificación del placer!"
+    d "¡Amo los muffins!"
 
 # game/Scripts/dashcloud.rpy:193
 translate Telenovela truederpyabuse_815c8d68:
@@ -562,7 +562,7 @@ translate Telenovela truederpyabuse_0d3c0b9a:
 translate Telenovela truederpyabuse_3c815e70:
 
     # "You kissed her."
-    "¡Ay, por Dios! ¿La has besado? ¡No puede ser! ¡Después de todo... me traicionas así?! ¡Un beso para destruir mi corazón! ¡La audacia! ¡Mi alma se quiebra!"
+    "¡La besaste! ¡Ay, qué escándalo!"
 
 # game/Scripts/dashcloud.rpy:209
 translate Telenovela truederpyabuse_e166e62e:
@@ -592,7 +592,7 @@ translate Telenovela truederpyabuse_40202db6:
 translate Telenovela truederpyabuse_33b443f6:
 
     # "--Derpy ending--"
-    "¡Ay, por Dios! ¡Un final insípido! ¡Destroza el alma! ¿Así termina todo? ¡No puede ser! ¡Nos dejan con esto! ¡Es una traición a mi corazón! ¡Un final… derpy! ¡No puede ser el fin!"
+    "¡El final de Derpy!"
 
 # game/Scripts/dashcloud.rpy:224
 translate Telenovela truederpyabuse_248944c5:
@@ -634,7 +634,7 @@ translate Telenovela truederpyabuse_abbefd25:
 translate Telenovela truederpyabuse_94e84c43:
 
     # p "But-"
-    p "¡Pero—! ¡Ay, Dios mío, qué tormento! ¿Cómo seguir adelante? ¡Es una puñalada al corazón! ¡No puede ser! ¡La vida me somete a esta cruel prueba!"
+    p "¡Pero—!"
 
 # game/Scripts/dashcloud.rpy:240
 translate Telenovela truederpyabuse_be0705e6:
@@ -652,13 +652,13 @@ translate Telenovela truederpyabuse_a4d9c224:
 translate Telenovela truederpyabuse_68799c97:
 
     # "You lost anyway."
-    "¡Perdiste! ¡Ay, por Dios, perdiste de todas formas! ¿Cómo es posible? ¡Después de todo... perdiste! ¡No puede ser! ¡El destino se burla! ¡Te perdí, y con ello, mi alma!"
+    "¡Perdiste! ¡Ay, qué tragedia!"
 
 # game/Scripts/dashcloud.rpy:244
 translate Telenovela truederpyabuse_fd868e06:
 
     # "--Rainbow Dash ending 2--"
-    "¡Ay, por Dios! ¡El final! ¿Cómo puede ser? Mi corazón se estruja en mil pedazos... ¡No puedo creerlo! La esperanza se desvanece, dejando oscuridad. ¡Mi alma llora! ¿Qué será de nosotros? ¡El universo conspira contra nuestro amor! ¡No me abandones a esta desesperación!"
+    "¡El final de Rainbow Dash! ¡Mi corazón se rompe! ¡Ay, por Dios!"
 
 # game/Scripts/dashcloud.rpy:247
 translate Telenovela truederpyabuse_48911279:
@@ -694,13 +694,13 @@ translate Telenovela truederpyabuse_8af0bad0:
 translate Telenovela truederpyabuse_94418b3c:
 
     # d "I... Lost my Muffin..."
-    d "¡Ay, Dios mío! ¡Mi muffin! ¡Se ha ido! ¿Cómo puede ser? ¡Un desastre terrible! ¡Lo he perdido! ¡Mi tesoro de alegría se ha esfumado! ¡No puedo creerlo! ¡El mundo se derrumba!"
+    d "¡Perdí mi muffin! ¡Ay, qué dolor!"
 
 # game/Scripts/dashcloud.rpy:255
 translate Telenovela truederpyabuse_78a79987:
 
     # p "What? Where?"
-    p "¿Qué?! ¿Dónde?! ¡Ay, Dios mío! ¿Cómo es posible? ¡No puede ser! ¡Dime dónde! ¡Explícame, por el amor de mi alma!"
+    p "¿Qué? ¿Dónde? ¡Ay, Dios mío!"
 
 # game/Scripts/dashcloud.rpy:256
 translate Telenovela truederpyabuse_5aaaf352:
@@ -796,7 +796,7 @@ translate Telenovela truederpyabuse_56d02e78:
 translate Telenovela truederpyabuse_501137be:
 
     # d "Take care..."
-    d "¡Cuídate… mi amor! ¡Ay, por Dios, cuídate! ¡No permitas que el destino te alcance! ¡Cuídate con cada latido, porque cada segundo es una eternidad de tormento!"
+    d "¡Cuídate!"
 
 # game/Scripts/dashcloud.rpy:297
 translate Telenovela truederpyabuse_7d44d21d:
@@ -850,7 +850,7 @@ translate Telenovela yummymuffin_251aca32:
 translate Telenovela yummymuffin_4fede62e:
 
     # d "Allons-y!"
-    d "¡Adelante! ¡Pero con el corazón destrozado! ¡Ay, por Dios, qué tormento!"
+    d "¡Adelante! ¡Ay, qué tormento!"
 
 # game/Scripts/dashcloud.rpy:323
 translate Telenovela yummymuffin_59ee328c:
@@ -940,7 +940,7 @@ translate Telenovela yummymuffin_fbc37a88:
 translate Telenovela yummymuffin_ec2dc706:
 
     # p "Oof."
-    p "¡Ay, por Dios! ¡Mi alma se desgarra!"
+    p "¡Uf! ¡Ay, qué dolor!"
 
 # game/Scripts/dashcloud.rpy:367
 translate Telenovela yummymuffin_5143d28f:

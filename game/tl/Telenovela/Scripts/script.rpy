@@ -27,14 +27,14 @@ translate Telenovela start_0ea8f8d7:
 # game/Scripts/script.rpy:521
 translate Telenovela start_71a86863:
 
-    # y "..."
-    y "Please provide the text you want me to translate. I need the original English text to be able to translate it into exaggerated telenovela-style Spanish. Once you give me the text, I will deliver a dramatic and emotionally charged translation as requested."
+    # "..."
+    "..."
 
 # game/Scripts/script.rpy:522
 translate Telenovela start_d8983fd6:
 
     # y "Wrong game."
-    y "¡Ay, Dios! ¡El juego equivocado! ¡Un error fatal, un destino cruel! ¡He elegido el camino de la perdición!"
+    y "¡Juego equivocado! ¡Ay, qué error!"
 
 # game/Scripts/script.rpy:523
 translate Telenovela start_a6fc5652:
@@ -58,7 +58,7 @@ translate Telenovela character_selection_75deb98c:
 translate Telenovela name_choice_e69e42b8:
 
     # c "No."
-    c "¡No! ¡Ay, no, por favor! ¡Mi corazón se rompe al oír esa palabra!"
+    c "¡No!"
 
 # game/Scripts/script.rpy:566
 translate Telenovela end_name_choice_3929edae:
@@ -76,7 +76,7 @@ translate Telenovela end_name_choice_72736899:
 translate Telenovela end_name_choice_43cc34db:
 
     # p "Really?"
-    p "¿De verdad? ¡Ay, Dios! ¿Es posible? ¡Mi corazón se estremece! ¡Dime que estoy soñando!"
+    p "¿De verdad?"
 
 # game/Scripts/script.rpy:569
 translate Telenovela end_name_choice_a78e8022:
@@ -100,13 +100,14 @@ translate Telenovela end_name_choice_1edebcfe:
 translate Telenovela end_name_choice_02b95c26:
 
     # p "Wait, wha-"
-    p "¡Espera! ¿Qué—? ¡Ay, Dios, no puede ser! ¡Mi corazón se estremece con angustia!"
+    # "Ourdoors.rpy:40 - Yes."
+    "¡Sí!"
 
 # game/Scripts/script.rpy:576
 translate Telenovela end_name_choice_74eae990:
 
     # "Poof!"
-    "¡Ay, Dios! ¡Desapareció! ¡Puff! Como un sueño roto al amanecer... ¡Se esfumó ante mis ojos! ¡El destino cruel me atormenta con esta pérdida!"
+    "¡Puf!"
 
 # game/Scripts/script.rpy:577
 translate Telenovela end_name_choice_70b222ec:

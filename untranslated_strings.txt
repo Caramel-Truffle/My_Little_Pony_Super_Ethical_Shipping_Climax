@@ -1,0 +1,640 @@
+
+=== English ===
+ translates [tl.filename]:[tl.linenumber]
+%b %d, %H:%M
+'Shy
+(attributes)
+(channel)
+(clear retained bubbles)
+(filename)
+(hide)
+(statement)
+(tag)
+(transform)
+(transition)
+30
+60
+<
+>
+AJ
+About
+Accept the offer
+Accesses the game menu.
+Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars.
+Add
+Advances dialogue and activates the interface.
+Advances dialogue without selecting choices.
+After Choices
+An error has occurred:
+An error is being simulated.
+An error occurred when trying to download game data:
+An exception has occurred.
+An unknown error occurred while connecting to the Ren'Py Sync server.
+Apple barn
+Applejack
+Are you sure you want to begin skipping?
+Are you sure you want to continue where you left off?
+Are you sure you want to delete this save?
+Are you sure you want to end the replay?
+Are you sure you want to overwrite your save?
+Are you sure you want to quit?
+Are you sure you want to return to the main menu?\nThis will lose unsaved progress.
+Are you sure you want to skip to the next choice?
+Are you sure you want to skip unseen dialogue to the next choice?
+Are you sure?
+Arrow Keys
+Attempts a roll back to a prior time, allowing you to save or choose a different choice.
+Attributes:
+Audio Filename:
+Auto
+Auto forward
+Auto-Forward Time
+Automatic saves
+Automatically Choose
+Back
+Back (B)
+Be gentle with her and get the book
+Behind:
+Big Macintosh
+Calibrate
+Calibrating [name] ([i]/[total])
+Cancel
+Carousel Boutique
+Change
+Change render options
+Changes will take effect the next time this program is run.
+Channel:
+Checking for updates.
+Click to play the video.
+Click to set transform, right click to add to transform list.
+Click to set, right click to add to behind list.
+Click to set.
+Click to toggle attribute, right click to toggle negative attribute.
+Clipboard
+Clipboard voicing enabled. 
+Clipboard voicing enabled. Press 'shift+C' to disable.
+Console
+Contacting App Store\nPlease Wait...
+Continue
+Continue, Don't show warning again
+Continue, Show this warning again
+Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/.
+Copies the traceback.txt file to the clipboard as Markdown for Discord.
+Copy BBCode
+Copy Markdown
+Could not connect to the Ren'Py Sync server.
+Could not download file list: 
+Could not verify update signature.
+Ctrl
+Cupboard ending
+Customize director.audio_channels to add more channels.
+Customize director.transforms to add more transforms.
+Customize director.transitions to add more transitions.
+D-Pad, Sticks
+Dashie
+Debug
+Decline the offer
+Default
+DejaVu Sans
+Delete slot [text]
+Disable
+Display
+Do you trust the device the save was created on? You should only choose yes if you are the device's sole user.
+Do your best
+Do your worst
+Done
+Downloading the game data.
+Downloading the updates.
+Eeyup
+Either this project does not support updating, or the update status file was deleted.
+Enable
+Enable (No Blocklist)
+End Replay
+English
+Enter
+Enter Sync ID
+Escape
+Failed to save screenshot as %s.
+File list digest does not match.
+File page [text]
+File page auto
+File page quick
+Finishing up.
+Fluttershy
+Fluttershy's cottage
+Font Override
+Force ANGLE2 Renderer
+Force GL2 Renderer
+Force GLES2 Renderer
+Framerate
+French
+Fullscreen
+Gallery
+Gamepad
+Go eat something
+Help
+Help with the ledger
+Hides the user interface.
+High Contrast Text
+History
+I WANT a cupcake
+I WANT a muffin
+I don't have enough alcohol in my blood for that.
+I don't know
+I sure am. *wink wink*
+I understand
+I want a cupcake
+I want a muffin
+I want a mustache
+I want none of these choices!
+I want some alcohol
+I want some time with AJ
+I want to finish baking!
+I want to go sell something!
+I want you
+I'm not cute!
+Ignore
+Ignores the exception, allowing you to continue.
+Ignores the exception, allowing you to continue. This often leads to additional errors.
+Image [index] of [count] locked.
+Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display.
+Just do it already
+Kerning
+Keyboard
+Language
+Language [text]
+Left
+Left Click
+Left Trigger\\nLeft Shoulder
+Left Trigger\nLeft Shoulder
+Library
+Line Spacing Scaling
+Load
+Load slot %s: [text]
+Loading will lose unsaved progress.\nAre you sure you want to do this?
+Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\\n\\n[renpy.license!t]
+Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]
+Main Menu
+Menu
+Middle Click
+Mono Audio
+More details on how to fix this can be found in the {a=[url]}documentation{/a}.
+Mouse
+Mouse Wheel Down
+Mouse Wheel Up\\nClick Rollback Side
+Mouse Wheel Up\nClick Rollback Side
+Music Volume
+Mute All
+My Little Pony Super Ethical Shipping Climax
+Navigate the interface.
+Next file page.
+No
+No Gamepads Available
+No update methods found.
+Nope
+Of course not!
+Off
+Offer your \"help\" for \"something else\"
+Offer your help
+Offer your help for something else
+Open
+Open [text] directory.
+Opendyslexic
+Opens a console to allow debugging the problem.
+Opens the traceback.txt file in a text editor.
+Page Down
+Page Up
+Page {}
+Parsing the script failed.
+Performance Warning
+Pet the bunny
+Pet the pony
+Pinkeh
+Pinkie
+Pinkie Pie
+Play a bit
+Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself.
+Powersave
+Preferences
+Prefs
+Preparing to download the game data.
+Preparing to download the updates.
+Press or move the '[control!s]' [kind].
+Previous file page.
+Proceed
+Q.Load
+Q.Save
+Quick load.
+Quick save complete.
+Quick save.
+Quick saves
+Quit
+Quits the game.
+Rainbow
+Rainbow Dash
+Rainbow's cloud
+Rarity
+Reload
+Reloads the game from disk, saving and restoring game state if possible.
+Remove
+Renderer
+Reset
+Retry
+Return
+Right
+Right Click
+Right Shoulder
+Right Trigger\\nA/Bottom Button
+Right Trigger\nA/Bottom Button
+Rollback
+Rollback Side
+Rolls back to earlier dialogue.
+Rolls forward to later dialogue.
+Save
+Save slot %s: [text]
+Saved screenshot as %s.
+Screen
+Seeds!
+Select Gamepad to Calibrate
+Self-Voicing
+Self-Voicing Volume Drop
+Self-Voicing and Audio
+Self-voicing disabled.
+Self-voicing enabled. 
+Self-voicing enabled. Press 'v' to disable.
+Self-voicing support is limited when using a touch screen.
+Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable.
+Skip
+Skip (A)
+Skip Mode
+Skipping
+Skips dialogue while held down.
+Sound Volume
+Space
+Speech Bubble Editor
+Stare at her plot
+Start
+Start, Guide
+Statement:
+Sugar Cube Corner
+Sugarcube Corner
+Sync Error
+Sync Success
+Sync downloaded.
+Tab
+Tag:
+Take advantage of the situation
+Takes a screenshot.
+Tea!
+Tearing
+Tell her the truth
+Test
+Text
+Text Size Scaling
+Text Speed
+Text-to-speech
+The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out.
+The Ren'Py Sync server timed out.
+The Sync ID is:
+The dialogue history is empty.
+The game data has been downloaded.
+The interactive director is not enabled here.
+The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was.
+The sync ID is not in the correct format.
+The sync belongs to a different game.
+The sync contains a file with an invalid name.
+The sync could not be decrypted.
+The update file does not have the correct digest - it may have been corrupted.
+The update file was not downloaded.
+The updates have been installed.
+The updates have been installed. The program will restart.
+The updates were cancelled.
+The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer.
+This account does not have permission to perform an update.
+This account does not have permission to write the update log.
+This computer has a problem displaying graphics: [problem].
+This computer is using software rendering.
+This game cannot be run until the game data has been downloaded.
+This game requires use of GL2 that can't be initialised.
+This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}.
+This program is up to date.
+This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?
+This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.
+This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?
+To be cooler
+To gain some strength
+Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.
+Toggles dialogue skipping.
+Transforms:
+Transition:
+Transitions
+Translation identifier: [identifier]
+Turn into Big Macintosh
+Twi'
+Twilight
+Twilight Sparkle
+Unpacking the updates.
+Unseen Text
+Updater
+Version [config.version!t]\\n
+Version [config.version!t]\n
+Voice Volume
+Wait
+Wait!! I want to be my OC!! It's a super-awesome alicorn with neon colors and stuff!!!!
+What about incest?
+While unpacking {}, unknown type {}.
+Window
+Y/Top Button
+Yes
+You bet I would!
+You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}.
+[u.version] is available. Do you want to install it?
+\"A *whisper*\"
+\"A book about astronomy.\"
+\"Can I be alone with Twilight tonight?\"
+\"Can I have a kiss?\"
+\"Can't we just make out? Selfcest is hawt.\"
+\"Don't you have a spare ruby?\"
+\"Eeyup.\"
+\"Hello Twilight!\"
+\"I certainly would love to help!\"
+\"I have a very special muffin for you...\"
+\"I love them too!\"
+\"I'm trapped into a fake body, don't mind it.\"
+\"It's-a me! Pinkie!\"
+\"My destiny is elsewhere...\"
+\"Nope.\"
+\"Sorry, but you are not the real Twilight.\"
+\"This is just a dream, shhhh...\"
+\"Who are YOU?\"
+\n{color=#fff}Copied to clipboard.{/color}
+accessibility menu
+activate
+after choices
+audio when minimized
+audio when unfocused
+auto-forward
+auto-forward after click
+auto-forward time
+automatic move
+bar
+begin skipping
+clipboard voicing
+clipboard voicing disable
+clipboard voicing enable
+deactivate
+debug voicing
+debug voicing disable
+debug voicing enable
+decrease
+display
+emphasize audio
+empty slot
+font kerning
+font line spacing
+font size
+font transform
+gl framerate
+gl powersave
+gl tearing
+high contrast text
+horizontal scroll
+increase
+joystick
+joystick...
+main volume
+mono audio
+music volume
+mute all
+mute main
+mute music
+mute sound
+mute voice
+next
+prev
+renderer menu
+reset
+restore window position
+return
+rollback side
+selected
+self voicing
+self voicing disable
+self voicing enable
+self voicing volume drop
+show empty window
+skip
+skip after choices
+skip transitions
+skip unseen [text]
+skip unseen text
+slideshow
+sound volume
+system cursor
+text speed
+transitions
+vertical scroll
+video sprites
+viewport
+voice after game menu
+voice sustain
+voice volume
+wait for voice
+web cache preload
+{#auto_page}A
+{#file_time}%A, %B %d %Y, %H:%M
+{#month_short}Apr
+{#month_short}Aug
+{#month_short}Dec
+{#month_short}Feb
+{#month_short}Jan
+{#month_short}Jul
+{#month_short}Jun
+{#month_short}Mar
+{#month_short}May
+{#month_short}Nov
+{#month_short}Oct
+{#month_short}Sep
+{#month}April
+{#month}August
+{#month}December
+{#month}February
+{#month}January
+{#month}July
+{#month}June
+{#month}March
+{#month}May
+{#month}November
+{#month}October
+{#month}September
+{#quick_page}Q
+{#weekday_short}Fri
+{#weekday_short}Mon
+{#weekday_short}Sat
+{#weekday_short}Sun
+{#weekday_short}Thu
+{#weekday_short}Tue
+{#weekday_short}Wed
+{#weekday}Friday
+{#weekday}Monday
+{#weekday}Saturday
+{#weekday}Sunday
+{#weekday}Thursday
+{#weekday}Tuesday
+{#weekday}Wednesday
+⬆
+⬇
+
+=== Engrish ===
+%b %d, %H:%M
+'Shy
+30
+60
+AJ
+Calibrating [name] ([i]/[total])
+Dashie
+Eeyup
+Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]
+Nope
+Page {}
+Pinkeh
+Twi'
+Version [config.version!t]\n
+\"Eeyup.\"
+\"I certainly would love to help!\"
+\"Nope.\"
+{#file_time}%A, %B %d %Y, %H:%M
+{#month_short}Apr
+{#month_short}Aug
+{#month_short}Dec
+{#month_short}Feb
+{#month_short}Jan
+{#month_short}Jul
+{#month_short}Jun
+{#month_short}Mar
+{#month_short}May
+{#month_short}Nov
+{#month_short}Oct
+{#month_short}Sep
+{#month}April
+{#month}August
+{#month}December
+{#month}February
+{#month}January
+{#month}July
+{#month}June
+{#month}March
+{#month}May
+{#month}November
+{#month}October
+{#month}September
+{#weekday_short}Fri
+{#weekday_short}Mon
+{#weekday_short}Sat
+{#weekday_short}Sun
+{#weekday_short}Thu
+{#weekday_short}Tue
+{#weekday_short}Wed
+{#weekday}Friday
+{#weekday}Monday
+{#weekday}Saturday
+{#weekday}Sunday
+{#weekday}Thursday
+{#weekday}Tuesday
+{#weekday}Wednesday
+⬆
+⬇
+
+=== French ===
+'Shy
+(transition)
+30
+60
+<
+>
+AJ
+Applejack
+Auto
+Big Macintosh
+Carousel Boutique
+Console
+Ctrl
+Dashie
+DejaVu Sans
+Fluttershy
+Menu
+My Little Pony Super Ethical Shipping Climax
+Opendyslexic
+Page {}
+Pinkeh
+Pinkie
+Pinkie Pie
+Rainbow
+Rainbow Dash
+Rarity
+Start, Guide
+Sugar Cube Corner
+Sugarcube Corner
+Tab
+Test
+Transition:
+Transitions
+Twi'
+Twilight
+Twilight Sparkle
+Version [config.version!t]\\n
+Version [config.version!t]\n
+\"Eeyup.\"
+\"Nope.\"
+transitions
+{#auto_page}A
+{#month_short}Jan
+{#month_short}Mar
+{#month_short}Nov
+{#month_short}Oct
+{#month_short}Sep
+{#quick_page}Q
+⬆
+⬇
+
+=== TABARNAK ===
+'Shy
+(tag)
+30
+60
+<
+>
+AJ
+Auto
+Ctrl
+Menu
+Tab
+Tag:
+Test
+Twi'
+\"Eeyup.\"
+\"Nope.\"
+⬆
+⬇
+
+=== Spanish ===
+(tag)
+<
+>
+AJ
+DejaVu Sans
+Fluttershy
+Rainbow Dash
+Twilight Sparkle
+bar
+joystick
+{#quick_page}Q
+
+=== Telenovela ===
+(tag)
+<
+>
+DejaVu Sans
+bar
+joystick
+{#quick_page}Q

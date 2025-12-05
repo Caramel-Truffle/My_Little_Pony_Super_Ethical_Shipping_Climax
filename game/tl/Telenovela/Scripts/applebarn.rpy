@@ -27,8 +27,8 @@ translate Telenovela applebarn_b3ac01f2:
 # game/Scripts/applebarn.rpy:13
 translate Telenovela applebarn_e8c2727e:
 
-    # aj "Howdy! Long time no see..."
-    aj "¡Ay, Dios mío! ¡Cuánto tiempo sin verte! ¡Mi corazón late con fuerza! ¿Es posible que te vea de nuevo? ¡No puede ser! ¡Un milagro!"
+    # aj "Howdy! What can I do for you?"
+    aj "¡Hola! ¿Qué puedo hacer por ti?"
 
 # game/Scripts/applebarn.rpy:18
 translate Telenovela applebarn_4b514680:
@@ -123,14 +123,14 @@ translate Telenovela aj_see_herself_c4c18f4e:
 # game/Scripts/applebarn.rpy:47
 translate Telenovela aj_see_herself_16b19280:
 
-    # aj "..."
-    aj "Please provide the text you want me to translate! I need the original English text to be able to create the exaggerated telenovela-style Spanish translation. Just paste it in, and I'll do my best to deliver a truly dramatic rendition. 😊"
+    # "..."
+    "..."
 
 # game/Scripts/applebarn.rpy:48
 translate Telenovela aj_see_herself_81045fb6:
 
-    # "You hug her."
-    "¡Ay, por Dios! Te abalanzas sobre ella… ¡Un abrazo! ¡Un torbellino de desesperación! ¡Siente el peso del mundo en ese contacto! ¡No puede ser que este instante se desvanezca!"
+    # aj "Eeyup. Apples. Lots of them."
+    aj "¡Eeyup! Manzanas. Muchas."
 
 # game/Scripts/applebarn.rpy:49
 translate Telenovela aj_see_herself_fb74ea38:
@@ -142,7 +142,7 @@ translate Telenovela aj_see_herself_fb74ea38:
 translate Telenovela aj_see_herself_16b19280_1:
 
     # aj "..."
-    aj "Please provide the text you want me to translate! I need the original English text to be able to render it into exaggerated telenovela-style Spanish. Just paste it in, and I'll give you a dramatic, passionate response."
+    "..."
 
 # game/Scripts/applebarn.rpy:57
 translate Telenovela aj_see_herself_23502966:
@@ -166,19 +166,19 @@ translate Telenovela aj_see_herself_6c26bda7:
 translate Telenovela aj_see_herself_fdb4c521:
 
     # "Now, shoe."
-    "¡Ay, Dios mío! ¿El zapato? ¡No puede ser! ¡Ese maldito zapato! ¡Es la última humillación, el golpe final a mi corazón destrozado! ¡Mi alma grita!"
+    "¡Ahora, zapato!"
 
 # game/Scripts/applebarn.rpy:61
 translate Telenovela aj_see_herself_6f488ef3:
 
-    # p "You mean shoo, ri-"
-    p "¡Ay, por Dios! ¿Me quieres alejar? ¡Desterrarme como a una sombra! ¡No puede ser! Después de todo, ¿esto es lo que me ofreces? ¡Una despedida cruel! ¡Mi alma se quiebra!"
+    # aj "You mean shoo, ri-"
+    aj "¿Dices shoo, ver-?"
 
 # game/Scripts/applebarn.rpy:63
 translate Telenovela aj_see_herself_5680c31f:
 
     # "--Applejack ending 1--"
-    "¡Ay, por Dios! ¡No puede ser! ¿Así termina todo? ¿Se desvanecerá como una ilusión? ¡Mi corazón se estremece con dolor! ¡El destino nos separa! ¡Pero juro que mi amor arderá eternamente! ¡Nunca te olvidaré!"
+    "¡Final de Applejack 1!"
 
 # game/Scripts/applebarn.rpy:67
 translate Telenovela aj_see_herself_812fdaf1:
@@ -220,13 +220,13 @@ translate Telenovela aj_see_herself_0dea9b0b:
 translate Telenovela aj_see_herself_c8ea8a4a:
 
     # p "..."
-    p "Please provide the text you want me to translate! I need the original English text to be able to translate it into exaggerated telenovela-style Spanish. Just paste the text here, and I'll give you the dramatic Spanish version."
+    "..."
 
 # game/Scripts/applebarn.rpy:78
 translate Telenovela aj_see_herself_16b19280_2:
 
     # aj "..."
-    aj "Please provide the text you want me to translate. I need the original English text to be able to translate it into exaggerated telenovela-style Spanish. Once you give me the text, I will deliver a dramatic and emotionally charged translation as requested."
+    "..."
 
 # game/Scripts/applebarn.rpy:79
 translate Telenovela aj_see_herself_f9807e4e:
@@ -348,7 +348,7 @@ translate Telenovela sugapple_ebe35a43:
 translate Telenovela sugapple_eadc751a:
 
     # u "Howdy! Erm... AJ's friend?"
-    u "¡Ay, Dios mío! ¿Hola...? ¡Pero… pero quién eres tú?! ¿Amigo… amigo de AJ? ¡No puede ser! ¡Mi corazón late con una fuerza terrible! ¡Dime, por favor, dime quién eres y qué quieres! ¡Espera... espera un momento! ¡Tú... tú pareces familiar...! ¡Ay, mi alma está en tormento!"
+    u "¡Hola! ¿Amigo de AJ? ¡Ay, mi corazón!"
 
 # game/Scripts/applebarn.rpy:127
 translate Telenovela sugapple_b85ebf1a:
@@ -360,7 +360,7 @@ translate Telenovela sugapple_b85ebf1a:
 translate Telenovela sugapple_41d1e36c:
 
     # b "Oh yes! We've met before, in Aaaapple-looooooosa! I'm Braeburn!"
-    b "¡Ay, Dios mío! ¡Sí, sí, lo he sentido en el alma! ¡Nos hemos conocido antes… antes, en la lejana y deslumbrante Appleloosa! ¡Un recuerdo que ha permanecido oculto en las profundidades de mi corazón hasta este instante crucial! Soy Braeburn... ¡Braeburn! ¡Y mi destino, lo presiento, está irrevocablemente ligado al tuyo!"
+    b "¡Sí! Nos conocimos en Appleloosa. ¡Soy Braeburn!"
 
 # game/Scripts/applebarn.rpy:129
 translate Telenovela sugapple_535670f0:
@@ -372,7 +372,7 @@ translate Telenovela sugapple_535670f0:
 translate Telenovela sugapple_91e73450:
 
     # b "Good times, you should come back someday."
-    b "¡Ay, los tiempos felices…! ¡Debes regresar algún día! ¡Oh, esos momentos de dicha, perdidos en la bruma del ayer! ¡Regresa, te lo suplico, regresa aunque mi corazón se rompa en mil pedazos sin ti! ¡No puede ser que estos recuerdos sean todo lo que me quede! ¡Vuelve… vuelve, por favor, antes de que la desesperación me consuma!"
+    b "¡Buenos tiempos! Deberías regresar algún día. ¡Mi corazón te espera!"
 
 # game/Scripts/applebarn.rpy:132
 translate Telenovela sugapple_93f6f2c1:
@@ -390,43 +390,43 @@ translate Telenovela sugapple_c1500ee6:
 translate Telenovela sugapple_a2c242a0:
 
     # p "Cider, uh? Well, don't drink too much!"
-    p "¡Sidra, eh?! ¡Ay, por Dios! ¡No, no, por favor! ¡No bebas demasiado! ¡Mi corazón no lo soportará! ¡Una sola gota puede ser la perdición de mi alma! ¡No te atrevas a consumir más, o el destino se vengará con furia implacable! ¡No puede ser!"
+    p "¡Sidra, eh? ¡No bebas demasiado! ¡Ay, por Dios!"
 
 # game/Scripts/applebarn.rpy:135
 translate Telenovela sugapple_f2e9394f:
 
     # "You added a wink to your last comment."
-    "¡Ay, por Dios! ¿Un guiño? ¡Un simple guiño en tu último comentario! ¡No puede ser! ¿Acaso me estás… insinuando algo? ¡Mi corazón late con una furia descontrolada! ¡Después de todo lo que hemos sufrido, te atreves a enviarme una señal tan… misteriosa, tan cargada de significado oculto?! ¡Dime, por el amor eterno, qué significa ese guiño! ¡Me estás destrozando el alma!"
+    "¡Añadiste un guiño! ¡Ay, por Dios!"
 
 # game/Scripts/applebarn.rpy:136
 translate Telenovela sugapple_3ce0ba02:
 
     # b "You know, I might."
-    b "¡Ay, por Dios! Podría... podría ser… ¡Una posibilidad! ¿Me atrevo a siquiera *pensarlo*? ¡No puede ser! Quizás… quizás sí. Una chispa de esperanza… ¡una tormenta en mi alma! ¡Podría… tal vez… yo misma!"
+    b "¡Podría!"
 
 # game/Scripts/applebarn.rpy:137
 translate Telenovela sugapple_77a1f5a5:
 
     # p "A handsome stallion like you? What could you possibly want to blur with hard cider?"
-    p "¡Ay, por Dios! ¿Un semental tan hermoso como tú? ¡Dime, dime!, ¿qué clase de locura te ha llevado a profanar tu nobleza con esa bebida vulgar, ese sidra áspera y sin alma?! ¡No puede ser! ¡Es una afrenta a la mismísima luz del sol! ¡Tu belleza, tu porte…desperdiciados en tal frivolidad! ¡Mi corazón se estremece ante esta visión!"
+    p "¡Un semental tan hermoso! ¿Por qué arruinarlo con sidra? ¡No puede ser!"
 
 # game/Scripts/applebarn.rpy:138
 translate Telenovela sugapple_ec91ebbc:
 
     # b "Big Macintosh. First stallion I met who did not react to my charms."
-    b "¡Ay, por Dios! ¡Big Macintosh...! El primer semental... el *único* semental que he conocido jamás… que no se rindió ante mi encanto. ¡No puede ser! ¿Cómo es posible? Mi corazón… ¡se desgarra en mil pedazos! ¡Una afrenta, una humillación! Él… él permaneció imperturbable, insensible a la tormenta de pasión que ardía en mi interior. ¡Es un misterio insondable, un enigma doloroso! ¿Qué he hecho para merecer tal rechazo? ¡Mi alma sangra!"
+    b "¡Big Macintosh! El único que no cayó ante mi encanto. ¡Mi corazón se desgarra!"
 
 # game/Scripts/applebarn.rpy:139
 translate Telenovela sugapple_c8dc0cc1:
 
     # p "Wait, you're like...?"
-    p "¡Espera! ¿Tú... eres...? ¡Ay, por Dios, no puede ser! ¡Dime que no es verdad! ¿Cómo es posible? ¡Mi corazón se estremece ante esta revelación! ¡No… no puede ser lo que creo!"
+    p "¡Espera! ¿Tú eres...? ¡Ay, Dios!"
 
 # game/Scripts/applebarn.rpy:140
 translate Telenovela sugapple_1e74489e:
 
     # b "Colt cuddler? Nah. Unicorn or pegasus, pony or buffalo, male or female, all have their perks. And kinks. And I like some variety, you know?"
-    b "¡Ay, por Dios! ¿Un… un “colt cuddler”? ¡No puede ser! ¡Una abominación! Pero... pero dime, mi corazón, que la magia de un unicornio, el vuelo etéreo de un pegaso, la inocencia de un pony, o incluso la fuerza salvaje de un búfalo… todos ellos tienen su encanto, ¿verdad? ¡Sus secretos! Y… y cada uno suscita pasiones… deseos… ¡sí, mis propios caprichos! ¡Necesito… anhelo… una diversidad que encienda mi alma! ¡Una variedad para alimentar este fuego que arde dentro de mí!"
+    b "Colt cuddler? No. Unicornio, pégaso, poni, búfalo... todos tienen su encanto. Me gusta la variedad."
 
 # game/Scripts/applebarn.rpy:145
 translate Telenovela braeburncest_96670246:
@@ -733,19 +733,19 @@ translate Telenovela waterapple_fcf0b1dd:
 translate Telenovela waterapple_d5e678d2:
 
     # "Getting this [p_aj] was worth the trip. I guess."
-    "¡Ay, por Dios! ¡Conseguir esto… esta *cosa*—este objeto de mi deseo—ha valido cada segundo de este viaje infernal! ¿Pero a qué costo? ¿A qué precio he pagado por esta posesión tan codiciada? ¡No puede ser! ¡La incertidumbre me consume el alma! Supongo... supongo que sí, valió la pena… aunque mi corazón ya está roto."
+    "¡Conseguir esto valió el viaje! Supongo..."
 
 # game/Scripts/applebarn.rpy:290
 translate Telenovela waterapple_7f26ef88:
 
     # "You come back to the Apple Family Reunion. A lot of ponies are here, discussing, playing, dancing... But for the moment, as you're not seeing Applejack anywhere and are a bit hungry due to the trip, you focus your attention on some apple pie."
-    "¡Ay, por Dios! ¡Regreso al reencuentro de la Familia Manzana! Un torbellino… un remolino de ponis, todos parloteando, jugando, danzando en una alegría desmesurada... Pero, ¡ay!, mi corazón se hunde. ¿Dónde está Applejack? ¡Desaparecida! Y el viaje… ¡el cruel viaje me ha dejado hambrienta! Por ahora, con la angustia apretándome la garganta y la desesperación nubrando mi vista, mi atención se fija en un oasis de esperanza... ¡un exquisito pastel de manzana! ¡Oh, dulce consuelo ante esta inmensa soledad!"
+    "¡Regreso a la reunión! Muchos ponis aquí, hablando, jugando, bailando... Pero no veo a Applejack. ¡Tengo hambre! Me fijo en un pastel de manzana."
 
 # game/Scripts/applebarn.rpy:294
 translate Telenovela waterapple_37146882:
 
     # u "Howdy cousin! You did a great job!"
-    u "¡Ay, primito mío! ¡Pero… pero qué alegría verte! ¡Y qué trabajo tan magnífico has hecho! ¡De verdad, mi corazón se estruja de orgullo! ¡No puede ser! ¡Tan perfecto, tan sublime! ¡Eres un tesoro, primito, un verdadero milagro!"
+    u "¡Hola, primo! ¡Hiciste un gran trabajo! ¡Ay, por Dios!"
 
 # game/Scripts/applebarn.rpy:297
 translate Telenovela waterapple_b23cb738:
@@ -769,25 +769,25 @@ translate Telenovela waterapple_116456a6:
 translate Telenovela waterapple_0bc6992c:
 
     # "You fail to point out the real AJ to the pony."
-    "¡Ay, por Dios! ¡No puede ser! ¿Cómo es posible que no le reveles a la yegua… a mi dulce, inocente yermina… la verdadera identidad de AJ? ¡Es una traición imperdonable! ¡Una afrenta al destino mismo! ¡Mi corazón se estruja en mil pedazos ante esta omisión fatal! ¿Acaso te has olvidado del juramento que hicimos bajo la luna llena? ¡La verdad debe salir a la luz, aunque me destruya! ¡Es una injusticia lacerante!"
+    "¡No le revelaste quién es la verdadera AJ! ¡Una traición! ¡Mi corazón se estruja!"
 
 # game/Scripts/applebarn.rpy:301
 translate Telenovela waterapple_e6bc8c91:
 
     # b "Oh. Don't worry, I trust you. And I'm Braeburn, coming from Aaaapple-loooooooosa! Great town, you should come someday!"
-    b "¡Ay, Dios mío...! ¡No puede ser! ¿Tú...? Pero... confío en ti, mi amor, sí, confío en ti con todo mi corazón. Y yo soy Braeburn… Braeburn, venida de Aaaapple-loooooooosa, ¡la tierra de mis sueños más profundos! ¡Una ciudad maravillosa, un paraíso terrenal! ¡Debes venir algún día, te lo suplico! ¡Será una experiencia que cambiará tu vida para siempre!"
+    b "¡No te preocupes! Confío en ti. Soy Braeburn, de Appleloosa. ¡Gran ciudad! Deberías visitarla."
 
 # game/Scripts/applebarn.rpy:304
 translate Telenovela waterapple_eadc751a:
 
     # u "Howdy! Erm... AJ's friend?"
-    u "¡Ay, Dios mío! ¿Cómo...? ¡Pero… quién eres tú?! ¿Un amigo… de AJ? ¡Imposible! ¡No puede ser! ¡Mi corazón late con una fuerza salvaje! ¡Dime, dime quién eres y qué travesura es esta! ¡Mi alma tiembla ante tu presencia!"
+    u "¡Hola! Erm... ¿Amigo de AJ? ¡Ay, por Dios!"
 
 # game/Scripts/applebarn.rpy:307
 translate Telenovela waterapple_b85ebf1a:
 
     # p "Yes, close friend. My name is [playername!t]."
-    p "¡Ay, por Dios! Sí… sí, mi querida amiga... ¡Mi corazón late con fuerza al pronunciarlo! Mi nombre... mi humilde nombre es [playername!t]... ¡Un nombre que ahora comparto contigo, en este instante de infinita trascendencia! ¡No puede ser que esta conexión sea tan intensa desde el principio!"
+    p "¡Sí, amiga cercana! Mi nombre es [playername!t]. ¡Ay, por Dios!"
 
 # game/Scripts/applebarn.rpy:308
 translate Telenovela waterapple_41d1e36c:
@@ -937,7 +937,7 @@ translate Telenovela cute_bb_1afa0410:
 translate Telenovela cute_bb_2269ceff:
 
     # "--Braeburn ending 2--"
-    "¡Ay, por Dios! ¡El final de Braeburn! ¡Un destino cruel se cierne sobre nosotros! ¿Cómo pudo llegar a esto? ¡Mi corazón sangra! ¡La desesperación me ahoga! ¡No puede ser!"
+    "¡Final Braeburn 2! ¡Ay, qué destino!"
 
 # game/Scripts/applebarn.rpy:375
 translate Telenovela cute_bb_8eede51b:
@@ -973,7 +973,7 @@ translate Telenovela cute_bb_3ecf4ff4:
 translate Telenovela cute_bb_4c337ed5:
 
     # b "Darn it."
-    b "¡Ay, por Dios! ¡Maldición! ¡Una traición tan cruel! ¡Mi corazón se estremece! ¡No puede ser!"
+    b "¡Maldición!"
 
 # game/Scripts/applebarn.rpy:382
 translate Telenovela cute_bb_38989416:
@@ -991,7 +991,7 @@ translate Telenovela cute_bb_18435418:
 translate Telenovela cute_bb_844f0caf:
 
     # p "Sunglasses?"
-    p "¡Gafas de sol! ¡Ay, por Dios! ¿Es una broma cruel? ¡Después de todo, me ofreces gafas de sol! ¡No puede ser! ¡Mi alma se desgarra!"
+    b "¿Gafas de sol?"
 
 # game/Scripts/applebarn.rpy:385
 translate Telenovela cute_bb_d1f90079:
@@ -1188,8 +1188,8 @@ translate Telenovela brae_reward_b9431735:
 # game/Scripts/applebarn.rpy:484
 translate Telenovela brae_reward_c8ea8a4a:
 
-    # p "..."
-    p "Please provide the text you want me to translate. I need the original English text to be able to translate it into exaggerated telenovela-style Spanish. Once you give me the text, I will produce the dramatic translation as requested."
+    # p "…"
+    p "..."
 
 # game/Scripts/applebarn.rpy:485
 translate Telenovela brae_reward_3ed162ed:
@@ -1278,8 +1278,8 @@ translate Telenovela brae_reward_20fd188e:
 # game/Scripts/applebarn.rpy:529
 translate Telenovela brae_reward_066a88e4:
 
-    # "Shhhh"
-    "¡Shhh! ¡Silencio! ¡Mi corazón no puede soportar más! ¡No digas nada! ¡Guarda tus palabras, que me destrozan el alma!"
+    # cmc "Shhhh"
+    cmc "¡Shhh!"
 
 # game/Scripts/applebarn.rpy:550
 translate Telenovela brae_reward_9c5d0dfe:
@@ -1291,7 +1291,7 @@ translate Telenovela brae_reward_9c5d0dfe:
 translate Telenovela brae_reward_8a4553f0:
 
     # "After walking for a bit, you arrive at the Apple barn in Sweet Apple Acres."
-    "¡Ay, por Dios! Después de una caminata… una eternidad, ¡una agonía!, llegamos finalmente... al establo de manzanas en Sweet Apple Acres. ¡Un lugar que mi alma anhelaba, un destino incierto! ¿Qué secretos aguardan entre esas paredes? ¡No puede ser! La esperanza y el temor se arremolinan dentro de mí… ¡como una tormenta!"
+    "¡Después de caminar, llegas al establo de manzanas en Sweet Apple Acres! ¡Ay, por Dios!"
 
 # game/Scripts/applebarn.rpy:554
 translate Telenovela brae_reward_f16a342f:

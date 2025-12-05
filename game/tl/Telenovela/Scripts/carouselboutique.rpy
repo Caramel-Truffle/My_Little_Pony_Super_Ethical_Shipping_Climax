@@ -10,7 +10,7 @@ translate Telenovela carouselboutique_73cd491e:
 translate Telenovela carouselboutique_053fe4c7:
 
     # r "Welcome to the Carou-"
-    r "¡Bienvenidos al Carou...! ¡Ay, por Dios! ¿Es este el lugar? ¡El destino cruel me ha traído aquí! ¡Mi corazón late con angustia! ¡Carou...! Un nombre que resuena como una maldición."
+    r "¡Bienvenidos al Carou...! ¡Ay, qué destino!"
 
 # game/Scripts/carouselboutique.rpy:19
 translate Telenovela carouselboutique_5eeabfdc:
@@ -160,7 +160,7 @@ translate Telenovela raritychoice1_e37b80ab:
 translate Telenovela raritychoice1_004a653a:
 
     # p "...What?"
-    p "¿¡Quééééé!? ¡Ay, por Dios! ¿Cómo es posible? ¡No puede ser! ¡Dime que no es verdad! ¡Mi corazón se estremece!"
+    r "¿...Qué?"
 
 # game/Scripts/carouselboutique.rpy:76
 translate Telenovela raritychoice1_092ced6d:
@@ -172,7 +172,7 @@ translate Telenovela raritychoice1_092ced6d:
 translate Telenovela raritychoice1_9421031c:
 
     # "A cupboard ending?"
-    "¡Un final para un armario! ¡No puede ser! ¿Cómo es posible? ¡Ay, por Dios! ¡Una puerta cerrada a la esperanza! ¡El destino conspira contra mí! ¡La desesperación me embarga!"
+    "¿Un final de armario? ¡Ay, qué horror!"
 
 # game/Scripts/carouselboutique.rpy:78
 translate Telenovela raritychoice1_f89aabb5:
@@ -196,13 +196,13 @@ translate Telenovela raritychoice1_a91ce26b:
 translate Telenovela raritychoice1_75986c36:
 
     # r "The... Shadows?"
-    r "¿Las… sombras? ¡Ay, por Dios! ¡No puede ser! Sombras que se ciernen sobre mi alma, presagio de perdición. ¿Qué esconden? ¡Dime! ¡Mi corazón se estremece!"
+    r "¿Las… sombras? ¡Ay, qué presagio!"
 
 # game/Scripts/carouselboutique.rpy:118
 translate Telenovela raritychoice1_5ed309df:
 
     # p "These shadows!"
-    p "¡Estas sombras! ¡Ay, Dios mío! ¡Garras espectrales que aprisionan mi alma! ¡Me ahogan en desesperación! ¡Deben desaparecer! ¡O me consumirán!"
+    p "¡Estas sombras! ¡Ay, qué horror!"
 
 # game/Scripts/carouselboutique.rpy:119
 translate Telenovela raritychoice1_1baa002a:
@@ -232,7 +232,7 @@ translate Telenovela raritychoice1_d7f0e52b:
 translate Telenovela raritychoice1_553f45f9:
 
     # "--Rarity ending 1--"
-    "¡Ay, por Dios! ¡No puede ser! ¿Así termina todo? ¿Se desvanecerá como una ilusión? ¡Mi corazón se estruja! ¡El destino conspira contra mí! ¡Pero mi amor es más fuerte!"
+    "¡Final Rarity 1! ¡Qué destino!"
 
 # game/Scripts/carouselboutique.rpy:128
 translate Telenovela raritychoice1_24963f86:
@@ -268,7 +268,7 @@ translate Telenovela raritychoice1_d9b97919:
 translate Telenovela raritychoice1_5f9a82e1:
 
     # r "My... What?"
-    r "¡Mi… ¿Qué?! ¡Ay, Dios mío, no! ¡Dime que no es verdad! ¡No puede ser! ¡Explícame esto, o mi corazón se romperá!"
+    r "¡Mi... ¿Qué?! ¡Ay, Dios!"
 
 # game/Scripts/carouselboutique.rpy:138
 translate Telenovela raritychoice1_1d6ecb25:
@@ -310,7 +310,7 @@ translate Telenovela raritychoice1_2b594fd1:
 translate Telenovela raritychoice1_b8e3e19c:
 
     # p "Thank you!"
-    p "¡Ay, gracias! ¡Gracias, mi vida! ¡Un torrente de gratitud inunda mi alma! ¡Es demasiado! ¡Mi corazón rebosa de emoción!"
+    r "¡Gracias!"
 
 # game/Scripts/carouselboutique.rpy:164
 translate Telenovela raritychoice1_8e23188e:
@@ -358,7 +358,7 @@ translate Telenovela raritychoice1_f9da3fdc:
 translate Telenovela raritychoice1_acd026a6:
 
     # "And you went back to the crossroad, beginning to understand what breaking the 4th wall feels like."
-    "¡Ay, por Dios! ¡Regresaste al cruce, mi alma! Comprendiendo la agonía de romper la cuarta pared. ¡No puede ser! ¿Cómo pudiste sentir ese abismo? ¡Es un tormento eterno!"
+    "¡Ay, por Dios! Tras la despedida, te alejaste... ¡Regresaste a esa encrucijada maldita! ¡No puede ser! ¿A dónde ibas? ¡Mi corazón sangra!"
 
 # game/Scripts/carouselboutique.rpy:179
 translate Telenovela raritychoice1_db6d3804:
@@ -382,7 +382,7 @@ translate Telenovela raritychoice1_11839530:
 translate Telenovela raritychoice1_e5c96eea:
 
     # "Stop trying."
-    "¡Basta ya! ¡Detente! ¡Mi corazón no puede soportar más! ¡Ay, por Dios! ¡Es una locura! ¡Detente, te lo suplico!"
+    "¡Basta ya! ¡Detente!"
 
 # game/Scripts/carouselboutique.rpy:192
 translate Telenovela raritychoice1_36ac9317:
@@ -436,37 +436,37 @@ translate Telenovela raritychoice1_c60c9467:
 translate Telenovela raritychoice1_8e4c6854:
 
     # p "Conceptual."
-    p "¡Ay, por Dios! ¡Conceptual! ¡Una sombra de lo que podría ser! ¡Un susurro en el vacío! ¡La esencia del deseo insatisfecho!"
+    r "¡Conceptual!"
 
 # game/Scripts/carouselboutique.rpy:224
 translate Telenovela raritychoice1_cebcf5bb:
 
     # p "Fabulous."
-    p "¡Absolutamente fabuloso! ¡Un torbellino de perfección! ¡Mi corazón se estremece! ¡Es indescriptible!"
+    r "¡Fabuloso!"
 
 # game/Scripts/carouselboutique.rpy:226
 translate Telenovela raritychoice1_d4630a8d:
 
     # p "Grandiose."
-    p "¡Magnífico! ¡Una visión de esplendor que me quita el aliento! ¡Ay, Dios mío! ¡Nunca vi algo tan colosal!"
+    p "¡Magnífico! ¡Ay, qué colosal!"
 
 # game/Scripts/carouselboutique.rpy:228
 translate Telenovela raritychoice1_cd800579:
 
     # p "Awesome!"
-    p "¡Ay, Dios mío! ¡Asombroso! ¡Una revelación divina! ¡Mi corazón late con fuerza! ¡Increíble!"
+    r "¡Increíble!"
 
 # game/Scripts/carouselboutique.rpy:230
 translate Telenovela raritychoice1_38f17888:
 
     # p "Fun!"
-    p "¡Ay, por Dios! ¡Diversión! ¿Cómo llamarle así a esta tormenta de emociones? ¡Es una pasión ardiente! ¡No puede ser!"
+    r "¡Divertido!"
 
 # game/Scripts/carouselboutique.rpy:232
 translate Telenovela raritychoice1_0dd8d0c0:
 
     # p "Impractical."
-    p "¡Imposible! ¡Impracticable! ¡Una locura! ¡Un sueño descabellado! ¡Ay, mi corazón, cómo duele!"
+    p "¡Imposible! ¡Qué locura!"
 
 # game/Scripts/carouselboutique.rpy:237
 translate Telenovela raritychoice1_4ac273e4:
@@ -478,7 +478,7 @@ translate Telenovela raritychoice1_4ac273e4:
 translate Telenovela raritychoice1_66dc9e95:
 
     # r "Exactly!"
-    r "¡Exactamente! ¡Ay, por Dios, sí! ¡Es la verdad absoluta! ¡Un rayo que ilumina mi alma!"
+    r "¡Exacto!"
 
 # game/Scripts/carouselboutique.rpy:243
 translate Telenovela raritychoice1_cbfd316d:
@@ -832,7 +832,7 @@ translate Telenovela raritychoice1_bd3bf468:
 translate Telenovela raritychoice1_ba306a93:
 
     # p "Okay, see you soon!"
-    p "¡Ay, Dios mío! ¡Hasta pronto! Pero ¿cómo soportar la espera? ¡Mi corazón se estruja! ¡No puede ser que tenga que separarme de ti! ¡Prométeme que será rápido!"
+    p "¡Vale, hasta pronto!"
 
 # game/Scripts/carouselboutique.rpy:398
 translate Telenovela raritychoice1_27257d14:
@@ -916,7 +916,7 @@ translate Telenovela rarity_get_tea_3e21dffe:
 translate Telenovela rarity_get_tea_590b2adf:
 
     # r "Adult videos."
-    r "¡Videos para adultos! ¡Ay, Dios mío, la vergüenza me consume! ¡No puede ser! ¡Un abismo de depravación! ¡Mi alma se estremece ante tal obscenidad!"
+    r "¡Videos para adultos!"
 
 # game/Scripts/carouselboutique.rpy:438
 translate Telenovela rarity_get_tea_1a246a64:
@@ -1012,7 +1012,7 @@ translate Telenovela rarity_get_tea_ce617998:
 translate Telenovela rarity_get_tea_67257df9:
 
     # r "Finally awake?"
-    r "¡Por fin despierto! ¡Al fin, tras una eternidad de oscuridad! ¿Has regresado a mí? ¡Ay, Dios mío, qué sufrimiento! ¡No puede ser! ¿Estás despierto?"
+    r "¡Por fin despierto! ¡Ay, qué alivio!"
 
 # game/Scripts/carouselboutique.rpy:490
 translate Telenovela rarity_get_tea_d03a0613:
@@ -1066,7 +1066,7 @@ translate Telenovela rarity_get_tea_bd1565df:
 translate Telenovela rarity_get_tea_7ec5da83:
 
     # r "You're no fun!"
-    r "¡Ay, por Dios! ¡Eres insoportable! ¡Tan aburrido! ¡Mi alma se marchita ante tu falta de pasión! ¡Es una tortura! ¡No puede ser!"
+    r "¡Qué aburrido! ¡Ay, qué pena!"
 
 # game/Scripts/carouselboutique.rpy:508
 translate Telenovela rarity_get_tea_ccbb3f9d:

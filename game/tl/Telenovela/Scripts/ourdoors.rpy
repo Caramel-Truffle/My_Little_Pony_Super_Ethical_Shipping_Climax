@@ -40,13 +40,13 @@ translate Telenovela outdoors_c95a14f6:
 translate Telenovela outdoors_ce147a6b:
 
     # "Yes."
-    "¡Sí! ¡Ay, Dios mío, sí! ¡Después de tanta agonía… sí! ¡Mi corazón late con fuerza! ¡No puede ser! ¡Es verdad!"
+    "¡Sí!"
 
 # game/Scripts/ourdoors.rpy:43
 translate Telenovela outdoors_a48c0e8f:
 
     # "--Bad Ending--"
-    "¡Ay, por Dios! ¡Un final así… tan cruel! ¡No puede ser! ¡El destino nos ha jugado una jugarreta! ¡Una tragedia! ¡Este es el fin!"
+    "¡Final Malo! ¡Qué tragedia!"
 
 # game/Scripts/ourdoors.rpy:48
 translate Telenovela outdoors_1512f66c:
